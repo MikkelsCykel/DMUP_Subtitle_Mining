@@ -1,0 +1,20 @@
+{
+"title": "Mining of Movie Subtitles",
+"members": [ 
+{ "name": "Mikkel Ole Rømer", 
+"study_number": "s113408"
+}, 
+{ "name": "Andreas Piculell",
+"study_number": "s113421"
+}
+],
+"git": "git@github.com:MikkelsCykel/DMUP_Subtitle_Mining.git", 
+"description": "This project concerns with datamining of movie subtitles. 
+The aim will be to provide a sentiment analysis of different movies, 
+that is the project will provide a sentiment timeline. Moreover, 
+thoughout the project we intend to perform clasification, 
+that is clasify eg. genre by sentiment, language, etc.. 
+In addition, we will try to estimate how the different characters of the movie developes over time. 
+The product of this project will result in a website, where the end user will be able to engage dynamically with the findings",
+"modules": ["nltk", "csv", "django", "pandas", "pylab", "sklearn"]
+}
