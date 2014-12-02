@@ -29,4 +29,4 @@ class WarrinerRatings(dict):
             x['attribute_names'] = data.next()[2:]
             for r in data:
                 x[r[1]] = r[2:]
-            return x
+        return x
