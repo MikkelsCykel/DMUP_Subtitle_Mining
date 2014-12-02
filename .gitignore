@@ -1,0 +1,7 @@
+*.egg
+*.egg-info
+venv/
+.cache/
+.idea/
+.tox/
+*.DS_Store
