@@ -8,6 +8,19 @@ def test_imdb_fetching_fromUrl():
     info = ImdbMiner().fetch_imdb_releases(range=1)
     assert len(info) > 0
 
+
+def test_imdb_fetching_fromUrl():
+    info = ImdbMiner.fetch_imdb_releases(range=1)
+    assert type(info) is list
+
+def test_imdb_fetching_fromUrl():
+    info = ImdbMiner.fetch_imdb_releases(range=1)
+    assert type(info[0][1]) is str
+
+def test_imdb_fetching_fromUrl():
+    info = ImdbMiner.fetch_imdb_releases(range=1)
+    assert type(info[0][0]) is not None
+
 #
 # def test_that_subtitle_result_is_dictionary_object():
 #     x = StampedSrt(path=pathname)
