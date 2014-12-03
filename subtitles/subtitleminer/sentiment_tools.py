@@ -1,5 +1,5 @@
 from subtitleminer import WarrinerRatings
-# from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.stem.wordnet import WordNetLemmatizer
 
 
 class ValenceArouselDominance(object):
@@ -8,19 +8,32 @@ class ValenceArouselDominance(object):
     """
     def __init__(self):
         super(ValenceArouselDominance, self).__init__()
-        self.wariner_ratings = WarrinerRatings()
+        self.warriner_ratings = WarrinerRatings()
+        self.lmtzr_fall_back = False
 
-    def compute_vad_intervals(self, text_intervals):
-        x = self.wariner_ratings
-        result = [(x[w][0], x[w][3], x[w][6], w)
-                  for t in text_intervals for w in t
-                  if w in x.keys()]
+    def compute_vad_intervals(self, text_intervals, lmtzr_fall_back=False):
+        x = self.warriner_ratings
+        self.lmtzr_fall_back = lmtzr_fall_back
+        result = [zip(*[(
+            '{0:.3g}'.format(float
+                        (x[self.word_in_warriner_rankings(w)][0])),
+            '{0:.3g}'.format(float
+                            (x[self.word_in_warriner_rankings(w)][3])),
+            '{0:.3g}'.format(float
+                            (x[self.word_in_warriner_rankings(w)][6])))
+                        for w in t if self.word_in_warriner_rankings(w)])
+                  for t in text_intervals]
         return result
 
-    # def __is_word_in_warriner_rankings(self, wr, word):
-    #     lmtzr = WordNetLemmatizer()
-    #     if w in wr.keys():
-    #         return w
-    #     lmtzr.lemmatize(word)
-    #     if lmtzr.lemmatize(word) in wr.keys():
-    #         return
+    def word_in_warriner_rankings(self, word):
+        lmtzr = WordNetLemmatizer()
+        if word in self.warriner_ratings.keys():
+            return word
+        if self.lmtzr_fall_back:
+            word = lmtzr.lemmatize(word)
+            if lmtzr.lemmatize(word) in self.warriner_ratings.keys():
+                return word
+        return False
+
+    def mean_data(self, vad):
+        return [sum(t) / len(t) for i in vad for t in i]
