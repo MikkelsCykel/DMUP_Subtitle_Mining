@@ -1,12 +1,12 @@
-# from subtitleminer import ImdbMiner
+from subtitleminer import ImdbMiner
 
 """test data Pulp Fiction comes with the package"""
 pathname = "data/Pulp_Fiction.en.srt"
 
 
-#def test_imdb_fetching_fromUrl():
-    # info = ImdbMiner().fetch_imdb_releases()
-    # assert len(info.keys()) > 0
+def test_imdb_fetching_fromUrl():
+    info = ImdbMiner().fetch_imdb_releases(range=1)
+    assert len(info) > 0
 
 #
 # def test_that_subtitle_result_is_dictionary_object():

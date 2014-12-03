@@ -11,4 +11,4 @@ def test_that_valence_arousel_dominance_is_calculated():
     y = SubtitleInIntervals(stamped_srt=x, interval_sec=interval,
                             remove_stop_words=True)
     vac = ValenceArouselDominance().compute_vad_intervals(text_intervals=y)
-    assert vac[0][:3] == ('3.73', '3.85', '3.91')
+    assert vac[0][:3] == ('3.73', '4.43', '3.5')

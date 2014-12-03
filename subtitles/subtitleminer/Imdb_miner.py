@@ -29,22 +29,24 @@ class ImdbMiner:
 
         print info
 
-    def fetch_imdb_releases(self):
+    def fetch_imdb_releases(self, range=100):
 
         """
         Run over all movies. List contains 10000 films,
         displaying 100 at a time, so we will make use of i*100
         range to collect all.
 
+        Static sites from IMDB to mine from, due to anti-mining methods
+        this list contains all movies from 1974-2014
+        Since there are 10000 films, presented 100 at a time,
+        this loop will fetch all.
+
+        :param range: range to pick movies. Takes 100 movies for each range.
         :rtype : object
         """
         info = []
 
-        """
-        Static sites from IMDB to mine from, due to anti-mining methods
-        this list contains all movies from 1974-2014
-        """
-        for i in xrange(0, 100):
+        for i in xrange(0, range):
             url = 'http://www.imdb.com/list/ls057823854/?start=\
                    %i&view=detail&sort=listorian:asc' % (i * 100)
             response = urllib2.urlopen(url)

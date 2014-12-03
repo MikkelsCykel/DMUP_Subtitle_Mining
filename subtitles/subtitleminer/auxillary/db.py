@@ -2,6 +2,7 @@ import sqlite3
 import os
 from subtitleminer.auxillary import Log
 
+
 class DB:
     #
     # Create and connect to Database
