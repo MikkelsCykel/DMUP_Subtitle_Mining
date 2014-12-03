@@ -1,16 +1,16 @@
 import sqlite3
 import os
 
-from auxillary import log
+from subtitleminer.auxillary import Log
 
 
 class DB:
     #
     # Create and connect to Database
-    def __init__(self, db_file="../data/imdb.db"):
+    def __init__(self, db_file="data/imdb.db"):
         database_already_exists = os.path.exists(db_file)
         self.db = sqlite3.connect(db_file)
-        self.log = log.Log()
+        self.log = Log()
         if not database_already_exists:
             self.setupDefaultData()
 

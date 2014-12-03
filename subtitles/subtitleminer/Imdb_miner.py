@@ -1,17 +1,15 @@
 import urllib2
 import re
 import json
-
 from BeautifulSoup import BeautifulSoup
-
-from auxillary import db, log, system
+from subtitleminer.auxillary import DB, Log, System
 
 
 class ImdbMiner:
     def __init__(self):
-        self.log = log.Log()
-        self.db = db.DB()
-        self.system = system.System()
+        self.log = Log()
+        self.db = DB()
+        self.system = System()
 
     def fetchAllNewImdbReleases(self):
         response = urllib2.urlopen('http://www.imdb.com/list/ls056315119/')

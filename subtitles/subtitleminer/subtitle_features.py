@@ -1,6 +1,7 @@
 import re
 from nltk.corpus import stopwords
 
+
 """
 This collection is providing various features for data extraction of subtitles
 
@@ -83,10 +84,11 @@ class StampedSrt(dict):
 
 class SubtitleInIntervals(list):
     """Provides a list of text from provided timeinterval in seconds"""
-    def __new__(cls, stamped_srt, interval_sec):
+    def __new__(cls, stamped_srt, interval_sec, remove_stop_words=False):
         result = []
-        swords = stopwords.words('english')
-
+        swords = []
+        if remove_stop_words:
+            swords = stopwords.words('english')
         threshold = interval_sec
         temp = []
         for k in sorted(stamped_srt.keys()):

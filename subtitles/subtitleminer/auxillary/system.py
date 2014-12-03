@@ -1,4 +1,4 @@
-from auxillary import log
+from subtitleminer.auxillary import Log
 import string
 import random
 import re
@@ -6,7 +6,7 @@ import re
 
 class System:
     def __init__(self):
-        self.log = log.Log()
+        self.log = Log()
 
     def generateUniqueSetFromList(self, list=[]):
         # fast method for creating a unique set.

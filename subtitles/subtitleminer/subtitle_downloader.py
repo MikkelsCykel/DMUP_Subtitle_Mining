@@ -1,7 +1,6 @@
-from auxillary import db, log, system
+from subtitleminer.auxillary import DB, Log, System
 import urllib2
 from time import sleep
-
 import re
 import requests
 import zipfile
@@ -11,9 +10,9 @@ import os
 
 class SubtitleDownloader(object):
 
-    system = system.System()
-    db = db.DB()
-    log = log.Log()
+    system = System()
+    db = DB()
+    log = Log()
 
     @classmethod
     def fetch_download_url_from_html(cls, hdr, links, returnName):

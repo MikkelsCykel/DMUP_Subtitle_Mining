@@ -39,3 +39,21 @@ def test_that_stamped_srt_is_devided_into_a_time_interval_list():
     y = SubtitleInIntervals(stamped_srt=x, interval_sec=interval)
     z = sorted(x.keys())[-1] / interval
     assert z == len(y)
+
+
+def test_that_stop_words_can_be_removed():
+    x = StampedSrt(path=pathname, remove_symbols=True)
+    interval = 120
+    y = SubtitleInIntervals(stamped_srt=x, interval_sec=interval,
+                            remove_stop_words=True)
+    z = ' '.join([a for b in y for a in b])
+    assert ' i ' not in z
+
+
+def test_that_stop_words_can_be_left_in_text():
+    x = StampedSrt(path=pathname, remove_symbols=True)
+    interval = 120
+    y = SubtitleInIntervals(stamped_srt=x, interval_sec=interval,
+                            remove_stop_words=False)
+    z = ' '.join([a for b in y for a in b])
+    assert ' i ' in z
