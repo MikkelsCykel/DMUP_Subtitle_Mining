@@ -122,7 +122,8 @@ class ImdbMiner:
                 info['Metascore'], info['Poster'])
         self.db.insert(sql=sql)
 
-    def select_imdb_info_from_db(self, onlySubtitle=False, onlyWithoutSubtitle=False, offset=0):
+    def select_imdb_info_from_db(self, onlySubtitle=False,
+                                 onlyWithoutSubtitle=False, offset=0):
         """
 
         :rtype : object
