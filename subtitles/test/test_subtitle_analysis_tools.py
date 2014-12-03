@@ -33,4 +33,6 @@ def test_ability_to_mean_data_in_each_interval():
                             remove_stop_words=True)
     vac = ValenceArouselDominance().compute_vad_intervals(text_intervals=y)
     m_data = ValenceArouselDominance().mean_data(vac)
-    assert m_data[0:3] == [9, 8, 0]
+    assert m_data[0:3] == [5.604148936170213,
+                           4.46659574468085,
+                           5.213723404255316]

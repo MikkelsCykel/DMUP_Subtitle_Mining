@@ -10,15 +10,17 @@ def test_imdb_fetching_fromUrl():
 
 
 def test_imdb_fetching_fromUrl():
-    info = ImdbMiner.fetch_imdb_releases(range=1)
+    info = ImdbMiner().fetch_imdb_releases(range=1)
     assert type(info) is list
 
-def test_imdb_fetching_fromUrl():
-    info = ImdbMiner.fetch_imdb_releases(range=1)
-    assert type(info[0][1]) is str
 
 def test_imdb_fetching_fromUrl():
-    info = ImdbMiner.fetch_imdb_releases(range=1)
+    info = ImdbMiner().fetch_imdb_releases(range=1)
+    assert type(info[0][1]) is str
+
+
+def test_imdb_fetching_fromUrl():
+    info = ImdbMiner().fetch_imdb_releases(range=1)
     assert type(info[0][0]) is not None
 
 #

@@ -14,13 +14,9 @@ class ValenceArouselDominance(object):
     def compute_vad_intervals(self, text_intervals, lmtzr_fall_back=False):
         x = self.warriner_ratings
         self.lmtzr_fall_back = lmtzr_fall_back
-        result = [zip(*[(
-            '{0:.3g}'.format(float
-                        (x[self.word_in_warriner_rankings(w)][0])),
-            '{0:.3g}'.format(float
-                            (x[self.word_in_warriner_rankings(w)][3])),
-            '{0:.3g}'.format(float
-                            (x[self.word_in_warriner_rankings(w)][6])))
+        result = [zip(*[(float(x[self.word_in_warriner_rankings(w)][0]),
+                         float(x[self.word_in_warriner_rankings(w)][3]),
+                         float(x[self.word_in_warriner_rankings(w)][6]))
                         for w in t if self.word_in_warriner_rankings(w)])
                   for t in text_intervals]
         return result
