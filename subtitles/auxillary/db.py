@@ -1,5 +1,3 @@
-
-#Database class for sql lite
 import sqlite3
 import os
 
@@ -47,9 +45,8 @@ class DB:
             cursor.close()
             return last_insert_id
         except Exception as e:
-            self.log.writeToLog(message=e, where=("DB -> INSERT : " + sql) )
+            self.log.writeToLog(message=e, where=("DB -> INSERT : " + sql))
             return e
-
 
     def execute(self, sql):
         """
@@ -78,11 +75,13 @@ class DB:
             self.db.commit()
             cursor.close()
         except Exception as e:
-            self.log.writeToLog(message=e, where="DB -> EXECUTESCRIPT : " + sql)
+            self.log.writeToLog(message=e,
+                                where="DB -> EXECUTESCRIPT : " + sql)
             return e
 
     #
-    # Initial setup of the database. Only to be performed at start or after database wipe.
+    # Initial setup of the database.
+    # Only to be performed at start or after database wipe.
     #
     def setupDefaultData(self):
 
