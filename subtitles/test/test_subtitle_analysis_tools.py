@@ -4,10 +4,7 @@ from subtitleminer import StampedSrt, SubtitleInIntervals,\
 """test data Pulp Fiction comes with the package"""
 
 pathname = "data/Pulp_Fiction.en.srt"
-x = {}
 interval = 120
-y = []
-vac = []
 
 
 def test_that_valence_arousel_dominance_is_calculated():
@@ -15,7 +12,7 @@ def test_that_valence_arousel_dominance_is_calculated():
     y = SubtitleInIntervals(stamped_srt=x, interval_sec=interval,
                             remove_stop_words=True)
     vac = ValenceArouselDominance().compute_vad_intervals(text_intervals=y)
-    assert vac[0][0][:3] == ('3.73', '3.85', '3.91')
+    assert vac[0][0][:3] == (3.73, 3.85, 3.91)
 
 
 def test_that_lemmatizer_fallback_is_used():
@@ -24,7 +21,7 @@ def test_that_lemmatizer_fallback_is_used():
                              remove_stop_words=True)
     vac1 = ValenceArouselDominance()\
         .compute_vad_intervals(text_intervals=y1, lmtzr_fall_back=True)
-    assert vac1[0][0][:3] == ('3.73', '3.85', '3.91')
+    assert vac1[0][0][:3] == (3.73, 3.85, 3.91)
 
 
 def test_ability_to_mean_data_in_each_interval():
