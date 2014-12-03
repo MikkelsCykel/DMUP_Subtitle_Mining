@@ -1,0 +1,6408 @@
+1
+00:00:07,623 --> 00:00:11,059
+# I could give you #
+
+2
+00:00:11,094 --> 00:00:13,494
+# Comfort #
+
+3
+00:00:13,529 --> 00:00:18,466
+# I could lay you down #
+
+4
+00:00:18,501 --> 00:00:21,402
+# I could be #
+
+5
+00:00:21,437 --> 00:00:23,928
+# The one #
+
+6
+00:00:23,973 --> 00:00:28,569
+# Who cares #
+
+7
+00:00:28,611 --> 00:00:31,580
+# I could take #
+
+8
+00:00:31,614 --> 00:00:33,878
+# The fear #
+
+9
+00:00:33,916 --> 00:00:39,946
+# The disappointment #
+
+10
+00:00:39,989 --> 00:00:45,120
+# You've had enough #
+
+11
+00:00:45,161 --> 00:00:48,324
+# You've had enough... #
+
+12
+00:00:48,364 --> 00:00:51,595
+(children playing)
+
+13
+00:01:09,185 --> 00:01:11,346
+(birds chirping)
+
+14
+00:01:20,663 --> 00:01:22,858
+Boy: I saw you, Katie.
+Now it's your turn.
+
+15
+00:01:22,899 --> 00:01:25,026
+- Katie: Go hide. I'll find you.
+- Boy: Don't peek.
+
+16
+00:01:25,367 --> 00:01:27,968
+One, two,
+
+17
+00:01:28,800 --> 00:01:30,370
+three,
+
+18
+00:01:30,406 --> 00:01:32,397
+four.
+
+19
+00:01:33,476 --> 00:01:35,944
+Ready or not, here I come.
+
+20
+00:01:41,450 --> 00:01:43,475
+(giggling)
+
+21
+00:01:46,489 --> 00:01:48,013
+(rustling)
+
+22
+00:01:48,057 --> 00:01:49,388
+Katie: Johnny?
+
+23
+00:01:55,264 --> 00:01:57,698
+Johnny, come out. I found you.
+
+24
+00:02:09,078 --> 00:02:11,808
+(giggling)
+
+25
+00:02:13,549 --> 00:02:16,518
+Johnny?
+
+26
+00:02:16,552 --> 00:02:18,577
+- (screaming)
+- (gasps)
+
+27
+00:02:22,458 --> 00:02:25,120
+(Katie screaming)
+
+28
+00:02:25,161 --> 00:02:28,995
+(gasps, panting)
+
+29
+00:02:29,031 --> 00:02:31,056
+Johnny, are you okay?
+
+30
+00:02:36,839 --> 00:02:38,898
+It's just another nightmare.
+
+31
+00:02:44,080 --> 00:02:46,139
+(Katie screaming) Johnny!
+
+32
+00:02:55,892 --> 00:02:57,883
+P.A. Announcer: Here at Parker's Asylum,
+
+33
+00:02:57,927 --> 00:02:59,918
+we strive to reach new levels
+of commitment
+
+34
+00:02:59,962 --> 00:03:02,396
+in bringing new methods of treatment
+to our patients.
+
+35
+00:03:04,533 --> 00:03:07,331
+Parker's Asylum was built in 1929,
+
+36
+00:03:07,370 --> 00:03:09,565
+but has changed considerably since then.
+
+37
+00:03:09,605 --> 00:03:13,632
+Although security remains foremost
+in the minds of staff at Parker's,
+
+38
+00:03:13,676 --> 00:03:17,077
+the well-being of the patients
+is second to none.
+
+39
+00:03:20,249 --> 00:03:22,114
+- (beeps)
+- Male voice: Access granted.
+
+40
+00:03:22,151 --> 00:03:24,915
+P.A. Announcer:
+Parker's Asylum is divided
+
+41
+00:03:24,954 --> 00:03:27,548
+into two sections of treatment:
+
+42
+00:03:27,590 --> 00:03:30,889
+The atrium and traditional
+psychiatric ward on the top floors;
+
+43
+00:03:30,927 --> 00:03:34,328
+and the extreme cases ward
+on the lower levels.
+
+44
+00:03:38,501 --> 00:03:41,527
+Upon entering the extreme cases ward,
+
+45
+00:03:41,570 --> 00:03:44,664
+please stow away any personal items.
+
+46
+00:03:44,707 --> 00:03:47,335
+Any unauthorized personnel
+please check in
+
+47
+00:03:47,376 --> 00:03:49,606
+with the security station to the right.
+
+48
+00:03:51,647 --> 00:03:52,875
+Have a nice day.
+
+49
+00:03:52,915 --> 00:03:55,213
+(patient mumbling)
+
+50
+00:04:01,590 --> 00:04:03,615
+(gate buzzes)
+
+51
+00:04:06,295 --> 00:04:08,354
+(P.A. Chatter)
+
+52
+00:04:28,217 --> 00:04:29,878
+P.A. Announcer: This is a reminder
+
+53
+00:04:29,919 --> 00:04:32,012
+that patients in the extreme cases ward
+
+54
+00:04:32,054 --> 00:04:34,716
+are sensitive to certain
+forms of persuasion.
+
+55
+00:04:34,757 --> 00:04:37,624
+Please refrain from casual dialogue.
+
+56
+00:04:37,660 --> 00:04:39,753
+Woman: How's Johnny?
+Is he sleeping any better?
+
+57
+00:04:39,795 --> 00:04:41,990
+Woman #2: No, I'm afraid not.
+
+58
+00:04:42,031 --> 00:04:44,397
+Woman: Oh, that's too bad.
+Is he still having...?
+
+59
+00:04:44,433 --> 00:04:46,264
+Woman #2: Nightmares? Yeah.
+
+60
+00:04:46,302 --> 00:04:48,133
+I don't know, Karen. It's odd.
+
+61
+00:04:48,170 --> 00:04:50,263
+It's almost like any progress
+we made together
+
+62
+00:04:50,306 --> 00:04:52,171
+is undone by a single night's dream.
+
+63
+00:04:52,208 --> 00:04:54,768
+Karen: I'm sure it'll pass
+with time, Jamie.
+
+64
+00:04:54,810 --> 00:04:57,643
+Jamie: I'm trying to help him, but...
+
+65
+00:04:57,680 --> 00:05:00,808
+Karen: When my husband died,
+I couldn't sleep for years.
+
+66
+00:05:00,850 --> 00:05:02,511
+Were Johnny and his sister close?
+
+67
+00:05:02,551 --> 00:05:05,247
+Jamie: Johnny doesn't like
+to talk about it. He internalizes.
+
+68
+00:05:08,491 --> 00:05:10,652
+Mabel, I need you to stay in the corner.
+
+69
+00:05:10,693 --> 00:05:12,684
+I'm coming in, okay?
+
+70
+00:05:18,000 --> 00:05:20,730
+Looking forward to the day
+that I don't have to wear this anymore.
+
+71
+00:05:22,738 --> 00:05:24,763
+(beeps)
+
+72
+00:05:26,108 --> 00:05:28,201
+- (door buzzes)
+- Male voice: Access granted.
+
+73
+00:05:28,244 --> 00:05:31,304
+You be careful.
+
+74
+00:06:03,412 --> 00:06:06,074
+I brought the picture
+like I said I would, Mabel.
+
+75
+00:06:22,064 --> 00:06:24,191
+You can take a look at it, if you like.
+
+76
+00:06:31,740 --> 00:06:33,833
+This your husband?
+
+77
+00:06:33,876 --> 00:06:36,106
+Jamie: Yes.
+
+78
+00:06:36,145 --> 00:06:39,376
+Is it true what they say?
+
+79
+00:06:40,716 --> 00:06:42,650
+What?
+
+80
+00:06:42,685 --> 00:06:45,586
+That all the good ones are taken.
+
+81
+00:06:47,289 --> 00:06:49,314
+I don't know about that.
+
+82
+00:06:49,358 --> 00:06:53,818
+I think good is relative.
+
+83
+00:06:53,863 --> 00:06:55,922
+Don't you?
+
+84
+00:06:57,433 --> 00:07:00,129
+How are you feeling today, Mabel?
+
+85
+00:07:02,004 --> 00:07:04,302
+I'm hungry, Doctor.
+
+86
+00:07:07,610 --> 00:07:09,669
+If I'm going to help you,
+
+87
+00:07:09,712 --> 00:07:11,771
+I need you to trust me.
+
+88
+00:07:11,814 --> 00:07:15,079
+It's gonna take some time,
+but we can do this together.
+
+89
+00:07:15,117 --> 00:07:17,642
+I know, Doctor.
+
+90
+00:07:17,686 --> 00:07:22,316
+You've always been there for me,
+
+91
+00:07:22,358 --> 00:07:26,818
+always treated me like a real person.
+
+92
+00:07:26,862 --> 00:07:31,322
+You are a real person, Mabel.
+
+93
+00:07:31,367 --> 00:07:34,564
+Jamie, can I call you Jamie
+
+94
+00:07:34,603 --> 00:07:36,730
+like your friends do?
+
+95
+00:07:36,772 --> 00:07:40,208
+Yes, of course you can.
+
+96
+00:07:41,710 --> 00:07:44,110
+Well, Jamie,
+
+97
+00:07:44,146 --> 00:07:46,512
+can I ask
+
+98
+00:07:46,549 --> 00:07:48,574
+for a favor?
+
+99
+00:07:55,124 --> 00:07:57,456
+That depends, Mabel.
+
+100
+00:07:59,428 --> 00:08:00,656
+What is it?
+
+101
+00:08:02,765 --> 00:08:05,029
+I was wondering
+
+102
+00:08:05,067 --> 00:08:07,900
+if I could
+
+103
+00:08:07,937 --> 00:08:12,533
+just
+
+104
+00:08:12,575 --> 00:08:15,135
+lick your hand.
+
+105
+00:08:15,177 --> 00:08:19,079
+I wouldn't bite. I promise.
+
+106
+00:08:19,114 --> 00:08:21,275
+Just a little taste.
+
+107
+00:08:21,317 --> 00:08:24,150
+You know I can't let you do that, Mabel.
+
+108
+00:08:24,186 --> 00:08:28,054
+- You know the rules.
+- But you said we were friends!
+
+109
+00:08:28,090 --> 00:08:30,388
+I know, Mabel.
+
+110
+00:08:30,426 --> 00:08:32,326
+I'm sorry.
+
+111
+00:08:58,787 --> 00:09:01,255
+Maybe we'll try again tomorrow.
+
+112
+00:09:06,228 --> 00:09:08,423
+(Mabel grunts)
+
+113
+00:09:08,464 --> 00:09:11,126
+- (electricity zapping)
+- (Mabel whimpering)
+
+114
+00:09:33,589 --> 00:09:36,888
+(Jamie knocks) Open the door.
+
+115
+00:09:38,227 --> 00:09:38,294
+- (sirens wailing)
+- (police radio chatter)
+
+116
+00:09:38,294 --> 00:09:40,888
+- (sirens wailing)
+- (police radio chatter)
+
+117
+00:09:56,545 --> 00:09:58,740
+Sorry I got you out of bed
+so early, kid,
+
+118
+00:09:58,781 --> 00:10:01,375
+but I thought it important
+that you should be here.
+
+119
+00:10:01,417 --> 00:10:03,078
+What've we got?
+
+120
+00:10:03,118 --> 00:10:05,382
+(sighs) Come on.
+
+121
+00:10:05,421 --> 00:10:08,913
+Well, it appears to be a double
+homicide, but I can't be sure.
+
+122
+00:10:10,859 --> 00:10:12,326
+The bodies are missing...
+
+123
+00:10:12,361 --> 00:10:15,091
+a six-year-old girl Lily Abbott
+
+124
+00:10:15,130 --> 00:10:17,189
+and her 17-year-old babysitter.
+
+125
+00:10:17,232 --> 00:10:19,928
+Neighbors called in a disturbance
+a few hours ago.
+
+126
+00:10:19,968 --> 00:10:21,526
+How bad?
+
+127
+00:10:21,570 --> 00:10:24,266
+Johnny,
+
+128
+00:10:24,306 --> 00:10:27,833
+I called you in here for a reason.
+
+129
+00:10:27,876 --> 00:10:30,401
+Elliot,
+
+130
+00:10:30,446 --> 00:10:32,914
+what's in the room?
+
+131
+00:10:45,494 --> 00:10:47,792
+As soon as I saw it, I had to call you.
+
+132
+00:10:51,033 --> 00:10:54,400
+I mean
+
+133
+00:10:54,436 --> 00:10:56,563
+it could be a copycat.
+
+134
+00:10:56,605 --> 00:10:59,005
+The message is the same,
+
+135
+00:10:59,041 --> 00:11:03,410
+but Wolf was never this messy.
+
+136
+00:11:03,445 --> 00:11:05,606
+Are you sure?
+
+137
+00:11:08,584 --> 00:11:11,485
+Johnny, I never said this to you,
+
+138
+00:11:11,520 --> 00:11:13,886
+but I have to say it now.
+
+139
+00:11:16,258 --> 00:11:20,058
+I am so sorry that I did not catch
+your sister's killer.
+
+140
+00:11:20,095 --> 00:11:23,394
+I promise you I did my best.
+
+141
+00:11:23,432 --> 00:11:25,923
+I hunted him night and day for 10 years.
+
+142
+00:11:25,968 --> 00:11:27,936
+I got nothing... nothing!
+
+143
+00:11:28,937 --> 00:11:32,031
+On my watch he killed
+
+144
+00:11:32,074 --> 00:11:35,908
+15 innocent young girls...
+
+145
+00:11:35,944 --> 00:11:38,242
+15!
+
+146
+00:11:38,280 --> 00:11:40,840
+You don't know what it's like
+to close your eyes
+
+147
+00:11:40,883 --> 00:11:43,443
+and see those innocent eyes
+looking back at you.
+
+148
+00:11:46,488 --> 00:11:49,582
+Yeah, I do.
+
+149
+00:11:49,625 --> 00:11:51,559
+But he's back now
+
+150
+00:11:51,593 --> 00:11:53,584
+and we've got a chance
+to make things right.
+
+151
+00:11:53,629 --> 00:11:55,392
+Do you understand me?
+
+152
+00:11:55,431 --> 00:11:57,831
+I will not stop.
+
+153
+00:12:02,271 --> 00:12:04,296
+Yeah.
+
+154
+00:12:06,375 --> 00:12:10,311
+But where... where do we start?
+
+155
+00:12:10,345 --> 00:12:12,575
+I mean, the lab will find out nothing.
+
+156
+00:12:12,614 --> 00:12:14,639
+The Big Bad Wolf.
+
+157
+00:12:14,683 --> 00:12:17,151
+Yeah.
+
+158
+00:12:17,186 --> 00:12:19,654
+"Little Red Riding Hood."
+
+159
+00:12:19,688 --> 00:12:21,315
+But what does it mean?
+
+160
+00:12:21,356 --> 00:12:25,190
+Elliot, could you give me
+a minute alone here?
+
+161
+00:12:27,396 --> 00:12:29,387
+Yeah.
+
+162
+00:12:29,431 --> 00:12:31,626
+Sure.
+
+163
+00:12:31,667 --> 00:12:33,692
+Thanks.
+
+164
+00:12:44,580 --> 00:12:47,777
+(children laughing)
+
+165
+00:12:47,816 --> 00:12:49,408
+Johnny, come out. I found you.
+
+166
+00:12:52,387 --> 00:12:54,719
+(screaming)
+
+167
+00:12:57,960 --> 00:12:59,791
+Katie: No! Help!
+
+168
+00:12:59,828 --> 00:13:01,819
+- (knife snicking, flesh tearing)
+- Katie: Help!
+
+169
+00:13:01,864 --> 00:13:05,027
+(Katie screaming) Johnny!
+
+170
+00:13:06,935 --> 00:13:08,869
+(screaming stops)
+
+171
+00:13:31,226 --> 00:13:33,490
+Elliot's voice: The message is the same.
+
+172
+00:13:38,700 --> 00:13:42,659
+Johnny's voice: The Big Bad Wolf.
+
+173
+00:13:52,915 --> 00:13:55,110
+Elliot's voice:
+"Little Red Riding Hood."
+
+174
+00:14:09,965 --> 00:14:11,990
+(phone ringing)
+
+175
+00:14:13,936 --> 00:14:15,870
+(people chattering)
+
+176
+00:14:16,872 --> 00:14:18,499
+This is Gallant.
+
+177
+00:14:18,540 --> 00:14:20,064
+Pete, it's Johnny. You got a second?
+
+178
+00:14:20,108 --> 00:14:22,303
+Hey, Johnny, what's going on?
+I'm sitting down at my desk.
+
+179
+00:14:22,344 --> 00:14:24,642
+Just working on a hunch.
+Can you run a check
+
+180
+00:14:24,680 --> 00:14:26,875
+on any known addresses
+on one Gayle Abbott...
+
+181
+00:14:26,915 --> 00:14:28,610
+G-A-Y-L-E.
+
+182
+00:14:28,650 --> 00:14:32,518
+G-A-Y-L-E. Got it.
+
+183
+00:14:32,554 --> 00:14:34,078
+All right, Johnny,
+
+184
+00:14:34,122 --> 00:14:36,181
+I have two addresses.
+
+185
+00:14:36,224 --> 00:14:38,215
+One is downtown and the other one...
+
+186
+00:14:38,260 --> 00:14:39,955
+looks like it's out in the sticks.
+
+187
+00:14:39,995 --> 00:14:41,553
+Give me that one.
+
+188
+00:14:41,597 --> 00:14:44,862
+It's 65 North Hill Road.
+
+189
+00:14:44,900 --> 00:14:46,925
+(thunder rumbling)
+
+190
+00:14:46,969 --> 00:14:48,994
+Thanks, Pete.
+
+191
+00:14:49,037 --> 00:14:50,732
+I owe you one.
+
+192
+00:14:52,240 --> 00:14:55,505
+(piano music playing)
+
+193
+00:14:55,544 --> 00:14:57,842
+You wanted to see me, sir?
+
+194
+00:14:57,879 --> 00:14:59,574
+Yes. Close the door.
+
+195
+00:15:06,188 --> 00:15:08,179
+A new mask for your collection?
+
+196
+00:15:08,223 --> 00:15:11,090
+It's African.
+Masks are held in high esteem
+
+197
+00:15:11,126 --> 00:15:13,390
+in some African cultures.
+
+198
+00:15:13,428 --> 00:15:15,919
+They're believed to be
+the resting place for spirits.
+
+199
+00:15:15,964 --> 00:15:19,263
+Some even believe
+that the spirits make the masks
+
+200
+00:15:19,301 --> 00:15:21,269
+and they materialize overnight.
+
+201
+00:15:21,303 --> 00:15:22,827
+You don't believe that, do you?
+
+202
+00:15:22,871 --> 00:15:25,066
+No.
+
+203
+00:15:25,107 --> 00:15:26,836
+But I think it's neat.
+
+204
+00:15:26,875 --> 00:15:29,742
+Please sit down.
+
+205
+00:15:32,214 --> 00:15:34,148
+So how's married life treating you?
+
+206
+00:15:34,182 --> 00:15:35,444
+How's Johnny?
+
+207
+00:15:35,484 --> 00:15:37,247
+Uh, he's doing well.
+
+208
+00:15:37,285 --> 00:15:40,254
+We have to work on our schedules
+a little bit better, but...
+
+209
+00:15:40,288 --> 00:15:41,550
+I'm worried about you, Jamie.
+
+210
+00:15:41,590 --> 00:15:44,354
+I may have made a mistake
+putting you on the Hatcher case.
+
+211
+00:15:44,393 --> 00:15:46,486
+With all due respect, sir,
+
+212
+00:15:46,528 --> 00:15:48,928
+I'm making progress with Mabel.
+
+213
+00:15:48,964 --> 00:15:51,592
+I think you're confusing
+friendship with progress.
+
+214
+00:15:51,633 --> 00:15:54,067
+You've gotten close to Mabel, I grant,
+
+215
+00:15:54,102 --> 00:15:56,935
+but progress... I'm not so sure.
+
+216
+00:15:56,972 --> 00:15:59,099
+But friendship is the first step
+with Mabel.
+
+217
+00:15:59,141 --> 00:16:01,473
+I assure you, sir,
+that my latest report will show...
+
+218
+00:16:01,510 --> 00:16:02,875
+Show what?
+
+219
+00:16:02,911 --> 00:16:05,379
+That she nearly took a bite
+out of you just now?
+
+220
+00:16:05,414 --> 00:16:09,441
+You're lucky it wasn't Mr. Jacobs
+who threw that temper tantrum.
+
+221
+00:16:09,484 --> 00:16:12,419
+Yes, sir.
+
+222
+00:16:12,454 --> 00:16:16,049
+I need you to remember
+what we're doing here, Jamie.
+
+223
+00:16:16,091 --> 00:16:18,582
+We want to rehabilitate,
+
+224
+00:16:18,627 --> 00:16:21,255
+but to think that the likes
+of Miss Hatcher and Mr. Jacobs
+
+225
+00:16:21,296 --> 00:16:23,423
+could ever reintegrate...
+
+226
+00:16:23,465 --> 00:16:25,626
+let's just say that there's a reason
+
+227
+00:16:25,667 --> 00:16:28,431
+why these patients are kept separate
+from the world above.
+
+228
+00:16:28,470 --> 00:16:30,028
+I won't give up on her, sir.
+
+229
+00:16:30,072 --> 00:16:32,404
+Nobody's asking you to give up.
+
+230
+00:16:32,441 --> 00:16:34,705
+It's important... what we do here.
+
+231
+00:16:34,743 --> 00:16:38,770
+But... well,
+
+232
+00:16:38,814 --> 00:16:40,975
+food for thought:
+
+233
+00:16:41,016 --> 00:16:43,007
+Years ago it was believed
+
+234
+00:16:43,051 --> 00:16:46,316
+that those who were afflicted
+with mental illness were...
+
+235
+00:16:46,354 --> 00:16:49,619
+were actually possessed by demons.
+
+236
+00:16:51,693 --> 00:16:54,958
+Remember that the next time
+you let Mabel get too close to you.
+
+237
+00:16:56,131 --> 00:16:58,326
+Dismissed.
+
+238
+00:17:36,304 --> 00:17:38,329
+(thunder rumbling)
+
+239
+00:17:44,980 --> 00:17:46,971
+Did you find anything?
+
+240
+00:17:47,015 --> 00:17:48,983
+That truck looks new.
+
+241
+00:17:52,254 --> 00:17:54,552
+It's gonna be dark soon.
+
+242
+00:17:54,589 --> 00:17:56,750
+We should call in some backup.
+
+243
+00:17:59,561 --> 00:18:01,552
+Or not.
+
+244
+00:18:29,257 --> 00:18:31,282
+(rain pattering)
+
+245
+00:19:11,132 --> 00:19:12,861
+(rustling)
+
+246
+00:19:12,901 --> 00:19:15,233
+(music box playing)
+
+247
+00:19:38,093 --> 00:19:40,926
+God hates a coward.
+
+248
+00:19:56,144 --> 00:19:58,374
+(people laughing)
+
+249
+00:19:58,413 --> 00:20:00,438
+Shh.
+
+250
+00:20:00,482 --> 00:20:02,973
+This guy is a real maniac...
+
+251
+00:20:03,018 --> 00:20:05,316
+a real maniac.
+
+252
+00:20:06,321 --> 00:20:09,222
+Is that your professional opinion?
+
+253
+00:20:10,225 --> 00:20:12,989
+(man moaning)
+
+254
+00:20:13,028 --> 00:20:16,020
+P.A. Announcer: In the event
+of a medical emergency
+
+255
+00:20:16,064 --> 00:20:18,294
+- or if you require assistance...
+- (steady beeping)
+
+256
+00:20:18,333 --> 00:20:21,200
+...staff members can be recognized
+by photo identification...
+
+257
+00:20:21,236 --> 00:20:23,670
+Nurse: Benjamin Jacobs.
+
+258
+00:20:23,705 --> 00:20:26,970
+A real maniac?
+
+259
+00:20:27,008 --> 00:20:28,976
+Guard: All of them.
+
+260
+00:20:29,010 --> 00:20:30,238
+Why?
+
+261
+00:20:30,278 --> 00:20:31,506
+Now watch this.
+
+262
+00:20:31,546 --> 00:20:33,844
+(Benny growling)
+
+263
+00:20:36,017 --> 00:20:41,455
+(steady beeping)
+
+264
+00:20:41,489 --> 00:20:44,049
+Guard: He was abused as a kid,
+
+265
+00:20:44,092 --> 00:20:46,117
+raised in a freak show.
+
+266
+00:20:46,161 --> 00:20:47,389
+(taps)
+
+267
+00:20:48,897 --> 00:20:50,660
+Hates the color red...
+
+268
+00:20:50,699 --> 00:20:53,293
+hates it.
+
+269
+00:20:53,335 --> 00:20:56,065
+The beeping lets you know
+when he's angry.
+
+270
+00:20:56,104 --> 00:20:58,004
+- Let me try.
+- No.
+
+271
+00:20:58,039 --> 00:21:00,530
+Come on. Give it to me.
+
+272
+00:21:02,644 --> 00:21:04,578
+(growling)
+
+273
+00:21:06,881 --> 00:21:09,111
+(laughing)
+
+274
+00:21:13,855 --> 00:21:16,915
+P.A. Announcer: Safety at Parker's
+is everyone's responsibility.
+
+275
+00:21:16,958 --> 00:21:18,949
+(rattling)
+
+276
+00:21:18,994 --> 00:21:21,554
+Do your part to ensure
+a work environment
+
+277
+00:21:21,596 --> 00:21:24,997
+that is safe for both
+patient and worker.
+
+278
+00:21:25,033 --> 00:21:27,058
+(pounding)
+
+279
+00:21:28,203 --> 00:21:30,296
+(roaring)
+
+280
+00:21:30,338 --> 00:21:32,636
+What happened?
+
+281
+00:21:32,674 --> 00:21:35,268
+- What did you do?
+- Nothing. We did nothing.
+
+282
+00:21:35,310 --> 00:21:37,574
+- Marty.
+- She did it.
+
+283
+00:21:39,447 --> 00:21:41,347
+Grab the tranq gun.
+If I can't calm him down
+
+284
+00:21:41,383 --> 00:21:43,510
+you're gonna have to use it.
+
+285
+00:21:46,755 --> 00:21:49,724
+Benny, it's Dr. Morgan.
+
+286
+00:21:49,758 --> 00:21:52,124
+I need you to listen to me, okay?
+
+287
+00:21:56,831 --> 00:21:59,231
+(roaring)
+
+288
+00:21:59,267 --> 00:22:02,725
+Listen to my voice and calm down.
+
+289
+00:22:09,778 --> 00:22:11,302
+Benny.
+
+290
+00:22:14,816 --> 00:22:17,148
+# Fais dodo #
+
+291
+00:22:17,185 --> 00:22:20,245
+# Colas mon p'tit frère #
+
+292
+00:22:20,288 --> 00:22:22,916
+- (rapid beeping)
+- # Fais dodo #
+
+293
+00:22:22,957 --> 00:22:26,620
+# Tu auras du coco... #
+
+294
+00:22:26,661 --> 00:22:28,822
+(slower beeping)
+
+295
+00:22:30,732 --> 00:22:33,030
+# Fais dodo #
+
+296
+00:22:33,068 --> 00:22:35,764
+# Colas mon p'tit frère... #
+
+297
+00:22:35,804 --> 00:22:38,170
+(slower beeping)
+
+298
+00:22:38,206 --> 00:22:40,834
+# Fais dodo #
+
+299
+00:22:40,875 --> 00:22:44,333
+# Tu auras du lolo. #
+
+300
+00:22:45,814 --> 00:22:47,975
+(steady beeping)
+
+301
+00:22:51,052 --> 00:22:53,020
+Are you feeling better, Benny?
+
+302
+00:22:55,690 --> 00:22:57,817
+Yes, pretty lady.
+
+303
+00:23:08,436 --> 00:23:10,700
+Good night, Benny.
+
+304
+00:23:13,208 --> 00:23:15,676
+P.A. Announcer:
+Reminder that every Wednesday
+
+305
+00:23:15,710 --> 00:23:18,178
+the cleaning of cell blocks 8, 9...
+
+306
+00:23:18,213 --> 00:23:20,306
+You are both very lucky.
+
+307
+00:23:20,348 --> 00:23:22,680
+P.A. Announcer: And 14 will commence.
+
+308
+00:23:22,717 --> 00:23:25,015
+We all are.
+
+309
+00:23:25,053 --> 00:23:27,248
+P.A. Announcer: Please make
+the necessary arrangements
+
+310
+00:23:27,288 --> 00:23:28,846
+with scheduling.
+
+311
+00:23:28,890 --> 00:23:30,380
+(thunder rumbling)
+
+312
+00:23:30,425 --> 00:23:32,450
+(rain pattering)
+
+313
+00:23:32,494 --> 00:23:34,519
+(whimsical music playing)
+
+314
+00:24:03,858 --> 00:24:05,883
+(music continues)
+
+315
+00:24:45,466 --> 00:24:48,128
+God damn it, Elliot. It's not her.
+
+316
+00:24:48,169 --> 00:24:49,636
+It's just a doll.
+
+317
+00:24:56,110 --> 00:24:58,305
+He knew that we would find this.
+
+318
+00:24:58,346 --> 00:25:00,075
+He set a trap.
+
+319
+00:25:00,114 --> 00:25:03,345
+All right, you stay cool, kid.
+
+320
+00:25:03,384 --> 00:25:07,218
+I'll find something
+that'll pry this open.
+
+321
+00:25:07,255 --> 00:25:09,280
+Stay cool.
+
+322
+00:25:26,841 --> 00:25:28,809
+Shit.
+
+323
+00:25:28,843 --> 00:25:31,676
+Elliot, hurry up.
+
+324
+00:25:50,765 --> 00:25:52,164
+(screams)
+
+325
+00:25:56,638 --> 00:25:58,833
+Elliot!
+
+326
+00:26:56,064 --> 00:26:57,224
+(cocks gun)
+
+327
+00:26:59,334 --> 00:27:01,825
+(Johnny panting)
+
+328
+00:27:03,905 --> 00:27:06,430
+(man gagging)
+
+329
+00:27:29,464 --> 00:27:32,831
+The Wolf has been caught.
+
+330
+00:27:35,803 --> 00:27:37,566
+Johnny's voice: He's still alive.
+
+331
+00:27:38,806 --> 00:27:42,242
+We can confirm the identity
+of the Wolf as one...
+
+332
+00:27:42,276 --> 00:27:43,834
+Harold Grierson.
+
+333
+00:27:45,980 --> 00:27:47,607
+Johnny's voice: He just let them die.
+
+334
+00:27:48,616 --> 00:27:49,844
+Elliot's voice: God hates a coward,
+
+335
+00:27:49,884 --> 00:27:51,749
+The Wolf has been rendered speechless,
+
+336
+00:27:51,786 --> 00:27:53,845
+shot in the throat...
+
+337
+00:27:55,223 --> 00:27:57,214
+Jamie: It's doubtful
+that he'll ever speak again.
+
+338
+00:27:57,258 --> 00:27:59,590
+Male announcer:
+...by Detective Johnny Morgan.
+
+339
+00:27:59,627 --> 00:28:01,618
+Johnny's voice:
+They haven't found the girl, Jamie.
+
+340
+00:28:01,662 --> 00:28:04,187
+Jamie's voice: Johnny,
+
+341
+00:28:04,232 --> 00:28:06,427
+you're alive.
+
+342
+00:28:06,467 --> 00:28:07,798
+(thunder crashing)
+
+343
+00:28:07,835 --> 00:28:10,269
+Johnny's voice: I can make him talk.
+
+344
+00:28:10,304 --> 00:28:12,534
+The location of the bodies
+remains unknown.
+
+345
+00:28:13,775 --> 00:28:15,936
+Johnny's voice: I'm sorry, Katie.
+
+346
+00:28:15,977 --> 00:28:18,746
+I'm sorry.
+
+347
+00:28:25,119 --> 00:28:27,110
+Woman: Thanks to the strong testimony
+
+348
+00:28:27,155 --> 00:28:29,919
+and recommendation of Dr. Parker,
+I'm proud to say
+
+349
+00:28:29,957 --> 00:28:31,948
+that my client, Mr. Harold Grierson,
+
+350
+00:28:31,993 --> 00:28:35,554
+will finally be released into his
+custody where he can begin treatment...
+
+351
+00:28:35,596 --> 00:28:37,860
+Looks like we're gonna have to
+make room for another one.
+
+352
+00:28:37,899 --> 00:28:40,424
+Also at the courthouse
+was Detective Johnny Morgan,
+
+353
+00:28:40,468 --> 00:28:42,993
+the officer responsible
+for catching the Wolf.
+
+354
+00:28:43,037 --> 00:28:45,597
+Mr. Morgan, do you believe
+justice has been served today?
+
+355
+00:28:45,640 --> 00:28:46,902
+No comment.
+
+356
+00:28:46,941 --> 00:28:49,501
+Although the victims' bodies
+have never been found,
+
+357
+00:28:49,544 --> 00:28:51,910
+this effectively wraps up
+the final chapter
+
+358
+00:28:51,946 --> 00:28:54,847
+in the gruesome story
+of the Red Riding Hood murders.
+
+359
+00:28:57,051 --> 00:28:59,849
+Woman on radio: # Season light #
+
+360
+00:28:59,887 --> 00:29:03,516
+# Season bright... #
+
+361
+00:29:03,558 --> 00:29:05,651
+P.A. Announcer: Board of directors
+at Parker's Asylum,
+
+362
+00:29:05,693 --> 00:29:07,251
+we would like to wish you...
+
+363
+00:29:07,295 --> 00:29:09,593
+- Have a good holiday. Bye.
+...a safe and happy holiday.
+
+364
+00:29:09,630 --> 00:29:13,088
+Hey, Jam, what's the deal?
+Why is everyone leaving early?
+
+365
+00:29:13,134 --> 00:29:16,160
+Dr. Parker's just in good spirits.
+
+366
+00:29:17,705 --> 00:29:20,731
+It's nothing, Marty. Have fun.
+
+367
+00:29:20,775 --> 00:29:24,302
+P.A. Announcer: In the event
+of a medical emergency...
+
+368
+00:29:41,562 --> 00:29:43,894
+Are we still gonna go through with this?
+
+369
+00:29:48,503 --> 00:29:50,937
+Jamie doesn't know anything
+about this, does she?
+
+370
+00:29:53,374 --> 00:29:55,569
+We're separated, Pete.
+
+371
+00:29:55,610 --> 00:29:57,601
+I wouldn't know how to go
+about telling her.
+
+372
+00:29:57,645 --> 00:30:01,638
+You don't think she'll be
+at all surprised to see you?
+
+373
+00:30:01,682 --> 00:30:04,583
+Look, all I'm saying is
+maybe you should give her a call,
+
+374
+00:30:04,619 --> 00:30:07,019
+let her know.
+
+375
+00:30:13,828 --> 00:30:16,991
+Mr. Walthrop, you can
+open your eyes now.
+
+376
+00:30:18,866 --> 00:30:21,061
+I got you something.
+
+377
+00:30:21,102 --> 00:30:23,627
+I hope you like them.
+
+378
+00:30:36,817 --> 00:30:39,308
+Merry Christmas, Oliver.
+
+379
+00:30:44,125 --> 00:30:47,094
+P.A. Announcer:
+This is a reminder that every Monday...
+
+380
+00:30:47,128 --> 00:30:50,996
+- Hey.
+...cleaning of cell blocks 3, 13...
+
+381
+00:30:51,032 --> 00:30:53,899
+Sabrina.
+
+382
+00:30:53,935 --> 00:30:55,163
+There you are.
+
+383
+00:30:55,202 --> 00:30:59,138
+Oh, I thought I told you
+to not run off like that.
+
+384
+00:31:02,710 --> 00:31:04,735
+I told Dr. Parker
+about Sabrina's condition
+
+385
+00:31:04,779 --> 00:31:06,576
+and he thought he might be able
+to help her.
+
+386
+00:31:06,614 --> 00:31:08,275
+She still not talking?
+
+387
+00:31:08,316 --> 00:31:10,307
+No, I'm afraid not.
+
+388
+00:31:10,351 --> 00:31:12,717
+Ever since her mother died,
+she's been so withdrawn
+
+389
+00:31:12,753 --> 00:31:14,584
+from everyone and everything.
+
+390
+00:31:14,622 --> 00:31:16,522
+I can feel myself losing her
+
+391
+00:31:16,557 --> 00:31:18,354
+and I don't even know where she's going.
+
+392
+00:31:18,392 --> 00:31:21,555
+Jamie: If anyone can get through to her,
+it's Dr. Parker.
+
+393
+00:31:21,596 --> 00:31:23,188
+She's in good hands.
+
+394
+00:31:23,230 --> 00:31:25,255
+(buzz)
+
+395
+00:31:27,535 --> 00:31:29,696
+Quick, follow me.
+
+396
+00:31:29,737 --> 00:31:31,864
+Stay behind me, okay?
+
+397
+00:31:39,280 --> 00:31:42,249
+P.A. Announcer: Please check in
+with the security station to the right.
+
+398
+00:31:42,283 --> 00:31:44,911
+Have a nice day.
+
+399
+00:31:44,952 --> 00:31:46,749
+Follow me.
+
+400
+00:32:44,245 --> 00:32:46,543
+Mr. Grierson,
+
+401
+00:32:46,580 --> 00:32:49,481
+I want you to listen to me
+very carefully.
+
+402
+00:32:49,517 --> 00:32:52,384
+What I'm about to put around your neck
+
+403
+00:32:52,420 --> 00:32:54,513
+is a proximity restraint collar.
+
+404
+00:32:54,555 --> 00:32:56,648
+It'll shock you into submission
+
+405
+00:32:56,691 --> 00:32:58,921
+if you break the 2' distance regulation
+
+406
+00:32:58,959 --> 00:33:01,689
+with any of my personnel.
+
+407
+00:33:01,729 --> 00:33:05,256
+And I can assure you, Mr. Grierson,
+
+408
+00:33:05,299 --> 00:33:07,733
+it's not a pleasant feeling.
+
+409
+00:33:17,311 --> 00:33:18,505
+(beeps)
+
+410
+00:33:24,618 --> 00:33:26,643
+Release him.
+
+411
+00:33:41,469 --> 00:33:44,438
+Mr. Grierson's collared
+and ready for you, sir.
+
+412
+00:33:44,472 --> 00:33:45,700
+Good.
+
+413
+00:33:45,740 --> 00:33:49,301
+Oh, may I remind you
+of your meeting today
+
+414
+00:33:49,343 --> 00:33:51,243
+with Mr. Grierson's attorney...
+Miss Garvey?
+
+415
+00:33:51,278 --> 00:33:53,269
+She'll be arriving shortly.
+
+416
+00:33:53,314 --> 00:33:55,179
+She's fairly keen on making sure
+
+417
+00:33:55,216 --> 00:33:57,514
+that her client's adequately cared for.
+
+418
+00:33:57,551 --> 00:34:01,009
+He stopped being her client the moment
+he was wheeled through that door.
+
+419
+00:34:01,055 --> 00:34:02,386
+I'll handle Miss Garvey.
+
+420
+00:34:02,423 --> 00:34:03,981
+Yes, sir.
+
+421
+00:34:17,271 --> 00:34:19,569
+Do you know who I am?
+
+422
+00:34:21,909 --> 00:34:25,436
+I know who you think you are.
+
+423
+00:34:26,714 --> 00:34:28,341
+The Wolf.
+
+424
+00:34:29,917 --> 00:34:32,351
+You like that, don't you?
+
+425
+00:34:32,386 --> 00:34:34,820
+It makes you larger than life.
+
+426
+00:34:34,855 --> 00:34:36,948
+It scares your victims into thinking
+
+427
+00:34:36,991 --> 00:34:41,223
+they're being hunted by a monster
+from their nightmares.
+
+428
+00:34:41,262 --> 00:34:44,425
+I bet you think
+you can smell their fear.
+
+429
+00:34:44,465 --> 00:34:46,729
+Well, you'd be wrong.
+
+430
+00:34:46,767 --> 00:34:49,565
+Fear has no smell,
+
+431
+00:34:49,603 --> 00:34:52,071
+no taste, no sound.
+
+432
+00:34:53,641 --> 00:34:55,700
+It's simply a state of being.
+
+433
+00:34:58,879 --> 00:35:01,245
+Your name is Harold Grierson
+
+434
+00:35:01,282 --> 00:35:03,716
+and you're an animal.
+
+435
+00:35:03,751 --> 00:35:06,481
+And as an animal,
+you can always be counted on
+
+436
+00:35:06,520 --> 00:35:08,920
+to react in a certain way
+
+437
+00:35:08,956 --> 00:35:12,687
+when placed in a certain situation.
+
+438
+00:35:12,726 --> 00:35:16,127
+Behind me is an open door...
+
+439
+00:35:16,163 --> 00:35:18,563
+your ticket to freedom.
+
+440
+00:35:18,599 --> 00:35:20,965
+All that stands in your way
+
+441
+00:35:21,001 --> 00:35:22,434
+is me.
+
+442
+00:35:22,469 --> 00:35:24,869
+Surely I'm no match
+
+443
+00:35:24,905 --> 00:35:26,930
+for the Big Bad Wolf.
+
+444
+00:35:26,974 --> 00:35:29,306
+Well, come on, Grierson,
+
+445
+00:35:29,343 --> 00:35:31,470
+take me down.
+
+446
+00:35:31,512 --> 00:35:33,139
+Claim your prize.
+
+447
+00:35:37,484 --> 00:35:40,044
+Well,
+
+448
+00:35:40,087 --> 00:35:43,682
+if you won't come to me,
+
+449
+00:35:43,724 --> 00:35:45,715
+I'll just have to come to you.
+
+450
+00:35:47,661 --> 00:35:49,788
+Come on, Grierson...
+
+451
+00:35:52,132 --> 00:35:53,827
+howl for me.
+
+452
+00:35:54,835 --> 00:35:56,427
+(grunts)
+
+453
+00:36:05,980 --> 00:36:08,915
+Wolves are smart, cunning,
+
+454
+00:36:08,949 --> 00:36:10,974
+quick.
+
+455
+00:36:11,018 --> 00:36:13,782
+They're not easily caught.
+
+456
+00:36:15,422 --> 00:36:18,050
+You are but a common dog.
+
+457
+00:36:21,128 --> 00:36:23,153
+Lock the door.
+
+458
+00:36:23,197 --> 00:36:26,633
+(door squeaks, closes)
+
+459
+00:36:29,470 --> 00:36:30,835
+(piano music playing)
+
+460
+00:36:30,871 --> 00:36:33,863
+If you'll have a seat,
+Dr. Parker will be with you momentarily.
+
+461
+00:36:35,709 --> 00:36:40,669
+And don't touch anything, huh?
+
+462
+00:37:11,612 --> 00:37:13,739
+Hello again.
+
+463
+00:37:13,781 --> 00:37:15,772
+I'd put that down if I were you.
+
+464
+00:37:18,852 --> 00:37:20,786
+That mask works like a bear trap.
+
+465
+00:37:22,423 --> 00:37:26,416
+Touch it in the wrong place
+and the teeth slam shut
+
+466
+00:37:26,460 --> 00:37:28,428
+like so.
+
+467
+00:37:28,462 --> 00:37:30,453
+(gasps)
+
+468
+00:37:30,497 --> 00:37:32,897
+Sorry. I had seen it.
+
+469
+00:37:32,933 --> 00:37:35,265
+I just wanted to touch it for myself.
+
+470
+00:37:35,302 --> 00:37:37,532
+The teeth on that thing...
+
+471
+00:37:37,571 --> 00:37:39,232
+they're huge.
+
+472
+00:37:39,273 --> 00:37:41,138
+Of course they are.
+
+473
+00:37:41,175 --> 00:37:43,609
+The better to bite you with, my dear.
+
+474
+00:37:44,878 --> 00:37:48,712
+I thought something like this
+would be in an evidence locker.
+
+475
+00:37:48,749 --> 00:37:50,580
+What's it doing here?
+
+476
+00:37:50,617 --> 00:37:53,108
+An addition to your collection?
+
+477
+00:37:53,153 --> 00:37:55,553
+I had it sent over for study.
+
+478
+00:37:55,589 --> 00:37:59,150
+Well, if you understand the outside,
+
+479
+00:37:59,193 --> 00:38:03,323
+you have a better chance
+of understanding the inside.
+
+480
+00:38:03,364 --> 00:38:07,596
+But yes yes, it would make
+a great addition.
+
+481
+00:38:09,803 --> 00:38:13,569
+Well, shall we begin?
+
+482
+00:38:13,607 --> 00:38:15,302
+P.A. Announcer: Unauthorized personnel,
+
+483
+00:38:15,342 --> 00:38:18,743
+please check in with the security
+station to the right. Have a nice day.
+
+484
+00:38:18,779 --> 00:38:21,976
+I'm sorry, you don't have
+clearance to be down here...
+
+485
+00:38:24,318 --> 00:38:25,478
+Johnny.
+
+486
+00:38:25,519 --> 00:38:27,783
+Hello, Karen. It's good to see you.
+
+487
+00:38:27,821 --> 00:38:31,689
+Johnny, how are you? It's been so long.
+
+488
+00:38:31,725 --> 00:38:34,125
+About a year, a year and a half maybe.
+
+489
+00:38:34,161 --> 00:38:36,356
+I take it you're here to see Jamie.
+
+490
+00:38:36,397 --> 00:38:39,730
+I was hoping to surprise her.
+
+491
+00:38:39,767 --> 00:38:41,758
+I understand.
+
+492
+00:38:41,802 --> 00:38:43,827
+Listen,
+
+493
+00:38:43,871 --> 00:38:47,136
+I am so glad
+
+494
+00:38:47,174 --> 00:38:49,404
+that the two of you
+are giving it another shot.
+
+495
+00:38:49,443 --> 00:38:52,139
+Between you and me,
+she has not been the same
+
+496
+00:38:52,179 --> 00:38:54,340
+since the two of you separated.
+
+497
+00:38:54,381 --> 00:38:56,372
+Thanks, Karen.
+
+498
+00:38:56,417 --> 00:38:59,284
+I'm just gonna wander around
+until I find her, okay?
+
+499
+00:38:59,319 --> 00:39:01,253
+Okay. Good luck.
+
+500
+00:39:01,288 --> 00:39:02,755
+Thanks.
+
+501
+00:39:06,126 --> 00:39:08,151
+P.A. Announcer: Here at Parker's Asylum
+
+502
+00:39:08,195 --> 00:39:09,924
+we strive to reach new levels
+of commitment
+
+503
+00:39:09,963 --> 00:39:12,227
+in bringing new methods of treatment
+to our patients.
+
+504
+00:39:12,266 --> 00:39:15,360
+- We're in.
+- We're in.
+
+505
+00:39:17,671 --> 00:39:19,468
+And this is?
+
+506
+00:39:19,506 --> 00:39:22,134
+A gift for helping me on the case.
+
+507
+00:39:22,176 --> 00:39:23,666
+Merry Christmas.
+
+508
+00:39:32,553 --> 00:39:36,512
+It's fruit cake... a little joke.
+
+509
+00:39:38,192 --> 00:39:41,559
+Let's get on, shall we, Miss Garvey?
+
+510
+00:39:41,595 --> 00:39:44,155
+Fine. I'd like to see my client.
+I'd like to see that...
+
+511
+00:39:44,198 --> 00:39:45,722
+No.
+
+512
+00:39:45,766 --> 00:39:47,233
+No?
+
+513
+00:39:47,267 --> 00:39:49,201
+He's just begun a delicate treatment.
+
+514
+00:39:49,236 --> 00:39:51,329
+It would be a detriment
+to interrupt him.
+
+515
+00:39:51,371 --> 00:39:54,067
+Dr. Parker, forgive me if I sound rude,
+
+516
+00:39:54,108 --> 00:39:56,099
+but I'm gonna need more than your word.
+
+517
+00:39:56,143 --> 00:39:58,441
+Are you telling me things have changed
+
+518
+00:39:58,479 --> 00:40:00,947
+since the inquests of 1955 and '60
+
+519
+00:40:00,981 --> 00:40:02,881
+regarding the asylum's
+mistreatment of patients?
+
+520
+00:40:02,916 --> 00:40:04,907
+When my father ran this hospital,
+
+521
+00:40:04,952 --> 00:40:07,147
+psychiatry and the treatment
+of the criminally insane
+
+522
+00:40:07,187 --> 00:40:08,984
+were uncharted territory.
+
+523
+00:40:09,022 --> 00:40:11,855
+Perhaps some of the treatments
+at that time may have seemed radical,
+
+524
+00:40:11,892 --> 00:40:13,484
+but I can assure you
+they were undertaken
+
+525
+00:40:13,527 --> 00:40:15,620
+with the best interests
+of the patients' welfare.
+
+526
+00:40:15,662 --> 00:40:19,723
+Including the drowning machine?
+
+527
+00:40:19,766 --> 00:40:22,701
+Aquatic reinforcement.
+
+528
+00:40:24,438 --> 00:40:26,770
+My father believed in techniques
+which utilized
+
+529
+00:40:26,807 --> 00:40:28,798
+the concept of operant conditioning...
+
+530
+00:40:28,842 --> 00:40:30,935
+rehabilitation through punishment.
+
+531
+00:40:30,978 --> 00:40:32,809
+He had built a machine
+
+532
+00:40:32,846 --> 00:40:35,041
+that submerged a patient in cold water
+
+533
+00:40:35,082 --> 00:40:37,414
+if they responded or acted out
+
+534
+00:40:37,451 --> 00:40:40,852
+in an incorrect manner.
+But as I said, we've...
+
+535
+00:40:40,888 --> 00:40:43,322
+we've learned from my father's mistakes.
+
+536
+00:40:43,357 --> 00:40:45,120
+Times have changed.
+
+537
+00:40:45,159 --> 00:40:47,150
+You currently use restraint collars.
+
+538
+00:40:47,194 --> 00:40:49,321
+The possibility for misuse is...
+
+539
+00:40:49,363 --> 00:40:52,093
+Nothing goes on in this facility
+that I'm not fully aware of.
+
+540
+00:40:52,132 --> 00:40:55,226
+You have to remember we're dealing
+with dangerous offenders.
+
+541
+00:40:55,269 --> 00:40:57,863
+Precautions have to be taken.
+
+542
+00:40:57,905 --> 00:41:01,068
+Then I'm sure you wouldn't mind
+if I take a quick peek
+
+543
+00:41:01,108 --> 00:41:03,099
+at the living conditions of my client.
+
+544
+00:41:03,143 --> 00:41:04,940
+No offense, Miss Garvey,
+
+545
+00:41:04,978 --> 00:41:08,744
+but the reason Mr. Grierson is not
+in the electric chair right now
+
+546
+00:41:08,782 --> 00:41:10,477
+is because of me,
+
+547
+00:41:10,517 --> 00:41:12,781
+no matter how good you look
+in the business suit.
+
+548
+00:41:12,819 --> 00:41:13,979
+Well...
+
+549
+00:41:14,021 --> 00:41:16,922
+If the next words out of your mouth
+are not "Thank you and goodbye,"
+
+550
+00:41:16,957 --> 00:41:18,254
+I'm not interested.
+
+551
+00:41:18,292 --> 00:41:21,352
+I run this facility
+and I make the rules.
+
+552
+00:41:21,395 --> 00:41:23,693
+And you can just get used to it.
+
+553
+00:41:24,998 --> 00:41:28,490
+And don't pout when you don't get
+what you want.
+
+554
+00:41:28,535 --> 00:41:31,129
+It's not becoming.
+
+555
+00:41:33,073 --> 00:41:35,405
+Carl.
+
+556
+00:41:35,442 --> 00:41:36,841
+Sir?
+
+557
+00:41:36,877 --> 00:41:39,744
+Have Dr. Morgan give Miss Garvey
+a tour of the facility
+
+558
+00:41:39,780 --> 00:41:43,443
+and then escort her off the grounds.
+
+559
+00:41:46,486 --> 00:41:49,080
+(P.A. Announcer speaking)
+
+560
+00:41:49,122 --> 00:41:52,148
+Only doctors should engage
+in personal discussion.
+
+561
+00:41:52,192 --> 00:41:54,524
+Johnny: This is the one.
+
+562
+00:41:54,561 --> 00:41:56,722
+This is it?
+
+563
+00:41:56,763 --> 00:41:58,196
+Yeah.
+
+564
+00:41:59,466 --> 00:42:01,400
+And how are you planning on getting in?
+
+565
+00:42:03,270 --> 00:42:05,101
+You stole it from Jamie?
+
+566
+00:42:05,138 --> 00:42:06,332
+Borrowed.
+
+567
+00:42:08,375 --> 00:42:10,639
+And I guess you know
+the pass code too, right?
+
+568
+00:42:10,677 --> 00:42:13,043
+If she hasn't changed it.
+
+569
+00:42:13,080 --> 00:42:15,071
+- (buzzes)
+- Male voice: Access granted.
+
+570
+00:42:15,115 --> 00:42:16,480
+Sometimes I hate you.
+
+571
+00:42:30,998 --> 00:42:35,196
+Dr. Morgan, are you sure
+you can't let me see Mr. Grierson?
+
+572
+00:42:35,235 --> 00:42:37,567
+You know I can't.
+
+573
+00:42:37,604 --> 00:42:40,767
+You know, I saw your husband
+almost every day in court.
+
+574
+00:42:40,807 --> 00:42:43,139
+It must be really hard on him
+
+575
+00:42:43,176 --> 00:42:45,201
+knowing that his sister's killer
+
+576
+00:42:45,245 --> 00:42:47,406
+is just a few feet away from his wife.
+
+577
+00:42:47,447 --> 00:42:49,574
+(beeps)
+
+578
+00:42:49,616 --> 00:42:52,278
+- We're not together anymore.
+- Male voice: Access granted.
+
+579
+00:42:52,319 --> 00:42:53,946
+Sorry to hear that.
+
+580
+00:42:55,756 --> 00:42:57,747
+(buzzes)
+
+581
+00:42:57,791 --> 00:42:59,952
+Have a nice day, Miss Garvey.
+
+582
+00:42:59,993 --> 00:43:02,018
+I'm sure you know your way out.
+
+583
+00:43:22,416 --> 00:43:24,782
+You gave me this, remember?
+
+584
+00:43:26,620 --> 00:43:30,181
+Yeah, and I gave you that.
+
+585
+00:43:30,223 --> 00:43:33,158
+But we're not even close to being even.
+
+586
+00:43:37,464 --> 00:43:38,863
+It's okay.
+
+587
+00:43:38,899 --> 00:43:41,595
+I just want to talk.
+
+588
+00:43:41,635 --> 00:43:44,001
+And since you can't talk,
+
+589
+00:43:44,037 --> 00:43:47,370
+this is gonna be a little one-sided.
+
+590
+00:43:49,810 --> 00:43:52,176
+Do you remember her?
+
+591
+00:44:03,557 --> 00:44:06,424
+You killed my sister,
+you son of a bitch.
+
+592
+00:44:06,460 --> 00:44:09,987
+Not so tough
+without your costume, are you?
+
+593
+00:44:16,603 --> 00:44:18,594
+P.A. Announcer: Attention all staff,
+
+594
+00:44:18,638 --> 00:44:21,300
+Dr. Morgan, please report
+to Harold Grierson's cell immediately.
+
+595
+00:44:21,341 --> 00:44:24,105
+Dr. Jamie Morgan
+to cell 22A immediately.
+
+596
+00:44:24,144 --> 00:44:25,304
+Thank you.
+
+597
+00:44:25,345 --> 00:44:28,405
+We've got to get out of here.
+Johnny, you heard the...
+
+598
+00:44:34,755 --> 00:44:36,723
+What the hell are you doing?
+
+599
+00:44:38,024 --> 00:44:40,117
+Mind your business, Pete.
+
+600
+00:44:40,160 --> 00:44:43,891
+Johnny, you said you wanted some time
+to make him sing.
+
+601
+00:44:43,930 --> 00:44:45,591
+He's not singing.
+
+602
+00:44:45,632 --> 00:44:48,658
+Sure he is. He just don't know the tune.
+
+603
+00:44:48,702 --> 00:44:50,465
+I'm sorry, but I can't let you do this.
+
+604
+00:44:53,306 --> 00:44:55,866
+Yes, you can.
+
+605
+00:44:55,909 --> 00:44:58,207
+Let me do this.
+
+606
+00:44:58,245 --> 00:44:59,542
+Johnny.
+
+607
+00:44:59,579 --> 00:45:01,376
+You know why we came, Pete.
+
+608
+00:45:01,415 --> 00:45:03,212
+You can pretend like you don't,
+
+609
+00:45:03,250 --> 00:45:05,718
+but you do.
+
+610
+00:45:06,720 --> 00:45:09,314
+Let me do this, Pete.
+
+611
+00:45:10,757 --> 00:45:12,884
+I figured if I was gonna do
+something crazy,
+
+612
+00:45:12,926 --> 00:45:15,554
+this would be the place.
+
+613
+00:45:18,131 --> 00:45:20,258
+What are you gonna do?
+
+614
+00:45:20,300 --> 00:45:22,268
+- (door buzzes)
+- Male voice: Access granted.
+
+615
+00:45:22,302 --> 00:45:24,293
+God damn it. (uncocks gun)
+
+616
+00:45:26,139 --> 00:45:28,505
+Johnny?
+
+617
+00:45:30,677 --> 00:45:33,407
+What the hell are you guys doing here?
+
+618
+00:45:33,447 --> 00:45:35,745
+Surprise.
+
+619
+00:45:37,284 --> 00:45:39,684
+Back to your corner, Harold, now.
+
+620
+00:45:43,156 --> 00:45:46,922
+Come on, we're gonna get you
+out of here before D...
+
+621
+00:45:46,960 --> 00:45:48,257
+Dr. Parker.
+
+622
+00:45:49,629 --> 00:45:52,029
+I'm surprised to see you here, Johnny.
+
+623
+00:45:52,065 --> 00:45:53,930
+Johnny: Well, I was just
+in the neighborhood
+
+624
+00:45:53,967 --> 00:45:56,367
+and I decided to drop by personally
+and thank you
+
+625
+00:45:56,403 --> 00:45:58,564
+for all your tremendous
+insight at the trial.
+
+626
+00:45:58,605 --> 00:46:01,870
+You don't think a man who dresses
+as a wolf has psychological problems?
+
+627
+00:46:01,908 --> 00:46:03,933
+Not my call to make.
+
+628
+00:46:03,977 --> 00:46:05,638
+No, it's not.
+
+629
+00:46:05,679 --> 00:46:08,739
+I can appreciate
+your emotional predicament.
+
+630
+00:46:08,782 --> 00:46:12,013
+Johnny Morgan, age five,
+witnesses the death of his sister
+
+631
+00:46:12,052 --> 00:46:13,986
+at the hands of a costumed killer;
+
+632
+00:46:14,020 --> 00:46:16,318
+age six through 16... a problem child,
+
+633
+00:46:16,356 --> 00:46:18,620
+moves from school to school;
+
+634
+00:46:18,658 --> 00:46:20,649
+age 18, he finds a purpose,
+
+635
+00:46:20,694 --> 00:46:23,754
+find Jesus, studies to be a cop;
+
+636
+00:46:23,797 --> 00:46:25,765
+age 25, he's top of the class,
+
+637
+00:46:25,799 --> 00:46:28,563
+becomes a detective,
+hoping to make a difference.
+
+638
+00:46:28,602 --> 00:46:31,002
+Shortly thereafter
+his sister's killer reappears
+
+639
+00:46:31,037 --> 00:46:32,504
+and kills his partner.
+
+640
+00:46:32,539 --> 00:46:34,439
+How am I doing?
+
+641
+00:46:34,474 --> 00:46:36,135
+You flatter me.
+
+642
+00:46:36,176 --> 00:46:38,110
+Let's just say I could write a book
+
+643
+00:46:38,144 --> 00:46:40,135
+about a boy who has the opportunity
+
+644
+00:46:40,180 --> 00:46:42,740
+to kill his childhood demon and fails.
+
+645
+00:46:42,782 --> 00:46:45,751
+Of course it would be
+a very short book, but nevertheless...
+
+646
+00:46:45,785 --> 00:46:48,413
+The night's still young, Bob.
+
+647
+00:46:48,455 --> 00:46:50,446
+Listen to me, son.
+
+648
+00:46:50,490 --> 00:46:53,254
+I let you play your little game
+in there, but your fun's over.
+
+649
+00:46:53,293 --> 00:46:55,955
+The only reason I'm not having you
+hauled out of here in handcuffs
+
+650
+00:46:55,996 --> 00:46:57,964
+is because it would be
+an embarrassment to this institution
+
+651
+00:46:57,998 --> 00:46:59,488
+and damage its reputation,
+
+652
+00:46:59,533 --> 00:47:02,627
+not to mention the reputation
+of its lead doctor.
+
+653
+00:47:02,669 --> 00:47:05,536
+I assume you still care
+what happens to her.
+
+654
+00:47:05,572 --> 00:47:08,097
+I mean, someone has to,
+
+655
+00:47:08,141 --> 00:47:11,838
+what with you obsessing
+about the past and all.
+
+656
+00:47:15,282 --> 00:47:16,943
+I assume I can count on you
+
+657
+00:47:16,983 --> 00:47:19,178
+to make sure he doesn't cause
+any more trouble.
+
+658
+00:47:19,219 --> 00:47:21,517
+Yes.
+
+659
+00:47:28,562 --> 00:47:30,757
+Hey Jamie.
+
+660
+00:47:30,797 --> 00:47:33,095
+Pete.
+
+661
+00:47:33,133 --> 00:47:37,035
+Jesus, Johnny, he could have
+had you arrested for this.
+
+662
+00:47:37,070 --> 00:47:38,867
+You stole my ID card.
+
+663
+00:47:38,905 --> 00:47:42,238
+Do you have anything
+to say for yourself at all?
+
+664
+00:47:42,275 --> 00:47:44,709
+You're not wearing our wedding ring.
+
+665
+00:47:44,744 --> 00:47:46,735
+What?
+
+666
+00:47:46,780 --> 00:47:48,645
+Our wedding ring...
+
+667
+00:47:48,682 --> 00:47:51,879
+you're not wearing it.
+
+668
+00:47:55,855 --> 00:47:58,050
+We're not together anymore, Johnny.
+
+669
+00:47:58,091 --> 00:47:59,991
+We're...
+
+670
+00:48:02,195 --> 00:48:04,356
+I kept your name.
+
+671
+00:48:06,166 --> 00:48:07,690
+Yeah.
+
+672
+00:48:09,302 --> 00:48:11,270
+Look,
+
+673
+00:48:11,304 --> 00:48:14,137
+I know this has been tough on you.
+If you want to talk, we can...
+
+674
+00:48:14,174 --> 00:48:16,734
+Don't. Don't do that.
+
+675
+00:48:16,776 --> 00:48:19,267
+I'm not one of your patients.
+
+676
+00:48:19,312 --> 00:48:22,440
+That's not what I meant.
+
+677
+00:48:22,482 --> 00:48:24,279
+If you want to stick around,
+
+678
+00:48:24,317 --> 00:48:26,842
+we can hang out
+after my session with Mabel.
+
+679
+00:48:28,555 --> 00:48:30,113
+Sure.
+
+680
+00:48:33,760 --> 00:48:35,853
+What about you, Pete?
+
+681
+00:48:35,895 --> 00:48:38,386
+Point me in the direction
+of the kitchen and I would.
+
+682
+00:48:38,431 --> 00:48:41,366
+P.A. Announcer: Although security
+remains foremost in the minds of staff,
+
+683
+00:48:41,401 --> 00:48:44,598
+- So how have you been?
+...the well-being of the patients...
+
+684
+00:48:44,638 --> 00:48:46,469
+Good.
+
+685
+00:48:47,507 --> 00:48:50,374
+I've been okay. You?
+
+686
+00:48:50,410 --> 00:48:52,401
+Okay.
+
+687
+00:48:52,445 --> 00:48:55,505
+Hey, you two. Johnny,
+I have been looking all over for you.
+
+688
+00:48:55,548 --> 00:48:57,277
+You just disappeared on me.
+
+689
+00:48:57,317 --> 00:49:00,286
+Yeah, sorry about that.
+
+690
+00:49:00,320 --> 00:49:04,051
+Listen, Dr. Parker said
+that he is not going to be able
+
+691
+00:49:04,090 --> 00:49:06,217
+to see Sabrina after all today.
+
+692
+00:49:06,259 --> 00:49:08,819
+And I don't know what to do.
+We still have that session with Mabel.
+
+693
+00:49:08,862 --> 00:49:11,387
+Don't worry about it, Karen.
+We'll figure something out.
+
+694
+00:49:11,431 --> 00:49:13,490
+I can look after her.
+
+695
+00:49:13,533 --> 00:49:14,761
+You will?
+
+696
+00:49:14,801 --> 00:49:17,031
+I'm here.
+
+697
+00:49:17,070 --> 00:49:19,732
+You might as well put me to some use.
+
+698
+00:49:19,773 --> 00:49:22,173
+She doesn't talk very much.
+
+699
+00:49:22,208 --> 00:49:24,870
+That's okay. Neither do I.
+
+700
+00:49:25,879 --> 00:49:27,744
+Okay, listen, sweetheart.
+
+701
+00:49:27,781 --> 00:49:31,512
+Now you be a good girl
+and you listen to Mr. Morgan.
+
+702
+00:49:31,551 --> 00:49:33,542
+And I'll see you real soon, hmm?
+
+703
+00:49:35,055 --> 00:49:37,216
+(laughs)
+
+704
+00:49:37,257 --> 00:49:39,817
+You little sneak...
+
+705
+00:49:39,859 --> 00:49:41,884
+taking my earring. When did you do that?
+
+706
+00:49:41,928 --> 00:49:43,793
+Thank you.
+
+707
+00:49:47,000 --> 00:49:49,992
+Now you be good. Promise?
+
+708
+00:49:51,171 --> 00:49:52,399
+Both of you.
+
+709
+00:50:05,351 --> 00:50:09,048
+So that was cool of Santa
+to give you his hat, right?
+
+710
+00:50:59,305 --> 00:51:01,773
+# Dear Santa #
+
+711
+00:51:01,808 --> 00:51:06,472
+# I'm writing this letter #
+
+712
+00:51:08,481 --> 00:51:10,540
+# To ask... #
+
+713
+00:51:10,583 --> 00:51:14,781
+- My mama's dead.
+- #... a favor of you #
+
+714
+00:51:14,821 --> 00:51:17,483
+I'm sorry.
+
+715
+00:51:17,524 --> 00:51:20,118
+Sabrina: It's okay.
+
+716
+00:51:21,728 --> 00:51:24,094
+I don't remember her all that well.
+
+717
+00:51:25,865 --> 00:51:28,561
+I don't like to.
+
+718
+00:51:28,601 --> 00:51:31,934
+It hurts, you know?
+
+719
+00:51:49,889 --> 00:51:52,483
+P.A. Announcer: A reminder
+that every Tuesday
+
+720
+00:51:52,525 --> 00:51:56,825
+cleaning of cell blocks 5 and 15
+will commence.
+
+721
+00:51:56,863 --> 00:51:58,091
+Please make the ne...
+
+722
+00:52:14,781 --> 00:52:16,806
+Johnny.
+
+723
+00:52:16,850 --> 00:52:18,442
+Nothing to worry about.
+
+724
+00:52:18,484 --> 00:52:20,782
+I'm sure the power is gonna be
+back on in no time.
+
+725
+00:52:26,960 --> 00:52:28,985
+You want to hold the flashlight?
+
+726
+00:52:34,901 --> 00:52:36,300
+Miss Garvey.
+
+727
+00:52:36,336 --> 00:52:38,327
+Excuse me.
+
+728
+00:52:38,371 --> 00:52:39,861
+What are you doing still here?
+
+729
+00:52:39,906 --> 00:52:41,897
+Wrong turn.
+
+730
+00:52:41,941 --> 00:52:45,399
+Unlikely. Regardless,
+I don't have time for this.
+
+731
+00:52:45,445 --> 00:52:47,777
+Does this happen often?
+
+732
+00:52:47,814 --> 00:52:49,679
+The whole asylum is in lockdown.
+
+733
+00:52:49,716 --> 00:52:51,946
+It happens whenever
+there is a power failure.
+
+734
+00:52:51,985 --> 00:52:54,579
+It's a safety precaution.
+No one gets in or out.
+
+735
+00:52:54,621 --> 00:52:56,111
+What do we do?
+
+736
+00:52:56,155 --> 00:52:58,146
+We flip the switch and reset the system.
+
+737
+00:52:58,191 --> 00:53:00,785
+If you want to make yourself useful,
+
+738
+00:53:00,827 --> 00:53:03,421
+you can give me a hand.
+
+739
+00:53:14,440 --> 00:53:17,136
+We should probably check to see
+if Dr. Parker's okay.
+
+740
+00:53:17,176 --> 00:53:20,111
+Everybody calm down. I'm sure
+the lights will be back up in no time.
+
+741
+00:53:20,146 --> 00:53:23,707
+Sabrina. Oh, sweetheart.
+
+742
+00:53:26,753 --> 00:53:28,880
+Were you scared?
+
+743
+00:53:33,393 --> 00:53:35,657
+Why isn't the power turned back on?
+
+744
+00:53:35,695 --> 00:53:37,287
+I'm not sure.
+
+745
+00:53:42,268 --> 00:53:45,237
+There's the emergency lights now.
+
+746
+00:53:45,271 --> 00:53:47,296
+(water dripping)
+
+747
+00:53:49,943 --> 00:53:52,036
+Here, hold this.
+
+748
+00:53:58,384 --> 00:54:00,011
+There we go.
+
+749
+00:54:00,053 --> 00:54:02,487
+And voilà.
+
+750
+00:54:03,589 --> 00:54:05,580
+And voilà what?
+
+751
+00:54:08,528 --> 00:54:10,655
+Wait for it.
+
+752
+00:54:10,697 --> 00:54:13,097
+(beeping)
+
+753
+00:54:17,503 --> 00:54:18,936
+P.A. Announcer: Scheduling.
+
+754
+00:54:18,972 --> 00:54:22,237
+We would like to wish you
+and safe and happy...
+
+755
+00:54:22,275 --> 00:54:24,266
+system error code 1.
+
+756
+00:54:24,310 --> 00:54:25,971
+Jamie: Now listen carefully.
+
+757
+00:54:26,012 --> 00:54:28,742
+I'm sure the patients are a little
+frightened by the power outage,
+
+758
+00:54:28,781 --> 00:54:31,579
+so be extra calm and speak...
+
+759
+00:54:31,617 --> 00:54:33,983
+P.A. Announcer: Temperature gauge...
+was founded in 1929...
+
+760
+00:54:34,020 --> 00:54:35,510
+Good morning.
+
+761
+00:54:35,555 --> 00:54:37,614
+Cell door unlocking.
+
+762
+00:54:37,657 --> 00:54:39,716
+- Jamie: You have to remember...
+- Hey Jamie.
+
+763
+00:54:39,759 --> 00:54:41,920
+- (doors buzzing)
+- P.A. Announcer: Unlocking. Unlocking.
+
+764
+00:54:41,961 --> 00:54:44,725
+- Listen.
+- Unlocking. Unlocking. Unlocking.
+
+765
+00:54:44,764 --> 00:54:47,494
+- (doors buzzing)
+- Unlocking. Unlocking...
+
+766
+00:54:51,304 --> 00:54:54,137
+Oh my God.
+
+767
+00:54:56,909 --> 00:54:58,570
+P.A. Announcer: System restored.
+
+768
+00:54:58,611 --> 00:55:00,602
+Everybody just stay quiet for a second.
+
+769
+00:55:00,646 --> 00:55:03,308
+P.A. Announcer: Please do not panic.
+The asylum is in lockdown.
+
+770
+00:55:03,349 --> 00:55:04,646
+Something's beeping.
+
+771
+00:55:04,684 --> 00:55:06,675
+P.A. Announcer: Find safe quarters
+and wait for assistance
+
+772
+00:55:06,719 --> 00:55:09,188
+from the local authorities.
+
+773
+00:55:09,188 --> 00:55:11,315
+- (Benny growling)
+- (pounding)
+
+774
+00:55:17,016 --> 00:55:20,543
+(roaring)
+
+775
+00:55:25,458 --> 00:55:27,221
+I got it.
+
+776
+00:55:27,260 --> 00:55:30,525
+(rapid beeping)
+
+777
+00:55:30,563 --> 00:55:33,760
+Okay, we do it your way.
+
+778
+00:55:33,800 --> 00:55:35,734
+But I hope you know what you're doing.
+
+779
+00:55:39,105 --> 00:55:42,074
+P.A. Announcer: Please do not panic.
+The asylum is in lockdown.
+
+780
+00:55:42,108 --> 00:55:43,598
+Find safe quarters
+
+781
+00:55:43,643 --> 00:55:46,043
+and wait for assistance
+from the local authorities.
+
+782
+00:55:46,079 --> 00:55:50,209
+Benny, I need you to listen
+to my voice, okay?
+
+783
+00:55:50,250 --> 00:55:51,945
+(growling)
+
+784
+00:55:51,985 --> 00:55:54,419
+# Fais dodo #
+
+785
+00:55:54,454 --> 00:55:56,183
+# Colas mon... #
+
+786
+00:55:56,222 --> 00:55:57,780
+(roaring)
+
+787
+00:55:59,259 --> 00:56:00,783
+No?
+
+788
+00:56:00,827 --> 00:56:02,260
+Okay.
+
+789
+00:56:03,563 --> 00:56:07,090
+Marty, don't move.
+
+790
+00:56:12,071 --> 00:56:14,437
+(slower beeping)
+
+791
+00:56:19,646 --> 00:56:21,773
+Sabrina, where are you?
+
+792
+00:56:30,323 --> 00:56:32,655
+(screaming)
+
+793
+00:56:32,692 --> 00:56:34,751
+(roaring)
+
+794
+00:56:34,794 --> 00:56:35,954
+Benny, no.
+
+795
+00:56:44,504 --> 00:56:47,337
+If you don't tell me exactly what's
+going on, I'm calling the police.
+
+796
+00:56:47,373 --> 00:56:49,841
+Don't bother.
+We're separated by 8' of rock.
+
+797
+00:56:49,876 --> 00:56:52,310
+There's a landline in my office.
+
+798
+00:56:52,345 --> 00:56:54,176
+(distant roaring)
+
+799
+00:56:54,214 --> 00:56:55,943
+What was that?
+
+800
+00:56:55,982 --> 00:56:58,542
+Come with me
+and stay away from the doors.
+
+801
+00:56:58,585 --> 00:57:00,553
+Why do I need to stay away from the...?
+
+802
+00:57:00,587 --> 00:57:02,111
+(screams)
+
+803
+00:57:07,327 --> 00:57:09,557
+That's why you stay away from doors
+
+804
+00:57:09,596 --> 00:57:11,689
+and that's why we have
+proximity collars.
+
+805
+00:57:22,575 --> 00:57:24,543
+Hey, little chicken,
+
+806
+00:57:24,577 --> 00:57:26,340
+Chicken Little.
+
+807
+00:57:27,547 --> 00:57:30,641
+All right, young, tender fried chicken.
+
+808
+00:57:30,683 --> 00:57:33,948
+I'm going to chicken-finger-fry you.
+
+809
+00:57:45,531 --> 00:57:47,829
+Hey there, little one.
+
+810
+00:57:49,936 --> 00:57:51,597
+Are you okay?
+
+811
+00:57:52,672 --> 00:57:56,904
+This bad man is not gonna
+hurt you anymore.
+
+812
+00:57:59,746 --> 00:58:03,079
+I'm going to the kitchen. Want to come?
+
+813
+00:58:04,584 --> 00:58:07,712
+Well, come on.
+
+814
+00:58:07,754 --> 00:58:10,314
+I'm famished.
+
+815
+00:58:12,525 --> 00:58:14,755
+- Hey, stay with us. Stay with us.
+- What happened?
+
+816
+00:58:14,794 --> 00:58:16,352
+What happened? What happened?
+
+817
+00:58:16,396 --> 00:58:18,796
+Do you know your way
+around here in the dark?
+
+818
+00:58:18,831 --> 00:58:20,731
+Yeah. Why?
+
+819
+00:58:20,767 --> 00:58:22,997
+I need you to take me
+to the Wolf's cell.
+
+820
+00:58:23,036 --> 00:58:25,402
+Why would I do that?
+Why would I do that?
+
+821
+00:58:25,438 --> 00:58:28,771
+Because I need to make sure
+he's still there or that he's not.
+
+822
+00:58:28,808 --> 00:58:31,242
+Why me? Why not him?
+
+823
+00:58:31,277 --> 00:58:34,246
+He knows his way around here
+just as well as I do, so...
+
+824
+00:58:34,280 --> 00:58:37,306
+You, Pete, walk with me.
+
+825
+00:58:37,350 --> 00:58:40,342
+Do you have any weapons that we can
+use to round up the patients?
+
+826
+00:58:40,386 --> 00:58:43,878
+No, all we have is these tranquilizer
+guns in case Benny ever got loose.
+
+827
+00:58:43,923 --> 00:58:46,619
+They're supposed to have enough sedative
+to take down a large animal.
+
+828
+00:58:46,659 --> 00:58:49,321
+One hit him in the neck
+and he didn't go down.
+
+829
+00:58:49,362 --> 00:58:52,229
+Maybe he's a bigger animal
+than you thought.
+
+830
+00:58:52,265 --> 00:58:56,133
+(P.A. Chatter)
+
+831
+00:58:56,169 --> 00:58:58,000
+You know how to use this?
+
+832
+00:58:58,037 --> 00:58:59,937
+Good. Don't be afraid to.
+
+833
+00:58:59,972 --> 00:59:02,099
+I want you to split up into teams of two
+
+834
+00:59:02,141 --> 00:59:04,041
+and find that girl.
+
+835
+00:59:04,077 --> 00:59:06,637
+She's gone, Jamie.
+
+836
+00:59:06,679 --> 00:59:08,237
+She's gone.
+
+837
+00:59:08,281 --> 00:59:09,612
+She'll be okay, Karen.
+
+838
+00:59:09,649 --> 00:59:11,446
+Karen: I looked all over for her.
+
+839
+00:59:11,484 --> 00:59:13,418
+I can't find her anywhere.
+
+840
+00:59:13,453 --> 00:59:15,444
+I can't even think about that.
+
+841
+00:59:15,488 --> 00:59:17,183
+What about you, Johnny?
+
+842
+00:59:17,223 --> 00:59:19,350
+We'll be fine.
+
+843
+00:59:19,392 --> 00:59:21,257
+Everything's gonna be fine.
+
+844
+00:59:21,294 --> 00:59:23,285
+You take care of her, okay?
+
+845
+00:59:48,388 --> 00:59:51,152
+(beeping)
+
+846
+00:59:51,190 --> 00:59:54,284
+Sabrina. Sabrina.
+
+847
+00:59:54,327 --> 00:59:55,988
+Sabrina.
+
+848
+00:59:56,996 --> 01:00:00,056
+Sabrina.
+
+849
+01:00:00,099 --> 01:00:02,897
+We should split up like Johnny said.
+
+850
+01:00:02,935 --> 01:00:04,926
+That's a good idea.
+
+851
+01:00:04,971 --> 01:00:07,838
+Pete and I will go this way.
+And you and Greg go that way.
+
+852
+01:00:07,874 --> 01:00:10,843
+Do you still have your proximity box?
+
+853
+01:00:10,877 --> 01:00:13,072
+Good. Be ready to use it.
+
+854
+01:00:13,112 --> 01:00:16,479
+Just stick together
+and we'll all be fine.
+
+855
+01:00:19,152 --> 01:00:21,950
+Karen, we're going to find her.
+
+856
+01:00:21,988 --> 01:00:24,479
+I know.
+
+857
+01:00:27,994 --> 01:00:29,985
+Jamie: Sabrina.
+
+858
+01:00:30,029 --> 01:00:33,157
+Sabrina. Sabrina.
+
+859
+01:00:33,199 --> 01:00:34,598
+Sabrina.
+
+860
+01:00:34,634 --> 01:00:36,295
+P.A. Announcer:
+The asylum is in lockdown.
+
+861
+01:00:36,335 --> 01:00:37,529
+Sabrina.
+
+862
+01:00:37,570 --> 01:00:39,538
+P.A. Announcer:
+Please find safe quarters
+
+863
+01:00:39,572 --> 01:00:41,972
+and wait for assistance
+from the local authorities.
+
+864
+01:01:01,394 --> 01:01:04,124
+P.A. Announcer:
+The asylum is in lockdown.
+
+865
+01:01:04,163 --> 01:01:06,097
+Find safe quarters
+
+866
+01:01:06,132 --> 01:01:08,828
+and wait for assistance
+from the local authorities.
+
+867
+01:01:17,210 --> 01:01:19,508
+I don't see anything.
+
+868
+01:01:19,545 --> 01:01:20,978
+(grunts)
+
+869
+01:01:30,590 --> 01:01:32,888
+I'm getting help. I'm getting help.
+
+870
+01:01:35,394 --> 01:01:37,419
+Round two, you bastard.
+
+871
+01:01:42,668 --> 01:01:44,932
+Who the hell are you?
+
+872
+01:01:44,971 --> 01:01:47,599
+I'm the hand of God.
+
+873
+01:01:49,375 --> 01:01:51,275
+I came for ye
+
+874
+01:01:51,310 --> 01:01:53,540
+who bathed in the blood
+of the innocents.
+
+875
+01:01:55,615 --> 01:01:57,674
+You came for the Wolf?
+
+876
+01:02:00,052 --> 01:02:02,350
+Yes.
+
+877
+01:02:04,090 --> 01:02:06,388
+And you found me...
+
+878
+01:02:06,425 --> 01:02:08,450
+honest mistake.
+
+879
+01:02:10,162 --> 01:02:12,460
+I'm willing to overlook
+the whole choking bit
+
+880
+01:02:12,498 --> 01:02:14,056
+and turn the other cheek.
+
+881
+01:02:16,903 --> 01:02:19,804
+You're no better...
+
+882
+01:02:19,839 --> 01:02:22,774
+a sinner just like the Wolf.
+
+883
+01:02:23,943 --> 01:02:26,070
+Take it back.
+
+884
+01:02:26,112 --> 01:02:29,104
+Soon I will bathe in your pagan blood
+
+885
+01:02:29,148 --> 01:02:30,979
+for I am the instrument
+
+886
+01:02:31,017 --> 01:02:35,852
+of the almighty and righteous Lord God,
+
+887
+01:02:35,888 --> 01:02:37,947
+He who...
+
+888
+01:02:43,429 --> 01:02:45,090
+I will kill you.
+
+889
+01:02:58,077 --> 01:03:01,740
+The hand of God is absolute
+
+890
+01:03:01,781 --> 01:03:03,612
+and just.
+
+891
+01:03:26,572 --> 01:03:28,335
+My God.
+
+892
+01:03:28,374 --> 01:03:30,342
+Yeah.
+
+893
+01:03:30,376 --> 01:03:32,037
+Sit down.
+
+894
+01:03:43,089 --> 01:03:45,023
+Please.
+
+895
+01:03:46,359 --> 01:03:50,386
+Please mercy.
+
+896
+01:03:50,429 --> 01:03:53,057
+There is no mercy here.
+
+897
+01:03:56,736 --> 01:03:59,534
+Sabrina, Sabrina, are you in there?
+
+898
+01:04:04,010 --> 01:04:05,500
+Sabrina.
+
+899
+01:04:16,989 --> 01:04:20,254
+(rustling)
+
+900
+01:04:31,971 --> 01:04:33,495
+Greg.
+
+901
+01:04:35,041 --> 01:04:37,475
+Greg, is that you?
+
+902
+01:05:03,269 --> 01:05:05,294
+Oh my God.
+
+903
+01:05:07,907 --> 01:05:09,898
+(pounding)
+
+904
+01:05:09,942 --> 01:05:11,544
+Man on radio: # O Come... #
+
+905
+01:05:11,544 --> 01:05:12,067
+Man on radio: # O Come... #
+
+906
+01:05:12,111 --> 01:05:14,841
+(Mabel singing along)
+# All ye faithful #
+
+907
+01:05:14,880 --> 01:05:19,146
+# Joyful and triumphant #
+
+908
+01:05:19,185 --> 01:05:23,849
+# O come ye, O come ye #
+
+909
+01:05:23,889 --> 01:05:26,084
+# To Bethlehem... #
+
+910
+01:05:26,125 --> 01:05:27,422
+(whispers) Jamie.
+
+911
+01:05:29,528 --> 01:05:30,859
+It's okay.
+
+912
+01:05:30,896 --> 01:05:34,627
+# Come and behold Him #
+
+913
+01:05:34,667 --> 01:05:39,263
+# Born the King of angels #
+
+914
+01:05:39,305 --> 01:05:43,765
+# O come, let us adore Him #
+
+915
+01:05:43,809 --> 01:05:45,800
+# O come #
+
+916
+01:05:45,845 --> 01:05:48,973
+# Let us adore Him #
+
+917
+01:05:49,014 --> 01:05:51,778
+# O come, let us #
+
+918
+01:05:51,817 --> 01:05:55,309
+# Adore Him #
+
+919
+01:05:55,354 --> 01:06:00,587
+# Christ the Lord #
+
+920
+01:06:00,626 --> 01:06:02,890
+# Adeste... #
+
+921
+01:06:02,928 --> 01:06:04,919
+- (dish clatters)
+- (Mabel stops singing)
+
+922
+01:06:04,964 --> 01:06:06,989
+(radio continues) # Fideles #
+
+923
+01:06:07,032 --> 01:06:09,125
+# Laeti triumphantes... #
+
+924
+01:06:09,168 --> 01:06:12,569
+Mabel, it's Jamie.
+
+925
+01:06:12,605 --> 01:06:15,073
+Go back to your room.
+
+926
+01:06:15,107 --> 01:06:18,008
+I don't want to hurt you.
+
+927
+01:06:18,043 --> 01:06:20,011
+Mabel?
+
+928
+01:06:22,181 --> 01:06:24,206
+Drop the gun.
+
+929
+01:06:27,353 --> 01:06:32,222
+Dr. Morgan, so good of you to come.
+
+930
+01:06:35,895 --> 01:06:38,125
+Please don't kill me.
+
+931
+01:06:38,164 --> 01:06:39,995
+Shh.
+
+932
+01:06:40,032 --> 01:06:41,556
+It's okay.
+
+933
+01:06:41,600 --> 01:06:43,465
+I'm not one of the crazies.
+
+934
+01:06:43,502 --> 01:06:45,766
+You scared the crap out of me.
+
+935
+01:06:45,805 --> 01:06:47,466
+Johnny Morgan?
+
+936
+01:06:47,506 --> 01:06:48,837
+Yeah.
+
+937
+01:06:50,242 --> 01:06:52,301
+Oh, it's you.
+
+938
+01:06:52,344 --> 01:06:54,778
+- Small world.
+- Small world.
+
+939
+01:06:54,814 --> 01:06:57,715
+I'm just here checking on my client
+and making sure he's okay.
+
+940
+01:06:57,750 --> 01:06:59,411
+What a coincidence.
+
+941
+01:06:59,451 --> 01:07:01,385
+I was just gonna go
+check on your client.
+
+942
+01:07:01,420 --> 01:07:03,183
+And you know where his cell is?
+
+943
+01:07:03,222 --> 01:07:05,281
+Yeah, but he's not there.
+
+944
+01:07:05,324 --> 01:07:07,724
+He's not in his cell?
+
+945
+01:07:07,760 --> 01:07:10,228
+And how does that make you feel?
+
+946
+01:07:10,262 --> 01:07:12,730
+Better or worse?
+
+947
+01:07:12,765 --> 01:07:14,255
+That's not fair.
+
+948
+01:07:14,300 --> 01:07:16,097
+I thoroughly researched this case.
+
+949
+01:07:16,135 --> 01:07:19,298
+There is no physical evidence
+linking Grierson to your sister.
+
+950
+01:07:19,338 --> 01:07:22,000
+Listen, there's an eight-year-old girl
+down here somewhere
+
+951
+01:07:22,041 --> 01:07:23,770
+and so is he.
+
+952
+01:07:23,809 --> 01:07:26,175
+I'm not willing to give your client
+the benefit of the doubt.
+
+953
+01:07:31,684 --> 01:07:33,083
+Oh God.
+
+954
+01:07:35,554 --> 01:07:37,545
+Run.
+
+955
+01:07:41,260 --> 01:07:43,091
+I don't want any trouble.
+
+956
+01:08:03,415 --> 01:08:04,575
+Oh shit.
+
+957
+01:08:16,795 --> 01:08:19,423
+Dr. Morgan, would you be a doll
+
+958
+01:08:19,465 --> 01:08:23,299
+and drop your little gadget
+into that pot of water, please?
+
+959
+01:08:23,335 --> 01:08:27,101
+Mabel, you don't want to do this.
+
+960
+01:08:27,139 --> 01:08:31,075
+Oh, I'm pretty sure I do.
+
+961
+01:08:31,110 --> 01:08:33,135
+Mabel, please.
+
+962
+01:08:33,178 --> 01:08:34,338
+Do it.
+
+963
+01:08:34,380 --> 01:08:36,712
+Okay.
+
+964
+01:08:42,421 --> 01:08:44,286
+Okay.
+
+965
+01:08:44,323 --> 01:08:46,484
+I did what you asked.
+
+966
+01:08:46,525 --> 01:08:49,858
+Now let him go.
+
+967
+01:08:49,895 --> 01:08:52,659
+This isn't your husband, is it, Jamie?
+
+968
+01:08:54,266 --> 01:08:55,494
+No.
+
+969
+01:08:55,534 --> 01:08:57,195
+Good.
+
+970
+01:08:57,236 --> 01:08:58,828
+No!
+
+971
+01:08:59,872 --> 01:09:02,067
+Girls' night!
+
+972
+01:09:02,107 --> 01:09:05,474
+This is everything
+I ever wanted, Jamie...
+
+973
+01:09:05,511 --> 01:09:10,210
+just you and me,
+two gals alone in the kitchen,
+
+974
+01:09:10,249 --> 01:09:12,809
+cooking up a storm.
+
+975
+01:09:12,851 --> 01:09:15,149
+Mabel,
+
+976
+01:09:15,187 --> 01:09:17,485
+what have you done?
+
+977
+01:09:17,523 --> 01:09:18,956
+Oh, let's get started.
+
+978
+01:09:18,991 --> 01:09:20,253
+Male voice: Override lock.
+
+979
+01:09:20,292 --> 01:09:22,055
+- Error code 1A.
+- Come on, come on.
+
+980
+01:09:22,094 --> 01:09:23,891
+- Access denied.
+- Please please.
+
+981
+01:09:23,929 --> 01:09:25,692
+- Error code 7.
+- Come on, come on, come on.
+
+982
+01:09:25,731 --> 01:09:27,631
+- Access denied.
+- Work. Work, damn it.
+
+983
+01:09:27,666 --> 01:09:31,432
+- Override lock. Error code 7-1.
+- Come on, come on.
+
+984
+01:09:31,470 --> 01:09:32,630
+Access denied.
+
+985
+01:09:32,671 --> 01:09:34,935
+(grunts)
+
+986
+01:09:34,974 --> 01:09:37,670
+Please find safe quarters
+and wait for assistance.
+
+987
+01:09:37,710 --> 01:09:40,508
+How many fire codes is this violating?
+
+988
+01:10:02,234 --> 01:10:04,498
+I see you've removed your collar.
+
+989
+01:10:04,536 --> 01:10:08,097
+You're smarter than I thought you were.
+
+990
+01:10:09,775 --> 01:10:11,936
+Shall we end this now?
+
+991
+01:10:15,814 --> 01:10:18,180
+P.A. Announcer: In the event
+of a medical emergency
+
+992
+01:10:18,217 --> 01:10:20,378
+or if you require assistance
+
+993
+01:10:20,419 --> 01:10:22,614
+staff members can be recognized
+
+994
+01:10:22,654 --> 01:10:25,350
+by photo identification badges.
+
+995
+01:10:25,391 --> 01:10:29,293
+Although security remains foremost
+in the minds of staff at Parker's,
+
+996
+01:10:29,328 --> 01:10:32,195
+the well-being of the patients
+is second to none.
+
+997
+01:10:35,134 --> 01:10:36,795
+What the...?
+
+998
+01:10:38,871 --> 01:10:41,066
+(coughing)
+
+999
+01:10:41,106 --> 01:10:44,269
+Fuck.
+
+1000
+01:10:44,309 --> 01:10:46,777
+Damn it.
+
+1001
+01:10:53,919 --> 01:10:56,547
+I'm only gonna take one...
+
+1002
+01:10:56,588 --> 01:10:59,716
+just one, only one.
+
+1003
+01:10:59,758 --> 01:11:02,454
+- Get the hell away from me.
+- But I only need one...
+
+1004
+01:11:02,494 --> 01:11:05,156
+just one toe.
+
+1005
+01:11:05,197 --> 01:11:07,665
+Oh, Jamie told me about you.
+
+1006
+01:11:07,699 --> 01:11:10,190
+The blood is traveling to your head...
+
+1007
+01:11:10,235 --> 01:11:12,897
+leaves less blood in your feet.
+
+1008
+01:11:12,938 --> 01:11:16,374
+Won't hurt as much. Won't be as messy.
+
+1009
+01:11:16,408 --> 01:11:20,435
+If you even look at my feet,
+
+1010
+01:11:20,479 --> 01:11:21,639
+I will kill you.
+
+1011
+01:11:21,680 --> 01:11:24,012
+I was only gonna take one...
+
+1012
+01:11:24,049 --> 01:11:27,576
+the second from the last.
+You wouldn't miss it.
+
+1013
+01:11:27,619 --> 01:11:31,077
+I know it's not needed for balance
+
+1014
+01:11:31,123 --> 01:11:33,114
+or stability.
+
+1015
+01:11:33,158 --> 01:11:35,456
+It's not needed for anything really.
+
+1016
+01:11:35,494 --> 01:11:38,588
+It's the little piggy who had none.
+
+1017
+01:11:38,630 --> 01:11:42,930
+It's just not important.
+
+1018
+01:11:46,738 --> 01:11:49,605
+They're all important.
+
+1019
+01:11:51,076 --> 01:11:53,340
+Let me down.
+
+1020
+01:11:53,378 --> 01:11:54,538
+Okay.
+
+1021
+01:11:55,547 --> 01:11:56,707
+(exclaims)
+
+1022
+01:12:06,992 --> 01:12:08,892
+Where did you get that hat?
+
+1023
+01:12:08,927 --> 01:12:11,361
+The kitchen.
+
+1024
+01:12:13,031 --> 01:12:16,762
+The same place I got these.
+
+1025
+01:12:18,070 --> 01:12:19,401
+The kitchen.
+
+1026
+01:12:19,438 --> 01:12:21,838
+They're leftovers.
+
+1027
+01:12:21,874 --> 01:12:23,034
+Leftovers?
+
+1028
+01:12:23,075 --> 01:12:25,475
+Yeah. They...
+
+1029
+01:12:25,511 --> 01:12:28,503
+they won't be needing them anymore.
+
+1030
+01:12:28,547 --> 01:12:31,744
+No. Mabel.
+
+1031
+01:12:31,783 --> 01:12:34,843
+Sorry. I'm so sorry.
+
+1032
+01:12:34,887 --> 01:12:37,651
+Don't think I'm done with you.
+
+1033
+01:12:40,259 --> 01:12:42,284
+Sorry.
+
+1034
+01:12:44,796 --> 01:12:47,287
+Now, Jamie, the trick is
+
+1035
+01:12:47,332 --> 01:12:49,425
+to gut them while they're still fresh.
+
+1036
+01:12:49,468 --> 01:12:51,197
+Now I know some people would disagree,
+
+1037
+01:12:51,236 --> 01:12:52,863
+but that's the way I like to do it.
+
+1038
+01:12:52,905 --> 01:12:56,102
+And you can maximize the amount of meat
+you can freeze for later.
+
+1039
+01:12:56,141 --> 01:13:00,578
+Now the next step is
+to take off the head just like a fish.
+
+1040
+01:13:02,181 --> 01:13:03,512
+(head thuds)
+
+1041
+01:13:03,549 --> 01:13:05,517
+We'll get the eyes later.
+
+1042
+01:13:05,551 --> 01:13:08,486
+Mm, they're such a delicacy.
+
+1043
+01:13:08,520 --> 01:13:10,511
+Now then
+
+1044
+01:13:10,556 --> 01:13:12,956
+you take a sharp cutting knife like this
+
+1045
+01:13:12,991 --> 01:13:14,982
+and you pierce the flesh
+
+1046
+01:13:15,027 --> 01:13:17,552
+just under the ribcage.
+
+1047
+01:13:17,596 --> 01:13:20,895
+Here, I like to call this
+a gutting knife...
+
+1048
+01:13:20,933 --> 01:13:23,424
+you know, cutting knife... gutting knife.
+
+1049
+01:13:23,468 --> 01:13:26,995
+Anyway, so then you make a straight line
+
+1050
+01:13:27,039 --> 01:13:29,439
+down from the abdomen
+
+1051
+01:13:29,474 --> 01:13:33,877
+just... just above his wee-wee.
+
+1052
+01:13:33,912 --> 01:13:37,712
+Ooh, looks like he's been cut before.
+
+1053
+01:13:37,749 --> 01:13:38,977
+(giggles)
+
+1054
+01:13:39,017 --> 01:13:41,383
+Oh, I can be so nasty sometimes.
+
+1055
+01:13:41,420 --> 01:13:45,117
+Now comes the fun part.
+
+1056
+01:13:47,492 --> 01:13:50,791
+Okay, hold these.
+
+1057
+01:13:52,664 --> 01:13:54,427
+Come on, hold these.
+
+1058
+01:13:54,466 --> 01:13:56,525
+There.
+
+1059
+01:13:56,568 --> 01:13:58,502
+Good.
+
+1060
+01:14:00,872 --> 01:14:04,610
+Oh, Jamie, that is so gross.
+
+1061
+01:14:05,744 --> 01:14:08,770
+(both yelp)
+
+1062
+01:14:08,814 --> 01:14:11,578
+You scream like a girl.
+
+1063
+01:14:13,051 --> 01:14:15,246
+So do you.
+
+1064
+01:14:15,287 --> 01:14:17,687
+You don't see me judging.
+
+1065
+01:14:17,723 --> 01:14:19,486
+Where's Dr. Parker?
+
+1066
+01:14:19,524 --> 01:14:21,458
+I was gonna go check his office.
+
+1067
+01:14:21,493 --> 01:14:22,960
+What are you still doing here?
+
+1068
+01:14:22,995 --> 01:14:25,020
+It's a long story.
+
+1069
+01:14:29,401 --> 01:14:31,835
+You think we should go in?
+
+1070
+01:14:40,145 --> 01:14:42,170
+Dr. Parker?
+
+1071
+01:14:44,049 --> 01:14:45,710
+He's not here.
+
+1072
+01:14:54,426 --> 01:14:57,156
+This doesn't make any sense.
+
+1073
+01:14:57,195 --> 01:14:58,594
+What is it?
+
+1074
+01:14:58,630 --> 01:15:01,190
+This is Dr. Parker's file on Grierson.
+
+1075
+01:15:01,233 --> 01:15:03,326
+You shouldn't be reading this.
+
+1076
+01:15:03,368 --> 01:15:05,836
+Okay, but I am. Look.
+
+1077
+01:15:05,871 --> 01:15:09,068
+If I'm reading it correctly, it says
+Grierson was already a patient here,
+
+1078
+01:15:09,107 --> 01:15:11,473
+but under Dr. Parker Senior's care.
+
+1079
+01:15:11,510 --> 01:15:13,740
+But the name on the file is Mason Crane.
+
+1080
+01:15:13,779 --> 01:15:16,748
+Well, I'm sure there's
+some sort of explanation for this.
+
+1081
+01:15:16,782 --> 01:15:18,579
+Of course there's an explanation for it,
+
+1082
+01:15:18,617 --> 01:15:20,414
+but this is the first time
+I've heard of it,
+
+1083
+01:15:20,452 --> 01:15:22,181
+and I'm gonna ask Dr. Parker why.
+
+1084
+01:15:22,220 --> 01:15:23,744
+Where are you going?
+
+1085
+01:15:23,789 --> 01:15:25,814
+We should wait here.
+
+1086
+01:15:26,825 --> 01:15:28,053
+Right?
+
+1087
+01:16:01,893 --> 01:16:03,884
+Oh, I could get used to this.
+
+1088
+01:16:10,402 --> 01:16:12,597
+(grunting)
+
+1089
+01:16:12,637 --> 01:16:14,935
+P.A. Announcer: On behalf
+of the board of directors
+
+1090
+01:16:14,973 --> 01:16:17,339
+at Parker's Asylum,
+we would like to wish you
+
+1091
+01:16:17,376 --> 01:16:20,072
+a safe and happy holiday.
+
+1092
+01:16:21,413 --> 01:16:22,573
+Carl?
+
+1093
+01:16:22,614 --> 01:16:24,639
+P.A. Announcer: Merry Christmas.
+
+1094
+01:16:31,590 --> 01:16:35,390
+Jamie, are you paying attention?
+
+1095
+01:16:35,427 --> 01:16:37,292
+Good.
+
+1096
+01:16:37,329 --> 01:16:40,264
+Now the next thing we do
+
+1097
+01:16:40,298 --> 01:16:41,856
+with our rib dish...
+
+1098
+01:16:41,900 --> 01:16:44,368
+we put it in the oven for 88 minutes,
+
+1099
+01:16:44,403 --> 01:16:45,836
+not 90. 88,
+
+1100
+01:16:45,871 --> 01:16:50,604
+and cook it at 375 degrees
+
+1101
+01:16:50,642 --> 01:16:52,542
+on the top rack,
+
+1102
+01:16:52,577 --> 01:16:54,704
+because we don't want to lose
+the vitamins now, do we?
+
+1103
+01:16:54,746 --> 01:16:57,146
+And then ta-dah!
+
+1104
+01:16:57,182 --> 01:16:59,309
+Simple as dimple pie.
+
+1105
+01:17:06,024 --> 01:17:08,618
+Between us,
+
+1106
+01:17:08,660 --> 01:17:12,596
+I'd say you have a better rack
+than old buddy boy in there.
+
+1107
+01:17:14,299 --> 01:17:17,393
+But friends just don't eat friends.
+
+1108
+01:17:17,436 --> 01:17:19,700
+I mean, what kind of person would I be
+
+1109
+01:17:19,738 --> 01:17:21,706
+to eat you for dessert, huh?
+
+1110
+01:17:21,740 --> 01:17:23,674
+I'm not saying you wouldn't taste good.
+
+1111
+01:17:23,708 --> 01:17:25,869
+On the contrary,
+
+1112
+01:17:25,911 --> 01:17:28,607
+I'm sure
+
+1113
+01:17:28,647 --> 01:17:30,808
+your tight legs
+
+1114
+01:17:30,849 --> 01:17:33,409
+are juicy.
+
+1115
+01:17:33,452 --> 01:17:36,148
+And with a cherry glaze...
+
+1116
+01:17:37,856 --> 01:17:41,724
+mm mm mm.
+
+1117
+01:17:41,760 --> 01:17:44,923
+Oh, sometimes I get so carried away.
+
+1118
+01:17:44,963 --> 01:17:47,158
+Let's make the eyeball spread.
+
+1119
+01:17:47,199 --> 01:17:49,190
+(whirring)
+
+1120
+01:17:51,203 --> 01:17:53,103
+Jamie,
+
+1121
+01:17:53,138 --> 01:17:56,835
+I gotta say I'm having a wonderful time.
+
+1122
+01:17:56,875 --> 01:18:00,038
+I'd rather be here with you
+than with anyone...
+
+1123
+01:18:00,078 --> 01:18:01,545
+(screaming)
+
+1124
+01:18:11,623 --> 01:18:15,582
+Now what did you have to go
+and do that for?
+
+1125
+01:18:20,565 --> 01:18:22,965
+Oh my God.
+
+1126
+01:18:25,971 --> 01:18:28,667
+Argh!
+
+1127
+01:18:28,707 --> 01:18:32,666
+We were having such a good time.
+
+1128
+01:18:32,711 --> 01:18:35,703
+And then you had to go and ruin it
+
+1129
+01:18:35,747 --> 01:18:38,147
+by stabbing me in the back.
+
+1130
+01:18:39,718 --> 01:18:43,984
+Jamie, I thought we were friends.
+
+1131
+01:18:44,022 --> 01:18:45,922
+We were, Mabel.
+
+1132
+01:18:45,957 --> 01:18:47,720
+We were friends.
+
+1133
+01:18:47,759 --> 01:18:49,886
+But what do you expect?
+
+1134
+01:18:49,928 --> 01:18:53,921
+You're cooking half my staff for dinner.
+
+1135
+01:18:53,965 --> 01:18:56,058
+And Pete...
+
+1136
+01:18:56,101 --> 01:18:57,796
+oh my God.
+
+1137
+01:18:57,836 --> 01:18:59,030
+Jamie.
+
+1138
+01:18:59,070 --> 01:19:01,129
+Mabel,
+
+1139
+01:19:01,172 --> 01:19:03,265
+we're not that close.
+
+1140
+01:19:03,308 --> 01:19:05,105
+No, but we're close enough.
+
+1141
+01:19:12,284 --> 01:19:15,742
+Aww, did Jamie have a boo-boo?
+
+1142
+01:19:15,787 --> 01:19:16,913
+Mabel, please.
+
+1143
+01:19:16,955 --> 01:19:19,788
+No more "pleases," Jamie.
+
+1144
+01:19:28,266 --> 01:19:31,963
+I think it's time we made
+
+1145
+01:19:32,003 --> 01:19:34,403
+Jamie a la mode.
+
+1146
+01:19:44,149 --> 01:19:45,411
+(screams)
+
+1147
+01:19:48,286 --> 01:19:50,720
+Harold,
+
+1148
+01:19:50,755 --> 01:19:53,121
+it's me...
+
+1149
+01:19:53,158 --> 01:19:56,093
+your attorney.
+
+1150
+01:19:56,127 --> 01:19:59,028
+Harold, listen to me.
+
+1151
+01:19:59,064 --> 01:20:00,998
+Listen to me.
+
+1152
+01:20:01,032 --> 01:20:03,592
+I found a file that shows
+that you were treated here before
+
+1153
+01:20:03,635 --> 01:20:05,535
+by Dr. Parker's father.
+
+1154
+01:20:05,570 --> 01:20:08,095
+Now they're trying to cover it up
+and I don't know why.
+
+1155
+01:20:08,139 --> 01:20:11,836
+But this is new information.
+We can get you a new hearing.
+
+1156
+01:20:11,876 --> 01:20:13,867
+We can get you to a new
+treatment facility,
+
+1157
+01:20:13,912 --> 01:20:16,346
+take you to somewhere
+that has some goddamn windows.
+
+1158
+01:20:18,149 --> 01:20:20,549
+Oh God.
+
+1159
+01:20:20,585 --> 01:20:22,348
+I just... I just...
+
+1160
+01:20:22,387 --> 01:20:24,719
+I just want to help you.
+
+1161
+01:20:42,641 --> 01:20:44,768
+L...
+
+1162
+01:20:45,777 --> 01:20:47,745
+I just...
+
+1163
+01:20:47,779 --> 01:20:49,974
+I just want to help you.
+
+1164
+01:20:50,015 --> 01:20:51,778
+Okay?
+
+1165
+01:20:56,955 --> 01:20:58,820
+Argh!
+
+1166
+01:21:00,425 --> 01:21:02,450
+I don't... I don't...
+
+1167
+01:21:02,494 --> 01:21:05,019
+I don't want to die.
+
+1168
+01:21:12,103 --> 01:21:14,094
+Man on radio: # What a shame #
+
+1169
+01:21:14,139 --> 01:21:16,869
+# To miss this #
+
+1170
+01:21:18,710 --> 01:21:21,907
+# Time of year when all is white #
+
+1171
+01:21:25,116 --> 01:21:28,574
+# We've been all so busy lately #
+
+1172
+01:21:30,922 --> 01:21:34,221
+# Now I'm asking you to stay #
+
+1173
+01:21:37,295 --> 01:21:39,024
+# Let's stay home... #
+
+1174
+01:21:39,064 --> 01:21:40,554
+Johnny.
+
+1175
+01:21:41,633 --> 01:21:43,658
+Johnny.
+
+1176
+01:21:43,702 --> 01:21:45,329
+(slow beeping)
+
+1177
+01:21:45,370 --> 01:21:47,361
+(low growling)
+
+1178
+01:21:47,405 --> 01:21:48,633
+(screams)
+
+1179
+01:21:48,673 --> 01:21:49,833
+Shh shh shh.
+
+1180
+01:21:49,874 --> 01:21:52,104
+(whispering) It's okay. It's me.
+
+1181
+01:21:53,945 --> 01:21:56,277
+There's a really big guy
+around the corner.
+
+1182
+01:21:56,314 --> 01:21:58,509
+And we don't want to make him angry.
+
+1183
+01:21:58,550 --> 01:22:01,178
+Understand?
+
+1184
+01:22:01,219 --> 01:22:02,584
+Okay.
+
+1185
+01:22:06,124 --> 01:22:08,649
+- Where have you been?
+- Jamie's in trouble.
+
+1186
+01:22:08,693 --> 01:22:11,025
+- Where?
+- In the kitchen.
+
+1187
+01:22:11,062 --> 01:22:13,826
+Okay, I want you to stay here
+
+1188
+01:22:13,865 --> 01:22:15,856
+and only open the door if it's me,
+
+1189
+01:22:15,900 --> 01:22:17,765
+Jamie or your grandma. You got it?
+
+1190
+01:22:17,802 --> 01:22:19,861
+Got it.
+
+1191
+01:22:19,904 --> 01:22:21,895
+I'll be right back.
+
+1192
+01:22:21,940 --> 01:22:24,340
+(P.A. Chatter)
+
+1193
+01:22:35,386 --> 01:22:37,786
+Could I have the flashlight back?
+
+1194
+01:22:39,824 --> 01:22:41,815
+Okay.
+
+1195
+01:22:43,428 --> 01:22:45,396
+Thanks.
+
+1196
+01:22:45,430 --> 01:22:47,455
+I got an idea.
+
+1197
+01:22:47,499 --> 01:22:49,899
+(low growling)
+
+1198
+01:22:49,934 --> 01:22:52,164
+(slow beeping)
+
+1199
+01:22:56,641 --> 01:22:59,508
+Hey big guy.
+
+1200
+01:22:59,544 --> 01:23:02,809
+Remember me?
+
+1201
+01:23:02,847 --> 01:23:05,372
+Beat it.
+
+1202
+01:23:05,416 --> 01:23:07,043
+I can't.
+
+1203
+01:23:07,085 --> 01:23:08,575
+Jamie's in trouble.
+
+1204
+01:23:08,620 --> 01:23:11,316
+The pretty lady?
+
+1205
+01:23:12,357 --> 01:23:15,190
+Yeah, the pretty lady.
+
+1206
+01:23:18,263 --> 01:23:20,254
+Go away.
+
+1207
+01:23:20,298 --> 01:23:23,131
+Johnny: I wish it didn't have to
+come to this
+
+1208
+01:23:23,168 --> 01:23:25,693
+and I hope I'm not making
+a giant mistake,
+
+1209
+01:23:25,737 --> 01:23:28,399
+but, big guy,
+
+1210
+01:23:28,439 --> 01:23:31,772
+it's time to get nuts.
+
+1211
+01:23:34,045 --> 01:23:35,603
+Hey.
+
+1212
+01:23:36,948 --> 01:23:38,939
+(roaring)
+
+1213
+01:23:38,983 --> 01:23:41,178
+Yeah, that's it.
+
+1214
+01:23:41,219 --> 01:23:42,948
+Come and get me.
+
+1215
+01:23:42,987 --> 01:23:46,013
+(Benny roaring)
+
+1216
+01:23:52,497 --> 01:23:54,897
+(upbeat music playing on radio)
+
+1217
+01:23:56,968 --> 01:24:00,665
+Hey, Mabel, chew on this.
+
+1218
+01:24:00,705 --> 01:24:02,605
+(rapid beeping)
+
+1219
+01:24:02,640 --> 01:24:04,232
+(roaring)
+
+1220
+01:24:07,445 --> 01:24:10,710
+Okay, big boy,
+
+1221
+01:24:10,748 --> 01:24:13,046
+let's see what you got.
+
+1222
+01:24:18,122 --> 01:24:19,783
+(exclaims)
+
+1223
+01:24:21,259 --> 01:24:23,284
+(Mabel screaming)
+
+1224
+01:24:30,902 --> 01:24:32,893
+Johnny.
+
+1225
+01:24:32,937 --> 01:24:36,031
+Shh, it's okay. I got you.
+
+1226
+01:24:36,074 --> 01:24:38,304
+Johnny, Mabel... she...
+
+1227
+01:24:40,245 --> 01:24:41,507
+I know.
+
+1228
+01:24:43,815 --> 01:24:46,477
+I saw.
+
+1229
+01:24:48,186 --> 01:24:50,017
+She killed Pete, Johnny.
+
+1230
+01:24:51,723 --> 01:24:53,714
+I'm sorry.
+
+1231
+01:24:53,758 --> 01:24:55,919
+I'm so sorry.
+
+1232
+01:24:56,961 --> 01:24:58,986
+I'm so sorry.
+
+1233
+01:25:00,164 --> 01:25:02,428
+Jamie,
+
+1234
+01:25:02,467 --> 01:25:04,731
+I need you to be strong.
+
+1235
+01:25:06,337 --> 01:25:08,703
+Sabrina's waiting for us.
+
+1236
+01:25:08,740 --> 01:25:11,004
+Sabrina?
+
+1237
+01:25:11,042 --> 01:25:12,703
+Where is she?
+
+1238
+01:25:13,711 --> 01:25:15,872
+(door opens)
+
+1239
+01:25:18,182 --> 01:25:20,207
+(whispers) Grandma.
+
+1240
+01:25:21,286 --> 01:25:24,312
+P.A. Announcer: Please make the
+necessary arrangements with scheduling.
+
+1241
+01:25:24,355 --> 01:25:26,016
+Johnny, wait.
+I just wanted to say something.
+
+1242
+01:25:26,057 --> 01:25:28,184
+Jamie, there will be time for all that
+when we get out of here.
+
+1243
+01:25:28,226 --> 01:25:29,818
+No.
+
+1244
+01:25:29,861 --> 01:25:32,989
+Johnny, I never stopped wearing
+your wedding ring.
+
+1245
+01:25:34,299 --> 01:25:37,291
+I just want you to know
+
+1246
+01:25:37,335 --> 01:25:40,065
+I never stopped wearing it.
+
+1247
+01:26:13,171 --> 01:26:14,305
+Sabrina. Sabrina, you can come out now.
+
+1248
+01:26:14,305 --> 01:26:16,865
+Sabrina. Sabrina, you can come out now.
+
+1249
+01:26:18,409 --> 01:26:20,206
+Shit.
+
+1250
+01:26:39,364 --> 01:26:41,992
+Holy Father Who art in heaven,
+
+1251
+01:26:42,033 --> 01:26:44,228
+hallowed be Thy name, Thy kingdom come,
+
+1252
+01:26:44,268 --> 01:26:45,599
+Thy will be done!
+
+1253
+01:26:46,604 --> 01:26:47,764
+(gasps)
+
+1254
+01:26:49,374 --> 01:26:51,399
+(gagging)
+
+1255
+01:27:07,625 --> 01:27:09,616
+- Sabrina.
+- Sabrina.
+
+1256
+01:27:09,660 --> 01:27:11,958
+Johnny, I'm over here.
+
+1257
+01:27:11,996 --> 01:27:15,557
+- Jamie: Sabrina.
+- Jamie.
+
+1258
+01:27:15,600 --> 01:27:17,830
+Jamie: We're over here, Sabrina.
+
+1259
+01:27:20,838 --> 01:27:22,772
+Johnny, I'm over here.
+
+1260
+01:27:22,807 --> 01:27:24,798
+Sabrina.
+
+1261
+01:27:24,842 --> 01:27:26,673
+It's okay.
+
+1262
+01:27:26,711 --> 01:27:28,440
+We got you.
+
+1263
+01:27:28,479 --> 01:27:30,606
+Jamie: Thank God we found you.
+
+1264
+01:27:32,917 --> 01:27:34,942
+(panting)
+
+1265
+01:27:37,622 --> 01:27:40,090
+Hey, kid, it's okay. We got you.
+
+1266
+01:27:41,292 --> 01:27:44,022
+(whispers) He's here.
+
+1267
+01:27:56,307 --> 01:27:58,138
+Go. Get out of here.
+
+1268
+01:27:58,176 --> 01:28:00,041
+I'm not leaving without you.
+
+1269
+01:28:00,078 --> 01:28:01,238
+Just go.
+
+1270
+01:28:09,654 --> 01:28:11,554
+Sabrina, go go go.
+
+1271
+01:28:11,589 --> 01:28:15,081
+If you want them,
+you're gonna have to go through me.
+
+1272
+01:28:19,497 --> 01:28:22,625
+Jamie, run! Run as fast as you can!
+
+1273
+01:28:24,435 --> 01:28:26,926
+Jamie, he's gonna cut you off. Go go go!
+
+1274
+01:28:47,425 --> 01:28:49,655
+Jamie?
+
+1275
+01:28:55,333 --> 01:28:56,561
+It's gonna be okay.
+
+1276
+01:29:00,271 --> 01:29:02,466
+Be strong.
+
+1277
+01:29:04,509 --> 01:29:06,568
+(screams)
+
+1278
+01:29:14,051 --> 01:29:17,248
+(shuffling)
+
+1279
+01:29:23,261 --> 01:29:25,024
+What the hell do you want?
+
+1280
+01:29:25,062 --> 01:29:27,155
+I'm sorry,
+
+1281
+01:29:27,198 --> 01:29:28,859
+really sorry.
+
+1282
+01:29:28,900 --> 01:29:32,597
+I'm over it. Now get out of here.
+
+1283
+01:29:32,637 --> 01:29:35,197
+She's gone.
+
+1284
+01:29:35,239 --> 01:29:38,470
+I'm sorry, she's gone.
+
+1285
+01:29:38,509 --> 01:29:41,535
+Oliver, if you know where Jamie is,
+
+1286
+01:29:41,579 --> 01:29:43,274
+by God you'd better tell me.
+
+1287
+01:29:43,314 --> 01:29:46,806
+The walls... if you listen
+
+1288
+01:29:46,851 --> 01:29:48,944
+they tell you secrets...
+
+1289
+01:29:48,986 --> 01:29:52,046
+secrets only the walls could know.
+
+1290
+01:29:52,089 --> 01:29:55,456
+I know secrets too.
+
+1291
+01:29:55,493 --> 01:29:57,290
+The spirits...
+
+1292
+01:29:57,328 --> 01:29:59,558
+they're crazy too, you know.
+
+1293
+01:29:59,597 --> 01:30:01,690
+What are you babbling about?
+
+1294
+01:30:01,732 --> 01:30:05,190
+The land, this building.
+
+1295
+01:30:05,236 --> 01:30:08,637
+Listen. Listen.
+
+1296
+01:30:08,673 --> 01:30:10,834
+I don't hear anything.
+
+1297
+01:30:10,875 --> 01:30:12,934
+If you want to know, then listen!
+
+1298
+01:30:14,078 --> 01:30:16,103
+Listen.
+
+1299
+01:30:18,382 --> 01:30:20,407
+They hide
+
+1300
+01:30:20,451 --> 01:30:22,851
+deep in the ground.
+
+1301
+01:30:24,155 --> 01:30:25,986
+Your answer
+
+1302
+01:30:26,023 --> 01:30:28,423
+lies there.
+
+1303
+01:30:51,415 --> 01:30:53,815
+Are you the Woodcutter?
+
+1304
+01:30:56,153 --> 01:30:58,178
+Let's find out.
+
+1305
+01:31:13,671 --> 01:31:16,663
+Oliver,
+
+1306
+01:31:16,707 --> 01:31:20,336
+if we get out of this alive,
+do me a favor,
+
+1307
+01:31:20,378 --> 01:31:23,313
+put some clothes on.
+
+1308
+01:31:56,781 --> 01:31:59,545
+Sabrina! Oh God.
+
+1309
+01:31:59,583 --> 01:32:01,744
+Sabrina.
+
+1310
+01:32:01,786 --> 01:32:04,118
+Wake up, Sabrina.
+
+1311
+01:32:12,430 --> 01:32:15,729
+Sabrina, over here.
+
+1312
+01:32:26,110 --> 01:32:28,101
+Jamie.
+
+1313
+01:32:28,145 --> 01:32:32,081
+Sabrina, we have to get out
+of here, okay?
+
+1314
+01:32:32,116 --> 01:32:35,142
+We... we...
+
+1315
+01:32:40,591 --> 01:32:42,320
+we have to get out of here.
+
+1316
+01:32:50,134 --> 01:32:52,125
+Sabrina, wait.
+
+1317
+01:33:06,517 --> 01:33:07,984
+Grandma?
+
+1318
+01:33:09,019 --> 01:33:11,283
+(screams)
+
+1319
+01:33:11,322 --> 01:33:13,950
+Run, Sabrina, run!
+
+1320
+01:33:17,762 --> 01:33:19,696
+Leave her alone.
+
+1321
+01:33:29,507 --> 01:33:31,099
+Johnny.
+
+1322
+01:33:40,951 --> 01:33:42,976
+Go hide, Sabrina.
+
+1323
+01:33:55,800 --> 01:33:57,927
+Argh!
+
+1324
+01:34:05,709 --> 01:34:07,506
+Jamie: Johnny!
+
+1325
+01:34:42,379 --> 01:34:43,778
+Johnny, run.
+
+1326
+01:34:45,449 --> 01:34:46,939
+Run.
+
+1327
+01:34:51,722 --> 01:34:53,280
+Johnny, no.
+
+1328
+01:34:55,526 --> 01:34:56,959
+Johnny!
+
+1329
+01:35:29,426 --> 01:35:31,291
+Jamie.
+
+1330
+01:35:39,737 --> 01:35:41,602
+Stay away from him.
+
+1331
+01:35:46,243 --> 01:35:50,805
+Who... who...
+
+1332
+01:35:50,848 --> 01:35:53,612
+who are you?
+
+1333
+01:36:21,445 --> 01:36:23,470
+Hello, Johnny.
+
+1334
+01:36:25,716 --> 01:36:27,183
+Dr. Parker?
+
+1335
+01:36:27,217 --> 01:36:29,378
+You're the...?
+
+1336
+01:36:29,420 --> 01:36:32,389
+How could you do this?
+
+1337
+01:36:32,423 --> 01:36:36,257
+Do you want my professional opinion
+or do you want the truth?
+
+1338
+01:36:36,293 --> 01:36:39,262
+My professional opinion is
+that as a child
+
+1339
+01:36:39,296 --> 01:36:41,924
+I was neglected by my mother
+and at the same time
+
+1340
+01:36:41,966 --> 01:36:44,457
+severely beaten by my father.
+
+1341
+01:36:44,501 --> 01:36:47,061
+During one particular example
+
+1342
+01:36:47,104 --> 01:36:49,436
+of patriarchal brutality
+
+1343
+01:36:49,473 --> 01:36:51,839
+my father drowned me repeatedly
+
+1344
+01:36:51,875 --> 01:36:55,333
+until I promised never to question
+his authority again,
+
+1345
+01:36:55,379 --> 01:36:57,210
+drowned me in the same cage
+
+1346
+01:36:57,247 --> 01:36:59,579
+where he would drown his patients.
+
+1347
+01:36:59,617 --> 01:37:03,144
+But with me
+
+1348
+01:37:03,187 --> 01:37:05,815
+it was different...
+
+1349
+01:37:05,856 --> 01:37:07,847
+very different.
+
+1350
+01:37:07,891 --> 01:37:10,485
+The truth, you see,
+is much more interesting.
+
+1351
+01:37:10,527 --> 01:37:14,520
+You see, Jamie, when he raised
+the cage for the last time
+
+1352
+01:37:14,565 --> 01:37:19,229
+he brought up not only
+his waterlogged son
+
+1353
+01:37:19,269 --> 01:37:22,568
+but something from deep inside the well,
+
+1354
+01:37:22,606 --> 01:37:25,166
+something evil,
+
+1355
+01:37:25,209 --> 01:37:28,701
+something powerful,
+
+1356
+01:37:28,746 --> 01:37:33,012
+something with an unquenchable
+thirst for life.
+
+1357
+01:37:33,050 --> 01:37:35,348
+I don't understand.
+
+1358
+01:37:35,386 --> 01:37:38,321
+Grierson... how does he fit in?
+
+1359
+01:37:38,355 --> 01:37:40,550
+Grierson is nothing,
+
+1360
+01:37:40,591 --> 01:37:43,958
+like a piece of clay
+at the hands of a sculptor...
+
+1361
+01:37:43,994 --> 01:37:47,760
+easily manipulated, easy to train.
+
+1362
+01:37:47,798 --> 01:37:49,891
+Wolves hunt in packs.
+
+1363
+01:37:49,933 --> 01:37:51,901
+But ultimately he was a fool.
+
+1364
+01:37:51,935 --> 01:37:56,338
+Yes, I'd let him wear my suit,
+
+1365
+01:37:56,373 --> 01:37:59,308
+but a man is not the measure
+of the clothes on his back.
+
+1366
+01:37:59,343 --> 01:38:01,334
+I created in Grierson
+
+1367
+01:38:01,378 --> 01:38:04,245
+a perfect scapegoat for my past crimes.
+
+1368
+01:38:04,281 --> 01:38:08,513
+I brought him here so that
+I could watch over him forever.
+
+1369
+01:38:09,653 --> 01:38:11,644
+But when your husband decided
+
+1370
+01:38:11,689 --> 01:38:14,988
+to take justice into his own hands,
+
+1371
+01:38:15,025 --> 01:38:17,391
+I couldn't resist.
+
+1372
+01:38:17,428 --> 01:38:19,419
+I saw the opportunity
+
+1373
+01:38:19,463 --> 01:38:22,261
+to tie up all my loose ends
+in one night.
+
+1374
+01:38:23,767 --> 01:38:26,167
+You see, Johnny, in the grand scheme
+
+1375
+01:38:26,203 --> 01:38:29,866
+that's all you are...
+
+1376
+01:38:29,907 --> 01:38:32,171
+a loose end.
+
+1377
+01:38:32,209 --> 01:38:35,804
+You didn't have to kill everyone.
+
+1378
+01:38:35,846 --> 01:38:37,837
+Karen had nothing to do with this.
+
+1379
+01:38:37,881 --> 01:38:40,179
+Well, the irony of a grandmother
+and a granddaughter
+
+1380
+01:38:40,217 --> 01:38:42,014
+wasn't lost on me.
+
+1381
+01:38:42,052 --> 01:38:44,213
+Speaking of which,
+
+1382
+01:38:44,254 --> 01:38:47,621
+I'd better get about finding Little Red.
+
+1383
+01:38:52,963 --> 01:38:55,523
+Why did you stop
+
+1384
+01:38:55,566 --> 01:38:58,262
+after all of these years,
+after Johnny's sister?
+
+1385
+01:38:58,302 --> 01:39:00,827
+Why did you stop?
+
+1386
+01:39:00,871 --> 01:39:03,101
+Who said I stopped?
+
+1387
+01:39:06,009 --> 01:39:08,876
+You won't get away with this.
+
+1388
+01:39:08,912 --> 01:39:10,903
+Dr. Parker: I can see the papers now...
+
+1389
+01:39:10,948 --> 01:39:13,109
+"A Christmas Miracle.
+
+1390
+01:39:13,150 --> 01:39:17,086
+Harold Grierson the Wolf
+is Killed by Dr. Parker
+
+1391
+01:39:17,121 --> 01:39:19,112
+in Horrific Holiday Massacre.
+
+1392
+01:39:19,156 --> 01:39:21,181
+A Hero for our Time."
+
+1393
+01:39:23,460 --> 01:39:25,894
+But the Wolf won't be gone for long.
+
+1394
+01:39:25,929 --> 01:39:28,397
+He will return
+
+1395
+01:39:28,432 --> 01:39:31,094
+when the hunger gets too great.
+
+1396
+01:39:31,135 --> 01:39:33,695
+You killed my sister.
+
+1397
+01:39:35,072 --> 01:39:37,734
+I killed lots of little girls.
+
+1398
+01:39:37,775 --> 01:39:41,074
+And like all those beautiful girls,
+
+1399
+01:39:41,111 --> 01:39:43,978
+you too will find what evil awaits
+
+1400
+01:39:44,014 --> 01:39:46,346
+in the bottom of the well.
+
+1401
+01:39:58,962 --> 01:40:01,226
+(wrench clatters)
+
+1402
+01:40:03,467 --> 01:40:04,934
+Little Red.
+
+1403
+01:40:04,968 --> 01:40:06,629
+Sabrina, run.
+
+1404
+01:40:06,670 --> 01:40:09,195
+Get out of here. Run and hide!
+
+1405
+01:40:15,212 --> 01:40:18,649
+Johnny, Johnny, you have to get up.
+
+1406
+01:40:22,719 --> 01:40:25,517
+You can't hide, Sabrina.
+
+1407
+01:40:25,556 --> 01:40:30,220
+Johnny, wake up. Johnny, wake up.
+
+1408
+01:40:31,461 --> 01:40:32,792
+Katie: Four...
+
+1409
+01:40:32,830 --> 01:40:35,594
+Katie.
+
+1410
+01:40:35,632 --> 01:40:39,728
+Katie: Five, six,
+
+1411
+01:40:39,770 --> 01:40:44,070
+seven, eight,
+
+1412
+01:40:44,107 --> 01:40:47,736
+nine, 10.
+
+1413
+01:40:47,778 --> 01:40:50,338
+Ready or not,
+
+1414
+01:40:50,380 --> 01:40:52,746
+here I come.
+
+1415
+01:40:57,888 --> 01:41:00,254
+Johnny, I can't play now.
+
+1416
+01:41:00,290 --> 01:41:01,951
+You have to get up.
+
+1417
+01:41:01,992 --> 01:41:03,823
+Johnny: I'm dying.
+
+1418
+01:41:03,861 --> 01:41:05,328
+I don't think I can.
+
+1419
+01:41:05,362 --> 01:41:07,762
+Katie: You don't have a choice.
+
+1420
+01:41:07,798 --> 01:41:09,163
+Get up!
+
+1421
+01:41:09,199 --> 01:41:11,599
+Jamie: Johnny, please.
+
+1422
+01:41:11,635 --> 01:41:13,626
+You have to get up.
+
+1423
+01:41:18,575 --> 01:41:21,135
+Oh my God, Jamie. How do I stop it?
+
+1424
+01:41:21,178 --> 01:41:24,409
+You can't. He broke the lever.
+
+1425
+01:41:24,448 --> 01:41:26,177
+There's got to be another way.
+
+1426
+01:41:26,216 --> 01:41:27,513
+There isn't.
+
+1427
+01:41:27,551 --> 01:41:29,178
+Johnny, you gotta go.
+
+1428
+01:41:29,219 --> 01:41:30,982
+Save Sabrina.
+
+1429
+01:41:31,021 --> 01:41:33,581
+Don't let him get her too.
+
+1430
+01:41:33,624 --> 01:41:35,114
+I'm not leaving you.
+
+1431
+01:41:36,159 --> 01:41:38,423
+Listen to me, Johnny.
+
+1432
+01:41:38,462 --> 01:41:40,589
+You have time
+to come back and save me.
+
+1433
+01:41:40,631 --> 01:41:43,623
+But you gotta go now, okay?
+
+1434
+01:41:43,667 --> 01:41:45,999
+Jamie, there's not enough time.
+
+1435
+01:41:46,036 --> 01:41:48,197
+God damn it, Johnny, just go.
+
+1436
+01:41:52,809 --> 01:41:53,969
+Go.
+
+1437
+01:41:55,279 --> 01:41:57,110
+Go.
+
+1438
+01:42:06,623 --> 01:42:08,682
+Dr. Parker: You can't hide, Sabrina.
+
+1439
+01:42:08,725 --> 01:42:10,522
+I will find you.
+
+1440
+01:42:12,195 --> 01:42:14,060
+Hey, little girl, come quick.
+
+1441
+01:42:14,097 --> 01:42:16,895
+Quick quick. Here, you hide in there.
+
+1442
+01:42:16,934 --> 01:42:18,265
+Go on. Go on.
+
+1443
+01:42:28,078 --> 01:42:30,410
+Oliver,
+
+1444
+01:42:30,447 --> 01:42:31,709
+where is the girl?
+
+1445
+01:42:33,684 --> 01:42:37,814
+Uh, I don't know
+what you're talking about, sir.
+
+1446
+01:42:39,523 --> 01:42:41,423
+Aren't you a little overdressed?
+
+1447
+01:42:41,458 --> 01:42:43,892
+Aren't you?
+
+1448
+01:42:45,228 --> 01:42:46,456
+Where is she?
+
+1449
+01:42:46,496 --> 01:42:48,862
+(Oliver gagging)
+
+1450
+01:42:51,268 --> 01:42:53,293
+(bones crack)
+
+1451
+01:43:00,677 --> 01:43:02,508
+Hello, Little Red.
+
+1452
+01:43:02,546 --> 01:43:03,706
+(screaming)
+
+1453
+01:43:03,747 --> 01:43:06,079
+(panting)
+
+1454
+01:43:13,957 --> 01:43:15,652
+Johnny.
+
+1455
+01:43:15,692 --> 01:43:17,717
+(grunting, panting)
+
+1456
+01:43:26,436 --> 01:43:28,996
+(Sabrina whimpering)
+
+1457
+01:43:32,209 --> 01:43:34,643
+(screaming)
+
+1458
+01:43:51,928 --> 01:43:53,589
+Now...
+
+1459
+01:43:55,766 --> 01:43:58,394
+where were we?
+
+1460
+01:43:58,435 --> 01:44:00,926
+Come here. Come here.
+
+1461
+01:44:04,007 --> 01:44:05,599
+(screams)
+
+1462
+01:44:14,151 --> 01:44:16,642
+(heart beating)
+
+1463
+01:44:24,728 --> 01:44:27,822
+(panting)
+
+1464
+01:44:43,780 --> 01:44:45,372
+Jamie!
+
+1465
+01:45:07,104 --> 01:45:09,129
+(coughing)
+
+1466
+01:45:14,077 --> 01:45:16,637
+- Go.
+- Johnny.
+
+1467
+01:45:33,263 --> 01:45:34,855
+Johnny?
+
+1468
+01:45:38,535 --> 01:45:40,935
+Jamie's voice: I love you.
+
+1469
+01:45:42,038 --> 01:45:43,198
+Katie's voice: Johnny.
+
+1470
+01:45:50,614 --> 01:45:54,482
+Katie's voice: Johnny, you found me.
+
+1471
+01:46:00,423 --> 01:46:02,516
+Johnny.
+
+1472
+01:46:04,127 --> 01:46:06,391
+Johnny.
+
+1473
+01:46:07,831 --> 01:46:09,856
+Johnny?
+
+1474
+01:46:11,801 --> 01:46:14,031
+Johnny, wake up.
+
+1475
+01:46:14,070 --> 01:46:16,561
+Johnny, wake up.
+
+1476
+01:46:19,009 --> 01:46:21,739
+No, Johnny.
+
+1477
+01:46:21,778 --> 01:46:24,178
+Johnny, no, wake up.
+
+1478
+01:46:24,214 --> 01:46:26,205
+(gasps)
+
+1479
+01:46:28,318 --> 01:46:29,478
+Hey.
+
+1480
+01:46:29,519 --> 01:46:31,510
+Hey babe.
+
+1481
+01:46:48,305 --> 01:46:50,330
+(electricity whirrs)
+
+1482
+01:46:55,312 --> 01:46:58,110
+- (door buzzes)
+- Male voice: Access granted.
+
+1483
+01:46:58,148 --> 01:46:59,809
+Good morning, Dr. Morgan.
+
+1484
+01:46:59,849 --> 01:47:01,942
+(children laughing)
+
+1485
+01:47:05,155 --> 01:47:07,885
+Katie's voice: Johnny.
+
+1486
+01:47:07,924 --> 01:47:10,984
+# Waiting waiting waiting #
+
+1487
+01:47:11,027 --> 01:47:15,521
+# Waiting waiting waiting #
+
+1488
+01:47:15,565 --> 01:47:21,162
+# Waiting waiting waiting #
+
+1489
+01:47:21,204 --> 01:47:23,729
+# Waiting waiting... #
+
+1490
+01:47:23,773 --> 01:47:25,434
+Johnny?
+
+1491
+01:47:25,475 --> 01:47:28,672
+# Waiting... #
+
+1492
+01:47:39,923 --> 01:47:42,824
+# When your hands #
+
+1493
+01:47:42,859 --> 01:47:45,453
+# Are cold #
+
+1494
+01:47:46,463 --> 01:47:49,762
+# When the leaves on your flowers #
+
+1495
+01:47:49,799 --> 01:47:53,166
+# Start to fall #
+
+1496
+01:47:53,203 --> 01:47:56,104
+# When the trees #
+
+1497
+01:47:56,139 --> 01:47:59,575
+# Lie bare #
+
+1498
+01:47:59,609 --> 01:48:03,170
+# I will be there #
+
+1499
+01:48:03,213 --> 01:48:06,341
+# I will be there #
+
+1500
+01:48:08,652 --> 01:48:12,748
+# We won't speak of bitter words #
+
+1501
+01:48:12,789 --> 01:48:16,054
+# We'll lay them down #
+
+1502
+01:48:16,092 --> 01:48:20,995
+# Lay them down #
+
+1503
+01:48:22,365 --> 01:48:26,028
+# We'll talk of blessings heard #
+
+1504
+01:48:26,069 --> 01:48:29,232
+# And hold them close #
+
+1505
+01:48:29,272 --> 01:48:33,675
+# Hold them close #
+
+1506
+01:48:46,356 --> 01:48:49,848
+# When we walk #
+
+1507
+01:48:49,893 --> 01:48:52,862
+# Along #
+
+1508
+01:48:52,896 --> 01:48:56,332
+# When the time we have together #
+
+1509
+01:48:56,366 --> 01:48:59,699
+# Is too short #
+
+1510
+01:48:59,736 --> 01:49:03,001
+# I will take #
+
+1511
+01:49:03,039 --> 01:49:06,338
+# Your hand #
+
+1512
+01:49:06,376 --> 01:49:09,038
+# And I will keep you on the road #
+
+1513
+01:49:09,079 --> 01:49:15,575
+# So you don't fall #
+
+1514
+01:49:15,618 --> 01:49:19,076
+# These days will shine so bright #
+
+1515
+01:49:19,122 --> 01:49:22,785
+# And lead us home #
+
+1516
+01:49:22,826 --> 01:49:28,822
+# Lead us home #
+
+1517
+01:49:28,865 --> 01:49:32,357
+# They'll light the time we have #
+
+1518
+01:49:32,402 --> 01:49:35,894
+# And keep us warm #
+
+1519
+01:49:35,939 --> 01:49:43,311
+# Keep us warm #
+
+1520
+01:50:08,772 --> 01:50:12,731
+# And when the memories call #
+
+1521
+01:50:12,776 --> 01:50:16,075
+# I need them #
+
+1522
+01:50:16,112 --> 01:50:19,411
+# I need them #
+
+1523
+01:50:19,449 --> 01:50:22,179
+# Oh #
+
+1524
+01:50:22,218 --> 01:50:25,813
+# But when I scale that wall #
+
+1525
+01:50:25,855 --> 01:50:29,313
+# I'll leave them #
+
+1526
+01:50:29,359 --> 01:50:37,232
+# I'll leave them. #
+

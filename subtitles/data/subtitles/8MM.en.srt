@@ -1,0 +1,1391 @@
+{1973}{2003}Welcome to Miami.
+{2009}{2091}While in the airport, please|observe Florida laws...
+{2096}{2154}... which prohibit smoking|in the terminal.
+{2160}{2215}Thank you for not smoking.
+{4094}{4167}Your son-in-law dealt with the|dry cleaning franchise during the day.
+{4172}{4224}He saw that woman every night.
+{4270}{4371}The specifics are in my report,|and information about the woman.
+{4414}{4458}lt's unpleasant, l know.
+{4479}{4518}Discreet, isn't he?
+{4529}{4572}What an imbecile!
+{4580}{4656}l tried to warn my daughter,|but what can you do?
+{4661}{4729}l worry about the children.
+{4734}{4789}My invoice is in the envelope,|if that's all.
+{4805}{4855}Yes, Mr. Welles. Thank you.
+{4869}{4952}Senator, let me know if l can be|of further assistance to you.
+{4958}{4997}l'll be in touch.
+{5898}{5931}Hello?
+{5944}{5979}You're home.
+{5998}{6037}We're back here.
+{6066}{6087}How did it go?
+{6093}{6119}l think very well.
+{6125}{6153}Good.
+{6160}{6206}Daddy's home, sweetie.
+{6235}{6285}How's the textbook business?
+{6306}{6390}l got 1 0,000 words on|the Federal Theatre project.
+{6396}{6476}lt should be 4000 and the writer|doesn't want to change anything.
+{6482}{6515}So, kind of bad.
+{6549}{6586}How was Miami?
+{6592}{6626}Fine. Lonesome.
+{6632}{6680}Couldn't pay me enough|to live down there.
+{6687}{6725}Then why'd you go?
+{6736}{6812}Senator Michaelson|has powerful friends.
+{6949}{6999}Hello, Cinderella.
+{7016}{7066}Did you miss me?|l sure missed you.
+{7072}{7109}Oh, that's my girl.
+{7115}{7171}She missed you.|l missed you.
+{7207}{7238}You been smoking?
+{7275}{7315}Smoking? l'm not smoking.
+{7345}{7388}Come on, honey.
+{7403}{7440}You reek of it.
+{7458}{7526}Amy, l've been sitting around|in bars following this guy.
+{7532}{7577}ls this the first thing l get?
+{7582}{7647}-You're accusing me?|-l'm not accusing you.
+{7671}{7742}l'm not smoking, okay?|We've been all through that.
+{7768}{7820}l'll make dinner.|Are you hungry?
+{7826}{7848}You're cooking?
+{7956}{8008}l missed you.
+{8136}{8192}l don't like it when you leave.
+{8307}{8342}Should l go?
+{8356}{8392}l'm going to do it.
+{8671}{8702}Come on.
+{8708}{8776}What's all the trouble, Cinderella?
+{8793}{8832}There, there.
+{9045}{9092}l love you.
+{9163}{9196}l love you.
+{9521}{9573}Honey, phone!
+{9783}{9821}Okay, l've got it!
+{9827}{9891}Sorry, l was just switching phones.
+{9984}{10043}lt's a pleasure to make|your acquaintance, Mr. Longdale.
+{10049}{10101}How can l be of assistance to you?
+{10231}{10277}Four o'clock would be fine.
+{10377}{10423}l think l know where it is.
+{11406}{11468}Daniel Longdale.|We spoke on the phone.
+{11474}{11494}Pleasure.
+{11499}{11574}l'm the Christians' attorney and|an executor of the estate.
+{11580}{11606}This is Mrs. Christian.
+{11612}{11653}An honour to meet you.
+{11660}{11716}You come highly|recommended, Mr. Welles.
+{11722}{11819}l've spoken to associates of mine in|Harrisburg, Lancaster and Hershey.
+{11824}{11862}You have influential friends.
+{11867}{11938}l've been privileged to provide|services for people l admire.
+{11943}{12002}You were praised|for your discretion...
+{12008}{12088}...your strict adherence|to confidentiality.
+{12094}{12114}Thank you.
+{12192}{12266}As you know,|my husband passed away recently.
+{12272}{12325}My condolences, Mrs. Christian.
+{12330}{12453}His passing has left me|with something of a dilemma.
+{12463}{12514}l'll do whatever l can to help.
+{12537}{12592}My husband's inner sanctum.
+{12598}{12663}Not many people have been|inside this room.
+{12723}{12766}My father worked the Pittsburgh mill.
+{12772}{12825}lrving United Steel, l believe.
+{12831}{12889}But you attended Penn|on an academic scholarship.
+{12894}{12921}That's right.
+{12926}{12987}Peers went into law and finance.|You chose surveillance.
+{12992}{13036}l decided it was the future.
+{13047}{13083}Your husband is a legend.
+{13090}{13113}Please.
+{13119}{13180}We were married 45 years.
+{13186}{13264}Four children, seven grandchildren.
+{13275}{13316}But his true passion lay...
+{13321}{13352}...in his work.
+{13358}{13402}But he was always loyal.
+{13407}{13480}l loved him deeply.
+{13490}{13525}l understand.
+{13582}{13615}Daniel.
+{13632}{13720}My husband was the only one|with the combination to this safe.
+{13725}{13765}We hired somebody to open it.
+{13775}{13824}l prevented anyone...
+{13829}{13882}...from seeing the contents.
+{13887}{13961}l felt these were|my husband's private things.
+{13968}{13994}l didn't....
+{14037}{14086}l didn't realize....
+{14106}{14162}Do you want to tell me|what you found?
+{14225}{14273}Cash, stock certificates.
+{14278}{14381}Nothing out of the ordinary,|really, except that.
+{14427}{14454}lt's a film...
+{14507}{14558}...where a girl appears to be murdered.
+{14563}{14605}l'm not sure l understand.
+{14611}{14649}lt's very realistic.
+{14654}{14731}But how many people seem to be|realistically killed...
+{14736}{14782}...in movies and on TV every day?
+{14803}{14890}lt begins as a relatively|sleazy bit of pornography...
+{14896}{14968}...and rapidly turns|quite violent and bloody.
+{15095}{15161}What you're talking about|is called a snuff film.
+{15166}{15222}Snuff films are a kind of urban myth.
+{15240}{15308}Sex industry folklore.|There's no such thing.
+{15314}{15357}That's what l explained|to Mrs. Christian.
+{15362}{15422}This is probably|an S & M film of some sort.
+{15428}{15475}Simulated rape, simulated violence.
+{15481}{15535}lt's hard to stomach,|but there are ways of doing it.
+{15541}{15579}Fake blood, special effects.
+{15584}{15661}Would you look at the film|and give us your opinion?
+{15676}{15704}All l want...
+{15709}{15812}...is to know that|this atrocity is false.
+{15827}{15868}l want the proof.
+{18631}{18652}Well...
+{18658}{18733}...whoever made the film|was adept at authenticity.
+{18739}{18827}But l'm no expert.|Let the police make a determination.
+{18832}{18852}Out of the question.
+{18858}{18924}That'd be so unnecessary|for any number of reasons...
+{18930}{19006}...not the least of which is|Mr. Christian's reputation.
+{19044}{19090}Find out who made this film...
+{19096}{19139}...and establish whether it's real.
+{19149}{19182}You can name your price.
+{19188}{19279}You'll be provided with|whatever you need to buy information.
+{19336}{19382}Girl's all l've got to go on.
+{19388}{19431}l could treat it|like a missing persons case.
+{19436}{19458}Understood.
+{19464}{19487}Of course...
+{19493}{19582}...we need to be assured|that you would not copy this film.
+{19588}{19631}You have my word on that.
+{19642}{19690}But l'll be dealing|directly with you...
+{19695}{19718}...and only you.
+{19724}{19768}Your relationship with|your attorney is your own.
+{19773}{19820}-No offense.|-None taken.
+{19826}{19904}l realize you've given this|careful consideration.
+{19947}{19975}You could have destroyed it.
+{19980}{20043}Tell me the poor girl wasn't killed.
+{20048}{20080}Please?
+{20086}{20130}Find her alive.
+{20136}{20188}l'll do the best l can, ma'am.
+{21180}{21200}Cleveland?
+{21205}{21230}You just got home.
+{21236}{21301}l wish l could stay,|but this is the mortgage.
+{21307}{21342}lt's Cindy's college money.
+{21348}{21402}lf l do right by her,|with the circle she runs in...
+{21408}{21442}...this could be a big break.
+{21448}{21481}Do we need a break?
+{21486}{21534}Your father thinks we do.
+{21599}{21674}So, what was Mrs. Christian like?
+{21680}{21764}Like you'd expect, l guess.|l feel sorry for her.
+{21770}{21795}lt's a missing persons.
+{21800}{21864}l told her l'd give it|a couple of weeks. Three.
+{21881}{21954}lt can't take longer than that.|lt's an outside shot.
+{21960}{22058}That's all l can tell you.|Sometimes you can't know what l'm doing.
+{22075}{22119}lt's always that way.
+{22151}{22231}-She's awake. l'll get her.|-l'll be up in a sec.
+{22924}{22973}-You're taking the gun?|-l won't need it.
+{22978}{22998}Don't take it.
+{23004}{23071}l won't wear it.|lt's a precaution. Don't worry.
+{23077}{23140}Will you call me|when you get there, please?
+{23517}{23616}l've been hired by a couple in|Philadelphia, a doctor and his wife.
+{23622}{23700}A few days ago, they picked up|a girl hitchhiking off 81...
+{23706}{23756}...a runaway, about 18, maybe.
+{23762}{23852}They buy her a meal.|The doctor tries to convince her...
+{23858}{23911}... that, at least,|she should call home.
+{23917}{23978}Not surprisingly, the girl ate,|excused herself...
+{23983}{24022}...that was the last they saw of her.
+{24028}{24104}We had a friend of mine|at the department work up a sketch.
+{24112}{24163}They want to see|if l can l.D. this girl...
+{24169}{24220}...then pass along|a message to the parents...
+{24226}{24275}...letting them know|the kid's alive.
+{24301}{24347}You don't mind if l run a check?
+{24352}{24384}Go ahead.
+{24407}{24467}You want it, you got it.|Knock yourself out.
+{24473}{24554}Anywhere from 850,000 to 1 ,000,000|missing every year.
+{24560}{24643}We got as much as we can on computer,|then it's the wet-thumb method.
+{24648}{24704}Files are by state|and year of disappearance.
+{24710}{24771}Children are separate.|No eating or smoking.
+{24777}{24819}-There's coffee.|-Any good?
+{24824}{24851}Horrible.
+{24857}{24904}lt'll be your best friend|after a few days...
+{24910}{24947}... if you last that long.
+{24953}{24982}Good luck.
+{25075}{25107}Honey, it's me.
+{25113}{25133}How are you?
+{25139}{25164}l'm good.
+{25170}{25193}Where are you?
+{25199}{25267}l'm still in Cleveland.|How's Cindy?
+{25273}{25346}She's sweet.|She's sleeping.
+{25355}{25435}-l'm missing you bigtime.|-Yeah, l miss you too.
+{25456}{25504}l'll call you tomorrow night.
+{25521}{25550}Good night.
+{25555}{25597}Good night, sweetheart.
+{26656}{26707}Hello, Mrs. Christian?|Tom Welles.
+{26713}{26742}Here's where we stand.
+{26748}{26830}l checked the film stock.|lt's called Supralux 5-4-4.
+{26836}{26922}The company that made that|stock discontinued it in '92.
+{26927}{26984}So the film was made prior to that?
+{26989}{27057}Yes. l'm probably being|overly thorough with this...
+{27063}{27139}...but you might dig up your husband's|financial records...
+{27145}{27184}...about 6 or 7 years ago.
+{27190}{27254}See if there's anything|out of the ordinary.
+{27259}{27346}This isn't a movie you drop off|at the one-hour photo.
+{27351}{27394}So you think it's one of a kind.
+{27400}{27482}The film is what we've got.|There's no negative.
+{27497}{27563}Unlike video, it's not|designed to be duplicated.
+{27569}{27619}Whatever this is,|l have a feeling...
+{27625}{27695}... there aren't many copies|floating around, if any.
+{27700}{27788}l'm looking for a girl|we're not even sure is missing.
+{27794}{27859}With this happening 6 or 7 years ago...
+{27865}{27966}... finding the guys who made this film|is going to be very difficult.
+{27972}{28045}l know you can do it.|You're doing a wonderful job.
+{28051}{28126}Please tell me you'll|continue the investigation.
+{28132}{28181}l will. l'll keep trying for you.
+{28186}{28247}You can count on me.|Goodbye, Mrs. Christian.
+{28281}{28384}We can't come to the phone now,|so please leave a message at the beep.
+{28390}{28415}Honey, it's me.
+{28420}{28492}l'm sorry l forgot|to call last night.
+{28498}{28537}l won't forget tonight.
+{28543}{28611}l've been gone a long time.|l hope l'll be home soon.
+{28617}{28685}l love you, and l miss you.|We'll talk tonight.
+{30658}{30705}You looking for Janet?
+{30863}{30910}Hello, Mrs. Mathews?
+{30915}{30978}l'm Thomas Hart.|l'm a licensed investigator.
+{30985}{31068}l've been hired by the U.S. Resource|Centre, Missing Persons...
+{31074}{31112}...as part of an internal audit.
+{31118}{31241}l'd like you to answer questions|about your daughter, Mary Anne.
+{31247}{31347}l spoke to your FBl contact|yesterday, Agent....
+{31353}{31389}Neil. Neil Cole?
+{31395}{31498}Yes, Agent Cole. He told me|he'd call and let you know to expect me.
+{31516}{31557}He didn't call?
+{31707}{31727}ls this you?
+{31781}{31830}You look about five years old.
+{31841}{31862}A little older.
+{31868}{31897}Sweet.
+{31970}{32093}lt's important that you don't|let this raise your expectations.
+{32105}{32183}lt's not going to effect|any ongoing efforts.
+{32201}{32249}All l'm saying is, please know...
+{32255}{32321}...l'm not here to create|any false hope.
+{32414}{32489}We fought all the time,|Mary Anne and me...
+{32495}{32523}...and her stepdad.
+{32529}{32569}She hated him...
+{32575}{32625}...because he wasn't her real dad.
+{32641}{32713}Trouble here, trouble at school.
+{32719}{32746}Trouble.
+{32758}{32845}Didn't like rules.|Takes after me, l guess.
+{32851}{32905}l had to learn the hard way.
+{32943}{32985}Can l speak to your husband?
+{32991}{33013}Her stepfather?
+{33019}{33044}Dave?
+{33050}{33082}Gone.
+{33093}{33150}Two years after Mary Anne left.
+{33159}{33232}All the time, she resented him.
+{33238}{33329}l lost her because of him,|and then l lost him.
+{33343}{33395}l'm the only one still here.
+{33429}{33473}Did Mary have a boyfriend?
+{33479}{33542}She was sneaking out with someone.
+{33551}{33598}She wouldn't tell me who.
+{33605}{33685}Coming home with hickeys,|lying all the time.
+{33726}{33808}l am sorry to bring this up,|but in these circumstances...
+{33814}{33853}...with the stepfather...
+{33859}{33934}...were there any indications|of any sort of abuse?
+{33942}{34012}There was nothing like that.|The police and FBl asked.
+{34018}{34096}There wasn't anything like that.|She'd have told me.
+{34101}{34166}l apologize. l had to ask.
+{34193}{34299}Those are for her birthday.|One for every year she missed.
+{34305}{34369}They'll be waiting for her|when she comes back.
+{34418}{34465}lt's because l slapped her.
+{34507}{34534}l know.
+{34577}{34680}We was fighting about Dave,|and she was just pushing my buttons.
+{34686}{34719}And l slapped her.
+{34766}{34795}Jesus!
+{34829}{34860}Next day, she was gone.
+{34891}{34958}When kids run, they|almost always leave a note.
+{34964}{34991}lt's guilt, usually.
+{34997}{35038}There wasn't one.
+{35045}{35072}Police looked.
+{35078}{35141}An abduction's one thing,|a runaway's another.
+{35147}{35226}Sometimes it's not the priority|for the police it should be.
+{35233}{35333}There wasn't anything.|Don't you think l wish there was?
+{35341}{35400}You're probably right,|but would you let me look?
+{35445}{35483}You tell me...
+{35489}{35542}...not to get my hopes up...
+{35554}{35626}...not to raise my expectations.
+{35723}{35755}Go ahead.
+{35768}{35802}l need a drink.
+{35834}{35866}Thank you.
+{38464}{38508}Dear Mom,|if you're reading this...
+{38514}{38587}... it means l called you|from Hollywood, California.
+{38593}{38690}l left my diary behind because|l want you to see why l'm leaving.
+{38695}{38737}lt's not because you hit me.
+{38743}{38817}l hid this so Dave the dickhead|wouldn't find it.
+{38824}{38873}Warren Anderson and me|are in love.
+{38879}{38933}l'm going to start|a new life with him.
+{38938}{38983}His dad owns|that garage in town.
+{38996}{39059}But Warren has even bigger plans.
+{39065}{39112}He'll become a star|in action movies.
+{39118}{39184}He says l'm prettier|than a lot of girls in movies.
+{39190}{39221}l could be a star too.
+{39231}{39265}You want a drink?
+{39275}{39314}When we cruise into Hollywood...
+{39320}{39430}...l'll have fiery eyes that everyone|will notice, because l am in love.
+{39485}{39551}You were right.|l didn't find anything.
+{39576}{39604}Fixed you a drink.
+{39610}{39667}Thanks, no.|l've got work to do.
+{39673}{39719}l'll stop by tomorrow night.
+{39742}{39803}We'll probably be married|by the time you read this.
+{39836}{39893}Don't come looking for me,|because l'm not coming back.
+{39899}{39988}Maybe someday you'll see me|on TV or in magazines.
+{39994}{40070}Don't worry about me.|Love, Mary Anne.
+{40079}{40120}Mr. Anderson?
+{40174}{40194}Who's asking?
+{40199}{40267}Tom Hart.|Excuse me not shaking hands.
+{40289}{40367}l'm looking for your son.|You've got a son named Warren, right?
+{40373}{40402}Sure.
+{40426}{40489}What's it about? You a cop?
+{40494}{40521}No, sir.
+{40526}{40608}Just a friend from a while back.|Owe him some money.
+{40627}{40669}You owe him money?
+{40675}{40706}That's a new one.
+{40754}{40813}You can leave it|right here if you want.
+{40830}{40897}lf it's all the same,|l'd like to send it to him.
+{40908}{40943}California, right?
+{40985}{41024}California?
+{41055}{41133}Son, you know where|the Fayetteville lockup is?
+{41145}{41193}That's where Warren is.
+{41199}{41258}Doing eight months on a B and E.
+{41338}{41366}Thank you.
+{41439}{41497}Yeah, man, l knew her.
+{41527}{41591}Dumped that bitch right|before l moved to L.A.
+{41601}{41670}She shows up knocking at my door|like a fucking stalker.
+{41685}{41738}Told that bitch she could go to hell.
+{41787}{41815}Where'd she go?
+{41864}{41901}Hell, maybe.
+{41925}{41992}l don't know and|l don't give a fuck, either.
+{42032}{42102}She said she might work|at a titty bar or something.
+{42117}{42178}Ask me, her tits|weren't all that great.
+{42218}{42253}Did you hear from her again?
+{42309}{42382}Because l fucked her|doesn't mean l wanted her there.
+{42398}{42477}She came to Hollywood to be|a big fucking movie star.
+{42491}{42553}And so did l.|Check me out now.
+{42664}{42732}Why don't you pass me|one of them smokes?
+{42894}{42927}l don't smoke.
+{43033}{43068}How you doing?
+{43074}{43096}l'm okay.
+{43101}{43148}You don't sound okay.
+{43157}{43198}lt's not easy.
+{43203}{43234}Why? What's going on?
+{43243}{43306}lt's just tougher than|l thought it would be.
+{43311}{43343}ls it getting to you?
+{43349}{43387}l got a lead l can't drop.
+{43393}{43440}l'm almost done.|l miss you.
+{43450}{43484}l miss you too.|l love you.
+{43490}{43527}Give Cindy a kiss for me.
+{43533}{43609}Wait, l think she wants to say bye.|Say bye to Daddy.
+{43614}{43678}Hi, sweetie. Hi, honey.
+{43691}{43717}Hi, Cinderella.
+{43723}{43777}She's touching the phone.
+{43801}{43860}You should see her face|at your voice.
+{43876}{43899}l love you.
+{43904}{43965}l love you too. Bye.
+{44025}{44073}l was just making dinner.
+{44080}{44150}l've made enough for two,|as it happens.
+{44156}{44202}l'm sorry, l can't stay.
+{44208}{44295}l wanted to let you know|l spoke to my people at the agency.
+{44301}{44373}l told them to keep|Mary Anne's case active.
+{44401}{44435}Well...
+{44453}{44531}...stay for a drink, at least.
+{44625}{44665}You sure you're not hungry?
+{44670}{44739}lt'd be nice to have a meal|without the TV on for once.
+{44762}{44800}l have a long drive ahead of me.
+{44806}{44875}lt's one of the most|depressing things. Eating alone.
+{44880}{44964}l don't know why. You think|l'd be used to it by now.
+{45229}{45254}Mrs. Mathews?
+{45284}{45315}Janet.
+{45349}{45380}Do you ever consider....
+{45394}{45461}Do you realize that|Mary may never come back?
+{45500}{45551}l think about it every day.
+{45567}{45604}Every time the phone rings...
+{45610}{45690}...every time, l still think it's her.
+{45707}{45762}She's all l think about.
+{45803}{45843}Can you tell me...
+{45865}{45953}...if you had to make a choice,|if you were forced to choose...
+{45967}{46048}...between imagining her|out there somewhere...
+{46054}{46129}...living a good life, being happy...
+{46163}{46204}...but you don't know...
+{46221}{46264}...you never find out...
+{46300}{46350}...or the worst being true...
+{46369}{46408}...her being gone...
+{46440}{46477}...but you know.
+{46498}{46541}You finally know...
+{46575}{46617}...what's happened to her.
+{46654}{46696}What would l choose?
+{46727}{46751}Yes.
+{46849}{46895}l would choose to know.
+{46959}{47007}l need to know.
+{47168}{47242}Excuse me,|l have to use your restroom.
+{48535}{48574}You're leaving.
+{48698}{48755}l'll call you if l find anything out.
+{52663}{52688}How you doing?
+{52717}{52741}Big date tonight?
+{52766}{52804}Yeah, guess so.
+{52810}{52875}Could l interest you|in a battery-operated vagina?
+{52895}{52941}lt's tempting, but no thanks.
+{52950}{53032}l'd hate to see you in one|of those everyday situations...
+{53038}{53113}...that calls for it|and you don't have one.
+{53118}{53154}l'll risk it.
+{53191}{53262}All right, your total|is $74.58, please.
+{53346}{53381}A hundred.
+{53505}{53596}Total's $25 and some change.
+{53677}{53742}Thank you for shopping|at Adult Bookstore.
+{53748}{53809}And have yourself a fabulous day.
+{53817}{53853}What are you reading?
+{53917}{53960}Catchy title.|What are you really reading?
+{53965}{54043}Hard to believe it's got|any parts worth highlighting.
+{54123}{54162}Capote.
+{54209}{54237}You know how it is.
+{54252}{54333}Wouldn't want to embarrass yourself|in front of your fellow perverts.
+{54363}{54439}l might get drummed out|of the pornographers' union.
+{54445}{54484}Where would l be then?
+{54554}{54593}Have a good day.
+{55258}{55287}How are you?
+{55293}{55329}Hey, honey.
+{55338}{55382}-How you doing?|-l'm a little beat.
+{55387}{55407}How's Cindy?
+{55413}{55458}She's sweet. She misses you.
+{55463}{55502}How's it going?
+{55517}{55595}The way things are going,|l'm thinking about coming home.
+{55605}{55627}Really?
+{55668}{55702}Honey, wait.
+{55767}{55806}Can l call you back?
+{55827}{55890}l'll call you right back, l promise.|Bye, honey.
+{56913}{56951}Mrs. Christian, there were three men.
+{56957}{57016}Not just the cameraman|and the masked man.
+{57032}{57101}l caught a glimpse of a third man.|He was watching.
+{57144}{57207}l'll get a clearer image|through computer enhancement.
+{57213}{57290}But this probably happened|6 years ago, so it's not--
+{57297}{57340}All right, l'll keep trying.
+{57346}{57413}Thank you, l appreciate|your support. Goodbye.
+{57440}{57516}What we have here is|1 37 billable man-hours...
+{57522}{57583}...a hundred-plus thousand|dollars machine...
+{57589}{57700}...and the result is an enhancement|of the back of some guy's head.
+{57747}{57781}Want it framed?
+{57821}{57873}There you go. Have a nice day.
+{57919}{57994}lt's like a gas station,|you pay before you pump.
+{58017}{58054}Remember me?
+{58117}{58188}Came back for the battery-operated|vagina after all.
+{58204}{58260}l need information.|Maybe you can help.
+{58265}{58339}Thomas Welles. Nice picture.
+{58351}{58429}What sort of information?|l got all different kinds.
+{58434}{58461}The kind l'll pay for.
+{58485}{58543}l don't know|what you're looking for...
+{58549}{58600}...so we're clear from the start,|l'm straight.
+{58606}{58633}Congratulations.
+{58639}{58666}Thank you.
+{58672}{58694}Zip it!
+{58700}{58731}l can hook you up.
+{58737}{58779}Name the vice,|l name the price.
+{58795}{58872}-How long you been working here?|-Almost two years.
+{58878}{58929}What's your name,|if you don't mind me asking?
+{58935}{58972}Max.
+{59004}{59027}Here's the deal.
+{59033}{59099}This thing has to do|with underground pornography.
+{59105}{59171}Stuff that's sold|under the counter, illegally.
+{59177}{59229}There's not much illegal out there.
+{59235}{59322}Whatever there is, l want to know.|l want a good look.
+{59328}{59420}lf you've got that kind of|connection, great. lf not, speak now.
+{59429}{59462}You're not a cop, are you?
+{59468}{59521}lf l ask and you are,|you got to tell me.
+{59527}{59564}l'm not a cop.
+{59585}{59614}A private detective?
+{59620}{59655}Like Shaft?
+{59676}{59740}You ever seen Private Dicks?|l got it on sale.
+{59746}{59785}How much you make in there?
+{59849}{59928}Around 400 bucks a week,|off the books.
+{59932}{59988}Let's pretend l live|in the same fantasy world...
+{59994}{60044}...where you make $400|a week in that dump.
+{60050}{60103}l'll give you 500 for a few days.
+{60109}{60139}Six sounds good, Pops.
+{60145}{60175}Five.
+{60208}{60250}Here's my number.
+{60349}{60390}When can you start?
+{60400}{60465}Well, tomorrow night l get off late.
+{60489}{60513}Tomorrow.
+{60519}{60540}All right.
+{60546}{60617}And don't call me Pops.
+{60632}{60709}Of course not. l wouldn't|want to hurt your feelings.
+{60768}{60813}l don't know what your scene is.
+{60819}{60863}You may like porn|as much as the next guy.
+{60869}{60959}You don't look like your average|sleaze. More like your average cop.
+{60964}{61049}So when you ask people|about fucking illegal stuff...
+{61055}{61102}...it has a certain patina to it.
+{61107}{61128}Patina.
+{61134}{61183}lt's a Truman Capote word. Hello?
+{61189}{61278}lf someone never sold a snuff film,|they shouldn't care what l ask.
+{61284}{61331}lf they have,|they should be nervous.
+{61337}{61400}Whoever acts insulted,|knock on their door.
+{61406}{61500}Look, Pops, it's not too late|to change your mind about all this.
+{61506}{61573}There's things you'll see|that you can't unsee.
+{61579}{61659}-They stay in your head.|-How do you know what l've seen?
+{61664}{61742}Okay, fine.|But everybody's got their limit.
+{61748}{61832}l've been here six fucking years|trying to get my music together.
+{61838}{61923}So l start part-time|where l work, to make ends meet.
+{61929}{62011}And boom, a couple years go by,|and here l am.
+{62017}{62105}l'm just saying, before you know it,|you're in it. Deep in it.
+{62111}{62150}Don't worry about me.
+{62156}{62178}But thank you.
+{62184}{62225}You're welcome.
+{62237}{62312}Pops, you dance with the devil,|the devil don't change.
+{62320}{62363}Devil changes you.
+{62372}{62402}Some of your lyrics?
+{62407}{62427}That's cute.
+{62700}{62750}This place has been around|about 3 years...
+{62756}{62813}...but they keep moving it|house to house.
+{63207}{63253}This is the tip of the iceberg.
+{63259}{63327}Lots of Mexican S & M,|lots of Asian bondage...
+{63333}{63409}...all kinds of bestiality,|if you're into that.
+{63414}{63469}Don't touch nothing.|You want something, tell Friendly.
+{63474}{63498}Ask him.
+{63799}{63828}Don't do that!
+{63836}{63869}All right! lt's cool!
+{63914}{63941}All right? Okay.
+{64140}{64189}Come on, let's go. All right!
+{64287}{64358}Are you affiliated with law enforcement?
+{64364}{64395}Fuck you, Larry.
+{64401}{64497}Are you a law enforcement agent,|or affiliated with law enforcement?
+{64503}{64532}Fuck you, Larry.
+{64538}{64583}You're getting cool there, Welles.
+{64589}{64679}You got your porn zombies here.|Junkies for the hard stuff.
+{64685}{64738}But these sales|won't last much longer.
+{64744}{64795}lt's risky,|and everything's on the Net.
+{64801}{64855}Chicken hawks swapping photos|with their modems.
+{64861}{64947}Then there's classified ads|with hidden codes, secret couriers...
+{64953}{65001}...wires through dummy corporations.
+{65007}{65083}lf something's illegal, the buyers|are as far away as they can get.
+{65089}{65161}Nobody knows what nobody knows,|you know what l mean?
+{65166}{65201}How's it going, Samuel?
+{65317}{65355}l'll say hi to her.
+{65369}{65412}How are you? l love that.
+{65418}{65480}lt's the Michael Jackson look,|with the zippers.
+{66252}{66289}What are these?
+{66312}{66355}Extreme bondage.
+{66364}{66401}Rape films.
+{66423}{66463}Sick shit.
+{66473}{66537}Buy five, get one for free.
+{66580}{66616}Anything harder?
+{66622}{66676}There's nothing harder.
+{66695}{66720}Snuff?
+{66793}{66852}There's no such thing as snuff.
+{66863}{66915}What you see is what l got, mister.
+{66920}{66970}Do you know where l can get some?
+{66975}{67017}Fuck off.
+{68172}{68201}There she is.
+{68207}{68280}There she is.|lt's Double Slap Dorothy.
+{68286}{68342}That chick could be|a baseball player.
+{68347}{68388}The swing on her is unreal.
+{68417}{68503}Some of these S & M and bondage films|you'll see straddle the line.
+{68509}{68548}Foot fetish, orgies, shit films...
+{68554}{68617}...hermaphrodites, mutilation.|lt's harder than hard-core.
+{68623}{68651}But mostly legal.
+{68657}{68677}Stick.
+{68683}{68715}One guy sees it and pukes.
+{68721}{68792}Another guy sees it|and he falls in love.
+{68815}{68893}This is the guy l told you about.|Got the tapes?
+{68923}{68943}$1 000.
+{68949}{69002}-1 200 for the two.|-You told Max 1 000.
+{69008}{69112}l know. This is more fun. l raise|the price, you get pissed off.
+{69118}{69175}-l thought we had a relationship.|-ls it real?
+{69180}{69245}Sickest shit you'll ever see.
+{69367}{69391}ls that real?
+{69424}{69476}That sure as shit looks real.
+{69656}{69699}She's not breathing.
+{69920}{69960}Who makes these films?
+{69966}{70000}l don't know.
+{70008}{70056}Looks like the Philippines.
+{70175}{70237}Yeah, definitely the Philippines.
+{70789}{70851}Wait a minute.|That's the same girl.
+{70857}{70892}lsn't that the same girl?
+{70900}{70927}Look.
+{70964}{70995}lt is the same.
+{71000}{71028}They're fakes.
+{71089}{71129}That's great.
+{71168}{71245}Snuff 2.: The Resurrection.
+{71251}{71287}Oh, boy.
+{71293}{71353}Well, what do you expect for 1 200?
+{71420}{71478}You want a beer or something?|l could use anything.
+{71520}{71597}But l'm sorry, man.|l told you snuff was bogus.
+{71603}{71669}l just wish l would have|gotten you a receipt.
+{71682}{71712}'' Hard Spank.''
+{71728}{71775}'' Max California.''
+{71781}{71827}That's my old band.
+{71834}{71864}We broke up.
+{71869}{71896}When?
+{71904}{71948}Maybe about a year ago.
+{71980}{72036}l don't mean any offense...
+{72042}{72103}...but what are you doing|mixed up in all this?
+{72122}{72191}l'm not mixed up in anything, Pops.
+{72196}{72259}You strike me as being smart enough|to do something else.
+{72280}{72311}Thanks.
+{72317}{72375}l wish you owned a record label.
+{72394}{72456}Look, it beats pumping gas.
+{72471}{72531}l don't buy it.|l don't endorse it.
+{72548}{72578}l just point the way.
+{72610}{72649}You said it gets to you.
+{72654}{72689}Well, hell, yeah.
+{72695}{72755}Parade of losers l see every day?
+{72761}{72802}What choices have l got?
+{72807}{72908}The music industry is not exactly|beating down my door.
+{72933}{73001}And what about you, Tom Welles?
+{73011}{73092}You got a ring on your finger.|You got kids?
+{73101}{73132}A daughter.
+{73174}{73227}So you got a wife and a daughter...
+{73233}{73277}...and a nice little yellow house...
+{73282}{73332}...and a dog named Shep.
+{73340}{73396}What the hell are you doing here?
+{73464}{73500}Good question.
+{73568}{73613}Do you get turned on|at places like tonight?
+{73662}{73690}No, l am not.
+{73695}{73751}You don't exactly|get turned off, either.
+{73812}{73858}Devil's changing you already.
+{73870}{73909}Good night, Max.
+{74844}{74931}This gentleman was asking if anyone|recognizes this girl.
+{74979}{75007}Yes.
+{75013}{75046}l remember Mary.
+{75052}{75096}Mary Anne Mathews?
+{75130}{75221}She lived here for only about a month,|if l recall correctly.
+{75227}{75320}She didn't return one night.|Do you know what happened to her?
+{75326}{75397}Not yet, but l'm looking|into it for her parents.
+{75403}{75468}Could you get|that flowered one down for me?
+{75483}{75515}That's her suitcase.
+{75521}{75598}l'd forgotten about it|till you showed me her picture.
+{75619}{75712}l suppose l always|hoped she'd be back.
+{75718}{75762}She seemed so lost.
+{75768}{75858}After a time, all l could do was pray|she'd moved on to better things.
+{75864}{75912}Can you get this suitcase|to her people?
+{75917}{75947}lf it's appropriate.
+{75952}{75987}Yes, of course. Thank you.
+{77073}{77121}Starlight, star bright
+{77126}{77169}First star l've seen tonight
+{77175}{77227}l wish l may, wish l might
+{77233}{77288}Have this wish l wish tonight
+{77408}{77490}The number you have reached|is no longer in service.
+{77536}{77600}Hello, Hollywood Wax Museum.|Can l help you?
+{77632}{77690}This is operator 149.|What city and listing?
+{77696}{77746}l don't know. Hollywood.
+{77756}{77827}A listing for Celebrity Films,|and l need an address.
+{77833}{77891}Please hold for|phone number and address.
+{78474}{78544}-l was here first.|-Sorry, l'll just be a couple minutes.
+{78617}{78641}Eddie Poole?
+{78664}{78699}A process server?
+{78705}{78808}No, l've been inquiring around if,|by any chance, you've seen this girl.
+{78822}{78842}You a cop?
+{78853}{78892}l'm a member of her family.
+{78897}{78947}You know how much pussy|comes through here?
+{78953}{79044}Please, if you'd just take a look.|lt would've been a few years.
+{79265}{79321}Her name is Mary Anne Mathews.
+{79385}{79419}Never seen her.
+{79453}{79481}You sure?
+{79504}{79564}l just looked|at the picture, didn't l?
+{79577}{79629}Come on. l got|a lot of shit to do.
+{79726}{79755}Who's next?
+{80534}{80568}This'll be fine.
+{81548}{81595}What kind of shit are you peddling?
+{81601}{81653}My tapes sell.|People eat the shit up.
+{81659}{81725}l had three jerks|returning your tapes last month.
+{81731}{81808}You know how bad it has to be|for a jackass to come back...
+{81814}{81885}... with a receipt|and try to fucking return it?
+{81891}{81915}How bad?
+{81921}{82015}Get together some upscale product|where the girls still have teeth.
+{82036}{82096}Till then, fuck you!
+{82106}{82143}Does your mother have any teeth?
+{82149}{82203}lf she does,|send her down, you fuck.
+{83755}{83800}He's not answering.
+{84455}{84483}Hey, boss.
+{84489}{84537}There's a case of beer in there.
+{84642}{84700}-How was your day?|-Great.
+{84744}{84813}-Everybody here?|-Everybody but one of the chicks.
+{84824}{84855}Been watching them?
+{86686}{86727}Celebrity Films.
+{86761}{86798}l know all about it.
+{86804}{86836}Yeah, you know about what?
+{86842}{86878}About that girl...
+{86888}{86928}...six years ago.
+{86943}{86988}l know what you did to her.
+{87017}{87043}Who is this?
+{87049}{87084}You murdered her.
+{87096}{87143}You and your friends.
+{87166}{87220}What the fuck are|you talking about?
+{87225}{87256}You killed her on film.
+{87267}{87298}Now you're fucked.
+{87304}{87347}You're all fucked.
+{87694}{87725}Come on.
+{87878}{87922}Come on, give me something, Eddie.
+{88231}{88259}lt's me.
+{88282}{88315}What do you want?
+{88321}{88352}l just got a call.
+{88357}{88422}We got to talk.|And not on the phone.
+{88427}{88499}So one of us|has to get on a plane, all right?
+{88505}{88575}Blow me, you paranoid fuck.
+{88658}{88702}Fuck! Fuck!
+{88954}{89011}So you like to watch, paranoid fuck.
+{89213}{89277}Phone is listed under ''D. Velvet''|in Manhattan.
+{89283}{89305}Dino Velvet.
+{89311}{89387}He's a producerldirectorlweirdo.
+{89393}{89431}He's like the Jim Jarmusch of S & M.
+{89437}{89467}How hard is his stuff?
+{89473}{89501}How hard do you want it?
+{89507}{89595}Bondage, fetish, Gothic hard-core.|Definitely not for the squeamish.
+{89601}{89638}Kind of hard to come by.
+{89644}{89704}Mostly out of the back|of bondage magazines.
+{89711}{89741}But he's got fans.
+{89747}{89802}This guy l know, he thinks it's art.
+{89808}{89889}He's told me Velvet will do|commissions if there's enough dough.
+{89895}{89942}Nothing illegal, but borderline.
+{89948}{90018}lf a guy wants to see|a transvestite in a rubber suit--
+{90022}{90052}l got the picture.
+{90057}{90108}Max, get in here!
+{90132}{90165}So...
+{90172}{90207}...you're going to New York?
+{90213}{90242}Maybe.
+{90258}{90300}Looking like that.
+{90314}{90347}You'll need me.
+{90353}{90434}This Frenchie guy is more|than just a fan of Velvet films.
+{90439}{90478}l can get you in if you want.
+{90497}{90528}For more money, of course.
+{90534}{90602}Plus expenses. l fly first class.
+{90608}{90647}So when are we leaving?
+{90766}{90799}What are you doing?
+{90822}{90904}Man, my first time in|the Big Bad Apple.
+{90969}{91016}l told you, don't film me.
+{91022}{91084}Fine, Howard Hughes.
+{91329}{91382}You didn't say it'd be this luxurious.
+{91388}{91465}-lt's the Presidential suite.|-A comforting sense of humour.
+{91470}{91514}l'll be a couple of doors down.
+{91519}{91591}Tom, l don't know why|we're staying in this fleabag.
+{91597}{91651}People mind their own|business in fleabags.
+{91657}{91732}l'm going out. Dig up|whatever Velvet tapes you can find.
+{91737}{91757}Get receipts.
+{91794}{91822}Yes, sir.
+{91851}{91922}My husband had|five cash accounts he used.
+{91927}{91965}Between November...
+{91971}{92013}...of 1 992...
+{92028}{92060}...and March...
+{92066}{92120}...of 1 993...
+{92126}{92215}...he wrote one check out|to cash from each account.
+{92247}{92323}My husband never dealt|with money personally.
+{92328}{92365}Certainly not cash.
+{92371}{92438}These checks he wrote|are for very odd amounts.
+{92443}{92518}When totalled together,|the five checks...
+{92524}{92642}...from the five different accounts,|they equal $1 million.
+{92659}{92710}That is interesting, Mrs. Christian.
+{92715}{92766}l only mentioned this because...
+{92772}{92842}...you asked me to look|for anything unusual.
+{92849}{92909}l've got about $5000 left in cash.
+{92914}{93002}l'll need another 50, if you approve|the plan l mentioned earlier.
+{93008}{93094}l'm very close to identifying|the man in the mask.
+{93099}{93152}l'll have Mr. Longdale arrange it.
+{93157}{93203}How will l get it to you?
+{93208}{93256}l'll give you the address.
+{93263}{93346}Welcome to the world of Dino Velvet.
+{94119}{94202}Welcome to the world of Dino Velvet.
+{94868}{94937}Who is this?|ln the mask, who is he?
+{94961}{95003}Come on, wake up.|Who is this?
+{95009}{95097}One of Dino's lunatics.|He's in a bunch of these.
+{95102}{95124}What's his name?
+{95130}{95196}l don't know.|That's his whole thing.
+{95202}{95250}He always wears a mask.
+{95257}{95325}He calls himself Machete--|No, Machine.
+{95331}{95398}He calls himself Machine.
+{95437}{95488}He's a lover, man.
+{95494}{95571}Definitely loves|what he does for a living.
+{95593}{95642}Can't say the same about you.
+{95899}{95937}Yes, yes.
+{95974}{96040}You can see they really|appreciate my style here.
+{96046}{96146}l'm not the kind to blend in|with the crowd, if you didn't notice.
+{96152}{96212}Like these ladies here,|they like my style.
+{96343}{96365}Who is it?
+{96370}{96413}This is Max California.
+{96419}{96488}l called earlier.|l'm a friend of Frenchie's, from L.A.
+{96493}{96563}My partner and l would like|to speak to Mr. Velvet.
+{96569}{96600}He's not here.
+{96616}{96667}We have to give him|a large sum of money.
+{96673}{96727}lf he's not interested, we'll split.
+{97156}{97201}What are you talking about?
+{97206}{97292}Can't you just answer|my simple question?
+{97328}{97417}l asked you a question!|Where the fuck is Laura?!
+{97426}{97496}l've been asking you that|the last 1 0 minutes.
+{97501}{97559}Sit down.|Make yourself comfortable.
+{97570}{97596}You idiot!
+{97602}{97650}Going to shoot in two days?
+{97656}{97709}Man, you're spending my money.
+{97715}{97763}Yeah, you better do that.
+{97776}{97818}Fucking asshole!
+{97824}{97889}lt's an honour to meet you.|Thank you for seeing us.
+{97926}{97954}God!
+{98018}{98060}So, what can l do you for?
+{98066}{98183}We'd like to commission a film.|A Dino Velvet original, one of a kind.
+{98196}{98228}That's right.
+{98240}{98293}l'm a huge admirer of yours.
+{98298}{98352}God, l love flattery.
+{98365}{98438}You're a genius, Mr. Velvet.|A goddamn genius.
+{98443}{98498}The only one still transferring|film to video.
+{98504}{98580}Nobody really appreciates|that kind of integrity anymore.
+{98587}{98664}The grain and the gritty look you get.
+{98726}{98757}Which is your favourite?
+{98762}{98845}lf l had to choose, it'd either be|Choke or Devil.
+{98864}{98962}The subliminal imagery in Choke|is what gets under your skin.
+{98988}{99088}Well, Devil frightened me|as much as it excited me...
+{99094}{99158}...but l'd be hard-pressed|to choose a favourite.
+{99268}{99337}What kind of a budget|are we talking about?
+{99363}{99464}Five thousand now.|Five thousand upon delivery.
+{99469}{99522}Two women. One white, one black.
+{99533}{99583}Hard bondage, of course.
+{99593}{99634}Other than that, trusting...
+{99642}{99687}...your artistic interpretation...
+{99693}{99752}...l only have two stipulations.
+{99869}{99904}Challenge me.
+{99944}{99988}l want to watch you work.
+{100008}{100075}You don't want a franchise, do you?
+{100089}{100157}Steal the recipe for my secret...
+{100163}{100215}...hot sauce?
+{100237}{100267}No.
+{100317}{100344}That's good.
+{100349}{100398}l appreciate that.
+{100525}{100560}Second stipulation.
+{100566}{100607}The other performer...
+{100624}{100667}...has to be...
+{100672}{100715}...that animal you use.
+{100721}{100761}The man in the mask.
+{100797}{100829}Machine.
+{101002}{101037}l don't know.
+{101058}{101102}He might be interested.
+{101130}{101207}But l think it'll cost you another...
+{101268}{101317}...five to seven grand.
+{101326}{101393}l can arrange something|really special for ten.
+{101404}{101437}You can do that.
+{101442}{101478}Good enough for me.
+{101518}{101617}l'll just have to put|my thinking cap on.
+{101708}{101787}l'm going to keep this as a deposit.
+{101793}{101864}You make sure you call me|after 1 0 o'clock tonight.
+{101871}{101911}1 0 o'clock.
+{102006}{102111}You know, you have a very special,|very beautiful face.
+{102117}{102171}The way light hits it.
+{102188}{102232}l'd like to shoot you.
+{102255}{102280}You don't mind?
+{102311}{102344}l'm camera-shy.
+{102354}{102422}You trust me to take your money,|but not your picture?
+{102427}{102487}Those are two different|kinds of trust.
+{102499}{102550}l hope we can do business.
+{102762}{102843}Hoyt Avenue, Brooklyn, 3 o'clock.
+{102906}{102939}l'll be there.
+{103013}{103072}l got something to tend to. Thanks.
+{103091}{103147}So are we in the movie business?
+{103171}{103195}That's for you.
+{103202}{103228}-What is it?|-Money.
+{103233}{103272}People use it to purchase goods.
+{103277}{103339}That's awfully generous and everything--
+{103344}{103392}lt's not mine.|Don't make a big deal.
+{103398}{103492}There's a plane ticket for the flight|you can catch to L.A. tonight.
+{103498}{103545}This is as far as l want you to go.
+{103550}{103592}What are you talking about?
+{103597}{103634}We're a team.|We're partners.
+{103641}{103756}Max, l'm sure you realize|these people we're dealing with...
+{103779}{103816}...are extremely disturbed.
+{103821}{103895}That's why you need me.|l know disturbed. Look at me.
+{103900}{103971}You did a great job.|lt's time for you to go home.
+{103976}{104022}But this is, like, our big case.
+{104027}{104100}Tom, l know what's going on, okay?
+{104113}{104141}Okay, what?
+{104146}{104215}Dino and Machine and Eddie|made a snuff film, right?
+{104221}{104307}l can't figure out why you're involved.|Maybe the victim--?
+{104312}{104345}First, who said you're right?
+{104351}{104412}Second, who said|anything about a victim?
+{104417}{104468}Only 3 rules in life, Tom Welles.
+{104474}{104551}One, there's always a victim.|And two, don't be it.
+{104557}{104577}And three?
+{104582}{104609}l forgot three.
+{104614}{104667}Good, l want you to forget everything.
+{104672}{104750}l want you to get on a plane to L.A.|and forget it all.
+{104782}{104892}l get calls for work on the West Coast.|l'd like to call you again.
+{104897}{104952}You're going to look me up|and call me?
+{104958}{105052}l could use your help. l meant it|when l said l think you're smart.
+{105058}{105109}l'm not patronizing you.
+{105114}{105147}Well, thanks.
+{105154}{105220}All right.|You take care, Max California.
+{105372}{105443}All right, Tom Welles.|Devil's waiting on you.
+{107427}{107470}There you are.
+{107477}{107526}Come and join us.
+{107806}{107846}Hello, Machine.
+{107871}{107893}Love your work.
+{108024}{108088}Did you bring the money?
+{108121}{108153}lt's right here.
+{108159}{108184}Good.
+{108218}{108252}Where are the women?
+{108257}{108293}Women...
+{108319}{108367}...they're always late.
+{108529}{108571}What are these for?
+{108576}{108628}They're just props.
+{108634}{108686}Nice, aren't they?
+{108691}{108789}Machine and l were just talking|about the beauty of knives.
+{108870}{108942}My guests have arrived!
+{108994}{109115}Mr. W., would you be so kind as|to remove any firearms from your person?
+{109134}{109158}What are you doing?
+{109186}{109252}l hate to repeat myself.|lt makes me look so stupid.
+{109268}{109296}Slowly.
+{109302}{109356}Please, show me your gun.
+{109382}{109418}Nice and easy!
+{109452}{109504}That's right. Easy.
+{109511}{109550}Good.
+{109558}{109628}Now empty those bullets|onto the table.
+{109633}{109668}Very carefully.
+{109673}{109747}-l don't know why you think--|-Shut up, you fuck!
+{109759}{109861}l'll put an arrow right through|your goddamn throat, you understand?
+{110007}{110037}That's him.
+{110063}{110098}Last bullet.|The last one.
+{110117}{110143}Good boy.
+{110149}{110213}Now cuff him to the bed, Eddie.
+{110222}{110255}Yes, sir.
+{110260}{110292}Machine!
+{110456}{110526}l didn't know what|to make of you at first.
+{110579}{110678}And you certainly had Eddie here|on pins and needles.
+{110717}{110787}Lo and behold,|from right out of the blue came...
+{110792}{110898}...an old business acquaintance of ours|to explain everything.
+{110906}{110980}Satan ex machina.
+{111007}{111071}You remember Mr. Longdale, don't you?
+{111142}{111167}Get it over with.
+{111172}{111223}Shut up. Nobody's talking to you.
+{111274}{111348}What l could do with faces|like these on film.
+{111368}{111456}But on second thought,|why would l need their faces?
+{111479}{111515}You listen to me.
+{111521}{111558}You'll get that film.
+{111564}{111633}You'll bring it back here,|give it to me.
+{111638}{111743}Just so we make this|as efficient as possible...
+{111749}{111811}...there is an incentive.
+{112074}{112126}He's got nothing to do with this.
+{112131}{112174}He doesn't know anything.
+{112179}{112272}Can't you guess|what l'm about to say next?!
+{112309}{112368}lf you don't bring me that film...
+{112373}{112429}...we're going to kill him,|fuck him...
+{112439}{112476}...and film it.
+{112554}{112613}lf that's not enough for you...
+{112619}{112687}...we're going to go after|your family.
+{112751}{112788}l'll get the film.
+{112845}{112917}Good boy.|You're being very cooperative.
+{112931}{112999}Mr. Longdale here will|keep you company.
+{113026}{113049}Why me?
+{113055}{113113}Because l don't like you,|Mr. Longdale.
+{113348}{113384}Mr. W...
+{113469}{113500}...hurry back.
+{113608}{113712}Since l met you, there isn't much you've|done that l haven't been party to.
+{113717}{113789}None of this would be happening|if you'd given up.
+{113795}{113855}Or not taken the job|in the first place.
+{113861}{113918}l never expected you to get this far.
+{113924}{114022}l hired you because you're young|and completely out of your league.
+{114027}{114083}But l underestimated your ambition.
+{114089}{114208}You took one look at the Christian|compound. lt was heady, wasn't it?
+{114213}{114310}You weren't peeking through the gates.|Mrs. Christian welcomed you in.
+{114316}{114399}Do you think people like|the Christians hire people like us...
+{114405}{114457}...as an invitation|to their dinner parties?
+{114463}{114567}No, we're there to clean up the mess,|to wipe their royal asses.
+{114572}{114612}You were asked to buy a snuff film.
+{114617}{114694}They couldn't find one,|so you paid them to make one.
+{114700}{114748}lsn't that what happened?
+{114753}{114817}She was alive till you paid|to have her murdered?
+{114822}{114867}How much did Christian|pay for your conscience?
+{114873}{114893}A million?
+{114912}{114951}l've been well compensated.
+{114956}{114999}But you, l bought cheap.
+{115038}{115122}Just because Mrs. Christian|praised your discretion...
+{115128}{115207}...you sat on evidence of murder,|dragged your friend, family...
+{115213}{115271}...into some old graveyard...
+{115277}{115372}...to dig up a dead girl with no name|that nobody remembers.
+{115378}{115409}Mary Anne Mathews.
+{115414}{115486}That was her name.|Her mother remembers her.
+{115492}{115524}l'm bored with this.
+{115534}{115588}You know the difference between us?
+{115593}{115669}l will survive this and profit by it,|whereas you...
+{115675}{115702}...you will not.
+{115708}{115746}Now get the film.
+{115880}{115920}Did you watch it with him?
+{115925}{115946}What?
+{115951}{116003}The snuff film.|Did you watch it with him?
+{116008}{116063}This isn't helping your friend.|Get the film.
+{116069}{116096}Did it get him off?
+{116107}{116141}Mr. Christian?
+{116147}{116225}Watching them cut her up like that?|Did he jerk off to it?
+{116230}{116284}Did you hold his cock?|Give him the hand job...
+{116290}{116357}...while Mary Anne Mathews was dying?!
+{116363}{116428}-What are you doing?|-Trying to understand!
+{116433}{116487}What did he want|with a snuff film?!
+{116497}{116519}Why?
+{116524}{116572}Yes, why? Why?!
+{116578}{116624}Why did he want a film...
+{116630}{116689}...of a little girl being butchered?!
+{116722}{116754}Because he could.
+{116769}{116815}He did it because he could.
+{116864}{116917}What reason were you looking for?
+{117015}{117045}Now.
+{117389}{117419}Here.
+{117437}{117471}Shoot me.
+{117686}{117744}Mr. Welles, the film, please.
+{117771}{117800}Let him go first.
+{117806}{117864}Do whatever you want to me,|but let him go.
+{117869}{117930}Very well.|Set him free, Machine.
+{118806}{118852}-ls that it?|-That's it.
+{118858}{118887}Bravo.
+{118922}{118965}You don't want to miss this...
+{118973}{119013}...Mr. Welles.
+{119234}{119280}So it ends.
+{119329}{119392}As if she never existed.
+{119404}{119488}Don't blame yourself.|You were in way over your head.
+{119502}{119549}You motherfuckers!
+{119601}{119662}You smalltime motherfuckers.
+{119704}{119748}l want to know something.
+{119758}{119854}Why you're still smalltime with a|million dollars to spread around?
+{119868}{119888}Million?
+{119893}{119963}Yeah! That's what Christian|gave Longdale!
+{119983}{120025}That's what he gave you, right?
+{120030}{120062}A million in cash?
+{120072}{120124}You stupid fucking trash!
+{120129}{120224}What the hell--?|ls he talking dollars here?
+{120232}{120266}No, he's lying.
+{120274}{120308}Did you fuck me?
+{120341}{120368}Did you fuck me on this?
+{120373}{120401}Of course not, Edward!
+{120406}{120455}Then what's he talking about?
+{120460}{120532}He's saying that Longdale fucked us...
+{120538}{120610}...which is so totally,|completely bizarre.
+{120625}{120646}Stay back.
+{120663}{120687}Stay away from me.
+{120708}{120739}Put the bow down!
+{120744}{120792}l told you not to trust the prick.
+{120797}{120861}Mr. Longdale, if there's no honour...
+{120866}{120909}...among perverts and pornographers...
+{120914}{120965}...the whole business would fall apart.
+{120970}{121061}Because there's no records,|no contracts, no legal recourse.
+{121067}{121103}So if someone...
+{121109}{121140}...cheats us...
+{121145}{121184}...that person can't be trusted.
+{121195}{121263}That person could turn us in,|have us killed.
+{121281}{121372}So we don't have a choice,|do we, Mr. Longdale?
+{121377}{121452}l want this to be over.|Nobody else needs to get hurt.
+{121457}{121492}Eddie, take your gun out.
+{121504}{121527}Fuck you.
+{121532}{121585}Take it out now! And drop it.
+{121590}{121629}Or l will shoot.
+{121639}{121683}Don't be stupid, Edward.
+{121814}{121851}Kick it in my direction.
+{121940}{122002}Now, Dino, drop the crossbow.
+{122113}{122146}Action.
+{122425}{122467}This is wrong.
+{122482}{122528}Something's wrong.
+{122533}{122568}God, not like this.
+{122616}{122672}l am supposed to have...
+{122690}{122733}...something more cinematic.
+{122750}{122793}Kill them, Machine.
+{122824}{122862}Kill them all.
+{123044}{123072}Machine!
+{124062}{124082}Stop, Eddie!
+{124122}{124189}l swear to Christ,|l'll shoot you in the back!
+{124230}{124257}Take off the mask.
+{124308}{124347}Take off the fucking mask!
+{124355}{124402}He's only got one bullet!
+{126853}{126889}Amy, listen carefully.
+{126894}{126950}-Tom, where are you?|-Amy, just listen.
+{126955}{127012}Take Cindy.|Get out of the house now.
+{127018}{127072}Go to where we spent|Fourth of July weekend.
+{127077}{127147}-Why? What's wrong?|-Amy, please. l can't.
+{127153}{127201}l'll be there in three hours.
+{127213}{127254}l'm on my way! Go now!
+{127265}{127310}Tom, you're scaring me.
+{127315}{127357}Please, Amy, just do it!
+{127381}{127432}Okay, bye. l'm going.
+{127618}{127665}Mrs. Christian, it's Tom Welles.
+{127670}{127702}Longdale is dead.
+{127707}{127753}He was killed by the men|who made the film.
+{127758}{127835}He hired them for your husband.|Kept most of the million.
+{127841}{127882}The film is real!
+{127887}{127918}They killed that girl!
+{127968}{128000}Mrs. Christian?
+{128005}{128071}l'm still here, Mr. Welles.
+{128076}{128112}l'm sorry.|l know this must be--
+{128118}{128150}Are you in danger?
+{128155}{128225}We'll go to the police.|l'll tell you everything tonight.
+{128230}{128271}We'll call the police|in the morning.
+{128280}{128304}All right.
+{128315}{128339}Eight o'clock?
+{128344}{128388}Yes, eight o'clock is fine.
+{128393}{128423}Do you know...
+{128429}{128526}...what the poor girl's name was?
+{128581}{128628}Mary Anne Mathews.
+{128718}{128742}Thank you.
+{128750}{128800}Mr. Welles, goodbye.
+{130186}{130229}Are you okay?
+{130276}{130305}Are you?
+{130328}{130384}Why haven't you called me?
+{130449}{130528}Why did you disappear|off the face of the Earth?
+{130556}{130594}You're bleeding.
+{130608}{130646}Are those handcuffs?
+{130652}{130696}Were you locked up?
+{130718}{130783}Kept from a phone? What happened?
+{130788}{130809}Start talking, Tom.
+{130815}{130917}Because if you want to stay married,|you can't treat me this way!
+{130934}{130964}You're right.
+{130970}{131017}Everything you say is right.
+{131072}{131132}That won't do it.|That's not enough, Tom.
+{131138}{131166}Not anymore.
+{131194}{131255}l'm not going to let|anything happen to us.
+{131261}{131313}Look where we are!
+{131325}{131389}Look at yourself!|Look at yourself! Look!
+{131413}{131447}You son of a bitch.
+{131453}{131543}You don't even have any idea|what you're putting me through.
+{131589}{131667}What was l supposed to think|happened to you?
+{131800}{131855}We're going to stay here a few days.
+{131861}{131894}lt's just a few days.
+{131900}{131931}l'm sorry.
+{131937}{131983}There's no other way around this.
+{131988}{132026}l swear, l swear...
+{132081}{132155}...l won't let anything happen to us.|l'll take care of this.
+{132161}{132200}l swear it.
+{132222}{132261}l swear it.
+{132306}{132357}Now l have to go back out.
+{132376}{132405}Where?
+{132485}{132538}l have to see Mrs. Christian.
+{132560}{132606}She's the only witness.
+{132634}{132663}To what?
+{132720}{132766}We're going to be okay.
+{132837}{132880}We're going to be okay.
+{133220}{133274}Tom Welles.|Mrs. Christian's expecting me.
+{133280}{133324}Yes, she left instructions.
+{133345}{133403}l have to see her now.|lt's extremely urgent.
+{133421}{133513}Mrs. Christian chose to take|her own life this afternoon, Mr. Welles.
+{133642}{133673}But l just....
+{133689}{133728}No, no, l just....
+{133763}{133799}l just spoke to her.
+{133805}{133882}Her instructions were|that this first envelope...
+{133902}{133936}...is for Mary's family.
+{133946}{134013}She wrote that you'd understand|what that meant.
+{134029}{134083}And the second envelope is for you.
+{134135}{134243}Services will be held next week,|if you'd like to attend.
+{134269}{134308}l am sorry, sir.
+{134325}{134353}Good night, sir.
+{135210}{135248}What are you doing?
+{135310}{135352}l have to go back.
+{135624}{135665}Whatever it is...
+{135674}{135714}...wherever you were...
+{135719}{135775}...just forget about it.
+{135780}{135821}You stay here.
+{135833}{135870}l can't.
+{135945}{136020}And risk us?|Risk your family? Why?
+{136055}{136118}There's no one left|to finish this but me.
+{136141}{136193}l'll call you|when it's safe to go home.
+{136258}{136318}We may not be there|when you get back.
+{136664}{136741}Cindy's education, and a lot more.
+{136975}{137013}l love you.
+{138257}{138309}Put your hands on your head.|Down on your knees.
+{138360}{138408}You think l'm fucking around?
+{138482}{138508}Hurts, doesn't it?
+{138513}{138547}What the fuck do you want?
+{138552}{138580}Who's Machine?
+{138585}{138612}Where does he live?
+{138632}{138660}l don't know.
+{138666}{138700}l want his name.
+{138708}{138762}l don't know his fucking name.
+{138833}{138887}l will never get tired of hurting you.
+{138892}{138991}l don't know his name. He shows up|in his mask, he leaves in his mask.
+{138997}{139040}He's from New York somewhere.
+{139174}{139213}Get in the car.
+{139252}{139272}Why?
+{139290}{139345}You're going to show me|where he killed her.
+{139367}{139394}Fuck you!
+{139448}{139494}All right, you fuck.
+{139833}{139893}What did you do before|you brought her here?
+{139915}{139974}Tell her how beautiful she was...
+{140004}{140058}...how you'd make her a big star?
+{140185}{140221}Talk her up?
+{140324}{140378}What the fuck do you want from me?
+{140474}{140513}l want to know.
+{140592}{140628}You want to know?
+{140720}{140794}She was nothing.|A little pussy off the street.
+{140799}{140873}Girl like that disappears,|nobody gives a shit.
+{140901}{140956}Yeah, l talked her up.
+{140963}{141043}Told her what she wanted to hear,|that she'd be a star...
+{141048}{141127}...she'd make a lot of money,|and all the rest of the bullshit.
+{141132}{141233}When l was finished, she was all|excited about her big screen test.
+{141274}{141314}l called up Dino...
+{141320}{141398}...he and Machine flew out here.|We had a little party.
+{141437}{141483}What else you want to know?
+{141500}{141543}You saw the film, right?
+{141562}{141597}You know the ending.
+{141650}{141708}Nobody else saw you bring her in?
+{141760}{141833}Who's going to see?|Place is a fucking shithole.
+{141919}{141965}l brought her in and she...
+{142008}{142068}...saw Machine|standing in the corner.
+{142102}{142143}She started crying...
+{142190}{142243}...making these little noises.
+{142293}{142363}So l slapped her around a bit|just to shut her up.
+{142370}{142398}Dino...
+{142404}{142452}...fed her a bunch of pills.
+{142489}{142553}Machine put down the plastic over here.
+{142630}{142678}Just started cutting her up.
+{142770}{142827}That's it. She's dead.
+{142832}{142909}She's been dead a long time.|Nobody gives a shit but you.
+{143260}{143301}You wanted to know.
+{143310}{143349}Now you know.
+{143398}{143432}You were in here.
+{143437}{143525}You watched Mary Anne|bleed to death from here.
+{143560}{143587}Why?
+{143630}{143673}Why did you watch?
+{143694}{143728}l felt like it.
+{143779}{143822}l never saw nobody get done.
+{143850}{143872}Why?
+{143904}{143957}Did you get hard? Did you come?
+{143962}{144023}No. lt made me sick.
+{144029}{144068}But what do l give a shit...
+{144073}{144171}...if some rich fucking wacko wants|to beat off to something like that?
+{144177}{144209}Stay down!
+{144269}{144318}lt was something l did for money.
+{144378}{144428}l needed the fucking money.
+{144444}{144480}Where is she?
+{144485}{144520}Where did you put her body?
+{144532}{144578}l buried it in the woods.
+{144608}{144630}You won't find it.
+{144635}{144689}And even if you do,|what do you got?
+{144694}{144748}You got a girl's skeleton, that's it.
+{144754}{144804}Without the film, you got nothing.
+{144825}{144872}All you can do is cut me loose.
+{144877}{144935}Without the film,|you got nothing--
+{144940}{144979}What the fuck are you doing?
+{144984}{145030}-Hands behind your back.|-Fuck you!
+{145050}{145110}Put your hands behind your back!
+{145115}{145150}All right.
+{145275}{145326}What the fuck are you doing?
+{145465}{145511}l'm going to kill you.
+{145545}{145591}l'm going to kill you.
+{145632}{145713}And l'm going to leave you here|just like you left her.
+{145760}{145803}You're not going to kill me.
+{145820}{145848}You don't have it in you.
+{145889}{145950}You going to shoot me|with your own gun?
+{145955}{145987}Registered in your name?
+{146045}{146107}You thought this through,|didn't you, genius?
+{146115}{146171}You'll have to dig|the bullets out of my head.
+{146177}{146218}That'll be nice.
+{146266}{146308}Or you could dig a hole.
+{146328}{146411}Dig it with your own hands and|bury me next to your girlfriend.
+{146426}{146456}Go ahead.
+{146472}{146498}Pull the fucking trigger.
+{146512}{146533}Go ahead.
+{146538}{146590}What are you waiting for?|Go ahead, do it.
+{146595}{146630}You faggot!
+{146682}{146730}What do you want me to do?|Start crying?
+{146735}{146795}Like a baby?|'' l'm so sorry l killed the girl.''
+{146800}{146843}Fuck you! And fuck her!
+{146848}{146941}Go ahead, put me out of my misery.|Pull the fucking trigger.
+{146969}{147006}Pull the fucking trigger.
+{147019}{147044}Do it!
+{147062}{147088}Do it!
+{147264}{147306}You can't do it.
+{147328}{147376}You little pansy bitch!
+{147381}{147409}Look at you.
+{147415}{147462}Big fucking hero man.
+{147467}{147504}You can't fucking do it.
+{147550}{147584}Look at him.
+{147603}{147643}Big fucking hero.
+{147668}{147718}Go on home to your wifey!
+{147745}{147786}You pussy!
+{147803}{147849}You big fucking pussy!
+{147894}{147953}What are you going to do now, faggot?
+{148010}{148062}You can't go to the cops!
+{148094}{148203}Send me your wife and daughter.|We'll make a film, you faggot!
+{148284}{148313}Shit!
+{148324}{148363}You punk-ass!
+{149489}{149532}Mrs. Mathews?
+{149539}{149582}lt's Thomas.
+{149589}{149629}Thomas Hart.
+{149635}{149719}l was there a few weeks ago|asking about your daughter.
+{149729}{149784}Yeah, you found her diary.
+{149790}{149826}Thank you.
+{149842}{149895}She did leave a note...
+{149904}{150007}...and her stupid boyfriend|dumped her in California...
+{150014}{150048}...so l told the FBl.
+{150075}{150113}Remember when...
+{150130}{150198}...l asked you if you'd want to know...
+{150225}{150255}...the truth...
+{150278}{150318}...no matter what?
+{150337}{150430}Some men, they took her and|they killed her and they buried her.
+{150460}{150499}l'm sorry.
+{150505}{150527}l'm sorry.
+{150543}{150593}l want to punish them for what they did.
+{150604}{150653}Why are you saying this?
+{150658}{150706}l can hurt them.
+{150711}{150790}Give me your permission|to hurt them, please.
+{150817}{150862}Tell me how much she meant to you.
+{150889}{150943}Just tell me that you loved her.
+{150948}{151021}-Please tell me that you loved her.|-l love her.
+{151029}{151076}l love her so much.
+{151135}{151189}l love her so much.
+{151358}{151390}Who's that?
+{151514}{151570}Die, you motherfucker, die!
+{153864}{153888}New York Hospital.
+{153893}{153939}Connect me to the duty nurse.
+{153944}{153967}Emergency.
+{153973}{154030}lt's Lt. Anderson of the 13th precinct.
+{154036}{154110}Have you admitted an adult male|with an abdominal wound...
+{154115}{154177}... in the last 48 hours?|A stabbing incident.
+{154183}{154218}Abdominal wound?
+{154224}{154249}No, not one.
+{154255}{154283}Thank you.
+{154288}{154375}l'm looking for a stabbing victim.|Male. Maybe six feet.
+{154380}{154430}Filed a bogus report.
+{154443}{154505}We had a guy in on Monday, l think.
+{154510}{154566}lt would've been|yesterday or the day before.
+{154571}{154591}Sorry.
+{154609}{154676}-Queens County Emergency.|-Hi, Lt. Anderson.
+{154681}{154723}We had a stabbing incident...
+{154728}{154785}...and supposed victim gave us|a false name.
+{154790}{154835}A male with an abdominal wound.
+{154840}{154889}Hold on. Let me check my records.
+{154895}{154961}There was a patient treated yesterday.
+{154966}{155014}Star tattoo on his right hand?
+{155019}{155059}Yes. George Anthony Higgins.
+{155065}{155170}lnsurance policy is under his|mother's name, Doris Veronica Higgins.
+{155176}{155231}That's him.|Can you give me an address?
+{155236}{155316}lt's under her address. Douglaston.|Need a street?
+{156181}{156263}l really wish you'd go|to church with me tonight.
+{156383}{156427}l love you, son.
+{156523}{156583}l'll be home by 1 0. Bye-bye.
+{163611}{163661}You know the best part|of killing someone?
+{163675}{163724}The look on their face.
+{163730}{163764}lt's that look...
+{163769}{163809}...not when they're threatened...
+{163814}{163854}...not when you hurt them...
+{163859}{163923}...not even when they see the knife.
+{163933}{163984}lt's when they feel the knife go in.
+{163989}{164015}That's it.
+{164028}{164069}lt's surprise.
+{164074}{164123}They can't believe|it's really happening.
+{164130}{164157}She had that look.
+{164171}{164250}The girl, when she knew|it wasn't just porno.
+{164255}{164304}You feel how hard l am?
+{164564}{164600}Take off the mask.
+{164988}{165042}What did you expect, a monster?
+{165237}{165282}My name's George.
+{165288}{165334}You probably knew that already.
+{165395}{165449}Can't get your mind around it, huh?
+{165454}{165491}l don't have any answers.
+{165496}{165571}Nothing l can say will|make you sleep easier at night.
+{165576}{165646}l wasn't beaten. l wasn't molested.
+{165651}{165697}Mommy didn't abuse me.
+{165741}{165779}Daddy never raped me.
+{165798}{165846}l'm only what l am.
+{165851}{165894}That's all there is to it!
+{166193}{166231}There's no mystery.
+{166236}{166321}Things l do, l do them because|l like them.
+{166355}{166396}Because l want to.
+{167547}{167601}You've been stabbed?|How many times?
+{167606}{167664}Sir, can you tell me your name?
+{168895}{168926}ls that you?
+{169015}{169043}My God!
+{169470}{169507}Save me.
+{169630}{169671}Save me.
+{171495}{171530}Dear Mr. Welles.:
+{171536}{171571}Thank you for writing...
+{171576}{171625}...and telling me your real name...
+{171631}{171704}... who you really are|and what really happened.
+{171710}{171766}l'm glad those men are dead.
+{171773}{171845}But nothing will ever|fill the hole in my heart.
+{171851}{171923}l will try to use the money|you sent for some good...
+{171928}{171985}...after l get some help for myself.
+{171991}{172049}l hated you|for telling me the truth...
+{172054}{172135}...but now l realize you and l|are the only people...
+{172141}{172204}... that ever really|cared about Mary Anne.
+{172210}{172249}Yours truly...
+{172256}{172290}...Janet Mathews.
+
+
+0
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>

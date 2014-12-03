@@ -1,0 +1,829 @@
+{4079}{4136}Well! | What you wanted to show me?
+{4170}{4220}Kevin what a secret? "
+{4252}{4308}What are you doing? "| I'm going back down.
+{4363}{4406}Kevin stop it!
+{4422}{4484}Behave! | You're my cousin!
+{4519}{4581}What it says to your father?
+{4883}{4932}No please. Stop it!
+{4944}{4985}Please Kevin!
+{5003}{5054}I beg you. Leave me alone!
+{5081}{5130}Stop it please! No!
+{10300}{10335}Get up.
+{10373}{10447}Get dressed up quickly. | Waiting for you at the bottom.
+{10808}{10864}- What's happening? | - I do not know.
+{11650}{11705}Dad. where is Margaret going ?
+{11999}{12062}Maa where is Doyle's father takes Margaret ?
+{12509}{12600}- What did you brush? | - Leave me alone. And so I will not say.
+{12604}{12682}- Sonia fart her face. | - I will not do that!
+{12695}{12771}- Your pierdy more stink! | - No way.
+{12816}{12899}- My God how can you do? | - Where is the brush?
+{12943}{12976}You.
+{13097}{13173}-now my turn. | - I did 18 I still have 2
+{13192}{13240}were doing 20 I would have expected!
+{13245}{13331}Stop quarreling | or the will comb her hair.
+{13385}{13483}- Is being beautiful is not a sin? | - Yes. Think of the Virgin Mary.
+{13507}{13604}She is beautiful. Should not be empty. | Vanity is a sin.
+{13780}{13842}- Hey cutie what is your name? | - Bernadette.
+{13846}{13919}- The latter is also sweet. | - Bernadette is a beautiful name.
+{13923}{13974}That was my grandmother's name | and was proud of that.
+{13978}{14027}- You will give us a kiss? | - No Chance!
+{14043}{14091}Show the feet. No show!
+{14098}{14155}- What? | - Show us your legs.
+{14178}{14223}No they show their legs!
+{14227}{14316}- always watching the girl? | - Which do you like us?
+{14358}{14436}- Do you like it? | - With this murder? Look at me!
+{14461}{14557}Scoundrels. How are hence not immediately launching | I will call the guards!
+{14733}{14773}She went away!
+{14786}{14833}It's a witch huh!
+{14837}{14896}Come to us and give us a kiss.
+{14912}{14975}- Why not? | - I am not those kind of girls.
+{14979}{15031}In the night you said something else.
+{15080}{15155}- You will give him the kiss? | - She is teasing us!
+{15172}{15239}I know. | She is looking for a boyfriend.
+{16431}{16483}He is beautiful?
+{16588}{16660}Maa will you just look at him.
+{16728}{16768}It's your grandson.
+{16821}{16881}Mom I said I am sorry ...
+{16892}{16969}that I did something like that. | Please take a look at him!
+{17012}{17085}You can not blame him for anything. | It's not his fault.
+{17121}{17185}I know I ashamed you and Dad.
+{17201}{17251}Look at him Mom.
+{17273}{17338}Ma why would you not say something. | anything!
+{17439}{17478}Hi Dad.
+{18008}{18047}Sit down Rose.
+{18129}{18219}My name is father Doonigan. | I work for St.. John Adoption Society.
+{18243}{18336}Your father and I discuss| that the best thing you can do for a child ...
+{18340}{18377}is to give them up for adoption.
+{18381}{18451}A child born out of wedlock | is a bastard chield.
+{18455}{18517}Do you want a lifelong | were an outcast ...
+{18521}{18595}wyszydzanym and by all odtracanym | honest members of society?
+{18599}{18693}- have committed a terrible sin. | - I know Father. I regret it very much.
+{18710}{18784}All the sin do you want your child had paid | for your sins?
+{18825}{18888}- No Father. | - Speak louder Rose.
+{18921}{18943}No Father.
+{18947}{19000}So you want to give him a chance ...
+{19012}{19105}and you want grew up | in a Catholic family with loving  mother and father .
+{19184}{19225}Sign here.
+{19610}{19644}Now ...
+{19665}{19726}You stay here I'll got your baby.
+{19730}{19830}- You want to take it away now? | - You could be him too attached.
+{20151}{20202}Did you see the baby Dad? "
+{20270}{20311}He is beautiful.
+{20408}{20502}I'll tell him that I changed my mind! | We can not tear up form?
+{20587}{20662}Could you just look at Ma.. isn't he beautiful?
+{20761}{20793}Hw is beautiful.
+{20862}{20940}My baby! I want my baby! | I changed my mind!
+{20954}{21052}Please Dad stop them! | Do not let that took my baby!
+{21307}{21341}Dad!
+{21418}{21458}Please Dad!
+{23210}{23275}Put it down there now and wait.
+{23465}{23532}Sister Bridget is see you now. | And you go.
+{24014}{24099}The philosophy is here in Magdalenskim is very simple 1..
+{24103}{24176}to the power of prayer purity | and hard work ...
+{24180}{24266}lost women | can find the way to Jesus Christ.
+{24315}{24382}St. Mary Magdalene Asylum holy patron ...
+{24386}{24438}was the worst kind of sinner.
+{24442}{24534}With the money gave his body | zdeprawowanym and full of lust.
+{24564}{24641}has been saved | doing penance for his sins ...
+{24648}{24754}renouncing all bodily pleasures | including eating and sleeping.
+{24762}{24819}worked with inhuman stubbornness ...
+{24826}{24868}so that it could donate | my soul to God ...
+{24872}{24946}cross the gates of Paradise | and live eternal life.
+{25042}{25131}We not only wash laundry | ordinary sheets and clothes.
+{25135}{25219}are landowners means | that are cleaning your souls ...
+{25223}{25300}and striking out the sins | which you have committed.
+{25333}{25390}Here you can be rehabilitated.
+{25394}{25469}You can be saved | from eternal damnation.
+{25476}{25564}Breakfast is about 6 About 6:30 prayer. | Work begins at 7
+{25592}{25654}- Lunch ...|- sorry sister.
+{25676}{25729}I think I should go.
+{25759}{25806}My father was very ...
+{25810}{25917}Do not interrupt me girl. | Did you not say that it is rude ...
+{25951}{26034}or simply you were too busy being a whore | to listen to?
+{26038}{26116}- No sister. | - In that case you ignorantka.
+{26142}{26227}You up such a fool! | I say when you leave.
+{26233}{26321}I think I can safely assume | that it will take some time.
+{26330}{26395}- What's your name? | - Margaret sister.
+{26399}{26452}- Margaret eh? | - Maguire.
+{26549}{26598}- And you? | - Rose Dunne.
+{26603}{26657}We already have a Rose. | How do you second?
+{26661}{26691}I do not know.
+{26695}{26793}not on your birth certificate | but your parents have to think about something.
+{26798}{26871}- What you got the name for confirmation? | - Patricia.
+{26875}{26936}We'll talk to you Patricia.
+{26990}{27059}- Thank you sister. | - Thank you sister.
+{27105}{27161}- And you? | - Bernadette Haffi.
+{27200}{27245}Attractas With Saint.
+{27270}{27300}Yes sister.
+{27304}{27375}- What do you think about it how do I know? | - I do not know.
+{27387}{27430}Is it because the director McLaughlin is my
+{27432}{27490}good friend | and told me everything about you ...
+{27494}{27594} or because after many years in religious life | can detect the tempter?
+{27610}{27655}I do not know sister.
+{27685}{27751}What bad luck! | Two Idiots in one day!
+{27760}{27835}Everything we'll find out over time | right?
+{27856}{27907}And now come with me.
+{28085}{28155}- Good afternoon | - Good afternoon.
+{28358}{28402}You come with me.
+{28457}{28496}You go there.
+{28576}{28615}And you here.
+{29610}{29675}In the name of the Father and the Son | and the Holy Spirit.
+{29725}{29821}"Angel of God my guardian | you always stand by me ...
+{29834}{29920}morning in the day evening night | or I always to help. '
+{29970}{30035}In the name of the Father and the Son | and the Holy Spirit.
+{30064}{30112}to bed girls.
+{31252}{31332}Excuse me. | You can bring me to the bathroom please?
+{31363}{31394}Yes.
+{31591}{31638}Everything okay?
+{32020}{32052}Hello.
+{32149}{32195}I feel awful.
+{32244}{32299}- What's happening? | - I feel ...
+{32369}{32421}I feel faint.
+{32624}{32686}Do not touch. | Milk you speechless?
+{32731}{32770}I do not know. I think so.
+{32774}{32822}Do not touch. | All zachlapiesz.
+{32826}{32883}Sisters then the fury fall.
+{32920}{32985}Hang. | The pain will pass within a few days.
+{33049}{33097}ought to be placed.
+{33159}{33249}If you notice that the zaprzyjaznilyscie | obedra you from the skin.
+{34172}{34238}Get out of bed! | All get up!
+{34409}{34475}Do any of you saw Une O'Conner?
+{34613}{34668}Is slyszalyscie something at night?
+{34795}{34860}None of you did not see how go!
+{35023}{35060}Breakfast!
+{36422}{36471}"I believe in one God ...
+{36485}{36558}Father Almighty | Creator of Heaven and Earth ...
+{36578}{36647}of all things visible and invisible ...
+{36688}{36756} and Jesus Christ his only Son ...
+{36809}{36872}born of the Holy Spirit centuries ago.
+{36883}{36937}God from God Light from Light ...
+{36953}{37027}true God from true God | begotten not made. '
+{37069}{37144} I'm sure she was there last night. | Checked.
+{37148}{37216}I also checked! | Do not think I slept!
+{37303}{37390}I do not know how it could happen. | I can not explain.
+{37395}{37450}You were clearly rozkojarzona.
+{37476}{37533}In any event it is your fault.
+{37552}{37612}- This is the first time ...|- I do not ...
+{37632}{37669}is enough!
+{38014}{38098}"I believe the Holy Spirit Catholic | and Apostolic Church."
+{38426}{38494}I have it all under control | sister.
+{38526}{38598}Is sister know | that I'm working here for 40 years?
+{38881}{38988}I'm not going to wash the priests collar. | Let someone else do it. I'm not doing it.
+{39015}{39073}So I need to do it for you?
+{39081}{39155}- How do you want we can replace. | - Forget.
+{39163}{39213}Got something bloody!
+{39228}{39316}Some girls hate that. | Mi is all the same.
+{39335}{39382}I'll do it for you.
+{39429}{39528}Some wsadzaja a domestic hot water. | I told them but they did not listen.
+{39539}{39625}First we need to put | in cold water with a pinch of salt.
+{39673}{39718}And then rub.
+{39842}{39878}I understand.
+{39893}{39967}What you are talking! | You do not talk!
+{39993}{40060}Sister they are talking. | I will give them a good bure!
+{40064}{40126}- Am I right sister? | - Yeah Katy.
+{40134}{40187}You are not allowed to talk.
+{40237}{40319}- What are talked! | - I told her how to wash.
+{40334}{40403}Jesus Joseph and Mary! | Take it from me.
+{40407}{40466}You are disgusting. | You know that!
+{40503}{40549}Get back to work.
+{40594}{40673}I am working here for 40 years. | I know all your tricks.
+{40677}{40719}I have an eye on you!
+{40916}{41014}poor sister of Augustus has problems | by the girl who ran away.
+{41062}{41124}That's why here it is replaced.
+{41130}{41210}poor sister is completely broken. | Her nerves are zszargane.
+{41214}{41296}Am I right telling them to mind | the truth Sister?
+{41302}{41340}Good bure!
+{41345}{41431}This is which is the worst in you | it is that you are selfish!
+{41441}{41543}you do not care that the sister could | have trouble and lose his position.
+{41556}{41613}I just fell asleep on call ...
+{41672}{41734}and now lands in Africa.
+{41753}{41810}will work with tredowatymi.
+{41836}{41896}fall off her fingers with the hands and feet.
+{41924}{41968}could lose your nose!
+{41997}{42072}might fall off its all | what stands out from her body.
+{42103}{42148}And now to work.
+{42189}{42246}Pracujcie in silence. | Come on!
+{42415}{42479}- We need to get out. | - Quiet!
+{43864}{43905}- No! | - Go!
+{43933}{43991}forces you you went! | Come on!
+{43995}{44034}Please no!
+{44060}{44099}Excuse me!
+{44109}{44159}Please! Leave me!
+{44197}{44241}- This is your place? | - Please father!
+{44245}{44290}- Please! | - Is it your place?
+{44294}{44362}You'll be here until the end of life | whore!
+{44376}{44461}I just wanted to come home Dad. | Return to the home!
+{44487}{44534}I hate this place!
+{44538}{44617}I thought you said ... | What you say?
+{44704}{44750}What do you say?
+{44830}{44893}You do not have a house | nor the mother and father.
+{44942}{45009}You killed us zdziro. | You killed us both.
+{45055}{45152}If you escape again | I swear that I will make you a cripple.
+{45257}{45331}Mr. O'Connor | I think you should go.
+{45378}{45422}We'll Una.
+{45440}{45493}What are you gapicie zdziry?
+{45720}{45776}May God bless sister.
+{45799}{45892}Please do not leave me here Dad! | Do not leave me here!
+{45985}{46026}Go to sleep UNA.
+{46055}{46107}I'll see you tomorrow morning.
+{46124}{46159}And now ...
+{46191}{46239}all the quilts.
+{46281}{46321}You have to sleep.
+{49083}{49144}Are all women | who are dziwkami work here?
+{49148}{49232}Do not look on them | do not talk with them understand?
+{49407}{49446}Good morning.
+{50216}{50257}Someone is calling you.
+{50432}{50472}My Sister!
+{50545}{50581}My baby!
+{50605}{50650}My little boy!
+{50677}{50770}is such a dear! | Is not it sweetest child in the world?
+{50817}{50889}is only 2 years | and see what is already big!
+{51092}{51184}Blessed Virgin | I pray to you and the church. Christopher.
+{51247}{51311}St. Christopher Take care of him ...
+{51412}{51467}God in Heaven protect him.
+{51481}{51566}The blessing of God be with you | and all of us.
+{51661}{51723}You two stop wasting time!
+{52406}{52449}Are you handicapped?
+{52453}{52501}Yes. I just wanted to make a | good impression.
+{52505}{52563}You can put yourself in the ass.
+{52589}{52621}wounds.
+{52650}{52707}I heard you like boys.
+{52734}{52774}is not true?
+{52781}{52858}You are here | I like to give the young guys?
+{52865}{52925}Do you like panties off | right?
+{53129}{53185}As your child's name is?
+{53259}{53295}I do not know.
+{53478}{53529}Ask how my name.
+{53612}{53656}What's your name? "
+{53879}{53915}Crispina.
+{54014}{54084}That is "a girl with curly hair."
+{54274}{54334}So I called Sister Bridget.
+{54840}{54905}Two shillings | if you do me a stick.
+{55017}{55074}crazy fucking bitch!
+{55250}{55342}When the child came from my stomach | gave it to my sister.
+{55359}{55460}She does not have permission to come here | or to talk to me.
+{55478}{55542}And so I do not know | how it has a name.
+{55597}{55684} but my aunt | which is the richest woman in the world ...
+{55696}{55799} and he gave me this one. | My sister ...
+{55803}{55888}My sister brings it to the gate | from time to time ...
+{55906}{55961}and talk through this.
+{55986}{56023}This is ...
+{56038}{56070}This ...
+{56178}{56211}Holy ...
+{56261}{56300}Holy ...
+{56313}{56366}Excuse me sister. | Which word?
+{56370}{56406}What is the word?
+{56410}{56454}I can not recall.
+{56458}{56537}You know that you can not talk to you. | Go back to work.
+{56553}{56610}I said go back to work.
+{56634}{56680}I will not repeat.
+{56685}{56767}Phone! Yes the phone. | I can never remember.
+{56795}{56871}I want to see the Sister Bridget | instantly!
+{57060}{57103}Wait here.
+{57642}{57701}I heard that bylyscie disobedient.
+{57705}{57791}- Excuse me sister. | - I asked to see a Sister.
+{57795}{57857}prosilas No girl. | Zadalas.
+{57887}{57955}Who gave you the right | to demand anything?
+{57959}{58032}I wonder | why I'm here sister.
+{58038}{58090}not committed any crime.
+{58094}{58186}I have never been in bed with any boy | and that is the truth.
+{58204}{58256}But like to is not it?
+{58276}{58315}I'm a good girl.
+{58319}{58387}Yes. You are arrogant | disagreeable and stupid.
+{58399}{58446}And so like you guys.
+{58450}{58555}Your low intelligence makes | it easy to push the fingers of your clothes.
+{58579}{58623}Truth Crispina?
+{58637}{58677}Yeah sister.
+{58712}{58755}What I said!
+{58776}{58812}I do not know sister.
+{58817}{58870}That all men are sinners | susceptible to temptation.
+{58887}{58935}And so all the men lead to evil.
+{58937}{59018}In countries where the fear of God | if men want to save ...
+{59022}{59076}temptation must be removed.
+{59080}{59148}- I mean girl! | - Yes sister.
+{59160}{59206}No I asked you.
+{59237}{59269}I understand sister.
+{59273}{59313}Are you sure?
+{59354}{59428}Uzylas too many words. | One syllable enough.
+{59457}{59502}I understand sister.
+{59540}{59608}Disobedience can not be tolerated.
+{59722}{59766}faces to the wall.
+{60083}{60137}And now come back to work.
+{60289}{60367}Una | thou art thou crazy!
+{60386}{60436}You will no longer need the hair.
+{60440}{60537}sold them to O'Brien'a | and the money will pass to the children in Africa.
+{60574}{60608}Well?
+{60701}{60768}Do not get away with a shaved head | right?
+{62042}{62090}Where could you go!
+{62103}{62170}I have a cousin in Dublin | is a hairdresser.
+{62207}{62246}I saw it only once ...
+{62250}{62333}but I am sure that if I asked her | I would help.
+{62374}{62419}You want to go with me? "
+{62466}{62542}Why? What a zasluzylysmy | in this place?
+{62621}{62674}We are not slaves.
+{62683}{62734}We are not handicapped.
+{62738}{62779}What we did?
+{62816}{62877}a baby is not a crime.
+{62894}{62974}birth of a child before marriage | a mortal sin.
+{62988}{63079}All mortal sins | do not justify this place.
+{63099}{63177}each Popelnilabym sin} | to get out of here.
+{63419}{63469}- Pobierzmy up. | - What?
+{63496}{63562}- We could run away together. | - But where?
+{63578}{63626}to England and America | where you want.
+{63630}{63699}- You got any money? | - Think you have the money?
+{63703}{63758}zaoszczedzilas not anything | from your salary?
+{63762}{63846}You think I came here | I saw an ad in the newspaper?
+{63850}{63920}- I thought that something you have. | - Nothing we can not.
+{63924}{63957}So?
+{63976}{64028}- Well? | - Ucieknijmy.
+{64045}{64125}How? We do not have the money | not have place to go.
+{64142}{64203}Moreover | you actually do not know.
+{64615}{64705}You popatrzyc but if you touch me | kick you in the teeth.
+{65148}{65193}This is not a chimney.
+{65276}{65353}- You have the keys to the back door? | - Yes. Seamus is.
+{65379}{65443}- You can get it! | - I think so.
+{65454}{65525}So I get | and bring it tonight.
+{65544}{65588}- tonight| - Yes.
+{65596}{65651}Holy God! O Holy God!
+{65678}{65709}- Christ! | - God in Heaven!
+{65713}{65789}- Promise that you come in the night. | - Okay I promise.
+{65793}{65872}- If you do not they will kill me. | - I promise.
+{66118}{66175}Go away! | I do not want to see you!
+{66205}{66268}You are ugly! | Really ugly!
+{66274}{66356}- get up. I swear! | - He will never be with you do not marry.
+{66360}{66441}marry but if you tell them | did not get out of here ...
+{66465}{66505} and we can not get married.
+{66509}{66569}I'll be a sinner. "| After all that you do not want the truth?
+{66573}{66660}Yes. I will tell her sister Bridget | about your repulsive behavior.
+{66695}{66787}detain you here forever | and you can go to Heaven ...
+{66811}{66890}because you have to pay | for all your abominable sins.
+{66894}{66965}- Please do not tell her. | - Is it good?
+{66971}{67058}I will stay here I will work | and pray for their sins.
+{67068}{67115}Please do not tell her.
+{67124}{67172}I tell her.
+{67258}{67328}Okay but if you do that | I will kill to.
+{67368}{67414}You know what that means?
+{67424}{67502}That is go to Hell | and so do you go ...
+{67513}{67604}because in the eyes of God | you should my death as I do.
+{67626}{67677}No I do not so.
+{67719}{67765}This is not true.
+{70130}{70191}It makes no sense. Fucking shit.
+{70249}{70303}Open the door. Open the door.
+{70645}{70710}Brendan! That's me. | Please open the door.
+{70790}{70877}That's crazy. I do not know | how's your name? No sense!
+{70890}{70963}My name is Bernadette! | Please open the door!
+{70977}{71042}They knew it was me. | We're aware of this matter?
+{71046}{71096}I lose my job everything!
+{71115}{71193}My brother was in prison for 6 years | because nuns steal apples.
+{71197}{71270}What will be my sentence? | Sorry I can not.
+{71315}{71376}Mr Brendan! Do not leave me here!
+{71396}{71440}- Brendan! | - I'm sorry.
+{71444}{71509} at least open the goddamn door!
+{72159}{72215}- Stop it! | - Hold it!
+{72247}{72285}I keep it!
+{72347}{72383}Stop it!
+{72441}{72479}I keep it!
+{72606}{72653}- Enough. | - Stop it!
+{73273}{73324}Open your eyes girl.
+{73352}{73389}Open it.
+{73471}{73542}I want you saw | what you really are.
+{73569}{73656}Now when vanity gone | and your arrogance has been defeated ...
+{73660}{73748} you can choose between what actually | a wrong between good and evil.
+{73752}{73828}See the bottom of his soul | find it whatever is pure ...
+{73845}{73890} and offer it to you.
+{73907}{73963}is the only way to salvation.
+{77178}{77227}Well enough.
+{77256}{77322}There's nothing like a little exercise | before lunch.
+{77326}{77406}In any event somebody should | eat fewer potatoes.
+{77449}{77490}hands into the body.
+{77543}{77643}Frances have not only the smallest breasts | I have ever seen ...
+{77662}{77708}but almost do not have nipples!
+{77712}{77785}Did you notice? | This may not be normal right?
+{77881}{77953}We agree. | Frances has the smallest breasts.
+{77967}{78014}Who is the greatest!
+{78101}{78185}- I would say that Patricia. | - Yes. She has big shoulders.
+{78191}{78239}Stand back Patricia.
+{78313}{78382}See? "| Patricia you're back as a bricklayer.
+{78462}{78536}With a few tattoos | as wygladalabys seafarer.
+{78567}{78665}No Cecilia is certainly a winner | the biggest breasts in the category.
+{78721}{78766}Applause for Cecilia.
+{78819}{78854}Good girl.
+{78858}{78932}We saw already the biggest breasts | smallest ...
+{78948}{78982}and the largest back.
+{78986}{79051}Other only the most hairy.
+{79133}{79177}Crispina step forward.
+{79225}{79271}Bernadette step forward.
+{79303}{79357}Stand in front of you.
+{79396}{79456}Crispina get your hands there!
+{79535}{79613}Bernadette you have more hair there | than the head.
+{79647}{79705}But the winner is ... | Crispina.
+{79795}{79861}Crispina wygralas! | Why are you crying!
+{79885}{79930}I do not know sister.
+{79937}{80006}"I do not know. | But it was fun.
+{80211}{80279}All dressed up! | Time for tea.
+{81976}{82050}"Every day of my life | I belong to you Lord.
+{82061}{82125}Any deed of my life | is to be made ...
+{82133}{82200}with sincere intention | of respect for you.
+{82204}{82259}From that moment | I offer them dedicated to your heart ...
+{82263}{82347} and this offer | consecrate them your glory ...
+{82392}{82468} and I will strive for excellence.
+{82482}{82540}Do not let my Savior ...
+{82544}{82635}defiled by your devoted heart. '
+{82666}{82712}What's up doing?
+{82756}{82838}- Crispina what are you doing? | - I do not know sister.
+{82866}{82950}- It is all inflamed sister. | - Bring her to bed.
+{82971}{83004}Come on.
+{83021}{83069}Excuse me sister.
+{83111}{83180}I think has caused confusion. | I'm sorry.
+{83296}{83387}"Unsubscribe from all.
+{83391}{83462}Unsubscribe from vanity love.
+{83484}{83574}Give me O Lord a chance | to start go and end ...
+{83580}{83624}this day in your grace ...
+{83628}{83713}with the sole intention of | to respect you. Amen. '
+{83898}{83933}dying.
+{83937}{84010}Do not die. You have a fever. | Is probably the flu.
+{84017}{84107}- You can die from the flu. | - Old people are dying not young.
+{84165}{84214}Spalas are here all night?
+{84252}{84285}you wet to bed?
+{84289}{84340}Never did not | even when I was little.
+{84344}{84403}Then why is it so wet!
+{84488}{84538}Thank God | the other side is dry.
+{84542}{84654}Otherwise musialybysmy | tell your sisters. Do not like to what?
+{84688}{84723}Hold.
+{84892}{84941}You have to sleep in my clothes.
+{84982}{85032}Look sheets.
+{85098}{85156}- I'll do it myself. | - Well right now.
+{85249}{85289}'ll be right back.
+{85410}{85484}- What happened again? | - I lost my medallion.
+{85512}{85557}My church. Krzysztof.
+{85562}{85635}Easy. | See if there is it on the floor.
+{85639}{85695}Where is my church. Krzysztof?
+{85701}{85752}- I do not know. | - Where is it?
+{85756}{85829}Crispina do not worry. | Lie down and be calm.
+{85867}{85936}probably fell on the canteen. | I'll go after him.
+{85948}{86019}Go under the covers | or a polite girl.
+{86087}{86149}- What do I do now? | - I will find him.
+{86157}{86214}St. Krzysztof ... | What shall I do!
+{87656}{87697}is feeling bad!
+{87800}{87833}...Ona 
+{87914}{87944}What?
+{88646}{88682}Crispina?
+{88775}{88825}Crispina what are you doing?
+{88865}{88941}- I never find church. Christopher. | - I can find!
+{88950}{89008}Go down there and come to bed.
+{89019}{89076}- This is my punishment. | - For what?
+{89162}{89212}I promise that I find.
+{89253}{89297}Get out. | Come on.
+{89447}{89484}Lie down.
+{89578}{89657}If someone dies of influenza | it is not his fault.
+{89675}{89750}Of course not his. | Also do not die.
+{89788}{89829}And if I die?
+{89985}{90046}- You'll be a good girl now? | - Yes.
+{90055}{90104}I must get back to work.
+{92315}{92353}Get up!
+{92408}{92446}Get up!
+{92576}{92630}We must try to lift it!
+{92676}{92737}Take her by the legs and lift it!
+{92781}{92838}- Crispina breathe! | - Come on!
+{92842}{92896}Try to breathe!
+{92916}{92965}- Do not be! | - Fast!
+{92980}{93031}Crispina do not wriggle.
+{93037}{93072}Loosen!
+{93078}{93156}- I can not. It's too crowded. | - You have to loosen!
+{93177}{93247}- Raise it above! | - Yes Uniescie it!
+{93294}{93352}That is good. Do not go forth.
+{93375}{93423}Almost she could!
+{93648}{93714}Crispina why you wanted to kill myself!
+{93722}{93802}How can you ask such a silly question | in this place.
+{93827}{93863}Why?
+{93873}{93957}I wanted to die from the flu | but you said it did not die.
+{93965}{94047}You must not kill. | This is the greatest of mortal sins.
+{94051}{94090}Poszlabys to Hell.
+{94094}{94177}- I saw today your little boy. | - My baby!
+{94191}{94244}- How is he? | - Okay.
+{94253}{94346}Probably was sad because you were not there. | Stesknil up behind you.
+{94350}{94444}Think about how that was sad | if you have never not met.
+{94451}{94500}I have to go back to bed.
+{94570}{94626}All we are desperate here ...
+{94630}{94731}but remember that one day you go out from here | and you'll be playing with his son.
+{94735}{94768}When?
+{94804}{94869}- I do not know. | - So why did you say!
+{94888}{94968}- Because it's true! | - So tell her when it will be.
+{94982}{95038}in a week month happy birthday!
+{95060}{95152}I do not know. I'm trying to convince her | that has not tried to kill myself.
+{95163}{95229}I know what you do | but I do not know why.
+{97615}{97708}- I've lost my church. Christopher Father. "| - Hurry up because I be late.
+{98676}{98750}Una O'Connor decided | that join the Order.
+{98813}{98897}is the greatest proof of recognition | the young sinner ...
+{98901}{98961}can be our meeting.
+{98973}{99042}turned away from evil | and the temptations of this world.
+{99096}{99180}Before his death | see the monastery in the light of God.
+{99217}{99279}Her dedication | and its transformation ...
+{99363}{99437}is something | that should enlighten all of you.
+{99482}{99526}Thank you Uno.
+{99932}{99997}In the name of the Father and the Son | and Holy Spirit.
+{100011}{100036}Amen.
+{100040}{100115}- "May God be with you. | - And the Holy Spirit.
+{100119}{100218}Give me justice O God | and defend me from the relentless human beings.
+{100257}{100325}Protect me from the shame | and treachery of man.
+{100454}{100506}- the Body of Christ. | - Amen.
+{100536}{100588}- the Body of Christ. | - Amen.
+{100641}{100693}- the Body of Christ. | - Amen.
+{100984}{101052}Now go in again | talking.
+{101117}{101151}Come on!
+{101232}{101264}Stop.
+{101280}{101315}Smile.
+{101345}{101398}And now see her flowers.
+{101467}{101518}easy. Be yourself!
+{101575}{101632}Try to be natural.
+{102018}{102068}This is not a servant of God.
+{105413}{105476}you a ride? | You a ride or not?
+{105634}{105690}Well I zatrzymalas what?
+{105742}{105826}You are here yes? | So now the tips here too close!
+{107255}{107315}- "Lord have mercy on us. | - Lord have mercy on us.
+{107319}{107400}- Christ have mercy upon us. | - Christ have mercy upon us.
+{107542}{107620}You said | that you will find my church. Christopher.
+{107692}{107780}You should not make promises | you can not keep.
+{107897}{107973}Bernadette said | that someone had to take.
+{108004}{108051}They did it intentionally.
+{108126}{108196}You said it can find. | Promised.
+{108253}{108342}I guess I say the sisters about this | what you said about the Father Fitzroy.
+{108490}{108546}- Mother of our savior. | - Pray for us.
+{108550}{108600}- Gracious virgin. | - Pray for us.
+{108604}{108666}- Honorable virgin. | - Pray for us.
+{108857}{108911}What did you do that with my bed?
+{108935}{108995}My church. Krzysztof! | You found it!
+{109018}{109070}God bless you!
+{109079}{109126}disgusting thief!
+{109410}{109466}Stop for God's sake!
+{109544}{109617}really are a whore | repulsive thief!
+{109641}{109704}hid church. Krzysztof under the bed.
+{109721}{109815}It was the only thing was that girl | and you are taken away!
+{109829}{109899}have found my church. Christopher. | Thank you.
+{109912}{109970}Do not you understand? | This is a steal!
+{110000}{110049}Yes but you found a.
+{110117}{110202}Is it only me I think | that what she did was disgusting?
+{110300}{110354}go all to hell!
+{110951}{111011}- Why? "| - Not enough suffering.
+{111073}{111159}We feel sorry do not forget it. | We have to suffer.
+{111255}{111314}Do not panic me and let me sleep.
+{112556}{112604}Come on girls.
+{116311}{116381}"... but a man must prove himself ...
+{116416}{116494} and eat bread and drink from the cup.
+{116537}{116608}Because It | Who eats and drinks without dignity ...
+{116612}{116676}and drink his punishment. '
+{116692}{116749}are the words of the Lord.
+{116761}{116803}thank you.
+{116814}{116862}Reading from the gospel church. John.
+{116911}{116955}Glory to thee O Lord.
+{116959}{117033}"At that time Jesus said | to the crowd of Jews ...
+{117063}{117142}and eat and drink here is my body.
+{117177}{117272}Anyone who eats this bread | and drink this wine will live in me ...
+{117322}{117407}I lived in it like his father | who gave me life ... '
+{118743}{118811}I do not know what was happening to me. | Help me.
+{118815}{118880}I do not know why. | I can feel it everywhere.
+{118909}{118943}Sit down.
+{118969}{119021}Sit down. Sit down Crispina.
+{119054}{119102}- Sit down. | - It hurts!
+{119138}{119174}Crispina.
+{119228}{119273}It does not pass.
+{119301}{119335}Please.
+{119342}{119384}Come on. Sit down.
+{119471}{119536}- You are a servant of God! | - Crispina!
+{119541}{119617}You're not a servant of God! | You are not a servant of God!
+{119646}{119696}You're not a servant of God!
+{119945}{120020}You're not a servant of God! | You are not a servant of God!
+{120673}{120748}You're not a servant of God! | You are not a servant of God!
+{120936}{120983}Crispina wake up.
+{121051}{121087}Crispina.
+{121114}{121157}Come on. Get up.
+{121167}{121200}Stand up.
+{121212}{121270}Yes. Good girl. | Come ...
+{121274}{121314}- Come on. | - Where?
+{121318}{121370}I send you to Mount Vernon hospital.
+{121374}{121431}There you will have better care.
+{121435}{121499}- Mount Vernon? | - Yes Mount Vernon.
+{121515}{121589}- Mount Vernon is insane. | - Come on.
+{121594}{121655}I do not want to go. | I'm not crazy.
+{121660}{121738}Come on Crispina. | Do not imply more problems.
+{121767}{121826}She told the truth sister.
+{121885}{121938}- What did you say? | - Nothing.
+{121949}{122018}- No you said something. | - Sorry. I was nervous.
+{122022}{122062}Annoyed?
+{122143}{122175}Enough!
+{122179}{122243}Crispina | give to bring down.
+{122257}{122341}Everything is okay. | You need to calm down. Stop it!
+{122356}{122421}Crispina | or a polite and calm.
+{122465}{122524}- Help! | - Let the bed. Come on!
+{122531}{122607}I said let. | They will do you no harm!
+{122667}{122734}Stop screaming. | Give to leave.
+{122746}{122822}Take it! Do not worry. | Nothing will happen to you!
+{125611}{125687} we all know | that confession is good for the soul.
+{125714}{125775}Thus in the presence of the archbishop ...
+{125809}{125882}Mr. and Ms. Lannigan | sisters all of you ...
+{125922}{125968}I want to confess something.
+{125972}{126044}I warn you | it may be embarrassing for you.
+{126088}{126155}For many years | now I do not know if ...
+{126187}{126264}I had a secret love ... | actually the whole dozen.
+{126315}{126389}From the age of 13 I was in love ... | in the movies.
+{126492}{126564}That's right! | For the movie my father took me.
+{126578}{126625}They were silent films.
+{126636}{126703}He liked to light films | and I - westerns.
+{126793}{126887}I will never forget my mother's expression | when it announced ...
+{126909}{126992}that if I did not go to the monastery | zostalabym cowboy'em.
+{127056}{127115}Fortunately | I got called of God ...
+{127119}{127193}but I never forgot the | old films.
+{127247}{127326}Today we're celebrating the birth | of our Lord Jesus Christ ...
+{127330}{127404}Mr Lannigan | a respected businessman from Dublin ...
+{127444}{127507}brought to our projector and video!
+{127586}{127633}Is not that wonderful?
+{127807}{127866}What you do not know what a movie ...
+{127890}{127975}but I know that this is not a western. | True Mr. Lannigan?
+{127995}{128047}Films has changed | since the time when I was young ...
+{128051}{128140}joined the path of Satan | as well as contemporary society.
+{128144}{128234}So no one else | as soon as the Archbishop in person ...
+{128259}{128306}chose film for us.
+{128319}{128387}Sister Jude | please switch off the light.
+{129120}{129198}It shall not be a nun | to get away from life Beth.
+{129234}{129322} therefore not something that you lost | but because they have found something.
+{129496}{129583}Good morning. | I have a letter from his father for his sister Bridget Donnelly.
+{129731}{129807}God in Heaven | take all the bitterness of my heart!
+{130031}{130119}Please help me see your holy will | in all things.
+{130371}{130405}Please.
+{130437}{130481}Please help me.
+{130729}{130779}He must not enter.
+{130873}{130918}This is a beautiful beautiful!
+{131009}{131058}really wonderful movie.
+{131077}{131146}I think we should all | thank the Archbishop.
+{131150}{131195}Thank you very much.
+{131258}{131297}What is it?
+{131309}{131388}I have a letter for my sister | Margaret Maguire.
+{131408}{131487}Letter from Joseph Donnelly'ego. | I'm her brother my name is Eamonn.
+{131491}{131535}Margaret Maguire.
+{131568}{131619}Come on. Come on. What is it?
+{131670}{131705}Come on!
+{131861}{131926}Sister Jude | please fire light.
+{131959}{132022}And now come back to their rooms.
+{132708}{132778}Wiedzialyscie | it may be that simple?
+{132958}{133020}Just that come brother.
+{133115}{133162}Amazing huh?
+{133176}{133240}- Margaret hurry! | - Do not tell me what to do!
+{133244}{133326}Do not you dare never again | Where were you for those 4 years?
+{133370}{133426}mad? | I had to grow up!
+{133430}{133486}should grow faster!
+{133954}{134040}Unfortunately it was not enough time | to organize everything.
+{134058}{134139}- we did what we could. | - I must admit that great.
+{134143}{134217}addons_display_really_like_it | This poignant encounter.
+{134276}{134335}Let me pass sister.
+{134370}{134424}I hope you kidding.
+{134441}{134514}I really think | that someone here will do something ...
+{134530}{134597}for people like you | or your brother?
+{134615}{134690}I should punish such audacity | sternly.
+{134734}{134775}I do not moves sister.
+{134779}{134853}Okay. That is | it'll be here with us.
+{135004}{135061}"Our Father who art in Heaven ...
+{135081}{135148}Hallowed be thy name | thy kingdom come ...
+{135152}{135201}Thy will be done | as in Heaven so on Earth.
+{135205}{135261}I think we should go.
+{135295}{135339}... And forgive us our sins ...
+{135343}{135395}As we forgive our debtors.
+{135399}{135482}And lead us not into temptation | but from evil. '
+{136262}{136326}- Excuse me sister. | - Yes Katy?
+{136330}{136399}I do not feel too good today | sister.
+{136405}{136452}Drink a glass of water.
+{136489}{136529}Yes sister.
+{136542}{136594}Jesus Joseph Mary.
+{137454}{137508}told you that I die?
+{137570}{137648}wanted to send me to the hospital | but refused to.
+{137677}{137759}I wanted to be here | with the sisters and my friends.
+{137914}{137967}You knew my mother right?
+{137975}{138040}What there mumbles | wiedzmo old?
+{138058}{138112}was always good for me.
+{138140}{138203}My father said that I have a weak mind ...
+{138266}{138319}but she has always been good.
+{138367}{138431}She had everything in life | yes or no?
+{138438}{138479}Raise the head.
+{138581}{138656}She told me to be kept away | from the soldiers.
+{138708}{138754}Yes I said.
+{138840}{138903}He was born October 15.
+{139021}{139067}I called him Freddy.
+{139151}{139219}I had hoped | that the mother takes care of me ...
+{139250}{139309}but we were at home so much ...
+{139328}{139370}We were poor ...
+{139388}{139478}but she said | I would be happy here with her sisters ...
+{139489}{139537}and my friends.
+{139614}{139675}Do not go. | Please do not leave.
+{139704}{139777}sisters do not want | you I left the same.
+{139789}{139850}I'll tell them | if I leave.
+{140088}{140152}sisters want only | that the work was done.
+{140156}{140215}You have no idea of it?
+{140307}{140367}sisters have you somewhere | me too.
+{140436}{140499}So conferment yourself and me a favor.
+{140532}{140582}Hurry up and die.
+{140971}{141005}Please.
+{141017}{141099}Come with me to the office | fill all the documents.
+{141554}{141594}Please come.
+{141777}{141870}Sorry to interfere with | but I wanted to ask you something sister.
+{141904}{141966}soon will my son's birthday.
+{141993}{142074}I wondered | or I would not send him a card.
+{142100}{142200}I know that his sister could not tell me | where he is but maybe the sister ...
+{142244}{142321}could send a postcard to the people | of whom lived.
+{142372}{142452}Help me find such a huge key. | It is to this.
+{142536}{142593}Come on! Start to look around!
+{142874}{142919}Where can he be?
+{143066}{143129}This is just a piece of birthday sister.
+{143141}{143208}Do not sign it | so you will not know who sent it.
+{143212}{143247}It would be stupid ...
+{143251}{143326}to send a child card | who will not know who wrote it.
+{143330}{143406}Only him angry | and spoil his birthday.
+{143439}{143503}- But I'm his mother. | - No you're not.
+{143507}{143579}Mother put baby to sleep | care of them fed them ...
+{143583}{143651}dresses teaches! | And you nothing doing.
+{143655}{143712}assign the merit in things | are not you doing this?
+{143716}{143731}No sister.
+{143735}{143828}So forget about those nonsensach | and search for the bloody key!
+{143868}{143926}I do not want! | Only ...
+{143986}{144049}Boxes of cookies were excellent.
+{144065}{144160}I should have to hide somewhere else. | There are all the money.
+{144178}{144215}have found?
+{144295}{144335}No sister.
+{144359}{144406}I'm sorry sister.
+{144890}{144912}Oh God!
+{144916}{144951}This nice lady is here.
+{144955}{145006}it does not say anything!
+{145031}{145075}She is not here!
+{145097}{145155}And they took it away over a year ago!
+{145184}{145249}- They should tell you. | - Patricia!
+{145363}{145411}Oh God. Come on.
+{145572}{145614}Still alive?
+{145997}{146050}have what they deserved.
+{147006}{147053}I just wanted ...
+{147465}{147529}Excuse me sister. | Katy is dead.
+{147550}{147601}May he rest in peace.
+{147662}{147706}Remember this sentence.
+{147714}{147788}If you have time to talk | with someone from the outside ...
+{147792}{147873} you will receive the same | every day for a month.
+{147894}{147929}And now ...
+{147957}{147992}you two ...
+{148029}{148075}come back to work.
+{149021}{149092}You know I grow old here | and die?
+{149164}{149218}No one would come after me.
+{149254}{149295}Not after you.
+{149372}{149437}so I do not want to feel | for life.
+{149512}{149566}do not want to end up like them.
+{149662}{149709}So are you ready?
+{149739}{149774}Ready for what?
+{149778}{149840}- We must run away. | - Breaking Away where?
+{149861}{149891}Resort here.
+{149895}{149952}"Are you completely mad?
+{149966}{150064}Look at what she did to me | just because someone was talking.
+{150069}{150137}What he would do | how we przylapie to escape?
+{150166}{150230}It does not matter. | And so it will do.
+{150280}{150359}There must be a reason. | It does not matter to her.
+{150420}{150462}We have to flee.
+{150476}{150530}We must flee immediately.
+{151495}{151546}What is the key to the front door?
+{151550}{151596}is large and black.
+{152326}{152370}Give me the key!
+{152493}{152530}What are you doing?
+{152566}{152602}Stop.
+{152791}{152831}Give me the key.
+{152978}{153012}Give it to me!
+{153157}{153206}Give me the key sister!
+{153231}{153287}Let him go you repulsive wiedzmo!
+{153399}{153479}Leave it or I swear | that sticking it in your throat!
+{153670}{153710}Give me the key.
+{154068}{154112}Stop! Stop!
+{154134}{154199}- Stop! | - Leave her alone! Do not touch it!
+{154401}{154455}Do not try to follow us!
+{154840}{154893}Stay there damn it!
+{157521}{157581}Thank you again for the money | clothes and for all.
+{157585}{157668}As soon as I find a job | all give. I promise.
+{157680}{157728}Good luck Patricio.
+{157750}{157805}- My name is Rose. | - Rose.
+{157831}{157874}Wait a minute.
+{158189}{158272}- You 're gonna cope? | - I have a ticket everything will be fine.
+{158400}{158459}Liverpool is in England right?
+{158486}{158532}Yes I think so.
+{158596}{158665}What about you? | She nasl police on you!
+{158682}{158756}I can not do anything. | I am learning the hairdresser.
+{158768}{158816}Now I'm respectable.
+{158820}{158897}you can not do anything | if you're decent.
+{158943}{158988}I will write to you.
+{159009}{159047}OK.
+{159132}{159170}Good luck.
+{161359}{161394}Sit down!
+{161718}{161816}Bernadette moved to Scotland | where he opened a beauty salon.
+{161823}{161913}He left married and divorced 3 times. | SAMA now lives.
+{162167}{162230}She married ROSE | I have a 2 DAUGHTERS.
+{162235}{162275}He found his Son in 1996 ...
+{162279}{162339}33 YEARS AFTER | HOW TO HAVE BEEN ASSOCIATED separated.
+{162343}{162421}OTHER fervent Catholic | until his death in 1998.
+{162887}{162988}MARGARET RESIDENT in Donegal where he was | TEACHER IN PRIMARY SCHOOL.
+{162992}{163072}NOW IS THE VICE-DIRECTOR. | NEVER not married.
+{164107}{164193}Crispin THAT REALLY | His name was HARRIET ...
+{164197}{164294}Died of Anorexia in 1971. | She was 24.
+{164359}{164458}is estimated that 30.000 WOMEN | WAS kept AZYLACH MAGDALENSKICH ...
+{164462}{164594}IN IRELAND. | LAST LAUNDRY closed in 1996.
+{164660}{164750}>>  ripped & subtitled by   ..   rajpal  <<
+

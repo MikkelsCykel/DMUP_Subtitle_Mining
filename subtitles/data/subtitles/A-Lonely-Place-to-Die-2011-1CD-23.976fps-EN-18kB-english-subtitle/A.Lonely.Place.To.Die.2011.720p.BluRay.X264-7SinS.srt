@@ -1,0 +1,3817 @@
+1
+00:01:37,293 --> 00:01:38,953
+Safe!
+
+2
+00:01:45,426 --> 00:01:46,541
+Off belay!
+
+3
+00:01:51,390 --> 00:01:53,632
+Right, can you get my camera out,
+please?
+
+4
+00:01:59,565 --> 00:02:01,439
+<i>Say it.</i>
+
+5
+00:02:02,443 --> 00:02:04,186
+- Come on.
+- Don't take a picture.
+
+6
+00:02:04,278 --> 00:02:08,406
+Give us a smile. I'm sure there's a
+pretty face under that frown somewhere.
+
+7
+00:02:12,952 --> 00:02:15,989
+- Is that the best you got?
+- Afraid so.
+
+8
+00:02:16,080 --> 00:02:18,654
+- OK, get one of me.
+- No, I'll take it at the top.
+
+9
+00:02:18,750 --> 00:02:21,241
+Yeah, but I wanna get
+some of this background in.
+
+10
+00:02:21,336 --> 00:02:22,711
+Pass it over.
+
+11
+00:02:25,340 --> 00:02:28,257
+Try and get some of that exposure in.
+Show how high up we are.
+
+12
+00:02:28,343 --> 00:02:30,216
+Is that a golden eagle?
+
+13
+00:02:37,310 --> 00:02:38,934
+<i>Beautiful.</i>
+
+14
+00:02:39,020 --> 00:02:41,345
+It's a golden eagle.
+Buzzard. I don't know
+
+15
+00:02:41,439 --> 00:02:43,764
+<i>Nah, it's way too big to be a buzzard.</i>
+
+16
+00:02:51,657 --> 00:02:55,322
+Alright, that's enough of the bird.
+Point the camera at the money.
+
+17
+00:02:56,329 --> 00:02:57,823
+Alison, come on.
+
+18
+00:02:59,498 --> 00:03:01,408
+- Stop pouting.
+- What?
+
+19
+00:03:02,835 --> 00:03:04,626
+<i>It was a golden eagle.</i>
+
+20
+00:03:49,838 --> 00:03:52,543
+- Alison! Help me!
+- Ed!
+
+21
+00:03:54,634 --> 00:03:56,093
+<i>Jesus Christ, Alison!</i>
+
+22
+00:03:56,762 --> 00:03:58,920
+<i>- Shit!
+- Rob, throw the rope.</i>
+
+23
+00:03:59,014 --> 00:04:00,093
+<i>- Guys!
+- Alison!</i>
+
+24
+00:04:00,182 --> 00:04:04,475
+<i>- Ed!
+- Alison, please! It's slipping!</i>
+
+25
+00:04:04,561 --> 00:04:06,221
+<i>It's gonna go!</i>
+
+26
+00:04:10,817 --> 00:04:15,146
+<i>I can't... I can't...
+I can't get up!</i>
+
+27
+00:04:18,116 --> 00:04:19,943
+<i>- Help me!
+- Rob!</i>
+
+28
+00:04:21,286 --> 00:04:22,531
+Rob!
+
+29
+00:04:26,206 --> 00:04:29,622
+<i>Ed, just breathe!</i>
+
+30
+00:04:29,710 --> 00:04:32,201
+<i>- It's not gonna hold!
+- Ed! Ed!</i>
+
+31
+00:04:32,296 --> 00:04:34,917
+Ed, you have to listen to me.
+Just breathe.
+
+32
+00:04:51,690 --> 00:04:54,442
+<i>It's OK, but stop moving.
+Keep it together.</i>
+
+33
+00:04:54,526 --> 00:04:55,855
+<i>Alright, alright.</i>
+
+34
+00:04:55,944 --> 00:04:58,186
+Easy. OK, OK. Get your breath.
+
+35
+00:04:58,280 --> 00:05:01,150
+Get your breath.
+Jesus Christ, what happened, guys?
+
+36
+00:05:02,826 --> 00:05:05,862
+- Alison, are you alright?
+- Don't ask. Yeah, I'm fine.
+
+37
+00:05:05,954 --> 00:05:09,655
+<i>Alright, mate, you're alright.
+OK. Can you just pull yourself up?</i>
+
+38
+00:05:09,750 --> 00:05:11,789
+<i>- Thank God.
+- Alison, you OK?</i>
+
+39
+00:05:11,877 --> 00:05:13,786
+<i>- I'm fine.
+- Alright.</i>
+
+40
+00:05:13,879 --> 00:05:16,666
+It's OK, keep going.
+Just get your breath.
+
+41
+00:06:08,140 --> 00:06:11,473
+<i># As I came in by Fiddichside</i>
+
+42
+00:06:11,560 --> 00:06:15,427
+<i># On a May morning</i>
+
+43
+00:06:15,522 --> 00:06:18,891
+<i># I spied Willie Maclntosh</i>
+
+44
+00:06:18,984 --> 00:06:23,646
+<i># An hour before the dawning</i>
+
+45
+00:06:24,906 --> 00:06:28,904
+<i># Turn again, turn again, turn again</i>
+
+46
+00:06:28,994 --> 00:06:31,282
+<i># I bid ye</i>
+
+47
+00:06:31,371 --> 00:06:34,740
+<i># If ye burn Auchindoun</i>
+
+48
+00:06:34,833 --> 00:06:39,328
+<i># Huntly he will heid ye</i>
+
+49
+00:06:41,088 --> 00:06:43,661
+<i># Heid me or hang me</i>
+
+50
+00:06:43,757 --> 00:06:47,091
+<i># That shall never fear me</i>
+
+51
+00:06:47,177 --> 00:06:50,381
+<i># I'll burn Auchindoun</i>
+
+52
+00:06:50,472 --> 00:06:55,680
+<i># Though the life leaves me</i>
+
+53
+00:07:19,501 --> 00:07:26,334
+<i># As I came in by Auchindoun
+on a May morning</i>
+
+54
+00:07:26,425 --> 00:07:34,219
+<i># Auchindoun was in a bleeze
+an hour before the dawning</i>
+
+55
+00:07:36,018 --> 00:07:38,805
+<i># Crawing, crawing</i>
+
+56
+00:07:38,895 --> 00:07:42,015
+<i># For all your crouse crawing</i>
+
+57
+00:07:42,107 --> 00:07:45,938
+<i># Ye burnt yer crop an' tint your wings</i>
+
+58
+00:07:46,026 --> 00:07:51,187
+<i># An hour before the dawning</i>
+
+59
+00:08:02,042 --> 00:08:04,248
+<i>I lost my bloody camera.</i>
+
+60
+00:08:04,836 --> 00:08:07,291
+I feel sick
+and my hands won't stop shaking.
+
+61
+00:08:07,380 --> 00:08:10,831
+<i>It's the adrenaline lag, mate.
+Always hits you afterwards.</i>
+
+62
+00:08:12,427 --> 00:08:13,707
+Hey, Ed.
+
+63
+00:08:14,595 --> 00:08:17,596
+Don't ever have a concentration lapse
+like that again, OK?
+
+64
+00:08:17,682 --> 00:08:20,303
+You wanna climb with me,
+you need to up your game.
+
+65
+00:08:20,393 --> 00:08:23,098
+Methodical, every step. I mean it.
+
+66
+00:08:23,229 --> 00:08:26,313
+Complacency is a killer out here.
+
+67
+00:08:26,399 --> 00:08:28,806
+- We got away with cuts and bruises.
+- Yeah.
+
+68
+00:08:31,404 --> 00:08:33,859
+Remind me why we do this again.
+
+69
+00:08:34,782 --> 00:08:36,573
+Because we don't surf.
+
+70
+00:08:56,886 --> 00:08:58,262
+<i>- Hey.
+- Hey.</i>
+
+71
+00:08:58,346 --> 00:09:01,133
+- Hey.
+- Hey. How you doing, honey?
+
+72
+00:09:03,017 --> 00:09:07,395
+<i>- What time did you get here?
+- About an hour ago. Just unpacking.</i>
+
+73
+00:09:08,314 --> 00:09:12,264
+Yeah, we took the double room
+with the en suite. If that's OK?
+
+74
+00:09:12,360 --> 00:09:14,353
+Fine. I'm not sleeping with him, am I?
+
+75
+00:09:15,446 --> 00:09:16,905
+Neither am I.
+
+76
+00:09:19,117 --> 00:09:21,156
+<i>I'm Ed, by the way.</i>
+
+77
+00:09:21,244 --> 00:09:24,161
+Oh, Ed. I'm sorry, mate.
+Ed, Jenny. Jenny, this is Ed.
+
+78
+00:09:24,247 --> 00:09:25,278
+Hi, Ed.
+
+79
+00:09:33,881 --> 00:09:35,459
+No, after you.
+
+80
+00:09:38,761 --> 00:09:40,172
+<i>OK?</i>
+
+81
+00:09:41,180 --> 00:09:42,758
+Oh, right.
+
+82
+00:09:46,644 --> 00:09:49,680
+Oh, honey, can you bring me
+the cutlery, please, babe?
+
+83
+00:09:49,772 --> 00:09:51,599
+It's in the jug on the dresser.
+
+84
+00:09:52,608 --> 00:09:54,517
+Smells like someone's died in here.
+
+85
+00:09:54,610 --> 00:09:57,943
+Yeah, it is a little stinky.
+I'll open a window, let some air in.
+
+86
+00:09:58,989 --> 00:10:01,277
+That's just what Fred West
+would have said.
+
+87
+00:10:01,366 --> 00:10:04,071
+In future, you should
+bury your relatives outdoors.
+
+88
+00:10:04,160 --> 00:10:05,489
+Think patio.
+
+89
+00:10:05,578 --> 00:10:09,493
+If we had a phone in here, mate, you
+could call up the landlord and complain.
+
+90
+00:10:09,582 --> 00:10:11,741
+- There's no phone?
+- No.
+
+91
+00:10:11,835 --> 00:10:13,080
+Great.
+
+92
+00:10:15,380 --> 00:10:19,045
+And the window... is bust.
+
+93
+00:10:22,762 --> 00:10:25,004
+Any joy?
+
+94
+00:10:25,098 --> 00:10:27,137
+We've had a right result.
+
+95
+00:11:00,258 --> 00:11:02,464
+Hey, don't worry about her.
+
+96
+00:11:03,344 --> 00:11:07,672
+You know, with a bit of luck, she'll be
+tucked up and fast asleep by now.
+
+97
+00:11:08,348 --> 00:11:10,804
+Your parents are such a pushover.
+
+98
+00:11:10,892 --> 00:11:13,976
+She runs rings round them.
+She's such a little monkey.
+
+99
+00:11:16,189 --> 00:11:17,517
+I miss her.
+
+100
+00:11:18,441 --> 00:11:20,600
+It's only been two days, Jen.
+
+101
+00:11:21,611 --> 00:11:22,774
+Hmm.
+
+102
+00:11:41,881 --> 00:11:43,257
+Bollocks.
+
+103
+00:12:05,571 --> 00:12:07,315
+<i># You take the high road</i>
+
+104
+00:12:07,406 --> 00:12:10,941
+<i># And I'll take the low road
+And I'll be in Scotland</i>
+
+105
+00:12:11,035 --> 00:12:14,735
+<i>- # Afore you
+- No, no, no!</i>
+
+106
+00:12:14,830 --> 00:12:18,412
+It's horrible. Girls, girls, stop.
+Seriously, it's horrible.
+
+107
+00:12:18,500 --> 00:12:21,750
+<i>- Please, cards, go.
+- OK. OK.</i>
+
+108
+00:12:21,835 --> 00:12:23,211
+But, erm...
+
+109
+00:12:23,295 --> 00:12:26,545
+Right, I need to know how much
+one of these fellas is worth.
+
+110
+00:12:26,632 --> 00:12:28,292
+Five matchsticks. Er!
+
+111
+00:12:28,384 --> 00:12:32,428
+<i>Er, no sex for you.</i>
+
+112
+00:12:32,513 --> 00:12:36,973
+<i>- And, OK, a bottle top?
+- Two pasta swirls to a top.</i>
+
+113
+00:12:37,851 --> 00:12:42,145
+Right. So then, ten matchsticks
+makes one bottle top?
+
+114
+00:12:42,231 --> 00:12:43,855
+<i>Yeah.</i>
+
+115
+00:12:43,941 --> 00:12:47,641
+Great. OK, thanks, guys.
+It's a bit confusing, is all.
+
+116
+00:12:47,736 --> 00:12:49,645
+It really isn't.
+
+117
+00:12:49,738 --> 00:12:52,359
+<i>- Be nice.
+- What are you doing, Jen?</i>
+
+118
+00:12:52,491 --> 00:12:54,733
+Ladies and gentlemen, I fold.
+
+119
+00:12:56,036 --> 00:12:59,286
+- What have you got that's so special?
+- Erm...
+
+120
+00:12:59,373 --> 00:13:02,789
+A pasta swirl and two tops
+is what I'm gonna raise by.
+
+121
+00:13:02,876 --> 00:13:05,035
+- I fold.
+- Me, too.
+
+122
+00:13:06,463 --> 00:13:09,713
+I'm gonna keep him honest. All in.
+
+123
+00:13:11,677 --> 00:13:14,002
+The water's warm. Jump on in.
+
+124
+00:13:15,180 --> 00:13:17,054
+Yeah, right. Erm, all in.
+
+125
+00:13:22,561 --> 00:13:24,637
+- Three kings.
+- Whoa.
+
+126
+00:13:24,730 --> 00:13:28,775
+- Oh, damn, I've only got three tens.
+- A-ha! Get in, yer dancer!
+
+127
+00:13:28,859 --> 00:13:32,145
+Come here, you lovely, lovely little...
+
+128
+00:13:32,238 --> 00:13:34,111
+Oh, look at his wee face.
+
+129
+00:13:34,198 --> 00:13:36,523
+I've got a pair of queens as well,
+if that helps.
+
+130
+00:13:39,745 --> 00:13:43,956
+Oh, come on, sit down, Alex. Shock's
+best absorbed with the knees bent.
+
+131
+00:13:45,292 --> 00:13:47,997
+Full house. Let him take it.
+
+132
+00:13:48,087 --> 00:13:50,293
+Don't spend it all in one pub.
+
+133
+00:13:50,881 --> 00:13:53,087
+I can retire to the Bahamas
+like Roger Moore.
+
+134
+00:13:53,175 --> 00:13:55,844
+- You mean Sean Connery.
+- I'm in the Roger Moore camp.
+
+135
+00:13:55,928 --> 00:13:59,593
+<i>There's nothing
+wrong with a little bit of camp.</i>
+
+136
+00:13:59,681 --> 00:14:01,591
+That's a horrible impression.
+
+137
+00:14:01,683 --> 00:14:03,094
+<i>- It isn't.
+- It is.</i>
+
+138
+00:14:03,185 --> 00:14:04,216
+<i>It's not!</i>
+
+139
+00:14:08,899 --> 00:14:10,892
+Alex, what is this? Where's the Queen?
+
+140
+00:14:10,984 --> 00:14:13,356
+That's legal tender.
+It's a Scottish tenner.
+
+141
+00:14:13,445 --> 00:14:16,861
+It's worse than Monopoly money.
+I can't buy anything with this.
+
+142
+00:14:16,949 --> 00:14:19,025
+<i>I've only got two words for you.</i>
+
+143
+00:14:19,117 --> 00:14:22,533
+- Yeah, do they involve sex and travel?
+- Possibly.
+
+144
+00:14:22,621 --> 00:14:24,115
+Well, don't say them.
+
+145
+00:14:24,206 --> 00:14:27,289
+<i>That's our cue to leave.
+Goodnight, everybody.</i>
+
+146
+00:14:31,462 --> 00:14:34,416
+- Fuck off!
+- Leave it. Goodnight!
+
+147
+00:14:35,049 --> 00:14:36,626
+Another round?
+
+148
+00:14:37,426 --> 00:14:40,213
+Look, baby, I'm sorry.
+I'm pissed. It was just banter.
+
+149
+00:14:40,304 --> 00:14:44,005
+- Yeah. I know. But it's not very sexy.
+- I'm not trying to be sexy.
+
+150
+00:14:44,099 --> 00:14:46,555
+Why not? You're not on a promise.
+
+151
+00:14:52,191 --> 00:14:54,860
+- Deal.
+- Will do.
+
+152
+00:14:58,614 --> 00:15:01,235
+Stick with me,
+we'll climb that this time next year.
+
+153
+00:15:01,325 --> 00:15:03,898
+The Eiger? Yeah, let's do it.
+The north face.
+
+154
+00:15:05,621 --> 00:15:07,329
+It killed 70 people.
+
+155
+00:15:08,916 --> 00:15:12,960
+<i>If you fall from the summit,
+it'll take 30 seconds to hit the ground.</i>
+
+156
+00:15:13,462 --> 00:15:16,582
+<i>- That's cheery.
+- 30 seconds to recall your life,</i>
+
+157
+00:15:16,673 --> 00:15:19,129
+say your goodbyes,
+conscious the whole way down.
+
+158
+00:15:19,218 --> 00:15:21,376
+Just enough time
+to say the Lord's Prayer.
+
+159
+00:15:21,470 --> 00:15:25,847
+- If you believe that's gonna save you.
+- You're really gonna need something.
+
+160
+00:15:30,395 --> 00:15:33,810
+- It's blowing a bastard out there.
+- Yeah, I know.
+
+161
+00:15:33,898 --> 00:15:36,852
+It's, er, supposed to clear up
+through the night, though.
+
+162
+00:15:36,942 --> 00:15:39,184
+But tomorrow is gonna be tricky.
+
+163
+00:15:40,738 --> 00:15:42,066
+Drink?
+
+164
+00:15:43,616 --> 00:15:44,695
+Fill her up.
+
+165
+00:15:44,784 --> 00:15:48,366
+- No, you can't mix gin and whisky.
+- It's called a gisky.
+
+166
+00:15:48,454 --> 00:15:49,829
+- Is it?
+- I just invented it.
+
+167
+00:15:49,914 --> 00:15:51,491
+- Right.
+- Gisky?
+
+168
+00:15:51,624 --> 00:15:55,040
+<i>- Gisky. Would you like one?
+- No, I'll pass.</i>
+
+169
+00:16:07,139 --> 00:16:09,712
+Alright, folks,
+slight change of plan, I think.
+
+170
+00:16:09,808 --> 00:16:13,142
+There are 40mph winds on that peak,
+but they're gusting 60.
+
+171
+00:16:13,228 --> 00:16:17,689
+It's supposed to die down tonight, so I
+think we'll do the west face tomorrow
+
+172
+00:16:17,775 --> 00:16:20,147
+and just tackle the north ridge today.
+
+173
+00:16:20,235 --> 00:16:22,691
+It's nothing more than a diff.
+You know, V diff.
+
+174
+00:16:22,780 --> 00:16:26,777
+So don't worry about rock shoes, helmets
+or anything that'll weigh you down.
+
+175
+00:16:26,867 --> 00:16:29,025
+We've got a lot of ground to cover.
+
+176
+00:16:29,119 --> 00:16:30,827
+How's the exposure on the ridge?
+
+177
+00:16:30,913 --> 00:16:33,783
+A bit thought provoking,
+but keep hold of your harness.
+
+178
+00:16:33,874 --> 00:16:37,077
+- I've got mine and we'll take the rope.
+- OK, good.
+
+179
+00:16:37,169 --> 00:16:39,207
+Got all your gear?
+Don't leave anything.
+
+180
+00:16:39,295 --> 00:16:42,081
+The only thing I left
+is for a fully qualified plumber.
+
+181
+00:16:42,172 --> 00:16:43,500
+Charming.
+
+182
+00:16:45,759 --> 00:16:48,084
+- Good morning.
+- Hey, how's the head?
+
+183
+00:16:48,178 --> 00:16:51,381
+Two cups of coffee and three aspirin,
+I'm almost human again.
+
+184
+00:16:53,350 --> 00:16:54,429
+OK?
+
+185
+00:16:54,517 --> 00:16:56,843
+So I guess it's a no-go
+on the west face, hmm?
+
+186
+00:16:56,936 --> 00:17:00,602
+No. This isn't Yosemite. The weather
+up here does exactly what it wants.
+
+187
+00:17:00,732 --> 00:17:02,012
+Yeah.
+
+188
+00:17:04,652 --> 00:17:07,488
+- Got the lunch, Jen?
+- Yeah, that's all under control.
+
+189
+00:17:07,572 --> 00:17:10,324
+- What are we having?
+- Sandwiches.
+
+190
+00:17:10,408 --> 00:17:14,951
+Ah. The pinnacle of British cuisine.
+No wonder the French hate us.
+
+191
+00:17:15,038 --> 00:17:17,908
+- I make a pretty good sandwich.
+- Well, what's in them?
+
+192
+00:17:17,999 --> 00:17:20,455
+Just wait and see.
+The surprise is half the fun.
+
+193
+00:17:20,543 --> 00:17:22,536
+Just as long as it's not fish.
+
+194
+00:17:24,756 --> 00:17:26,962
+<i>You should try one.
+They're yummy.</i>
+
+195
+00:17:27,050 --> 00:17:30,086
+<i>Smoked mackerel and egg?
+I'd rather eat my own shit.</i>
+
+196
+00:17:30,178 --> 00:17:32,336
+No one's stopping you.
+
+197
+00:17:32,430 --> 00:17:36,297
+You could always scrape out the mackerel
+and just eat the bread.
+
+198
+00:17:36,392 --> 00:17:38,966
+No, I can't do that. It's been tainted.
+
+199
+00:17:39,062 --> 00:17:40,639
+You remind me of my daughter.
+
+200
+00:17:40,772 --> 00:17:43,144
+She's clearly a lady
+of impeccable taste.
+
+201
+00:17:43,232 --> 00:17:44,430
+She's two.
+
+202
+00:17:46,485 --> 00:17:49,900
+<i>You're such a fussy eater.
+It's so surprising at your age.</i>
+
+203
+00:17:49,988 --> 00:17:52,609
+Surprise is half the fun, right?
+
+204
+00:17:52,741 --> 00:17:54,568
+Thank fuck I brought chocolate.
+
+205
+00:17:54,659 --> 00:17:57,329
+Five minutes and we're off.
+Everybody OK with that?
+
+206
+00:17:57,412 --> 00:17:59,072
+Sounds good.
+
+207
+00:18:06,921 --> 00:18:08,084
+It's beautiful.
+
+208
+00:18:09,174 --> 00:18:11,925
+I know. Scenery like this
+makes me wish I could paint.
+
+209
+00:18:12,010 --> 00:18:13,255
+I'm gonna take a piss.
+
+210
+00:18:13,345 --> 00:18:16,429
+<i>- Yeah, good to know.
+- Thought you might be interested.</i>
+
+211
+00:18:16,514 --> 00:18:19,515
+No, no, mate, you feel free
+to keep us updated at all times.
+
+212
+00:18:19,601 --> 00:18:21,059
+<i>Will do.</i>
+
+213
+00:18:23,229 --> 00:18:27,559
+I've found a cracking spot.
+I'm unbuttoning my fly.
+
+214
+00:18:29,110 --> 00:18:32,028
+I'm getting it out.
+Fucking hell, it weighs a ton.
+
+215
+00:18:32,113 --> 00:18:33,488
+Shut up, wanker.
+
+216
+00:18:56,720 --> 00:18:59,507
+Hey, guys! I heard something.
+
+217
+00:18:59,598 --> 00:19:01,555
+Oh, yeah, what?
+
+218
+00:19:01,641 --> 00:19:06,102
+I dunno. Something.
+Come here and check it out.
+
+219
+00:19:06,188 --> 00:19:08,476
+Mate, you think I'm falling for that?
+
+220
+00:19:10,108 --> 00:19:11,602
+I'm serious.
+
+221
+00:19:24,873 --> 00:19:26,581
+What is it?
+
+222
+00:19:28,793 --> 00:19:31,119
+- What's going on up there?
+- Hold on a sec!
+
+223
+00:19:32,422 --> 00:19:34,130
+Just listen.
+
+224
+00:19:36,676 --> 00:19:38,254
+D'you hear that?
+
+225
+00:19:41,764 --> 00:19:43,556
+I heard it.
+
+226
+00:19:43,641 --> 00:19:45,681
+- What is it then?
+- An animal?
+
+227
+00:19:46,644 --> 00:19:48,436
+- No way.
+- Then what?
+
+228
+00:19:48,521 --> 00:19:50,514
+- Sounds to me like...
+- Like what?
+
+229
+00:19:52,692 --> 00:19:53,972
+A person.
+
+230
+00:19:55,903 --> 00:19:58,820
+- Guys, get over here.
+- What is it?
+
+231
+00:19:58,905 --> 00:20:00,697
+<i>Just get over here.</i>
+
+232
+00:20:15,172 --> 00:20:18,042
+<i>- What is it?
+- Shh. Listen.</i>
+
+233
+00:20:24,139 --> 00:20:27,093
+- I hear it.
+- Yeah, me too.
+
+234
+00:21:23,571 --> 00:21:24,769
+<i>What is that?</i>
+
+235
+00:21:24,864 --> 00:21:26,488
+I've no idea.
+
+236
+00:21:33,038 --> 00:21:35,576
+<i>- Shit.
+- What?</i>
+
+237
+00:21:36,834 --> 00:21:38,957
+It's a breathing tube.
+
+238
+00:21:40,379 --> 00:21:41,957
+There's someone down there.
+
+239
+00:21:42,756 --> 00:21:44,215
+Just wait here, guys. Wait!
+
+240
+00:22:11,618 --> 00:22:13,527
+Hello?
+
+241
+00:22:13,619 --> 00:22:16,620
+<i>Jesus Christ!</i>
+
+242
+00:22:18,916 --> 00:22:21,834
+- Jesus Christ.
+- What the hell is that?
+
+243
+00:22:21,919 --> 00:22:23,627
+Don't you mean who?
+
+244
+00:22:27,508 --> 00:22:28,753
+<i>What do we do?</i>
+
+245
+00:22:30,803 --> 00:22:31,882
+Ed.
+
+246
+00:22:34,181 --> 00:22:35,925
+Wait a sec, guys.
+
+247
+00:22:36,434 --> 00:22:38,094
+Hello?
+
+248
+00:22:41,105 --> 00:22:43,062
+If you can hear us, say something!
+
+249
+00:22:45,276 --> 00:22:46,390
+Oh, Jesus.
+
+250
+00:22:47,153 --> 00:22:49,478
+This was dug recently.
+The earth's still soft.
+
+251
+00:22:49,572 --> 00:22:51,315
+Why would somebody be down there?
+
+252
+00:22:51,407 --> 00:22:54,443
+<i>I told you I heard something.</i>
+
+253
+00:22:54,535 --> 00:22:57,073
+We're gonna help you.
+Just sit tight for a moment.
+
+254
+00:22:59,415 --> 00:23:02,119
+- What are you doing?
+- We don't know what's down there.
+
+255
+00:23:02,209 --> 00:23:04,285
+- It sounds like a child.
+- I think so, too.
+
+256
+00:23:04,378 --> 00:23:06,335
+We can think, but we don't fucking know.
+
+257
+00:23:06,422 --> 00:23:08,829
+<i>Whoa, whoa, whoa.
+Guys, it's made of wood.</i>
+
+258
+00:23:10,300 --> 00:23:13,752
+- See if we can find the corners.
+- This is insane. What are you doing?
+
+259
+00:23:13,846 --> 00:23:16,467
+Get down here! Help us.
+Fucking kneel down and help.
+
+260
+00:23:16,557 --> 00:23:18,797
+<i>Come on!</i>
+
+261
+00:23:21,144 --> 00:23:24,394
+<i>Right, we're gonna try
+and lift it, OK? On three.</i>
+
+262
+00:23:24,480 --> 00:23:27,185
+One, two, three.
+
+263
+00:23:30,736 --> 00:23:32,314
+<i>Fuck.</i>
+
+264
+00:23:32,989 --> 00:23:35,028
+<i>- Oh, my God.
+- Jesus.</i>
+
+265
+00:23:38,786 --> 00:23:40,779
+Alright. Hello.
+
+266
+00:23:41,747 --> 00:23:45,282
+Now don't be afraid. We're gonna get you
+out of there. Alright?
+
+267
+00:23:45,376 --> 00:23:46,704
+Ed?
+
+268
+00:23:47,837 --> 00:23:49,746
+<i>Come on.</i>
+
+269
+00:23:49,839 --> 00:23:52,590
+No, no, no. Don't worry,
+we're not gonna hurt you.
+
+270
+00:23:52,675 --> 00:23:55,759
+OK, darling? We're not gonna hurt you.
+Come on.
+
+271
+00:23:57,680 --> 00:24:00,431
+For fuck's sake, you're scaring her!
+Leave her alone.
+
+272
+00:24:02,351 --> 00:24:04,889
+It's OK, sweetie.
+
+273
+00:24:05,020 --> 00:24:06,764
+Alright. Alright.
+
+274
+00:24:07,857 --> 00:24:08,888
+It's OK.
+
+275
+00:24:09,942 --> 00:24:13,275
+It's alright. I'm not gonna hurt you.
+
+276
+00:24:13,362 --> 00:24:16,446
+It's OK.
+We're gonna get you out of here.
+
+277
+00:24:17,616 --> 00:24:19,276
+Come on, sweetie.
+
+278
+00:24:19,368 --> 00:24:21,076
+It's alright.
+
+279
+00:24:22,121 --> 00:24:24,694
+It's OK. Good girl. It's OK.
+
+280
+00:24:27,625 --> 00:24:29,665
+It's OK.
+
+281
+00:24:30,545 --> 00:24:33,462
+- OK, honey. Help.
+- OK.
+
+282
+00:24:34,757 --> 00:24:36,002
+<i>OK.</i>
+
+283
+00:24:36,092 --> 00:24:39,591
+Let's get you out of here.
+Come up. Come up.
+
+284
+00:24:39,679 --> 00:24:41,387
+Can you get me some water?
+
+285
+00:24:45,935 --> 00:24:49,102
+Sit down.
+It's alright, it's alright. OK.
+
+286
+00:24:49,188 --> 00:24:52,889
+OK. OK. Here you go. There you go.
+
+287
+00:24:54,318 --> 00:24:58,067
+Slowly. Drink slowly.
+Slowly, slowly, slowly.
+
+288
+00:24:58,155 --> 00:25:01,359
+Alright. Good girl.
+
+289
+00:25:01,450 --> 00:25:04,700
+Oh. Alright. It's OK.
+
+290
+00:25:04,787 --> 00:25:07,657
+It's alright, it's alright. It's OK.
+
+291
+00:25:10,042 --> 00:25:11,702
+Sweetie, can you tell...
+
+292
+00:25:13,087 --> 00:25:16,419
+Can you tell me your name? Your name?
+
+293
+00:25:17,340 --> 00:25:20,376
+I'm Jenny. Jenny.
+
+294
+00:25:21,427 --> 00:25:23,337
+What's your name?
+
+295
+00:25:23,429 --> 00:25:25,588
+- Anna.
+- Anna.
+
+296
+00:25:26,516 --> 00:25:28,224
+OK, Anna.
+
+297
+00:25:29,519 --> 00:25:32,887
+<i>Anna, where are you from?</i>
+
+298
+00:25:37,109 --> 00:25:39,315
+OK. Alright.
+
+299
+00:25:42,489 --> 00:25:45,609
+Anna, do you speak English?
+
+300
+00:25:45,700 --> 00:25:51,371
+Anna? English? Does anyone know
+what language that is?
+
+301
+00:25:51,456 --> 00:25:53,532
+I dunno. Is it Russian, maybe?
+
+302
+00:25:53,625 --> 00:25:56,792
+- Might be Croatian.
+- How do you know that?
+
+303
+00:25:56,878 --> 00:26:00,543
+Well, I had an ex-girlfriend from Zagreb
+and she'd swear at me in Croat.
+
+304
+00:26:00,632 --> 00:26:03,668
+- You're sure that's what it is?
+- She used to swear at me a lot.
+
+305
+00:26:03,760 --> 00:26:07,343
+- Can you understand what she's saying?
+- No. The accent sounds familiar.
+
+306
+00:26:07,430 --> 00:26:09,506
+Well, do you speak any Croat?
+
+307
+00:26:09,599 --> 00:26:11,806
+I could score an eighth,
+ask for a threesome.
+
+308
+00:26:11,893 --> 00:26:13,684
+- Ah, Jesus.
+- Oh, for God's sake.
+
+309
+00:26:13,770 --> 00:26:16,226
+- Dick.
+- Sorry.
+
+310
+00:26:16,314 --> 00:26:20,643
+<i>- Why would someone do this?
+- They didn't want her to die.</i>
+
+311
+00:26:22,404 --> 00:26:24,941
+Otherwise there wouldn't be an air pipe.
+
+312
+00:26:25,031 --> 00:26:28,780
+<i>I don't want to know who put her
+down there or why they did it.</i>
+
+313
+00:26:28,868 --> 00:26:31,406
+I just want to get out of here
+before they come back.
+
+314
+00:26:31,496 --> 00:26:33,987
+Listen, listen.
+She's our responsibility now.
+
+315
+00:26:34,123 --> 00:26:36,282
+We've got to get help.
+We've got to get her
+
+316
+00:26:36,876 --> 00:26:38,619
+off these mountains soon.
+
+317
+00:26:40,295 --> 00:26:46,334
+OK. Right, we're here, 12 miles
+south-southwest of Alltnacaillich.
+
+318
+00:26:46,426 --> 00:26:49,178
+The nearest village is Annan Mor, so...
+
+319
+00:26:49,262 --> 00:26:51,006
+Yeah.
+
+320
+00:26:51,098 --> 00:26:54,965
+We could go east along the Scimitar
+Ridge until we get to the river,
+
+321
+00:26:55,060 --> 00:26:58,429
+then double back to the village.
+It's about 15, 20 miles all in.
+
+322
+00:26:58,522 --> 00:27:01,725
+I found this in the hole.
+She must've been down there for days.
+
+323
+00:27:01,817 --> 00:27:04,853
+- Did she have any food?
+- Didn't look like it.
+
+324
+00:27:04,945 --> 00:27:08,563
+<i>She must have been starving
+down there all by herself in the dark.</i>
+
+325
+00:27:08,657 --> 00:27:11,195
+Let's not kill her with
+a smoked mackerel sandwich.
+
+326
+00:27:11,284 --> 00:27:13,573
+Can we use your phone? Phone for help?
+
+327
+00:27:13,662 --> 00:27:15,239
+What, in these mountains?
+
+328
+00:27:15,330 --> 00:27:18,699
+Won't get anything approaching
+a signal till you get near the A9.
+
+329
+00:27:18,792 --> 00:27:20,286
+That's about 30 miles away.
+
+330
+00:27:20,377 --> 00:27:22,868
+You said it was 15 miles to the village.
+
+331
+00:27:24,422 --> 00:27:27,838
+There is a faster route.
+We're only two miles from Devil's Drop.
+
+332
+00:27:27,926 --> 00:27:31,295
+<i>- What's Devil's Drop?
+- The only way to breach the ridge.</i>
+
+333
+00:27:31,388 --> 00:27:33,879
+It's a sheer cliff face
+500 foot straight down,
+
+334
+00:27:33,973 --> 00:27:38,185
+but from there, it is only
+a four-mile hike to Annan Mor.
+
+335
+00:27:38,895 --> 00:27:40,935
+How do we get a child down Devil's Drop?
+
+336
+00:27:41,898 --> 00:27:45,231
+We don't. Two of us abseil down
+and run to the village for help,
+
+337
+00:27:45,317 --> 00:27:48,852
+alert the police and get the Highland
+Rescue to pick up the rest of you.
+
+338
+00:27:48,946 --> 00:27:52,315
+- Who are you gonna take with you?
+- Alison.
+
+339
+00:27:52,407 --> 00:27:55,195
+Sorry, Ed, no arguments, mate.
+I need the best.
+
+340
+00:27:55,285 --> 00:27:59,497
+It's a massive face, Rob.
+I mean, we don't have enough rope.
+
+341
+00:27:59,581 --> 00:28:01,788
+I've got 20 metres of seven mil
+if that helps.
+
+342
+00:28:01,875 --> 00:28:03,619
+No, no, you keep that with you.
+
+343
+00:28:03,710 --> 00:28:07,079
+There's some rough terrain.
+You might need it. We'll manage.
+
+344
+00:28:07,214 --> 00:28:10,630
+- We'll multi pitch it. It'll be fine.
+- Do you want us to wait here?
+
+345
+00:28:10,717 --> 00:28:12,924
+No. There's no way we're staying here.
+
+346
+00:28:13,011 --> 00:28:17,887
+Follow the route on the map. I'll make
+sure they get the helicopter out to you.
+
+347
+00:28:17,974 --> 00:28:21,011
+As long as you stick to that route,
+they'll find you easily.
+
+348
+00:29:00,724 --> 00:29:03,760
+- Yeah, that's it. There it is. See?
+- Where?
+
+349
+00:29:03,852 --> 00:29:06,604
+That's the Haston Step.
+It's the first belay point.
+
+350
+00:29:17,324 --> 00:29:20,609
+- You wanna go first?
+- Yeah.
+
+351
+00:30:15,630 --> 00:30:17,088
+Rob?
+
+352
+00:30:18,758 --> 00:30:21,463
+Fuck! Rob, there's no more rope.
+
+353
+00:30:21,552 --> 00:30:23,924
+Can you make it?
+
+354
+00:30:30,353 --> 00:30:33,472
+- Easy.
+- Shit. Shit!
+
+355
+00:30:34,732 --> 00:30:36,475
+Easy.
+
+356
+00:31:15,104 --> 00:31:19,102
+Alison! How is it?
+
+357
+00:31:19,192 --> 00:31:20,769
+Fucking scary, Rob.
+
+358
+00:31:22,236 --> 00:31:25,688
+There's no footholds for five feet.
+You be careful, OK?
+
+359
+00:32:01,317 --> 00:32:02,728
+Rob!
+
+360
+00:32:07,656 --> 00:32:11,357
+Oh, my God! Oh, my God! Oh, my God!
+
+361
+00:32:11,452 --> 00:32:14,950
+<i>Oh, my God! Oh, my God!</i>
+
+362
+00:32:29,385 --> 00:32:33,050
+Look, why don't we carry her?
+Me and Ed could take it in turns.
+
+363
+00:32:33,139 --> 00:32:34,799
+- Makes sense.
+- OK.
+
+364
+00:32:36,225 --> 00:32:37,803
+<i>- Come on.
+- Here you go.</i>
+
+365
+00:32:37,894 --> 00:32:39,767
+<i>Be gentle.</i>
+
+366
+00:32:39,854 --> 00:32:41,182
+Anna!
+
+367
+00:32:43,775 --> 00:32:45,019
+- Come on.
+- Jesus Christ!
+
+368
+00:32:45,109 --> 00:32:46,484
+- Put her down.
+- Whoa.
+
+369
+00:32:48,779 --> 00:32:51,864
+<i>Right, so what do we do now?
+You won't be able to carry her.</i>
+
+370
+00:32:52,366 --> 00:32:56,744
+<i>- I can try.
+- You'll collapse after 100 yards.</i>
+
+371
+00:32:57,788 --> 00:32:59,448
+Then we'll go at Anna's pace.
+
+372
+00:32:59,540 --> 00:33:02,327
+- That's pretty fucking slow.
+- Watch your language.
+
+373
+00:33:02,418 --> 00:33:04,660
+- She can't understand.
+- Hardly the point.
+
+374
+00:33:04,754 --> 00:33:07,957
+- For fuck's sake.
+- We've gotta keep moving. Come on.
+
+375
+00:33:08,049 --> 00:33:10,670
+Do you have any idea
+what she's been through?
+
+376
+00:33:10,760 --> 00:33:14,592
+I get it, OK?
+Can we just go now? Please?
+
+377
+00:33:16,057 --> 00:33:17,337
+- Come on.
+- OK.
+
+378
+00:33:17,433 --> 00:33:19,674
+Come on, sweetie. We have to go.
+
+379
+00:34:18,700 --> 00:34:19,898
+Fuck!
+
+380
+00:34:21,828 --> 00:34:22,991
+Jesus!
+
+381
+00:34:25,040 --> 00:34:26,996
+Fuck. Fuck it. Fuck!
+
+382
+00:34:38,010 --> 00:34:40,714
+Fuck! Fuck! Fuck!
+
+383
+00:36:40,963 --> 00:36:42,374
+Hey!
+
+384
+00:36:44,883 --> 00:36:45,963
+Hey!
+
+385
+00:36:49,013 --> 00:36:50,637
+Help!
+
+386
+00:36:59,523 --> 00:37:00,898
+Fuck you!
+
+387
+00:37:02,651 --> 00:37:04,394
+Fuck you.
+
+388
+00:38:23,229 --> 00:38:24,771
+It's been cut!
+
+389
+00:38:39,745 --> 00:38:42,367
+<i>I think it's about a mile away
+to the river.</i>
+
+390
+00:38:51,924 --> 00:38:53,417
+There they are.
+
+391
+00:38:58,221 --> 00:39:01,424
+- I see them.
+- How far?
+
+392
+00:39:02,350 --> 00:39:05,719
+400 yards, maybe more.
+
+393
+00:39:05,812 --> 00:39:09,762
+- You got a shot?
+- At this range?
+
+394
+00:39:11,276 --> 00:39:14,230
+Don't waste it.
+Let's get over that next ridge.
+
+395
+00:39:42,849 --> 00:39:44,259
+There they are.
+
+396
+00:39:51,399 --> 00:39:54,684
+Chuck us over your hip flask
+and give me a nip.
+
+397
+00:40:03,034 --> 00:40:05,323
+What is this filthy shit?
+
+398
+00:40:05,412 --> 00:40:08,615
+- It's spirit drink.
+- Spirit drink?
+
+399
+00:40:08,706 --> 00:40:12,835
+I got it at the petrol garage. It's so
+cheap they can't even call it vodka.
+
+400
+00:40:12,919 --> 00:40:15,671
+- It's pish.
+- It gets the job done.
+
+401
+00:40:24,806 --> 00:40:26,086
+Hello there.
+
+402
+00:40:26,975 --> 00:40:28,385
+Good afternoon.
+
+403
+00:40:30,895 --> 00:40:32,722
+What are you fellas doing out here?
+
+404
+00:40:33,690 --> 00:40:35,267
+Hiking.
+
+405
+00:40:37,860 --> 00:40:40,149
+Long way from civilisation.
+
+406
+00:40:40,238 --> 00:40:42,111
+That's the idea.
+
+407
+00:40:42,198 --> 00:40:43,609
+You stalking?
+
+408
+00:40:44,659 --> 00:40:45,857
+Yeah.
+
+409
+00:40:46,702 --> 00:40:49,538
+You know the hunting season's been over
+for three months?
+
+410
+00:40:49,664 --> 00:40:50,944
+What do you care?
+
+411
+00:40:52,250 --> 00:40:56,247
+It's just if you're hunting out of
+season, we're gonna have to report you.
+
+412
+00:40:57,296 --> 00:40:59,170
+That's a pretty big gun.
+
+413
+00:40:59,257 --> 00:41:02,791
+It's a 308. It'll put a dent
+in just about anything.
+
+414
+00:41:04,428 --> 00:41:06,550
+You think the deer
+have a fighting chance?
+
+415
+00:41:07,305 --> 00:41:09,927
+I think everything's
+got a fighting chance.
+
+416
+00:41:11,977 --> 00:41:13,471
+Do you?
+
+417
+00:41:13,561 --> 00:41:16,183
+You boys a pair of animal rights
+wankers, are you?
+
+418
+00:41:16,272 --> 00:41:17,850
+You're a long way from anywhere.
+
+419
+00:41:17,941 --> 00:41:21,392
+Me and him don't take kindly to
+left-wing bastards coming out here...
+
+420
+00:41:25,532 --> 00:41:29,779
+Please. Oh, please, don't do it.
+I'll stop hunting.
+
+421
+00:41:30,370 --> 00:41:32,777
+But everything's got a fighting chance,
+right?
+
+422
+00:41:35,458 --> 00:41:37,166
+He said that.
+
+423
+00:41:38,336 --> 00:41:40,375
+Please. Please don't kill me.
+
+424
+00:41:40,463 --> 00:41:42,123
+Take a step back.
+
+425
+00:41:42,215 --> 00:41:44,788
+- Oh, God, please. Please, no.
+- Hey.
+
+426
+00:41:45,969 --> 00:41:47,083
+Do it.
+
+427
+00:41:48,388 --> 00:41:50,511
+<i>- Jesus Christ.
+- Keep going.</i>
+
+428
+00:41:50,598 --> 00:41:52,223
+Oh, God, no.
+
+429
+00:41:52,308 --> 00:41:54,217
+That's it.
+
+430
+00:41:54,310 --> 00:41:56,386
+- And another.
+- Please. Oh, fuck.
+
+431
+00:41:56,479 --> 00:41:59,515
+- Don't stop.
+- Oh, dear God!
+
+432
+00:42:10,368 --> 00:42:11,743
+And that's that.
+
+433
+00:42:26,256 --> 00:42:27,371
+You still with me?
+
+434
+00:42:30,552 --> 00:42:32,047
+Whatever it takes.
+
+435
+00:42:32,638 --> 00:42:35,045
+I think it might take a bit more
+than we thought.
+
+436
+00:42:38,519 --> 00:42:41,223
+Aye. It might.
+
+437
+00:42:53,992 --> 00:42:56,032
+<i>How did they sound?</i>
+
+438
+00:42:56,119 --> 00:42:59,903
+Practised. In control. Like they knew
+exactly what they were doing.
+
+439
+00:42:59,998 --> 00:43:02,157
+That's usually a good sign.
+
+440
+00:43:02,250 --> 00:43:03,579
+<i>Follow the road.</i>
+
+441
+00:43:03,669 --> 00:43:07,962
+- Remind me of the name of this place.
+- Annan Mor. Southwest of Inverness.
+
+442
+00:43:08,048 --> 00:43:09,922
+Still a good 80 miles.
+
+443
+00:43:32,655 --> 00:43:33,900
+<i>Hey!</i>
+
+444
+00:43:36,283 --> 00:43:37,694
+Hey!
+
+445
+00:43:37,826 --> 00:43:41,575
+Look. Look. Look. Alison.
+
+446
+00:43:43,582 --> 00:43:45,907
+The rope was cut.
+
+447
+00:43:46,001 --> 00:43:50,580
+The rope was cut.
+Someone cut the rope.
+
+448
+00:43:50,672 --> 00:43:53,045
+- Can you hear her?
+- She's smashed her legs up.
+
+449
+00:43:53,133 --> 00:43:56,218
+You can see it in her leg and her arms.
+Something's wrong, Jen.
+
+450
+00:43:57,471 --> 00:43:59,629
+It's alright, sweetheart,
+don't be scared.
+
+451
+00:43:59,723 --> 00:44:01,004
+Don't be scared. It's OK.
+
+452
+00:44:01,099 --> 00:44:05,808
+Someone cut the rope. Rob was murdered.
+
+453
+00:44:05,896 --> 00:44:08,268
+- Can you hear what she's saying?
+- Look at her leg.
+
+454
+00:44:08,357 --> 00:44:11,523
+We can't understand
+a word you're saying.
+
+455
+00:44:14,863 --> 00:44:18,149
+I need to get across to you
+further down the river.
+
+456
+00:44:18,241 --> 00:44:23,532
+Alison! Alison,
+you're gonna have to shout louder.
+
+457
+00:44:23,622 --> 00:44:26,871
+We need to find a crossing
+further downstream.
+
+458
+00:44:29,877 --> 00:44:33,744
+She wants us to go down the river.
+OK, OK. Where's Rob?
+
+459
+00:44:33,881 --> 00:44:35,459
+Rob, where is he?
+
+460
+00:44:35,549 --> 00:44:37,174
+Where is he?
+
+461
+00:44:47,603 --> 00:44:48,883
+<i>Fuck!</i>
+
+462
+00:44:54,943 --> 00:44:57,102
+<i>What are we gonna do, Jen?</i>
+
+463
+00:45:00,366 --> 00:45:02,157
+What do we do?
+
+464
+00:45:06,997 --> 00:45:08,372
+<i>No.</i>
+
+465
+00:45:20,469 --> 00:45:23,138
+- Jen! Jenny!
+- Alex!
+
+466
+00:45:23,222 --> 00:45:26,637
+<i>Jenny! Jenny!</i>
+
+467
+00:45:26,725 --> 00:45:28,053
+Alex, Alex, Alex, no!
+
+468
+00:45:28,143 --> 00:45:30,432
+<i>Jenny! Jenny! Jenny!</i>
+
+469
+00:45:30,520 --> 00:45:33,437
+- Listen to me. Alex!
+- Jenny, give me your hand.
+
+470
+00:45:37,234 --> 00:45:38,563
+Alex, she's gone!
+
+471
+00:45:40,237 --> 00:45:42,811
+We can't get her from here.
+We've gotta go down there.
+
+472
+00:45:54,335 --> 00:45:56,660
+Ed, Ed, I can see her.
+
+473
+00:45:57,963 --> 00:46:01,712
+Hold on to the rocks, Jen.
+Hold on to the rocks.
+
+474
+00:46:07,765 --> 00:46:09,971
+- Hold on to the rocks!
+- Alex, listen to me.
+
+475
+00:46:10,059 --> 00:46:12,763
+You have to follow me.
+I know what I'm doing. Follow me.
+
+476
+00:46:49,429 --> 00:46:50,508
+Alison!
+
+477
+00:46:52,307 --> 00:46:53,635
+Alison!
+
+478
+00:46:55,602 --> 00:46:57,429
+Come on, come on!
+
+479
+00:47:34,599 --> 00:47:36,176
+Anna!
+
+480
+00:47:39,103 --> 00:47:40,348
+Anna!
+
+481
+00:47:46,485 --> 00:47:48,144
+Anna!
+
+482
+00:48:30,570 --> 00:48:31,815
+No. Gone.
+
+483
+00:48:36,784 --> 00:48:37,899
+There!
+
+484
+00:48:54,968 --> 00:48:56,628
+Anna!
+
+485
+00:48:57,512 --> 00:49:00,679
+Anna! Anna!
+
+486
+00:49:00,765 --> 00:49:02,723
+Anna!
+
+487
+00:50:05,287 --> 00:50:07,612
+Come on, Anna.
+
+488
+00:50:07,706 --> 00:50:09,912
+Come on, Anna. Come on.
+
+489
+00:50:19,926 --> 00:50:21,753
+OK. Anna.
+
+490
+00:50:31,855 --> 00:50:33,764
+It's OK, Anna.
+
+491
+00:51:23,571 --> 00:51:26,821
+Anna! Anna!
+
+492
+00:51:57,521 --> 00:51:59,763
+<i>Alex. Alex.</i>
+
+493
+00:52:03,318 --> 00:52:04,978
+Are you alright?
+
+494
+00:52:05,988 --> 00:52:07,150
+Look at me.
+
+495
+00:52:10,033 --> 00:52:14,030
+- We have to find the others, OK?
+- Right.
+
+496
+00:52:14,120 --> 00:52:15,780
+Ed!
+
+497
+00:52:17,081 --> 00:52:18,112
+Anna?
+
+498
+00:52:21,669 --> 00:52:23,626
+<i>Ed!</i>
+
+499
+00:53:10,676 --> 00:53:13,083
+<i>Here!</i>
+
+500
+00:53:55,845 --> 00:53:57,636
+<i>Ed.</i>
+
+501
+00:53:57,721 --> 00:53:59,180
+Anna.
+
+502
+00:53:59,265 --> 00:54:00,675
+Ed.
+
+503
+00:54:03,185 --> 00:54:06,720
+Anna. Thank God. Shh. Shh.
+
+504
+00:54:11,151 --> 00:54:12,266
+What happened?
+
+505
+00:54:12,361 --> 00:54:15,896
+I fell. It might be broken,
+I don't know.
+
+506
+00:54:22,996 --> 00:54:24,823
+They're coming.
+
+507
+00:54:24,915 --> 00:54:26,326
+- How many?
+- Two.
+
+508
+00:54:26,417 --> 00:54:28,040
+Shit.
+
+509
+00:54:31,379 --> 00:54:33,952
+- OK, let's go.
+- No. He can't run.
+
+510
+00:54:34,048 --> 00:54:37,002
+- I can try.
+- That won't be enough.
+
+511
+00:54:39,512 --> 00:54:44,470
+Look, listen. You, me, Ed,
+we don't mean a thing to these people.
+
+512
+00:54:44,559 --> 00:54:48,224
+She's the only one with any value.
+She's what they want.
+
+513
+00:54:57,113 --> 00:54:58,144
+That's her!
+
+514
+00:55:01,826 --> 00:55:04,364
+- What about the others?
+- Follow the money!
+
+515
+00:57:04,319 --> 00:57:07,154
+Are you gonna finish him
+or do you want me to do it?
+
+516
+00:57:07,239 --> 00:57:11,283
+After what he's just put us through?
+No, I wanna watch him breathe out.
+
+517
+00:57:21,336 --> 00:57:23,079
+You feel that?
+
+518
+00:57:25,090 --> 00:57:27,462
+That's the price of your nobility.
+
+519
+00:57:30,345 --> 00:57:32,254
+Hurts, doesn't it?
+
+520
+00:57:44,484 --> 00:57:47,437
+<i>In 200 metres, bear left.</i>
+
+521
+00:57:49,905 --> 00:57:52,775
+<i>In 150 metres, bear left.</i>
+
+522
+00:57:53,200 --> 00:57:54,611
+<i>In one...</i>
+
+523
+00:57:58,205 --> 00:57:59,450
+Well done.
+
+524
+00:58:01,083 --> 00:58:05,330
+- How will we know where to go?
+- Maybe we should just bear left.
+
+525
+00:58:05,420 --> 00:58:09,038
+People have been finding their way
+for years without fucking computers.
+
+526
+00:58:09,132 --> 00:58:12,252
+There is no equal to a map
+and a bit of nous.
+
+527
+00:58:12,344 --> 00:58:14,835
+- How are we doing back there?
+- I'm almost done.
+
+528
+00:58:14,930 --> 00:58:17,088
+Just gotta check the frequency.
+
+529
+00:58:17,557 --> 00:58:21,306
+If this briefcase moves so much
+as an inch, we're gonna know about it.
+
+530
+00:58:21,394 --> 00:58:23,186
+<i>Well, that's reassuring.</i>
+
+531
+00:58:23,271 --> 00:58:26,806
+I may as well wipe my arse on that money
+if we can't find the girl.
+
+532
+00:58:58,305 --> 00:58:59,633
+OK.
+
+533
+00:59:01,141 --> 00:59:03,134
+OK, Anna, I'm gonna need you
+to lean back.
+
+534
+00:59:04,478 --> 00:59:05,853
+Just take a step.
+
+535
+00:59:05,938 --> 00:59:08,144
+It's OK, sweetheart.
+Just, just lean back.
+
+536
+00:59:11,443 --> 00:59:14,978
+You gotta trust me. It's OK, I promise.
+Just take a step back and lean...
+
+537
+00:59:15,072 --> 00:59:16,898
+No, Alison. Alison.
+
+538
+00:59:16,990 --> 00:59:20,359
+Jesus Christ, Anna!
+There's no other way down!
+
+539
+00:59:22,412 --> 00:59:23,788
+OK.
+
+540
+00:59:27,000 --> 00:59:30,120
+Look at me. Look at me. I've got you.
+
+541
+00:59:31,505 --> 00:59:33,497
+You have to trust me, sweetheart.
+
+542
+00:59:34,174 --> 00:59:35,419
+OK?
+
+543
+00:59:35,509 --> 00:59:39,007
+Put your shoulders back. Lean back.
+
+544
+00:59:39,094 --> 00:59:41,052
+There you go.
+
+545
+00:59:41,138 --> 00:59:44,258
+Good girl. Good girl.
+
+546
+00:59:50,940 --> 00:59:53,940
+<i>It's OK, Anna. Keep coming.</i>
+
+547
+00:59:54,026 --> 00:59:56,268
+Oops. Keep coming. Steady, steady.
+
+548
+01:00:03,117 --> 01:00:06,985
+OK. Alright. I've got you. I've got you.
+
+549
+01:00:33,647 --> 01:00:37,562
+- This is no time for a rest. Let's go.
+- Just give me a moment, please.
+
+550
+01:00:37,651 --> 01:00:40,107
+If Alex made it,
+he'd have called the police.
+
+551
+01:00:42,364 --> 01:00:44,238
+They could already be looking for us.
+
+552
+01:00:45,117 --> 01:00:46,695
+You heard the shots, Alison.
+
+553
+01:00:48,120 --> 01:00:49,698
+He's dead.
+
+554
+01:00:54,001 --> 01:00:55,626
+Let's go. Get up.
+
+555
+01:00:56,170 --> 01:00:57,629
+Get up!
+
+556
+01:00:59,131 --> 01:01:00,625
+Leave me here.
+
+557
+01:01:02,593 --> 01:01:04,965
+I'm slowing you down as it is.
+Just leave me here.
+
+558
+01:01:05,054 --> 01:01:07,129
+- You don't want that.
+- I've broken my leg.
+
+559
+01:01:07,221 --> 01:01:10,388
+- What more do you want?
+- It's not broken. You're walking on it.
+
+560
+01:01:13,853 --> 01:01:17,637
+- What if we've done the wrong thing?
+- What do you mean?
+
+561
+01:01:22,487 --> 01:01:25,060
+Maybe we should have left her there.
+
+562
+01:01:25,156 --> 01:01:28,572
+- What?
+- Hear me out. Please.
+
+563
+01:01:28,659 --> 01:01:30,451
+Please listen to me.
+
+564
+01:01:31,454 --> 01:01:32,829
+Why was she even there?
+
+565
+01:01:32,914 --> 01:01:35,784
+Why in Scotland?
+She clearly sounds Eastern European.
+
+566
+01:01:35,875 --> 01:01:38,033
+I don't know, Ed.
+I don't know. You tell me.
+
+567
+01:01:38,127 --> 01:01:41,211
+Maybe she was kidnapped.
+She's still in her school uniform.
+
+568
+01:01:41,297 --> 01:01:44,084
+She was probably snatched
+right outside the school.
+
+569
+01:01:44,175 --> 01:01:47,092
+Kidnappers usually demand a ransom,
+don't they?
+
+570
+01:01:48,346 --> 01:01:53,173
+In which case there's probably
+another party involved, police.
+
+571
+01:01:53,976 --> 01:01:57,475
+And what if we've come along
+and trampled on a delicate situation?
+
+572
+01:01:58,189 --> 01:02:01,273
+We might have blown her chances
+of a safe handover.
+
+573
+01:02:02,109 --> 01:02:03,651
+What if we've killed her?
+
+574
+01:02:04,278 --> 01:02:06,401
+What if this is all our fault?
+
+575
+01:02:06,489 --> 01:02:08,481
+- Look at her.
+- I'm just...
+
+576
+01:02:08,574 --> 01:02:10,152
+Just fucking look at her.
+
+577
+01:02:11,410 --> 01:02:15,323
+Could you leave her in the ground?
+Could you?
+
+578
+01:02:17,206 --> 01:02:18,238
+No.
+
+579
+01:02:19,917 --> 01:02:21,328
+Then there's your answer.
+
+580
+01:02:23,338 --> 01:02:26,623
+Did her family do this to her?
+Was she kidnapped? I don't know.
+
+581
+01:02:26,716 --> 01:02:29,586
+And you don't know.
+But if we've done the wrong thing,
+
+582
+01:02:29,677 --> 01:02:33,426
+then I'll fucking live with it.
+Now get up! Find a way.
+
+583
+01:02:36,893 --> 01:02:38,850
+They'll be heading up to Annan Mor.
+
+584
+01:02:39,520 --> 01:02:42,854
+<i>And here we are,
+empty fucking handed.</i>
+
+585
+01:02:44,192 --> 01:02:47,442
+Look, you remember that Japanese kid
+last winter? Remember him?
+
+586
+01:02:47,528 --> 01:02:49,817
+Rats crawled through the pipe,
+ate him alive.
+
+587
+01:02:49,906 --> 01:02:52,443
+- What about him?
+- Parents still paid up.
+
+588
+01:02:52,533 --> 01:02:56,661
+Bluffed our way out of that. Maybe
+we can't bluff our way out of this.
+
+589
+01:02:57,913 --> 01:03:01,448
+You do it your way. I'll try mine.
+
+590
+01:03:12,928 --> 01:03:15,336
+<i>You're probably wondering</i>
+
+591
+01:03:15,431 --> 01:03:17,340
+<i>why your daughter
+has not come home.</i>
+
+592
+01:03:17,433 --> 01:03:20,883
+<i>We have dug a hole,
+four feet by three. She's down there.</i>
+
+593
+01:03:21,019 --> 01:03:25,313
+<i>She has enough water for a week,
+maybe less. She has no food.</i>
+
+594
+01:03:25,398 --> 01:03:27,355
+<i>There's no chance you can find her.</i>
+
+595
+01:03:27,442 --> 01:03:31,439
+<i>Her location is as remote
+as it is inaccessible.</i>
+
+596
+01:03:31,529 --> 01:03:32,774
+<i>You're being watched.</i>
+
+597
+01:03:32,864 --> 01:03:36,067
+<i>If you try and contact the police,
+we will leave her where she is.</i>
+
+598
+01:03:36,159 --> 01:03:39,824
+<i>She will die there. In the dark. Alone.</i>
+
+599
+01:03:39,912 --> 01:03:42,071
+<i>You will never find her body.</i>
+
+600
+01:03:42,165 --> 01:03:45,166
+<i>We want money. Six million euros.</i>
+
+601
+01:03:45,251 --> 01:03:50,079
+<i>Clean, non-sequential. No marked money,
+transponders or dye packs.</i>
+
+602
+01:03:50,173 --> 01:03:53,127
+<i>More instructions
+regarding the hand-off will follow.</i>
+
+603
+01:03:53,217 --> 01:03:54,877
+<i>Stay by the phone.</i>
+
+604
+01:03:56,595 --> 01:03:57,674
+Who taped the call?
+
+605
+01:03:58,430 --> 01:04:03,507
+My employer records everything.
+That includes his ex-wife's telephone.
+
+606
+01:04:04,311 --> 01:04:06,932
+Well, these bastards aren't stupid,
+are they?
+
+607
+01:04:07,063 --> 01:04:10,978
+If you call the police and they get
+nicked, they just gotta deny everything.
+
+608
+01:04:11,109 --> 01:04:14,276
+Since the girl's in the ground,
+there's no connection to us.
+
+609
+01:04:14,362 --> 01:04:15,773
+She dies about the same time
+
+610
+01:04:15,864 --> 01:04:18,485
+that the police release them
+due to lack of evidence.
+
+611
+01:04:18,575 --> 01:04:20,733
+There's no body,
+no murder investigation.
+
+612
+01:04:20,827 --> 01:04:23,283
+That is about as sweet a hustle
+as I've ever seen.
+
+613
+01:04:23,371 --> 01:04:26,740
+The only time they expose themselves
+is at the hand-off.
+
+614
+01:04:28,250 --> 01:04:30,575
+Do you know where the pub is?
+
+615
+01:04:30,669 --> 01:04:33,504
+It's not a big village. I'll find it.
+
+616
+01:04:33,589 --> 01:04:36,080
+When you get there,
+you grab a table by the window.
+
+617
+01:04:36,175 --> 01:04:38,926
+If you can't find one,
+you stand by the bar and you wait.
+
+618
+01:04:39,011 --> 01:04:41,336
+No one will approach you
+until you sit down.
+
+619
+01:04:41,430 --> 01:04:43,469
+Don't try and guess who it's gonna be.
+
+620
+01:04:43,557 --> 01:04:46,226
+Think about nothing except that table.
+Understand?
+
+621
+01:04:46,310 --> 01:04:47,424
+Yeah.
+
+622
+01:04:49,313 --> 01:04:52,728
+Don't look too confident.
+Don't look too nervous either.
+
+623
+01:04:52,816 --> 01:04:56,683
+You find a middle ground. You let 'em
+know that it's strictly business.
+
+624
+01:04:56,778 --> 01:05:00,230
+If they've got the girl,
+they're gonna get paid.
+
+625
+01:05:00,323 --> 01:05:03,194
+- Let's hope they bring her.
+- They will. They have to.
+
+626
+01:05:03,285 --> 01:05:07,234
+They'll keep her out of sight until they
+see the money. That's where you come in.
+
+627
+01:05:07,330 --> 01:05:10,616
+You demand to see her
+before you hand it over.
+
+628
+01:05:10,709 --> 01:05:13,460
+If they can get away
+without making a trade, they will.
+
+629
+01:05:13,545 --> 01:05:17,412
+Leaving a body behind is a lot easier
+than making a full exchange.
+
+630
+01:05:17,507 --> 01:05:22,465
+No one makes a move until we see
+the girl. If I return without her...
+
+631
+01:05:26,558 --> 01:05:28,349
+Have you met her father?
+
+632
+01:05:28,435 --> 01:05:31,186
+I've heard of him by reputation.
+
+633
+01:05:37,067 --> 01:05:40,068
+- So you know that...
+- He's got a pretty bad reputation.
+
+634
+01:05:40,988 --> 01:05:46,029
+Have a jolly up in Kosovo, did he?
+Little bit of an ethnic spring clean?
+
+635
+01:05:46,952 --> 01:05:50,451
+Same as the rest of the Serbian wankers
+that we slotted back in '99.
+
+636
+01:05:50,539 --> 01:05:54,952
+So trust me, yes,
+I know who I'm dealing with.
+
+637
+01:05:55,043 --> 01:05:56,917
+Really?
+
+638
+01:05:57,004 --> 01:06:00,538
+<i>When we make our move,
+it's gonna be quick and loud.</i>
+
+639
+01:06:00,632 --> 01:06:04,547
+Throw yourself on the floor cos he's
+gonna go like fucking Christian Bale.
+
+640
+01:06:04,636 --> 01:06:07,127
+Stay down till me or him picks you up.
+
+641
+01:06:07,222 --> 01:06:10,923
+All I care about is the girl.
+We get her safe and quick.
+
+642
+01:06:11,018 --> 01:06:12,642
+Then we worry about her captors.
+
+643
+01:06:12,728 --> 01:06:15,598
+Your employers,
+they wanna keep 'em alive?
+
+644
+01:06:15,689 --> 01:06:18,262
+- If possible.
+- We'll see.
+
+645
+01:06:20,735 --> 01:06:24,104
+No shotguns.
+I can't risk you hitting the girl.
+
+646
+01:06:24,239 --> 01:06:26,528
+It's loaded with solid shot, no spread.
+
+647
+01:06:28,326 --> 01:06:31,778
+We're English, Darko.
+We leave friendly fire to the Yanks.
+
+648
+01:06:37,335 --> 01:06:38,960
+<i>Hey!</i>
+
+649
+01:06:40,546 --> 01:06:42,669
+Hey. Hey.
+
+650
+01:07:54,785 --> 01:07:57,074
+Hi. We, erm... We need to...
+
+651
+01:07:57,162 --> 01:07:59,736
+We need to report a kidnapping
+and three murders.
+
+652
+01:08:39,620 --> 01:08:41,945
+We'll get you up to Inverness
+as quick as we can.
+
+653
+01:08:42,039 --> 01:08:45,040
+Constable Stewart will drive you.
+He shouldn't be a minute.
+
+654
+01:08:45,126 --> 01:08:48,126
+They can take your statements,
+give you medical attention.
+
+655
+01:08:48,212 --> 01:08:52,210
+I'll be just past the kitchen.
+So don't worry, I'm not going anywhere.
+
+656
+01:08:52,299 --> 01:08:54,754
+- You said kitchen.
+- Aye.
+
+657
+01:08:54,843 --> 01:08:56,965
+She could do with something to eat.
+
+658
+01:09:14,612 --> 01:09:17,399
+- I can't get through to Inverness.
+- Why not?
+
+659
+01:09:17,490 --> 01:09:19,946
+It's a big country.
+It all needs policing.
+
+660
+01:09:20,034 --> 01:09:22,241
+So call another station.
+
+661
+01:09:22,370 --> 01:09:26,699
+I've left a message. I'm sure the desk
+sergeant will call back in a minute.
+
+662
+01:09:27,708 --> 01:09:31,955
+Chocolate cake. My wife's recipe.
+I think you might just love it.
+
+663
+01:09:51,440 --> 01:09:52,685
+You Darko?
+
+664
+01:09:54,276 --> 01:09:55,854
+Yes.
+
+665
+01:09:57,029 --> 01:09:58,903
+You got something for me?
+
+666
+01:09:59,865 --> 01:10:02,699
+- That depends.
+- Does it?
+
+667
+01:10:04,035 --> 01:10:07,119
+I've got the more valuable
+merchandise. What have you got?
+
+668
+01:10:08,456 --> 01:10:09,654
+Money?
+
+669
+01:10:12,752 --> 01:10:16,251
+There'll always be money in the world,
+mate. Plenty of that to go round.
+
+670
+01:10:16,339 --> 01:10:20,289
+But this little girl? Unique.
+
+671
+01:10:21,636 --> 01:10:23,296
+One of a kind.
+
+672
+01:10:24,681 --> 01:10:28,513
+- What are you trying to say?
+- That we do things my way.
+
+673
+01:10:32,730 --> 01:10:34,889
+You brought the money?
+
+674
+01:10:37,151 --> 01:10:38,314
+Yeah.
+
+675
+01:10:40,530 --> 01:10:43,234
+Then this is how we're gonna do it.
+
+676
+01:10:43,324 --> 01:10:46,360
+I leave here now with the case
+and check it with my associates.
+
+677
+01:10:46,494 --> 01:10:48,652
+All being well and good,
+
+678
+01:10:48,746 --> 01:10:53,538
+you'll receive a call telling you
+where you can find the girl.
+
+679
+01:10:57,922 --> 01:10:59,250
+No.
+
+680
+01:11:03,469 --> 01:11:06,803
+- Then I'm gonna leave.
+- Go?
+
+681
+01:11:06,889 --> 01:11:09,557
+You sure?
+
+682
+01:11:09,641 --> 01:11:13,057
+You're not gonna walk out of here
+empty handed
+
+683
+01:11:13,144 --> 01:11:15,470
+without listening to what I have to say.
+
+684
+01:11:15,563 --> 01:11:20,688
+- I wouldn't fucking bet on that, mate.
+- I stake six million euros on it.
+
+685
+01:11:24,280 --> 01:11:26,320
+That's what you've got in the case?
+
+686
+01:11:26,407 --> 01:11:31,153
+We both know only fools fill cases
+with counterfeit money,
+
+687
+01:11:31,246 --> 01:11:36,832
+fools who don't care to see
+their children again. I'm no fool.
+
+688
+01:11:38,294 --> 01:11:42,624
+I'm glad to hear it. Because the same
+thing happened to me a few years back.
+
+689
+01:11:44,676 --> 01:11:47,546
+I took a boy from his family
+in Marseilles.
+
+690
+01:11:49,597 --> 01:11:52,349
+Well, it was a long negotiation
+to say the least.
+
+691
+01:11:52,433 --> 01:11:55,138
+Went on for so long I made a mistake.
+
+692
+01:11:59,440 --> 01:12:00,899
+I bonded with the boy.
+
+693
+01:12:02,443 --> 01:12:04,187
+We became close.
+
+694
+01:12:08,324 --> 01:12:11,989
+He kept saying he wanted to come
+and visit me when it was all over.
+
+695
+01:12:19,000 --> 01:12:22,915
+His parents decided to hand off
+a bag full of shredded newspaper.
+
+696
+01:12:23,004 --> 01:12:26,171
+Police thought they were gonna catch us
+during the drop-off.
+
+697
+01:12:28,051 --> 01:12:29,628
+Oh, no.
+
+698
+01:12:34,056 --> 01:12:37,140
+I took the boy out in the garden
+to play a game of football.
+
+699
+01:12:37,226 --> 01:12:39,598
+I remember because he went in goal.
+
+700
+01:12:40,896 --> 01:12:44,596
+When he bent down to pick up the ball,
+I shot him in the back of the head.
+
+701
+01:12:45,943 --> 01:12:48,434
+Quick. Painless.
+
+702
+01:12:50,322 --> 01:12:52,149
+Least I could do.
+
+703
+01:12:53,700 --> 01:12:56,903
+I buried him somewhere
+in the southwest of France.
+
+704
+01:12:59,915 --> 01:13:02,785
+Parents are still looking for him,
+last I heard.
+
+705
+01:13:05,212 --> 01:13:06,540
+Well done.
+
+706
+01:13:08,715 --> 01:13:12,380
+Like I said, I'm no fool.
+
+707
+01:13:14,012 --> 01:13:15,506
+Good.
+
+708
+01:13:16,681 --> 01:13:18,923
+Because that's a true story.
+
+709
+01:13:29,360 --> 01:13:32,230
+You see? Nothing to worry about.
+
+710
+01:13:33,280 --> 01:13:36,400
+- Anyone fancy a cup of tea?
+- Tea?
+
+711
+01:13:36,492 --> 01:13:38,983
+Aye. Nothing like a brew
+to set you straight.
+
+712
+01:13:39,078 --> 01:13:43,407
+No. No, I don't reckon
+a brew's gonna do it this time.
+
+713
+01:13:43,499 --> 01:13:46,250
+You said you were gonna
+get us to Inverness.
+
+714
+01:13:46,335 --> 01:13:48,742
+We wanna get out of here
+as quickly as possible.
+
+715
+01:13:50,464 --> 01:13:52,456
+Understood.
+
+716
+01:13:52,591 --> 01:13:55,841
+Let me just get on to PC Stewart
+and we'll see where he's got to.
+
+717
+01:14:03,227 --> 01:14:06,512
+- You don't have to be so rude.
+- Fuck rude! People are dead.
+
+718
+01:14:06,647 --> 01:14:09,683
+I wanna get out of this village,
+out of this fucking country.
+
+719
+01:14:09,775 --> 01:14:11,981
+And we will. Relax. We're safe now.
+
+720
+01:14:12,069 --> 01:14:15,402
+How long's he gonna take?
+And where's this other officer?
+
+721
+01:14:15,489 --> 01:14:17,398
+Sure I can't tempt anyone with a cuppa?
+
+722
+01:14:17,491 --> 01:14:20,112
+We were supposed to be in a police car
+15 minutes ago.
+
+723
+01:14:20,202 --> 01:14:22,360
+No, thanks! You're being paranoid.
+
+724
+01:14:22,454 --> 01:14:25,739
+Well, did you actually see him
+call for help? Did you hear it?
+
+725
+01:14:25,832 --> 01:14:29,117
+- Why haven't they returned his call?
+- It's only been ten minutes.
+
+726
+01:14:29,210 --> 01:14:31,451
+A lot can happen in ten minutes, Alison.
+
+727
+01:14:32,338 --> 01:14:36,205
+Are you ready to trust someone we've
+just met after what we've been through?
+
+728
+01:14:37,051 --> 01:14:40,883
+What if he's keeping us busy while he
+waits for his mates to finish us off?
+
+729
+01:14:46,393 --> 01:14:47,971
+Shit!
+
+730
+01:14:51,023 --> 01:14:52,517
+- What do we do?
+- We should go.
+
+731
+01:14:53,734 --> 01:14:57,897
+- Let's wait five minutes, see if...
+- How much longer do you wanna wait for?
+
+732
+01:14:57,988 --> 01:15:00,360
+Even if he's not in on it,
+what good's he gonna do?
+
+733
+01:15:00,449 --> 01:15:04,281
+What can he protect us from? He's a fat
+man with a badge armed with a biro.
+
+734
+01:15:04,369 --> 01:15:07,454
+No, I say we leave now.
+We take our chances in the crowd.
+
+735
+01:15:11,376 --> 01:15:12,621
+OK.
+
+736
+01:15:12,711 --> 01:15:15,498
+Anna, we're just gonna go for a walk,
+sweetheart.
+
+737
+01:15:18,300 --> 01:15:21,052
+What's going on? Where are you going?
+
+738
+01:15:21,136 --> 01:15:22,299
+We're just...
+
+739
+01:15:22,387 --> 01:15:24,179
+- We're leaving.
+- It's not safe.
+
+740
+01:15:24,264 --> 01:15:26,838
+- Well, we're going.
+- Absolutely not.
+
+741
+01:15:26,933 --> 01:15:30,018
+You're my responsibility.
+I'm not letting you out of my sight.
+
+742
+01:15:30,103 --> 01:15:32,475
+You can't keep us here.
+If we wanna go, we'll go.
+
+743
+01:15:32,564 --> 01:15:36,430
+You want to walk out of here? Fine.
+But I can't let you take the girl.
+
+744
+01:15:37,860 --> 01:15:40,861
+I mean it. You leave,
+you leave without her.
+
+745
+01:15:41,447 --> 01:15:42,906
+<i>Ed!</i>
+
+746
+01:15:43,657 --> 01:15:47,073
+<i>- Don't come any closer.
+- Easy, lad, easy.</i>
+
+747
+01:15:47,161 --> 01:15:50,115
+Don't do something
+you'll have to pay for later.
+
+748
+01:15:50,206 --> 01:15:55,117
+Put the knife down. Right now.
+
+749
+01:15:56,295 --> 01:15:58,334
+What the...
+
+750
+01:16:03,969 --> 01:16:05,084
+Get down!
+
+751
+01:16:14,730 --> 01:16:17,137
+Stay low, stay low. Keep down.
+
+752
+01:16:31,079 --> 01:16:32,989
+PC Stewart. Come in, over.
+
+753
+01:16:33,916 --> 01:16:39,455
+<i>Shots fired. I'm under
+attack. I need you back at the station.</i>
+
+754
+01:16:47,219 --> 01:16:49,010
+<i>Get back against the wall!</i>
+
+755
+01:16:49,095 --> 01:16:53,757
+- Hey, hey. Is there a back door?
+- Yes. You'll need keys.
+
+756
+01:16:53,850 --> 01:16:55,474
+<i>Where?</i>
+
+757
+01:17:01,524 --> 01:17:02,983
+<i>Follow me.</i>
+
+758
+01:17:03,943 --> 01:17:05,735
+Down! Get down!
+
+759
+01:17:15,038 --> 01:17:16,496
+<i>Anna, quick.</i>
+
+760
+01:18:01,583 --> 01:18:04,667
+Now what we have here
+is a situation based on trust.
+
+761
+01:18:04,753 --> 01:18:07,504
+I trust you when you say
+that you've brought the money.
+
+762
+01:18:09,132 --> 01:18:13,758
+And you have to trust me when I say
+the girl is safe and somewhere nearby.
+
+763
+01:18:15,346 --> 01:18:17,469
+I can't even walk into to a newsagent
+
+764
+01:18:17,557 --> 01:18:20,178
+and buy a pack of cigarettes on trust,
+my friend.
+
+765
+01:18:20,768 --> 01:18:23,853
+Now, if I can't do that,
+
+766
+01:18:23,938 --> 01:18:27,023
+how do you expect me
+to let a man like you
+
+767
+01:18:27,108 --> 01:18:31,817
+walk out of here with a fucking
+retirement plan in a briefcase? Hmm?
+
+768
+01:18:34,949 --> 01:18:36,609
+Man like me?
+
+769
+01:18:36,701 --> 01:18:39,536
+A kidnapper and a child murderer, yes.
+
+770
+01:18:41,456 --> 01:18:42,914
+That's a bit personal.
+
+771
+01:18:44,751 --> 01:18:49,294
+You're a grown man, you can take it.
+And this is business.
+
+772
+01:18:50,590 --> 01:18:52,666
+Like the man in the newsagent.
+
+773
+01:18:55,427 --> 01:18:58,712
+I hand him the money
+because I can see what I'm buying.
+
+774
+01:18:58,805 --> 01:19:02,221
+It even comes with
+a government health warning.
+
+775
+01:19:02,309 --> 01:19:07,895
+He gives me what I want
+and we both walk away happy.
+
+776
+01:19:07,981 --> 01:19:09,724
+So, no.
+
+777
+01:19:11,943 --> 01:19:13,983
+This is not based on trust.
+
+778
+01:19:15,030 --> 01:19:18,030
+This is based
+on what I can see in front of me.
+
+779
+01:19:22,620 --> 01:19:24,779
+And you're getting nothing...
+
+780
+01:19:26,624 --> 01:19:29,032
+...until I see the girl. Nothing.
+
+781
+01:19:38,177 --> 01:19:39,802
+<i>He's got a gun! Run!</i>
+
+782
+01:19:56,154 --> 01:19:57,648
+<i>Hurry, hurry.</i>
+
+783
+01:19:58,322 --> 01:19:59,733
+Fuck!
+
+784
+01:20:46,619 --> 01:20:50,403
+They don't have the girl.
+They don't have the girl!
+
+785
+01:20:53,418 --> 01:20:54,793
+They've lost the girl.
+
+786
+01:20:54,878 --> 01:20:56,502
+<i>It's a bluff.</i>
+
+787
+01:21:42,423 --> 01:21:43,965
+Where are you?
+
+788
+01:21:56,728 --> 01:21:58,306
+Hey, hey, I love you.
+
+789
+01:22:16,330 --> 01:22:17,990
+How am I doing, mate?
+
+790
+01:22:22,211 --> 01:22:26,291
+Never mind the bollocks.
+Give it me straight.
+
+791
+01:22:29,009 --> 01:22:32,877
+It's gone straight through the vest
+and made a wreck of you. You're dying.
+
+792
+01:22:33,764 --> 01:22:36,635
+You don't have long
+and there's nothing I can do.
+
+793
+01:22:37,643 --> 01:22:38,758
+Just bad luck, mate.
+
+794
+01:22:44,525 --> 01:22:45,723
+Gun.
+
+795
+01:22:47,027 --> 01:22:48,652
+Gun.
+
+796
+01:23:28,109 --> 01:23:30,232
+Hey! What's going on?
+
+797
+01:23:45,251 --> 01:23:46,413
+Get down!
+
+798
+01:24:24,123 --> 01:24:27,123
+You should have just given us the girl!
+
+799
+01:24:32,755 --> 01:24:35,626
+Where has your compassion
+gotten you today?
+
+800
+01:24:45,268 --> 01:24:46,975
+You fucking bitch!
+
+801
+01:25:58,546 --> 01:26:00,005
+Hello again.
+
+802
+01:28:33,198 --> 01:28:35,321
+Darko, you're a man of your word.
+
+803
+01:29:32,797 --> 01:29:34,505
+It's OK.
+
+804
+01:29:39,763 --> 01:29:43,047
+It's OK, Anna. It's OK.
+
+805
+01:29:46,101 --> 01:29:47,928
+It's OK.
+
+806
+01:30:24,513 --> 01:30:28,725
+- What the hell is this?
+- This is her father. Now you get paid.
+
+807
+01:30:28,809 --> 01:30:30,802
+If this starts to feel like an ambush,
+
+808
+01:30:30,895 --> 01:30:33,433
+I will take the top
+of your fucking head off.
+
+809
+01:30:34,315 --> 01:30:37,684
+- Just so we're clear.
+- Stay in the car until I call for you.
+
+810
+01:30:37,777 --> 01:30:40,777
+- Let me do the talking.
+- Don't talk yourself out of a life.
+
+811
+01:30:40,863 --> 01:30:42,487
+My employer is a businessman.
+
+812
+01:30:43,532 --> 01:30:45,739
+Last I heard,
+he was a fucking war criminal.
+
+813
+01:30:45,826 --> 01:30:47,368
+Nice.
+
+814
+01:31:48,846 --> 01:31:50,886
+500,000.
+
+815
+01:31:51,807 --> 01:31:53,847
+I can get it for you in an hour.
+
+816
+01:31:57,313 --> 01:31:58,641
+No?
+
+817
+01:32:00,524 --> 01:32:02,683
+It was worth a try.
+
+818
+01:32:03,694 --> 01:32:07,193
+My daughter must have looked like
+a good payday to you.
+
+819
+01:32:07,281 --> 01:32:09,404
+Divorce has made my ex-wife rich.
+
+820
+01:32:09,491 --> 01:32:11,614
+There is very little
+she could not afford.
+
+821
+01:32:12,328 --> 01:32:16,324
+But behind every woman with money
+is a man with deep pockets.
+
+822
+01:32:16,414 --> 01:32:19,581
+You should have concerned yourself
+with how he lined them.
+
+823
+01:32:21,461 --> 01:32:23,537
+Strip that piece of shit.
+
+824
+01:32:39,103 --> 01:32:41,594
+Darko tells me you lost a man.
+
+825
+01:32:42,064 --> 01:32:43,440
+That's right.
+
+826
+01:32:44,233 --> 01:32:48,895
+Don't cry too hard.
+Now you won't have to split your fee.
+
+827
+01:32:50,406 --> 01:32:52,280
+My daughter is safe.
+
+828
+01:32:53,117 --> 01:32:55,275
+I am in debt to you.
+
+829
+01:32:56,037 --> 01:32:58,160
+There's a way to fix that.
+
+830
+01:33:00,082 --> 01:33:02,205
+Your account has already been credited.
+
+831
+01:33:03,878 --> 01:33:07,710
+You can keep the car. A parting gift.
+
+832
+01:33:20,769 --> 01:33:24,184
+Put him in the ground. Prepare my tools.
+
+833
+01:34:18,533 --> 01:34:20,656
+Do you understand what she said?
+
+834
+01:34:22,912 --> 01:34:25,284
+I think she said "thank you".
+
+835
+01:34:41,138 --> 01:34:43,214
+<i>Are you alright, sweetheart?</i>
+
+836
+01:34:47,769 --> 01:34:48,932
+Yeah.
+
+837
+01:34:52,858 --> 01:34:59,856
+<i># There'll never be peace
+till Jamie comes hame</i>
+
+838
+01:35:00,949 --> 01:35:06,987
+<i># The Church is in ruins,
+the State is in jars</i>
+
+839
+01:35:07,080 --> 01:35:13,118
+<i># Delusions, oppressions
+and murderous wars</i>
+
+840
+01:35:13,211 --> 01:35:18,834
+<i># We dare na weel say't
+but we ken wha's to blame</i>
+
+841
+01:35:18,925 --> 01:35:25,639
+<i># There'll never be peace
+till Jamie comes hame</i>
+
+842
+01:35:25,724 --> 01:35:31,726
+<i># My seven braw sons
+for Jamie drew sword</i>
+
+843
+01:35:31,813 --> 01:35:37,566
+<i># And now I greet round
+their green beds in the yerd</i>
+
+844
+01:35:37,651 --> 01:35:43,321
+<i># It brak the sweet heart
+o' my faithful auld dame</i>
+
+845
+01:35:43,407 --> 01:35:50,537
+<i># There'll never be peace
+till Jamie comes hame</i>
+
+846
+01:35:50,622 --> 01:35:56,495
+<i># Now life is a burden
+that bows me down</i>
+
+847
+01:35:56,587 --> 01:36:02,459
+<i># Sin' I tint my bairns
+and he tint his crown</i>
+
+848
+01:36:02,551 --> 01:36:08,423
+<i># But till my last moments
+my words are the same</i>
+
+849
+01:36:08,515 --> 01:36:15,930
+<i># There'll never be peace
+till Jamie comes hame</i>
+

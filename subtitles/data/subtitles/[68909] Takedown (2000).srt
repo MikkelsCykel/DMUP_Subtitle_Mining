@@ -1,0 +1,4745 @@
+0
+00:00:01,000 --> 00:00:04,000
+Downloaded From www.AllSubs.org
+
+1
+00:00:23,560 --> 00:00:26,400
+Adaptado de una historia veridica
+
+2
+00:00:52,800 --> 00:00:57,240
+Hay hackers sin ética, defensores
+de la libertad de la informacion.
+
+3
+00:00:58,600 --> 00:01:00,800
+Son una espécie de comunismo
+de pirateria informática.
+
+4
+00:01:06,000 --> 00:01:10,640
+Hay una subcultura de personas
+que pasan 24 horas en la computadora...
+
+5
+00:01:12,560 --> 00:01:14,640
+... que quieren mostrar
+cuan inteligentes son.
+
+6
+00:01:16,320 --> 00:01:19,520
+Un ladron informático fue...
+ficheros valiosos archivados en...
+
+7
+00:01:19,640 --> 00:01:22,720
+Un vírus puede reproducirse
+en 6000 computadoras.
+
+8
+00:01:23,760 --> 00:01:25,040
+... en daños.
+
+9
+00:01:26,600 --> 00:01:30,000
+El planeta entero
+tiene acesso a lnternet...
+
+10
+00:01:31,920 --> 00:01:35,120
+... lo que significa que tienen acesso
+a su sistema informático.
+
+11
+00:01:35,240 --> 00:01:37,600
+Con la tecnologia telefónica
+cada vez mas fácil de usar...
+
+12
+00:01:37,760 --> 00:01:39,880
+... una ola cresciente
+de crimenes de alta tecnologia...
+
+13
+00:01:40,000 --> 00:01:42,080
+Las lineas telefónicas
+son parques de diversiones
+
+14
+00:01:42,240 --> 00:01:44,600
+... los tesoros
+en ficheros de los hackers...
+
+15
+00:01:44,920 --> 00:01:49,400
+... van desde a extorsion, a espionaje
+profesional, chantaje...
+
+16
+00:01:49,560 --> 00:01:51,680
+... a simples comportamientos
+maliciosos.
+
+17
+00:01:53,720 --> 00:01:57,080
+Hay otros hackers deseosos
+de causar estragos en el ciberespacio...
+
+18
+00:01:57,200 --> 00:02:00,720
+Estamos peor, pues estamos
+cada vez mas conectados...
+
+19
+00:02:00,840 --> 00:02:03,200
+Con la necesidad de crecer,
+de detectar criminales...
+
+20
+00:02:03,320 --> 00:02:07,360
+... en el complejo mundo de las computadoras,
+telefonos y faxes...
+
+21
+00:02:07,880 --> 00:02:10,960
+... el FBl pide a las compañias telefónicas
+se prepararen para el dia...
+
+22
+00:02:11,080 --> 00:02:15,760
+¿Cuando comenzo a cuestionar
+la ética de lo que hacia?
+
+23
+00:02:16,240 --> 00:02:18,240
+Cuando me atrapo el FBI.
+
+24
+00:02:24,520 --> 00:02:25,400
+¡Holá, muñeca!
+
+25
+00:02:28,600 --> 00:02:30,000
+¿Como anda todo?
+Me llamo Lance.
+
+26
+00:02:30,560 --> 00:02:32,120
+Me llamo Alex.
+Este es Kevin.
+
+27
+00:02:32,560 --> 00:02:33,560
+¿Mitnick?
+¿Como va todo?
+
+28
+00:02:34,960 --> 00:02:37,040
+Escuche mucho acerca de
+ustedes, muchachos...
+
+29
+00:02:37,320 --> 00:02:38,240
+...especialmente
+de ti, Kev.
+
+30
+00:02:38,400 --> 00:02:40,640
+¿Oh, si?
+Pero no escuche
+nada sobre ti.
+
+31
+00:02:42,160 --> 00:02:43,440
+¿Nunca escucharon sobre
+el "IceBraker"?
+
+32
+00:02:43,680 --> 00:02:44,800
+Ese soy yo.
+No.
+
+33
+00:02:47,080 --> 00:02:48,880
+Les cuento, estoy en la
+mierda, esta bien?
+
+34
+00:02:49,200 --> 00:02:49,960
+No lo dudo.
+
+35
+00:02:50,560 --> 00:02:51,760
+¿Arreglamos esta reunion,
+asi que, que quieres?
+
+36
+00:02:52,280 --> 00:02:56,240
+Queria hablarles, saben?
+Porque me entere de algunas cosas.
+
+37
+00:02:56,360 --> 00:02:57,280
+Queremos saber de que cosas
+te enteraste.
+
+38
+00:02:57,640 --> 00:02:59,240
+Y por supuesto no pienso
+"Hackear" nunca mas.
+
+39
+00:02:59,360 --> 00:03:00,400
+Otro mas que
+se ablanda.
+
+40
+00:03:02,120 --> 00:03:04,560
+Asi que, queria hablarles,
+compartir informacion...
+
+41
+00:03:04,720 --> 00:03:05,560
+Que tienes?
+
+42
+00:03:12,840 --> 00:03:14,120
+Acceso al DNV.
+
+43
+00:03:16,680 --> 00:03:17,560
+Ya lo tenemos.
+
+44
+00:03:20,440 --> 00:03:21,800
+Puedo hacer que
+se desplome.
+
+45
+00:03:24,520 --> 00:03:28,040
+Me aburriste con toda esta
+mierda de "Hackers", me voy.
+
+46
+00:03:29,000 --> 00:03:30,760
+Hey! Esperen,
+que tal SAS?
+
+47
+00:03:31,760 --> 00:03:32,480
+¿Que es es	o?
+
+48
+00:03:34,040 --> 00:03:34,920
+No saben lo que
+es, verdad?
+
+49
+00:03:35,880 --> 00:03:36,760
+¿Que es eso?
+
+50
+00:03:37,680 --> 00:03:40,280
+Un servicio especial en
+California con una oficina
+telefonica del FBI.
+
+51
+00:03:40,800 --> 00:03:43,160
+Rastrea cualquier telefono,
+a cualquier hora,
+en cualquier lugar.
+
+52
+00:03:46,200 --> 00:03:47,600
+¿Te interesa un
+servicio asi?
+
+53
+00:03:50,280 --> 00:03:52,560
+Si, pero suena a una
+fantasia de mierda.
+
+54
+00:03:52,920 --> 00:03:55,280
+Sin seguridad, el sistema de
+Dial-up es imposible.
+
+55
+00:03:55,400 --> 00:03:56,880
+Yo tengo lo
+que necesitan.
+
+56
+00:03:59,320 --> 00:04:02,440
+Vamos.
+Nos mantenemos en contacto.
+
+57
+00:04:08,000 --> 00:04:10,280
+Bueno, tenemos la posibilidad
+de dejarlo ir.
+
+58
+00:04:10,440 --> 00:04:11,440
+Sabes de que
+estoy hablando?
+
+59
+00:04:12,040 --> 00:04:14,720
+El sujeto es raro y todo
+esto me suena a trampa.
+
+60
+00:04:16,520 --> 00:04:20,600
+Debemos considerar que somos
+grandes, tenemos trabajos...
+
+61
+00:04:21,160 --> 00:04:23,400
+...tenemos esposas, no
+somos mas chiquillos.
+
+62
+00:04:23,680 --> 00:04:25,640
+Asi es como siempre te
+metes en problemas...
+
+63
+00:04:25,920 --> 00:04:27,960
+...y es porque siempre cruzas la linea.
+
+64
+00:04:28,520 --> 00:04:29,920
+Carajo, estas bajo palabra.
+
+65
+00:04:30,560 --> 00:04:33,440
+Desde que el FBI te atrapo, estan
+esperando agarrarte de nuevo.
+
+66
+00:04:33,720 --> 00:04:35,920
+No les des ese placer
+dejalos que se queden con las ganas.
+
+67
+00:04:36,440 --> 00:04:37,680
+¿Porque habrias de hacer esto?
+
+68
+00:04:41,480 --> 00:04:43,440
+Tengo que saber.
+
+69
+00:05:00,320 --> 00:05:01,160
+Joe Frady.
+
+70
+00:05:05,360 --> 00:05:06,480
+Hola, soy
+Joe Frady.
+
+71
+00:05:08,440 --> 00:05:10,480
+Joe Frady, de las
+oficinas Wilshire.
+
+72
+00:05:16,360 --> 00:05:20,280
+Hola, soy Joe Frady.
+Vengo a robarles algunas cosas.
+
+73
+00:05:26,120 --> 00:05:29,400
+- ¿Hola? habla Joe.
+- ¡Joe! Joe Frady de Wilshire.
+
+74
+00:05:29,520 --> 00:05:32,040
+Tengo que hacer un inventário
+para Dan Wicks,
+
+75
+00:05:32,160 --> 00:05:34,160
+y lo quiere para hoy.
+
+76
+00:05:34,320 --> 00:05:37,000
+- ¡Hijos de puta!
+- ¿Puedes creerlo?
+
+77
+00:05:37,400 --> 00:05:39,120
+¿En que puedo ayudarte, Joe?
+
+78
+00:05:39,240 --> 00:05:42,080
+Preciso informacion sobre el
+sistema SAS que tienen ahi.
+
+79
+00:05:42,280 --> 00:05:44,320
+¿Sistema SAS?
+¿Que es eso?
+
+80
+00:05:44,720 --> 00:05:47,200
+Buena pregunta.
+Estoy leyendo lo que está escrito aqui.
+
+81
+00:05:47,320 --> 00:05:49,920
+Pienso que debe ser
+una caja verde,
+
+82
+00:05:50,040 --> 00:05:52,800
+situada en el extremo del circuito,
+al fondo.
+
+83
+00:05:53,840 --> 00:05:55,400
+Espera un segundo.
+Voy a ver.
+
+84
+00:06:06,120 --> 00:06:07,640
+- La encontre.
+- Genial.
+
+85
+00:06:07,840 --> 00:06:10,600
+Estaba exactamente donde dijistes,
+pero en el início del circuito.
+
+86
+00:06:10,720 --> 00:06:14,200
+- Nadie es perfecto. ¿Y que dice?
+- SAS,
+
+87
+00:06:14,440 --> 00:06:16,640
+Servicos de Conmutacion de Acessos.
+
+88
+00:06:16,800 --> 00:06:19,760
+Ahora, puedes darme
+el número de série?
+
+89
+00:06:19,880 --> 00:06:22,240
+¿Y el nombre del fabricante?
+
+90
+00:06:52,360 --> 00:06:54,920
+- ¿Hola?
+- Querria hablar con Chris Munson.
+
+91
+00:06:55,080 --> 00:06:58,880
+- Soy yo. ¿Quien Habla?
+- Joe Frady, Central de Calabasas.
+
+92
+00:06:59,080 --> 00:07:02,160
+Me han dicho que fue ingeniero
+de Netcorp responsáble del SAS.
+
+93
+00:07:02,360 --> 00:07:03,520
+És verdad.
+
+94
+00:07:03,760 --> 00:07:07,240
+Lamento que Netcorp cerro.
+Ustedes creaban buenos productos.
+
+95
+00:07:07,440 --> 00:07:10,640
+También pensábamos asi,
+hasta que la empresa fundio,
+
+96
+00:07:10,760 --> 00:07:15,280
+y yo y 200 mas quedamos en al calle sin nada.
+
+97
+00:07:16,840 --> 00:07:17,880
+Eso es malo.
+
+98
+00:07:18,160 --> 00:07:20,840
+Sólo queria felicitárlo
+por el trabajo hecho com el SAS.
+
+99
+00:07:23,080 --> 00:07:24,600
+- ¿En sério?
+- Si.
+
+100
+00:07:26,280 --> 00:07:28,400
+- És hermoso, no lo és?
+- ¿Hermoso?
+
+101
+00:07:28,680 --> 00:07:31,280
+És magnífico, elegante...
+Se ve que sabe de lo que es capaz.
+
+102
+00:07:31,400 --> 00:07:34,920
+Me gustaria discutir con usted
+el diseño de la aplicacion del SAS.
+
+103
+00:07:35,320 --> 00:07:37,280
+Por mi, todo bien.
+
+104
+00:07:37,640 --> 00:07:41,840
+Joe, tengo esa informacion
+en el disco rígido.
+
+105
+00:07:42,120 --> 00:07:45,960
+Puedo imprimirla, mandarla por fax,
+y digame las dudas que tenga.
+
+106
+00:07:46,080 --> 00:07:49,000
+Hasta le mando una cópia
+en  disquete, que tal?
+
+107
+00:07:49,120 --> 00:07:50,240
+Seria genial, Chris.
+
+108
+00:07:58,440 --> 00:07:59,800
+Esto es increible, Alex.
+
+109
+00:07:59,920 --> 00:08:02,600
+FBl, Polícia de LA,
+Ministério de Justicia...
+
+110
+00:08:03,160 --> 00:08:05,920
+Podemos saber como los agentes
+obtienen las informaciones...
+
+111
+00:08:06,160 --> 00:08:09,880
+- Saber nombres, identificaciones...
+- Los turnos, jerarquia...
+
+112
+00:08:10,000 --> 00:08:13,200
+Podemos saber tanto como el Gobierno,
+vencerlo en su própio juego.
+
+113
+00:08:14,240 --> 00:08:16,120
+- Hola, Shelby.
+- Alex.
+
+114
+00:08:17,920 --> 00:08:19,720
+- Hola, querido.
+- Hola.
+
+115
+00:08:29,160 --> 00:08:30,640
+¿Cual es el próximo paso?
+
+116
+00:08:37,920 --> 00:08:39,040
+Habla Mike Leahy.
+
+117
+00:08:39,200 --> 00:08:41,080
+Mike, Tony Greene de la sede.
+¿Como está?
+
+118
+00:08:41,200 --> 00:08:42,640
+Bien, y usted
+señor?
+
+119
+00:08:42,800 --> 00:08:45,440
+Estoy bién.
+Pero estoy con un problema.
+
+120
+00:08:45,560 --> 00:08:49,200
+Anoche, prometi a mi jefe,
+Keith Conway, los números del SAS,
+
+121
+00:08:49,320 --> 00:08:52,000
+pero tuve una série de reuniones.
+Y sabe como es el.
+
+122
+00:08:52,440 --> 00:08:53,440
+Si, lo se.
+
+123
+00:08:53,560 --> 00:08:56,680
+Mike, hazme un favor.
+Preciso ya de esos números.
+
+124
+00:08:56,840 --> 00:08:59,160
+Esta bien.
+Te mando un fax a la sede.
+
+125
+00:08:59,280 --> 00:09:01,560
+¿Y si te mando alguien
+a buscárlos?
+
+126
+00:09:01,680 --> 00:09:03,440
+- ¿Estas seguro?
+- Es muy urgente.
+
+127
+00:09:03,560 --> 00:09:04,560
+Te los tengo
+listos.
+
+128
+00:09:08,200 --> 00:09:09,840
+Mike, como va?
+Joe Turner.
+
+129
+00:09:12,040 --> 00:09:14,920
+Disculpa, Joe,
+no quiero ser rudo,
+
+130
+00:09:15,040 --> 00:09:17,840
+Pero. ¿Usted trabaja en la
+Telefónica de Carolina del sur?
+
+131
+00:09:17,960 --> 00:09:21,680
+No, soy vendedor de Cal-com.
+Intento cerrar un negócio con Tony.
+
+132
+00:09:24,920 --> 00:09:26,520
+¿Sabe lo que
+es esto?
+
+133
+00:09:27,240 --> 00:09:29,560
+Mike, solo estoy aqui para hacerle
+un favor a Tony.
+
+134
+00:09:29,680 --> 00:09:33,800
+Voy para la empresa, y el me pidio
+que viniese a buscar esto, nada mas.
+
+135
+00:09:40,000 --> 00:09:42,680
+Dile a Tony que me devuelva esto
+por correo interno.
+
+136
+00:09:42,840 --> 00:09:44,000
+Seguro.
+
+137
+00:09:59,200 --> 00:10:02,400
+Jane, pon esto en el correo interno.
+Estoy atrasado para una reunion.
+
+138
+00:10:02,520 --> 00:10:04,920
+- Pero...
+- Es para Mike Lehay, de Welshire.
+
+139
+00:10:05,040 --> 00:10:07,880
+- Pero...
+- ¡Y nada de telefonear desde aqui a tu novio!
+
+140
+00:10:08,440 --> 00:10:12,760
+Pero yo no estoy... Un momento.
+No se quien era el tipo.
+
+141
+00:10:14,240 --> 00:10:16,440
+- ¡Que tal muchachos!
+Nos llamaste.
+
+142
+00:10:25,240 --> 00:10:27,080
+Voy a mear. Yá vuelvo.
+
+143
+00:10:45,440 --> 00:10:47,240
+"¿Grabadora?"
+
+144
+00:10:57,480 --> 00:11:00,600
+- Que tipo divertido.
+- Si, muy divertido.
+
+145
+00:11:01,480 --> 00:11:04,000
+- Y muy actualizado.
+- ¡Es el mejor!
+
+146
+00:11:04,200 --> 00:11:07,960
+- El "Ice-breaker" es el mejor.
+- Bueno, aca estoy.
+
+147
+00:11:08,800 --> 00:11:12,160
+- Tenemos un presente para ti.
+- ¡Bueno, demuestren.
+
+148
+00:11:12,760 --> 00:11:14,560
+- Pienso que te va a gustar.
+- ¿Si?
+
+149
+00:11:14,760 --> 00:11:18,320
+Parece Navidad. Ahora veamos.
+Veamos esto.
+
+150
+00:11:26,120 --> 00:11:27,400
+"Switched Access Services"
+
+151
+00:11:34,280 --> 00:11:36,000
+¿De donde sacaron esto?
+
+152
+00:11:36,200 --> 00:11:37,880
+¿De donde sacaron esto?
+
+153
+00:11:38,080 --> 00:11:40,400
+Cuando tengas algo para nosostros,
+tendremos algo para ti.
+
+154
+00:11:40,520 --> 00:11:42,160
+- Adios, "Ice-breaker.
+- ¡No!
+
+155
+00:11:42,280 --> 00:11:44,240
+- Tenemos que irnos.
+- ¡Mierda!
+
+156
+00:11:45,560 --> 00:11:48,600
+¿Les hbalaste del SAS?
+¿Como puedes haber sido tan estúpido?
+
+157
+00:11:48,880 --> 00:11:52,240
+Mantuve una conversacion.
+Hice todo lo que tenia de hacer.
+
+158
+00:11:52,400 --> 00:11:56,320
+Dijistes que nos dabas a Mitnick
+y, en vez de eso, hablastes del SAS?
+
+159
+00:11:56,440 --> 00:12:00,200
+¿Sabes el significado de eso?
+Mitnick hará todo para conseguir el sistema.
+
+160
+00:12:00,360 --> 00:12:03,760
+- Bravo, agente Rollins...
+- ¡Vamos a tener que desactivar todo!
+
+161
+00:12:04,120 --> 00:12:05,920
+El yá tiene...
+
+162
+00:12:07,320 --> 00:12:08,680
+... el sistema.
+
+163
+00:12:10,440 --> 00:12:12,320
+- Lance.
+- Hice lo mejor que...
+
+164
+00:12:12,440 --> 00:12:15,120
+¡Lance!
+¿De donde llamaste?
+
+165
+00:12:15,800 --> 00:12:18,440
+- ¿Que?
+- ¿De donde llamaste?
+
+166
+00:12:18,880 --> 00:12:20,480
+De casa.
+¿Porque?
+
+167
+00:12:23,160 --> 00:12:24,760
+¿Si fueras Mitnick,
+
+168
+00:12:24,880 --> 00:12:29,320
+que número
+activarias primero con el SAS?
+
+169
+00:12:31,720 --> 00:12:33,280
+¿No seria el tuyo?
+
+170
+00:12:41,760 --> 00:12:42,960
+¡Mierda!
+
+171
+00:12:43,840 --> 00:12:46,880
+¡Esto es increible, amigo!
+Increible.
+
+172
+00:12:48,560 --> 00:12:52,320
+Estan locos contigo.
+Van a golpear a tu puerta.
+
+173
+00:12:53,720 --> 00:12:55,920
+Mi audiencia es de aqui
+a tres dias.
+
+174
+00:12:56,080 --> 00:12:58,680
+Van a golpear a tu puerta
+dos segundos antes.
+
+175
+00:12:58,920 --> 00:12:59,920
+Lo se.
+
+176
+00:13:16,560 --> 00:13:20,800
+DOS AÑOS DESPUES
+
+177
+00:13:33,680 --> 00:13:34,560
+¡Mierda!
+
+178
+00:13:51,200 --> 00:13:52,760
+LUNES, 4 DE JULIO
+DE 1994.
+
+179
+00:13:52,920 --> 00:13:55,200
+EL HACKER MAS BUSCADO DEL
+CIBERESPACIO ESCAPA DEL FBI.
+
+180
+00:13:56,760 --> 00:13:58,600
+USUARIO:
+CONTRASEÑA:
+
+181
+00:14:03,760 --> 00:14:07,320
+- Buen dia, Osíris.
+- ¿A que hora es el vuelo a Washington?
+
+182
+00:14:08,480 --> 00:14:10,280
+Buen dia.
+A las 10:00.
+
+183
+00:14:10,840 --> 00:14:13,240
+- ¿Quieres que te lleve al aeropuerto?
+- No.
+
+184
+00:14:14,160 --> 00:14:15,600
+¿Quieres café?
+
+185
+00:14:17,800 --> 00:14:19,920
+¿Porque no intentas
+dormir?
+
+186
+00:14:22,960 --> 00:14:25,000
+Parece que no
+me acostumbro.
+
+187
+00:14:25,480 --> 00:14:26,520
+Oye esto.
+
+188
+00:14:26,680 --> 00:14:30,040
+"Combinando genialidad técnica
+con una sabiduria sin igual, un joven,
+
+189
+00:14:30,200 --> 00:14:33,000
+Kevin Mitnick es un programador
+fuera de la ley,
+
+190
+00:14:33,160 --> 00:14:35,960
+que los agentes del FBI
+no consiguen atrapar"
+
+191
+00:14:36,280 --> 00:14:38,800
+"Uno de lo criminales informáticos
+mas busacdos del país,
+
+192
+00:14:38,920 --> 00:14:41,120
+el Sr. Mitnick es sospechoso
+de haber hurtado software
+
+193
+00:14:41,240 --> 00:14:44,080
+a mas de media docena de grandes
+fabricantes de Telefonia móvil,
+
+194
+00:14:44,200 --> 00:14:46,480
+convenciendo a funcionários crédulos
+a darle contraseñas y códigos
+
+195
+00:14:46,640 --> 00:14:49,480
+que podian ser usados para entrar
+en sus computadoras"
+
+196
+00:14:50,760 --> 00:14:51,880
+¡Absurdo!
+
+197
+00:14:52,080 --> 00:14:55,000
+"Ahora, se sospecha que esta viviendo
+en Califórnia del Sur, Sr. Mitnick...
+
+198
+00:14:55,120 --> 00:14:57,480
+"¡Sr. Mitnick!"
+¡Suena bien!
+
+199
+00:14:57,680 --> 00:15:01,360
+"... escapa del FBl hace ya mas de un año,
+seguido por el Ministério de Justicia"
+
+200
+00:15:01,480 --> 00:15:04,280
+"El año pasado, ya en fuga, tuvo
+acceso a un sistema telefónico
+
+201
+00:15:04,400 --> 00:15:07,760
+que le permitio escuchar
+a los agentes del FBl y no ser encarcelado"
+
+202
+00:15:14,400 --> 00:15:17,640
+El es un hombre marcado, eso si,
+gracias a John Markoff.
+
+203
+00:15:18,040 --> 00:15:21,720
+¿Por que usan siempre esa foto horríble
+de Kevin? Parece un asesino.
+
+204
+00:15:22,760 --> 00:15:25,440
+¿Quieres una mas
+fotogenica? ¿Es eso?
+
+205
+00:15:25,560 --> 00:15:27,160
+¡Que te importa!
+
+206
+00:15:35,400 --> 00:15:37,200
+- ¡Esto es grandioso!
+- ¿Que?
+
+207
+00:15:40,120 --> 00:15:41,160
+És Kevin.
+
+208
+00:15:42,640 --> 00:15:43,760
+¿En sério?
+
+209
+00:15:44,560 --> 00:15:45,720
+Volvio.
+
+210
+00:15:48,440 --> 00:15:51,480
+- ¿Leiste esto?
+- Si. Son solo mierdas.
+
+211
+00:15:51,600 --> 00:15:54,280
+Tal vez, pero Washington quiere
+una detencion inmediata.
+
+212
+00:15:54,400 --> 00:15:56,600
+El articulo dice que no háy pruebas
+contra Mitnick.
+
+213
+00:15:56,720 --> 00:15:58,400
+Esas son boludeces
+de periodista.
+
+214
+00:15:58,520 --> 00:16:02,840
+La ideia es que no sabemos que
+hacer contra los hackers.
+
+215
+00:16:03,000 --> 00:16:05,960
+Pase una hora alli dentro
+masacrado por el Director,
+
+216
+00:16:06,080 --> 00:16:09,200
+y por el Procurador General,
+por culpa de esa idea.
+
+217
+00:16:09,320 --> 00:16:12,320
+¿Quieres que lo atrape por violacion
+a su libertad condicional?
+
+218
+00:16:12,480 --> 00:16:13,960
+No se.
+Depende de ti.
+
+219
+00:16:17,040 --> 00:16:19,560
+McCoy, tengo casos en sério
+con víctimas reales.
+
+220
+00:16:19,680 --> 00:16:20,880
+- No...
+- Mitch...
+
+221
+00:16:21,000 --> 00:16:24,320
+Encuentra a Kevin Mitnick,
+atrapalo, y deja todo resuelto.
+
+222
+00:16:48,880 --> 00:16:52,280
+¿No pensaras que llevar esta história
+de espias va demasiado lejos, Kevin?
+
+223
+00:16:53,680 --> 00:16:55,160
+Esto dá escalofrios.
+
+224
+00:16:56,040 --> 00:16:58,000
+Gracias por haber
+venido, Alex.
+
+225
+00:17:00,280 --> 00:17:02,160
+Estaba preocupado contigo.
+
+226
+00:17:02,480 --> 00:17:03,800
+¿En sério?
+
+227
+00:17:04,000 --> 00:17:06,360
+Si, en sério.
+
+228
+00:17:07,360 --> 00:17:09,000
+Necesito un favor.
+
+229
+00:17:11,720 --> 00:17:13,440
+Estoy cansado.
+
+230
+00:17:13,600 --> 00:17:16,440
+Necesito un sítio donde quedarme,
+por algunas semanas.
+
+231
+00:17:26,320 --> 00:17:28,480
+{26158}{26212Esta bien.
+
+232
+00:17:31,840 --> 00:17:35,840
+Agradecemos al Sr. Shimomura su presencia delanter de esta comision.
+
+233
+00:17:35,960 --> 00:17:38,560
+El Sr. Shimomura es un
+especialista en informática
+
+234
+00:17:38,680 --> 00:17:42,360
+y uno de los peritos en seguridad
+y tecnologia informática del país.
+
+235
+00:17:42,480 --> 00:17:45,200
+Tambien dijo que es consultor
+de "Corporaciones Fortune 500",
+
+236
+00:17:45,360 --> 00:17:49,240
+de los Ministérios de Administracion
+lnterna y Defesa, entre otros órganismos.
+
+237
+00:17:49,680 --> 00:17:54,360
+Actualmente, es miembro del
+Supercomputer Center de San Diego,
+
+238
+00:17:54,480 --> 00:17:56,720
+en al Universidad de Califórnia.
+
+239
+00:17:58,600 --> 00:18:03,040
+Sr. Shimura, Shimomura,
+prosiga con la demostracion.
+
+240
+00:18:03,560 --> 00:18:08,080
+Sr. Presidente, lo que tengo en la mano
+es un telemóvil de la empresa Nokitel.
+
+241
+00:18:08,560 --> 00:18:12,120
+En verdad, es un pequeno receptor
+controlado por um microcomputador,
+
+242
+00:18:12,320 --> 00:18:14,000
+O sea, un scanner.
+
+243
+00:18:14,560 --> 00:18:17,000
+¿Vas a la casa de la playa
+los fines de semana?
+
+244
+00:18:17,120 --> 00:18:19,680
+¿Margaret está en España
+con los niños?
+
+245
+00:18:19,800 --> 00:18:22,240
+Vamos, querida.
+Me precisan en el Congreso.
+
+246
+00:18:22,360 --> 00:18:25,320
+- Los rumores de reduccion de costos...
+- Creo que yá es suficiente.
+
+247
+00:18:25,600 --> 00:18:28,600
+- ¿Pagara la maldita casa de la playa?
+- Querido, quiero hacer el amor contigo.
+
+248
+00:18:28,720 --> 00:18:29,680
+¡Basta!
+
+249
+00:18:33,320 --> 00:18:37,600
+Quise demostrar que estas características
+son responsabilidad del fabricante.
+
+250
+00:18:38,040 --> 00:18:39,600
+Yo me limite a descubrirlas.
+
+251
+00:18:39,800 --> 00:18:40,960
+¡Engaños!
+
+252
+00:18:42,120 --> 00:18:43,760
+¿A quien piensa que engana?
+
+253
+00:18:43,960 --> 00:18:46,120
+- Es un mentiroso de primera.
+- Si que lo es.
+
+254
+00:18:46,480 --> 00:18:52,040
+En el futuro, el público será cada vez
+mas víctima de oidos indiscretos...
+
+255
+00:18:54,680 --> 00:18:57,080
+El quiso decir
+"el público insospechado"
+
+256
+00:18:58,960 --> 00:19:02,840
+- Este tipo me irrita. ¿Será americano?
+- Vamos, hombre.
+
+257
+00:19:04,040 --> 00:19:06,200
+La conversacion es siempre la misma.
+
+258
+00:19:09,480 --> 00:19:12,600
+¿Sabes que es lo que quiero?
+Ese código de Nokitel.
+
+259
+00:19:14,360 --> 00:19:18,120
+Con el, estare al frente del FBl.
+Podria oirlos llegar y largarme.
+
+260
+00:19:25,560 --> 00:19:26,720
+- Hola, bonita.
+- Hola, querido.
+
+261
+00:19:26,880 --> 00:19:28,440
+- ¿Como estás?
+- Bien.
+
+262
+00:19:30,000 --> 00:19:31,520
+- ¿Tuviste un buen dia?
+- Si.
+
+263
+00:19:33,200 --> 00:19:34,520
+Hola, Kevin.
+
+264
+00:19:39,320 --> 00:19:41,560
+- ¿Fuiste a casa de Tim?
+- Si.
+
+265
+00:19:42,040 --> 00:19:44,680
+- ¿Le diste de comer a la piraña?
+- Si.
+
+266
+00:20:15,320 --> 00:20:17,440
+- ¿Si?
+- ¿Sr. Shimomura?
+
+267
+00:20:18,360 --> 00:20:21,680
+- ¿Quien habla?
+- Bill Rondell de Sun Microsystems
+
+268
+00:20:21,840 --> 00:20:23,880
+desde Las Vegas.
+Nos conocimos
+en la Comdex.
+
+269
+00:20:24,120 --> 00:20:27,040
+Vimos su testemonio
+delante del Congresso
+
+270
+00:20:27,120 --> 00:20:31,520
+y quedamos impresionados.
+Fue una excelente leccion de ingenieria.
+
+271
+00:20:32,440 --> 00:20:33,440
+Gracias.
+
+272
+00:20:33,560 --> 00:20:37,800
+Llame a causa de su aviso sobre la
+vulnerabilidad en los envios de e-mails.
+
+273
+00:20:37,880 --> 00:20:40,520
+En verdad, preciso
+de su ayuda para resolver un problema.
+
+274
+00:20:40,720 --> 00:20:43,520
+Bill, disculpe. tengo otra llamada.
+¿Podria aguardar?
+
+275
+00:20:54,720 --> 00:20:55,840
+NO EXlSTE.
+
+276
+00:20:56,280 --> 00:20:58,760
+- Bill... Era Bill, no?
+- Exactamente.
+
+277
+00:20:58,880 --> 00:21:01,440
+- ¿Bill Rondell de Sun Microsystems?
+- Exactamente.
+
+278
+00:21:01,600 --> 00:21:05,280
+- ¿Podria enviarme su direccion...
+- La Sun no tiene un Bill Rondell.
+
+279
+00:21:06,560 --> 00:21:09,720
+Si quiere engañar a alguién, por lo menos,
+arregle una história verdadera.
+
+280
+00:21:09,840 --> 00:21:12,120
+¿Es tan difícil?
+¿Que "lamer" es usted?
+
+281
+00:21:20,760 --> 00:21:22,720
+¡Calma!
+¿Que paso?
+
+282
+00:21:24,240 --> 00:21:28,240
+- Me llamo "lamer".
+- Kevin, el no sabia quien eras.
+
+283
+00:21:29,360 --> 00:21:30,520
+No sabia.
+
+284
+00:21:33,360 --> 00:21:34,120
+¿Si?
+
+285
+00:21:34,680 --> 00:21:38,040
+Hey, hablando de histórias, todavia
+comes con ese adefesio de... Júlia?
+
+286
+00:21:38,760 --> 00:21:40,120
+Era Júlia, no?
+
+287
+00:21:40,560 --> 00:21:43,360
+¿La enamorada de Peter Maddox?
+Pero Peter es tu amigo, cierto?
+
+288
+00:21:43,560 --> 00:21:46,360
+Solo una pregunta: Cuando estás
+por hacerle el amor? ¿Ella grita por Peter?
+
+289
+00:21:46,520 --> 00:21:48,520
+Seria muy perverso, no piensas?
+
+290
+00:21:50,000 --> 00:21:52,760
+- ¿Quien es usted?
+- Alguien que se preocupa.
+
+291
+00:22:00,280 --> 00:22:02,240
+¡Excelente!
+Fue muy productivo!
+
+292
+00:22:02,560 --> 00:22:05,760
+- No empieces, Alex.
+- Es solo un aviso: el tipo es dificil.
+
+293
+00:22:07,640 --> 00:22:10,400
+- Fue una partida, nada mas.
+- No lo oiste.
+
+294
+00:22:10,880 --> 00:22:13,240
+Tomu, yo y Peter
+yá no tenemos nada.
+
+295
+00:22:13,680 --> 00:22:16,000
+Yá acabo, sabes eso.
+
+296
+00:22:25,240 --> 00:22:26,960
+No entiendes, Júlia.
+
+297
+00:22:27,080 --> 00:22:29,640
+Si el tipo se tomo el trabajo
+de informarse sobre ti...
+
+298
+00:22:30,160 --> 00:22:32,880
+... es bueno, el podria
+hacer cualquier cosa.
+
+299
+00:22:33,280 --> 00:22:35,880
+PERFlL DE USUARIO:
+SHlMOMURA, TSUTOMU.
+
+300
+00:22:36,760 --> 00:22:38,520
+DÉBlTOS/CRÉDlTOS CORRIENTES.
+
+301
+00:22:46,400 --> 00:22:49,120
+Me tengo que ir.
+Tengo turno en la clínica.
+
+302
+00:22:57,680 --> 00:22:59,400
+- Hasta luego.
+- Adios.
+
+303
+00:23:11,000 --> 00:23:12,440
+Ellos podran esperar.
+
+304
+00:23:57,720 --> 00:24:00,320
+FTP/NOKlTEL
+A ENVlAR...
+
+305
+00:24:08,880 --> 00:24:10,080
+No te atrevas.
+
+306
+00:24:23,400 --> 00:24:24,320
+¿Si?
+
+307
+00:24:25,360 --> 00:24:26,400
+¿Quien habla?
+
+308
+00:24:26,520 --> 00:24:28,200
+Tengo una nueva
+história para ti.
+
+309
+00:24:28,280 --> 00:24:30,800
+És la história de un perito
+en seguridad informática.
+
+310
+00:24:33,760 --> 00:24:35,760
+Y creeme que esta história
+es verdadera.
+
+311
+00:24:43,640 --> 00:24:44,400
+ERROR
+
+312
+00:24:44,520 --> 00:24:46,400
+FlCHERO O DlRECTÓRlO NO EXlSTEN.
+
+313
+00:24:46,800 --> 00:24:47,800
+¿Que?
+
+314
+00:24:49,440 --> 00:24:50,480
+¿Tomu?
+
+315
+00:24:51,840 --> 00:24:52,840
+¡Vámos!
+
+316
+00:24:54,360 --> 00:24:56,160
+DlRECTÓRlO lNVALlDO
+
+317
+00:24:58,960 --> 00:25:00,840
+¿Puedo saber que pasa?
+
+318
+00:25:22,000 --> 00:25:23,560
+Buenas noches, Sr. Shimomura.
+
+319
+00:25:44,920 --> 00:25:46,880
+CENTRO lNFORMÁTlCO
+DE SAN DlEGO
+
+320
+00:25:50,240 --> 00:25:52,600
+DlRECTÓRlO NOKlTEL NO EXlSTE.
+- ¡No puede ser!
+
+321
+00:25:53,000 --> 00:25:54,800
+¡No puede ser!
+
+322
+00:26:01,520 --> 00:26:03,120
+lNVÁLlDO.
+- ¡No puede ser!
+
+323
+00:26:05,560 --> 00:26:06,880
+¿35 centavos?
+
+324
+00:26:21,960 --> 00:26:23,320
+- ¿Que paso?
+- Alex...
+
+325
+00:26:23,720 --> 00:26:25,480
+No vas a creer este "hacking", hombre.
+
+326
+00:26:25,600 --> 00:26:27,720
+Nuestro amigo Tsutomu
+esta metido en todo.
+
+327
+00:26:27,840 --> 00:26:30,320
+- Y Nokitel es la punta del iceberg.
+- ¡Callate!
+
+328
+00:26:32,680 --> 00:26:33,760
+Te escucho.
+
+329
+00:26:36,000 --> 00:26:39,960
+Hay un Victoria parado enfrente.
+Estuvo toda la mañana.
+
+330
+00:26:45,360 --> 00:26:46,760
+- ¿Hablaron contigo?
+- No.
+
+331
+00:26:46,880 --> 00:26:49,240
+Parecen unos buitres
+vigilando todo.
+
+332
+00:26:49,400 --> 00:26:52,280
+Maldito Markoff y New York Times.
+Por culpa de ellos.
+
+333
+00:26:52,400 --> 00:26:54,600
+- De ellos y del SAS.
+- Cambiastes las lineas, no?
+
+334
+00:26:54,760 --> 00:26:58,120
+Si, luego que llegue.
+Estan escuchando la conversacion de los vecinos.
+
+335
+00:27:00,280 --> 00:27:02,320
+- ¿Hola?
+- ¿Supiste del padre de Jim?
+
+336
+00:27:02,440 --> 00:27:05,920
+¿El entrenador de baseboll infantil?
+Parece que solo tiene un testículo.
+
+337
+00:27:06,040 --> 00:27:10,160
+Sam fue a hacerse una vasectomia
+y murio por causa de un coágulo.
+
+338
+00:27:10,360 --> 00:27:12,040
+- ¡Santo Dios!
+- ¡Hijo de puta!
+
+339
+00:27:16,160 --> 00:27:18,560
+¡Estos tipos son buenos,
+son muy buenos!
+
+340
+00:27:21,600 --> 00:27:24,280
+- Ahora se va.
+- Haceme un favor, deja la puerta trasera abierta.
+
+341
+00:27:24,440 --> 00:27:25,680
+Nos vemos mas tarde.
+
+342
+00:27:32,320 --> 00:27:34,600
+Me pagan para estar un paso adelante de los "hackers"
+
+343
+00:27:35,760 --> 00:27:38,840
+Me compete crear la última vacuna
+para el último vírus.
+
+344
+00:27:39,400 --> 00:27:42,800
+Por eso, el primer paso
+es crear un virus. Yá hice eso.
+
+345
+00:27:44,760 --> 00:27:46,360
+Lo llame "Desdén"
+
+346
+00:27:46,720 --> 00:27:50,760
+Decifra todos los códigos
+de sistemas conocidos y los arrasa.
+
+347
+00:27:51,320 --> 00:27:54,200
+- ¿Entonces, es un vírus?
+- No. No alcanzas a comprender.
+
+348
+00:27:54,880 --> 00:27:57,040
+No se trata de un
+vírus cualquiera.
+
+349
+00:27:57,480 --> 00:28:00,800
+"Desdén" sabe que lnternet
+conecta infraestructuras.
+
+350
+00:28:00,960 --> 00:28:05,120
+Bastan algunos comandos para
+derrumbar una ciudad, o hasta un país.
+
+351
+00:28:05,840 --> 00:28:08,000
+Pueden interrumpirse lineas telefónicas,
+sistemas de e-mail,
+
+352
+00:28:08,120 --> 00:28:10,720
+alterar el control de tráfico aéreo,
+poner una ciudad a oscuras,
+
+353
+00:28:10,840 --> 00:28:13,040
+alterar software usado
+por hospitales y bancos,
+
+354
+00:28:13,200 --> 00:28:15,000
+Y nada puede
+detenerlo.
+
+355
+00:28:15,920 --> 00:28:17,560
+Ahora, el vírus
+está suelto.
+
+356
+00:28:17,880 --> 00:28:23,600
+El "hacker" robo  millares de archivos,
+e-mails, yo grababa todo.
+
+357
+00:28:25,240 --> 00:28:27,840
+Era mas rápido que hojear
+la lista telefónica de Manhattan.
+
+358
+00:28:28,760 --> 00:28:31,080
+Desconfio que el quiera
+el código de Nokitel.
+
+359
+00:28:32,080 --> 00:28:33,880
+Eso va a manterlo ocupado.
+
+360
+00:28:36,120 --> 00:28:37,600
+Tienes que pedir ayuda.
+
+361
+00:28:38,760 --> 00:28:40,960
+- Tienes que avisar a las personas.
+- ¿De que?
+
+362
+00:28:41,120 --> 00:28:42,880
+No me refiero al vírus.
+
+363
+00:28:43,680 --> 00:28:46,960
+Tus colegas pueden ayudarte
+a encontrar al tipo.
+
+364
+00:28:47,200 --> 00:28:49,200
+Usalos.
+Usame a mi.
+
+365
+00:28:51,440 --> 00:28:53,120
+Tienes toda la razon:
+
+366
+00:28:54,240 --> 00:28:55,960
+no puedes de jar de buscarlo.
+
+367
+00:28:58,480 --> 00:29:01,440
+EDlFÍClO J EDGAR HOOVER. FBl.
+
+368
+00:29:01,680 --> 00:29:03,000
+DIEZ MENSAJES NUEVOS
+
+369
+00:29:13,760 --> 00:29:15,840
+PARA.: MCCOY ROLLlNS
+DE.: MlTCH GlBSON
+
+370
+00:29:15,960 --> 00:29:18,040
+ASUNTO.: KEVlN DAVlD MlTNlCK
+
+371
+00:29:19,840 --> 00:29:24,160
+CONSEGUl LA ORDEN DE ARRESTO.
+
+372
+00:29:27,360 --> 00:29:31,440
+... RESlDÊNClA DE ALEX LOWE.
+
+373
+00:29:47,760 --> 00:29:51,480
+¡Lowe!
+Baja el volumen, carajo!
+
+374
+00:29:54,840 --> 00:29:56,320
+¿Cual es tu problema?
+
+375
+00:29:56,400 --> 00:29:59,440
+Podrias pedirlo de buen modo.
+¡Al final, la casa es mia!
+
+376
+00:29:59,960 --> 00:30:02,080
+¡En este momento, podria estar
+podrido en dinero.
+
+377
+00:30:03,360 --> 00:30:05,400
+En este momento, podia agarrar esa computadora,
+
+378
+00:30:05,560 --> 00:30:10,520
+y sacar dinero
+de cualquer banco del país
+
+379
+00:30:10,800 --> 00:30:14,840
+y ponerlo en la cuenta que quisiese,
+pero no lo hago!
+
+380
+00:30:16,280 --> 00:30:18,200
+¿Y es asi como me tratas?
+
+381
+00:30:19,960 --> 00:30:22,160
+¡No soy ningun Dillinger!
+
+382
+00:30:26,080 --> 00:30:29,800
+"McCoy, consegui la orden"
+Los asustaste, nada mas.
+
+383
+00:30:33,200 --> 00:30:35,000
+Segui leyendo e-mails.
+
+384
+00:30:40,280 --> 00:30:41,440
+Sargento...
+
+385
+00:30:42,280 --> 00:30:44,040
+- Seamos breves.
+- Si, señor.
+
+386
+00:30:56,160 --> 00:30:57,560
+¡Revisen los cuartos!
+
+387
+00:31:01,840 --> 00:31:04,600
+¿ME EXTRAÑAN?
+¡AHORA BESENME EL CULO!
+
+388
+00:31:06,720 --> 00:31:09,200
+- ¡Hijo de puta!
+- ¡Sueltenos! ¡Ya esta!
+
+389
+00:31:11,920 --> 00:31:13,320
+¡Ya esta!
+
+390
+00:31:14,640 --> 00:31:17,280
+- ¿Que pasa?
+- Buen dia, Sr. Lowe.
+
+391
+00:31:18,240 --> 00:31:20,120
+Gibson, agente especial, FBl.
+
+392
+00:31:43,200 --> 00:31:45,800
+COMPANlA DE ÁGUA
+DE GAS Y ELECTRlClDAD
+
+393
+00:31:46,440 --> 00:31:51,280
+PEDlDO DEL CLlENTE:
+GlBSON, MlTCH
+
+394
+00:32:20,120 --> 00:32:22,760
+Hola, muchachos.
+
+395
+00:32:39,000 --> 00:32:39,960
+¡Vamos!
+
+396
+00:33:10,680 --> 00:33:12,880
+Pero que carajo...?
+
+397
+00:33:15,840 --> 00:33:18,400
+¿Que carajo pasa aqui?
+
+398
+00:33:22,240 --> 00:33:23,480
+¡Hijo de mil putas!
+
+399
+00:33:35,840 --> 00:33:38,880
+Sábado, 20.:34.
+
+400
+00:33:40,360 --> 00:33:44,520
+Shimomura, yo soy el mejor.
+Mi patron es el numero uno.
+
+401
+00:33:44,920 --> 00:33:47,280
+Conozco tu técnica
+de envio de e-mails.
+
+402
+00:33:47,400 --> 00:33:49,880
+¡Oh, tu kung fu no es bueno!
+
+403
+00:33:50,240 --> 00:33:52,360
+¡Te portaste mal!
+
+404
+00:33:54,480 --> 00:33:58,080
+¿No me conoces?
+Yo y mis amigos te mataremos.
+
+405
+00:34:15,360 --> 00:34:16,960
+Este es Osíris,
+que está en mi cuarto.
+
+406
+00:34:17,080 --> 00:34:19,760
+Es en el que guardo el código Nokitel
+y otros materiales delicados.
+
+407
+00:34:19,920 --> 00:34:22,800
+Este es Ariel, que está aqui
+en mi escritório.
+
+408
+00:34:22,960 --> 00:34:26,280
+Osíris no puede comunicarse
+con el mundo, apenas con Ariel.
+
+409
+00:34:26,400 --> 00:34:28,280
+Ariel funciona
+como un escudo.
+
+410
+00:34:31,680 --> 00:34:33,920
+NOKlTEL 2160. TEST.
+
+411
+00:34:48,840 --> 00:34:51,760
+A su vez, Ariel está conectado
+á lnternet, via modem.
+
+412
+00:34:51,960 --> 00:34:56,320
+Y sus archivos comenzaran
+a ser apagados, a partir de las 22:49.
+
+413
+00:34:56,840 --> 00:34:59,960
+El llego a Ariel, protegido
+con una contraseña, bastante buena.
+
+414
+00:35:00,080 --> 00:35:02,560
+Por el, es imposible llegar a Osíris.
+
+415
+00:35:02,840 --> 00:35:04,960
+Es imposíble.
+
+416
+00:35:15,440 --> 00:35:17,360
+Estamos hablando de mucho dinero.
+
+417
+00:35:18,360 --> 00:35:21,320
+- ¡Avanza, o perdemos el negócio!
+- Es lo que voy a hacer.
+
+418
+00:35:21,440 --> 00:35:24,400
+Nadie mejor que tu sabe
+las consecuencias de un atraso,
+
+419
+00:35:24,480 --> 00:35:26,680
+no necesito mas retrasos!
+- ¡Carajo!
+
+420
+00:35:26,840 --> 00:35:29,720
+Encontre vestígios de un código dejado en Osíris
+
+421
+00:35:29,840 --> 00:35:31,960
+por alguién interesado en saber
+
+422
+00:35:32,120 --> 00:35:36,440
+si algun archivo contenia
+la secuencia "lTNl"
+
+423
+00:35:37,560 --> 00:35:39,920
+- Como en "Mitnick".
+- ¿Piensas que fue Mitnick?
+
+424
+00:35:40,240 --> 00:35:44,000
+- ¿Descubriste el código Nokitel?
+- Solo faltan las fotos de los agentes.
+
+425
+00:35:44,240 --> 00:35:46,800
+- Hay otra cosa extraña
+- ¿Cual?
+
+426
+00:35:47,200 --> 00:35:49,440
+Una llamada de aviso de pirateria.
+
+427
+00:35:49,960 --> 00:35:52,960
+- ¿Como?
+- ¿Porque se dedica a esto?
+
+428
+00:35:53,480 --> 00:35:55,760
+- Habla Gibson.
+- Hi, habla Warren Fox,
+
+429
+00:35:55,880 --> 00:35:58,480
+investigador de DGV
+de Califórnia.
+
+430
+00:35:59,280 --> 00:36:02,440
+Hace media hora, recibi uma llamada
+de alguien que se hace pasar por usted.
+
+431
+00:36:02,600 --> 00:36:06,080
+- ¿Que es lo que el queria?
+- Fotos de una série de agentes,
+
+432
+00:36:06,280 --> 00:36:07,880
+incluindo la suya.
+
+433
+00:36:08,960 --> 00:36:11,920
+En una pirateria perfecta,
+a víctima nunca se da cuenta
+que esta siendo pirateada, cierto?
+
+434
+00:36:13,200 --> 00:36:16,200
+¿Entonces, el tipo solo llamo para joder?
+¿Para refregarte en la cara que es mejor?
+
+435
+00:36:18,000 --> 00:36:20,720
+Eso me hizo pensar que el es alguien que conoces
+
+436
+00:36:20,840 --> 00:36:22,440
+o alguien que enfureciste.
+
+437
+00:36:24,440 --> 00:36:25,960
+A casi toda la
+gente, Julia.
+
+438
+00:36:27,280 --> 00:36:28,880
+También te adoro, Brad.
+
+439
+00:36:28,960 --> 00:36:31,440
+Tiene una extraña forma
+de demostrarlo, jefe.
+
+440
+00:36:33,120 --> 00:36:35,280
+El tipo es inteligente.
+Mire lo que hizo.
+
+441
+00:36:35,400 --> 00:36:37,720
+Nos dio el número supuesto de
+un fax del FBl,
+
+442
+00:36:37,880 --> 00:36:39,880
+le enviamos
+una hoja y en el encabezado,
+
+443
+00:36:40,000 --> 00:36:42,880
+vimos que la comunicacion fue hecha
+en un centro de cópias en Culver City,
+
+444
+00:36:43,000 --> 00:36:44,920
+el re-direcciono la llamada.
+
+445
+00:36:46,320 --> 00:36:48,760
+¿Puede darme la direccion del
+centro de cópias, Warren?
+
+446
+00:37:02,640 --> 00:37:04,320
+Creo que eso me
+pertenece.
+
+447
+00:37:07,960 --> 00:37:09,960
+Tiene razon.
+Esta dirigido al "Sr. chupavergas"
+
+448
+00:38:03,680 --> 00:38:04,600
+¡Hijo de puta!
+
+449
+00:38:14,320 --> 00:38:15,280
+¡Maldito nazi!
+
+450
+00:38:28,680 --> 00:38:30,120
+¡Mierda!
+
+451
+00:38:31,000 --> 00:38:31,960
+¡Ve por atras!
+
+452
+00:38:40,840 --> 00:38:41,720
+¡Maldito!
+
+453
+00:38:46,680 --> 00:38:48,640
+RESERVAS SABRE
+RESERVAS RÁPIDAS
+
+454
+00:38:49,720 --> 00:38:50,960
+¿Estás tecleando?
+
+455
+00:38:51,360 --> 00:38:53,480
+- ¿Estás tecleando cuando hablas conmigo?
+- No.
+
+456
+00:38:53,640 --> 00:38:56,280
+¿Seguro?
+Oigo eso, y sabes que es de mala educacion.
+
+457
+00:38:56,440 --> 00:38:57,760
+Nunca seria mal educado.
+
+458
+00:38:57,880 --> 00:38:59,960
+Es de mala educacion teclear
+cuando hablas con alguien.
+
+459
+00:39:00,360 --> 00:39:02,440
+- ¿Puedes decirme donde estás?
+- No.
+
+460
+00:39:03,440 --> 00:39:04,720
+¡Estás tecleando!
+
+461
+00:39:05,280 --> 00:39:07,640
+- ¿Ventana o pasillo?
+- ¿Que?
+
+462
+00:39:08,360 --> 00:39:10,440
+Sabes como es.
+Me gusta viajar con poco equipaje.
+
+463
+00:39:10,760 --> 00:39:13,280
+¿Por que?
+¿Estás por registrar equipaje?
+
+464
+00:39:13,960 --> 00:39:17,440
+Pienso que Internet solo sirve
+para guardar informacion.
+
+465
+00:39:18,280 --> 00:39:19,600
+TRANSFERENCIA COMPLETA
+
+466
+00:39:19,720 --> 00:39:22,280
+Haznos un favor.
+No te dejes atrapar.
+
+467
+00:39:24,280 --> 00:39:26,120
+No se puede atrapar
+lo que no se ve.
+
+468
+00:39:26,760 --> 00:39:28,960
+CONFERENCIA SOBRE EL MAL USO
+DE COMPUTADORAS Y ANOMALIAS
+
+469
+00:39:29,240 --> 00:39:33,760
+Te portaste mal.
+¿No sabes quien soy?
+
+470
+00:39:34,160 --> 00:39:36,400
+Yo y mis amigos
+te mataremos.
+
+471
+00:39:36,960 --> 00:39:38,440
+¿Alguna pregunta?
+
+472
+00:39:38,840 --> 00:39:44,840
+Si. ¿Que me puede decir de la
+hipótesis de que la pirateria
+pudo ser obra de Mitnick?
+
+473
+00:39:45,720 --> 00:39:47,680
+Sin comentários.
+
+474
+00:39:48,240 --> 00:39:50,960
+¿El queria el código Nokitel
+que presento en el Congreso?
+
+475
+00:39:51,120 --> 00:39:53,840
+- Es una suposicion lógica.
+- ¿Que mas le ha sacado?
+
+476
+00:39:55,600 --> 00:39:59,440
+- Eso es confidencial.
+- ¡Ahora, yá no!
+
+477
+00:40:05,680 --> 00:40:08,760
+- ¿Que es lo que sabe que yo no se?
+- Disculpe, pero es confidencial.
+
+478
+00:40:09,840 --> 00:40:12,640
+- No por mucho tiempo.
+- Lo que usted diga. Gracias.
+
+479
+00:40:12,760 --> 00:40:15,000
+Gracias por
+esclarecernos.
+
+480
+00:40:16,360 --> 00:40:19,640
+¿No es costumbre ofrecer
+unos bocadillos?
+
+481
+00:40:21,720 --> 00:40:22,880
+Respira profundo.
+
+482
+00:40:23,080 --> 00:40:25,920
+Alejate.
+Solo asi conseguirás atraparlo.
+
+483
+00:40:26,440 --> 00:40:27,760
+¡Sr. Shimomura!
+
+484
+00:40:30,240 --> 00:40:32,320
+Mitch Gibson, FBl.
+
+485
+00:40:33,200 --> 00:40:35,400
+- ¿Tiene un minuto?
+- Si.
+
+486
+00:40:35,760 --> 00:40:38,920
+- ¿Puede ser Mitnick?
+- Es posíble. Puede ser mucha gente.
+
+487
+00:40:39,120 --> 00:40:42,680
+Estoy intentando entender mejor
+a los "Hackers" y a su subcultura.
+
+488
+00:40:42,800 --> 00:40:46,360
+Yo soy un "Hacker",  Mitnick es un "Cracker",
+roba códigos. La diferencia es grande.
+
+489
+00:40:46,480 --> 00:40:51,320
+Tengo una orden de arresto
+para Mitnick, no se por cual crimen.
+
+490
+00:40:51,720 --> 00:40:54,800
+Pienso que el es un marginal,
+capaz de causar grandes estragos,
+
+491
+00:40:54,960 --> 00:40:57,920
+aparte de haber violado su condicional
+y de haber volado ilegalmente...
+
+492
+00:40:58,000 --> 00:40:59,840
+- ¿Como se llama, agente?
+- Agente Mitch.
+
+493
+00:40:59,960 --> 00:41:04,160
+¿Mitch, entiende algo de esto?
+¿Tiene capacidad para lidiar con el caso?
+
+494
+00:41:04,960 --> 00:41:07,920
+Puede mirarme y pensar "Oh, miren a este tipo es estupido"
+
+495
+00:41:08,800 --> 00:41:11,120
+No quiero hacerle perder
+su tiempo conmigo.
+
+496
+00:41:11,600 --> 00:41:13,760
+A su manera de ver,
+tal vez sea un estúpido,
+
+497
+00:41:13,880 --> 00:41:16,640
+pero a mi manera de ver,
+con todo el respeto que me merece,
+
+498
+00:41:16,800 --> 00:41:19,920
+soy un tipo con vasta experiencia
+en el área de espionaje,
+
+499
+00:41:19,960 --> 00:41:22,600
+y usted un boludo detras de computadoras
+al margen de la sociedad,
+
+500
+00:41:22,720 --> 00:41:24,800
+excluyendo a su linda enamorada.
+
+501
+00:41:25,600 --> 00:41:28,400
+Mitch. ¿Todo bien?
+¿Te acuerdas de mi?
+
+502
+00:41:28,800 --> 00:41:30,680
+- ¿Porque no me telefoneas o escribes?
+- Aquel es Alex Lowe,
+
+503
+00:41:30,800 --> 00:41:32,640
+el mejor amigo de Kevin Mitnick.
+
+504
+00:41:32,720 --> 00:41:35,120
+¡Tomu!
+¡Numero uno, superspeed!
+
+505
+00:41:35,320 --> 00:41:38,200
+Hasta apostaria que fue el
+quien le dejo el mensaje telefónico.
+
+506
+00:41:38,320 --> 00:41:41,280
+- ¡Gran estilo el kung fu!
+- Pienso que comenzamos mal,
+
+507
+00:41:41,440 --> 00:41:44,800
+pero creo que si puede ayudarme.
+Tal vez yo pueda ayudar también
+
+508
+00:41:45,440 --> 00:41:46,880
+Hagamelo saber, si?
+
+509
+00:42:28,960 --> 00:42:30,920
+Entonces, Kevin.
+¿Que dices?
+
+510
+00:42:31,000 --> 00:42:33,880
+Mi padrastro pertencia
+a la Liga de Defensa de los Judeos.
+
+511
+00:42:33,960 --> 00:42:36,840
+Era radical, del tipo,
+ojo por ojo, diente por diente.
+
+512
+00:42:37,760 --> 00:42:41,360
+Acostumbraba llevarnos a mi y a Adam
+al desierto para hacer tiro al blanco.
+
+513
+00:42:41,640 --> 00:42:44,960
+Montaba unos blancos del tamaño real
+de Hitler y nós disparába.
+
+514
+00:42:46,800 --> 00:42:49,440
+- ¿Viste esto?
+- ¿Que? ¿Que estás viendo?
+
+515
+00:42:49,800 --> 00:42:51,280
+El archivo "Tar",
+
+516
+00:42:51,800 --> 00:42:53,960
+en un directório llamado "Desdén"
+
+517
+00:42:55,240 --> 00:42:57,360
+Parte del código
+está encriptado.
+
+518
+00:42:59,760 --> 00:43:00,960
+¿Y que és?
+
+519
+00:43:01,720 --> 00:43:04,840
+No se. Nunca vi
+un código asi.
+
+520
+00:43:06,880 --> 00:43:08,480
+¿Que será esto, Tsutomu?
+
+521
+00:43:14,080 --> 00:43:17,800
+Parece un código de un vírus tipo gusano,
+
+522
+00:43:18,720 --> 00:43:20,720
+un código de ataque furtivo.
+
+523
+00:43:20,840 --> 00:43:23,440
+Pero no veo ninguna nomenclatura
+gubernamental.
+
+524
+00:43:23,600 --> 00:43:26,160
+Ni siquiera un título único de propiedad.
+
+525
+00:43:26,320 --> 00:43:28,920
+No tiene marcas de la CIA, del FBI
+ni siquiera de NSA.
+
+526
+00:43:29,000 --> 00:43:31,400
+Es extraño. Al Gobierno le gusta
+grabar lo que tienen.
+
+527
+00:43:31,480 --> 00:43:33,440
+Pienso que no fue echo
+para los chupahuevos.
+
+528
+00:43:33,800 --> 00:43:36,840
+Eso no tiene sentido.
+¿Para quien lo hizo?
+
+529
+00:43:37,280 --> 00:43:40,480
+- ¿Por que haria tal cosa?
+- Porque tiene capacidades para tal.
+
+530
+00:43:47,240 --> 00:43:48,040
+Hola.
+
+531
+00:43:50,080 --> 00:43:50,880
+Hola.
+
+532
+00:43:52,400 --> 00:43:53,760
+Gracias por avisarme.
+
+533
+00:43:54,880 --> 00:43:56,360
+DATA NETWORK
+SE ENCUENTRA ABIERTA A NUEVA AMENAZA
+
+534
+00:43:56,480 --> 00:43:57,440
+No sabia.
+
+535
+00:44:07,960 --> 00:44:11,000
+- ¿Deseas alguna cosa mas?
+- Otro expresso, por favor.
+
+536
+00:44:18,160 --> 00:44:20,280
+¿Leyendo sobre terroristas
+cibernéticos?
+
+537
+00:44:21,360 --> 00:44:23,920
+Combatientes de la libertad,
+segun la Primera Enmienda.
+
+538
+00:44:24,320 --> 00:44:27,840
+Es como los Contras y los Sandinistas;
+es una cuestion de perspectiva.
+
+539
+00:44:28,800 --> 00:44:31,880
+Todo lo que es anti-gubernamental
+debe ser bueno, no crees?
+
+540
+00:44:32,320 --> 00:44:34,120
+Estoy de acuerdo
+contigo.
+
+541
+00:44:39,040 --> 00:44:40,400
+Voy a buscarte
+el expresso.
+
+542
+00:44:46,560 --> 00:44:49,680
+Pienso que, en interes de una sociedad libre y abierta,
+
+543
+00:44:49,800 --> 00:44:52,520
+pienso que esta conversacion
+deberia continuar.
+
+544
+00:44:54,400 --> 00:44:55,600
+Pienso que si.
+
+545
+00:44:58,360 --> 00:45:00,080
+A propósito, me llamo Karen.
+
+546
+00:45:08,560 --> 00:45:09,400
+¿Si?
+
+547
+00:45:12,400 --> 00:45:13,640
+¿Esta en Seattle?
+
+548
+00:45:15,600 --> 00:45:16,520
+Cierto.
+
+549
+00:45:18,080 --> 00:45:19,560
+¿Confirmo con MINS?
+
+550
+00:45:21,360 --> 00:45:23,480
+Jake, deme su número.
+Lo llamo de aqui a una hora.
+
+551
+00:45:24,600 --> 00:45:28,160
+El vuelo 719 de Los Angeles
+acabo de llegar por puerta 6.
+
+552
+00:45:28,560 --> 00:45:30,400
+Los pasajeros deben buscar su equipaje...
+
+553
+00:45:30,520 --> 00:45:31,480
+- ¿Tsutomu?
+- Si.
+
+554
+00:45:31,600 --> 00:45:33,720
+Jake Cronin, Departamento
+de fraudes con telemóviles.
+
+555
+00:45:48,520 --> 00:45:50,280
+Háce 15 minutos, el Sol brillaba.
+
+556
+00:45:50,400 --> 00:45:52,360
+Y volverá a brillar
+de aqui a media hora.
+
+557
+00:45:52,800 --> 00:45:54,040
+Bienvenido a Seattle.
+
+558
+00:45:54,840 --> 00:45:57,720
+Háce dos semanas que estoy detras
+de un sospechoso,
+
+559
+00:45:57,840 --> 00:46:00,160
+que tiene acceso a números
+de telefono de algunos clientes.
+
+560
+00:46:00,280 --> 00:46:01,720
+Duplica los MINS.
+
+561
+00:46:01,920 --> 00:46:04,400
+Las cuentas llegan casi
+a los 10 mil dólares.
+
+562
+00:46:04,560 --> 00:46:06,080
+Al verificar los números
+a los que llamo,
+
+563
+00:46:06,200 --> 00:46:08,560
+vi que eran casi todos via modem.
+- Está "Hackeando"
+
+564
+00:46:08,680 --> 00:46:11,800
+Esta mañana, pegue un detector,
+corri un distrito
+
+565
+00:46:11,960 --> 00:46:13,400
+y tuve suerte.
+
+566
+00:46:14,640 --> 00:46:17,080
+El detector acuso
+un uso de MIN sospechoso.
+
+567
+00:46:17,240 --> 00:46:20,120
+Descubri que la llamada fue hecha
+de un departamento en la Avenida Brooklyn.
+
+568
+00:46:20,240 --> 00:46:22,280
+¿Por que piensa que este tipo
+es mi ladron de códigos?
+
+569
+00:46:22,400 --> 00:46:25,200
+Yo aisle la llamada
+y la grabe.
+
+570
+00:46:26,760 --> 00:46:27,680
+Oiga.
+
+571
+00:46:33,440 --> 00:46:36,200
+¿Viste a Tsutomu
+en la primera página del Times?
+
+572
+00:46:36,360 --> 00:46:38,760
+- Tambien estas tu.
+- ¡Pero el es un heróe,
+
+573
+00:46:38,880 --> 00:46:41,320
+y yo el enemigo público
+número uno. No háy justicia!
+
+574
+00:46:41,440 --> 00:46:45,200
+Lo que dijo es una farsa.: "20 millones
+de computadoras en riesgo de ataque"
+
+575
+00:46:45,320 --> 00:46:47,160
+Me parece que yá
+no lo estaran.
+
+576
+00:46:48,840 --> 00:46:50,520
+Es óbvio que es
+su hombre.
+
+577
+00:47:29,960 --> 00:47:31,000
+- Hola
+- Hola. ¿Vamos?
+
+578
+00:47:32,960 --> 00:47:35,240
+lnvestigámos a Brian Merrill
+y descubrimos un crédito,
+
+579
+00:47:35,400 --> 00:47:39,320
+pero no encontrámos multas
+ni declaracion de IRS.
+
+580
+00:47:40,120 --> 00:47:42,800
+Es evidente que estamos delante
+de una identidad falsa.
+
+581
+00:47:42,880 --> 00:47:46,760
+Despues de hablar con el Sr. Shimomura,
+decidimos aplicar la directriz 61-A
+
+582
+00:47:46,880 --> 00:47:51,240
+y rodear al probáble sospechoso,
+el fugitivo Kevin Mitnick.
+
+583
+00:47:53,520 --> 00:47:56,320
+Creo que la Primera Enmienda
+es bastante significativa.
+
+584
+00:47:56,480 --> 00:47:58,920
+- O sea, tiene valor.
+- Concuerdo plenamente.
+
+585
+00:47:59,160 --> 00:48:04,600
+Asi que no se si el asalto a la DGV
+y afines tiene que ver con ella.
+
+586
+00:48:05,320 --> 00:48:08,960
+El público tiene derecho de saber
+lo que pasa en todos lados.
+
+587
+00:48:09,120 --> 00:48:12,880
+¿En quien vamos a confiar?
+¿En el Gobierno? ¿En las empresas?
+
+588
+00:48:13,040 --> 00:48:16,800
+¿Piensas que ellos nos defienden?
+La pirateria es un servicio público.
+
+589
+00:48:17,040 --> 00:48:20,320
+Si todos los hackers fueran
+asi tan altruístas, hasta yo lo seria.
+
+590
+00:48:20,440 --> 00:48:24,320
+Pero tienes que admitir que háy
+un cierto voyeurísmo asustador.
+
+591
+00:48:24,480 --> 00:48:27,880
+La idea de poder espiar en
+lo que otros guardan.
+
+592
+00:48:28,120 --> 00:48:31,320
+Normalmente eso es echo
+por una cuestion de auto-defensa.
+
+593
+00:48:31,440 --> 00:48:33,160
+- ¿Quieres un helado?
+- Bueno.
+
+594
+00:48:54,240 --> 00:48:55,400
+¡Revisen todo!
+
+595
+00:48:56,480 --> 00:48:58,520
+Parece que admiras a ese Mulrick.
+
+596
+00:48:58,720 --> 00:49:00,360
+- Mitnick.
+- Mitnick.
+
+597
+00:49:01,000 --> 00:49:02,560
+No es admiracion.
+
+598
+00:49:03,760 --> 00:49:06,800
+- Siento compasion por el.
+- ¿Por que?
+
+599
+00:49:08,640 --> 00:49:11,520
+Debe sentirse
+muy solo.
+
+600
+00:49:12,160 --> 00:49:16,480
+Está siendo perseguido
+como una presa de caza.
+
+601
+00:49:17,640 --> 00:49:20,560
+El hecho de ser un fugitivo
+hace cambiar a una persona.
+
+602
+00:49:23,040 --> 00:49:24,040
+¿Brian?
+
+603
+00:49:25,720 --> 00:49:26,960
+¿Adonde vamos?
+
+604
+00:49:27,840 --> 00:49:30,000
+No se, pero podemos
+hacer una carrera.
+
+605
+00:49:45,840 --> 00:49:46,960
+Deberian haber esperado.
+
+606
+00:50:04,640 --> 00:50:06,320
+- Disculpa.
+- No lo haces mal.
+
+607
+00:50:31,560 --> 00:50:32,760
+¿Nunca haces escuchas?
+
+608
+00:50:34,360 --> 00:50:37,320
+- ¿Escuchas?
+- Si. ¿Te acuerdas de lo que hablamos?
+
+609
+00:50:37,600 --> 00:50:40,000
+Voy a mostrarte como se hace.
+No es exquisito.
+
+610
+00:50:40,120 --> 00:50:42,840
+Puedes programar estas máquinas
+como si fuesen computadoras.
+
+611
+00:50:43,000 --> 00:50:45,200
+Acostumbran estar programadas
+para ser telefonos,
+
+612
+00:50:45,320 --> 00:50:47,960
+pero, con algunas modificaciones,
+se transforma en un scanner.
+
+613
+00:50:48,840 --> 00:50:50,160
+¿Para detectar o quê?
+
+614
+00:50:50,320 --> 00:50:53,200
+Recorres las frecuencias
+hasta encontrar una conversacion.
+
+615
+00:50:53,480 --> 00:50:57,080
+- Se aprenden muchas cosas.
+- Brian, preferiria no hacerlo.
+
+616
+00:50:57,600 --> 00:50:59,680
+Ten paciencia.
+Pienso que te va a gustar.
+
+617
+00:51:10,040 --> 00:51:11,880
+¡Se te agarro con el,
+te mato!
+
+618
+00:51:12,000 --> 00:51:14,200
+Me lo encontre de
+casualidad.
+
+619
+00:51:15,320 --> 00:51:17,880
+El me vio en el estacionamento.
+
+620
+00:51:18,400 --> 00:51:20,120
+Yo no te mentiria.
+
+621
+00:51:20,440 --> 00:51:22,080
+¡No me mientas tu a mi!
+
+622
+00:51:24,560 --> 00:51:28,080
+- Yo voy hasta ahí y te doy..
+- Estás amenazandome?
+
+623
+00:51:28,200 --> 00:51:32,240
+Voy ahí, te arranco las tripas
+y te reviento a cabeza!
+
+624
+00:51:38,240 --> 00:51:40,000
+No fue muy
+divertido.
+
+625
+00:51:42,200 --> 00:51:45,400
+Pues no. Mas debe haber
+conversaciones mejores...
+
+626
+00:51:46,880 --> 00:51:48,840
+... en que se aprende mucho.
+
+627
+00:51:55,560 --> 00:51:57,880
+Brian, me acorde que tengo
+un test, mañana.
+
+628
+00:51:58,320 --> 00:52:01,280
+aparte de que tengo
+que trabajar.
+
+629
+00:52:03,960 --> 00:52:05,840
+Pienso que es mejor ir a dormir.
+
+630
+00:52:09,080 --> 00:52:11,320
+Mi madre tambien era
+empleada como moza.
+
+631
+00:52:11,440 --> 00:52:12,520
+¿En sério?
+
+632
+00:52:12,680 --> 00:52:14,440
+Si.
+Era una perra tambien.
+
+633
+00:53:55,080 --> 00:53:56,080
+¿Kevin?
+
+634
+00:54:30,400 --> 00:54:33,120
+¿Que quieres de mi?
+
+635
+00:54:33,280 --> 00:54:34,920
+- ¡Me robaste!
+- ¿Que es lo que quieres?
+
+636
+00:54:35,040 --> 00:54:37,400
+Lo sabes muy bien.
+¡Tienes mis archivos!
+
+637
+00:54:37,760 --> 00:54:39,360
+¿Que mas quieres de mi?
+
+638
+00:54:39,480 --> 00:54:41,200
+- ¡Me robaste!
+- ¡Ni siquiera te conozco!
+
+639
+00:54:41,320 --> 00:54:43,520
+- ¡Este tipo me robo la cartera!
+- Devuelveme la cartera.
+
+640
+00:54:43,680 --> 00:54:45,960
+- ¿Que mierda es esa?
+- ¡Ni siquiera lo conozco! ¡Me robo!
+
+641
+00:54:46,080 --> 00:54:47,320
+- ¡Mentiras!
+- ¡Devolvele la cartera!
+
+642
+00:54:47,440 --> 00:54:48,840
+- ¡No la tengo!
+- ¡Devolvesela!
+
+643
+00:54:49,000 --> 00:54:50,400
+¡Larguenme, bestias!
+
+644
+00:54:55,280 --> 00:54:56,640
+¡Devolve la carteira!
+
+645
+00:55:47,680 --> 00:55:48,720
+¡Atencion!
+
+646
+00:55:49,760 --> 00:55:52,400
+El autobus 4 de Spokane,
+
+647
+00:55:52,640 --> 00:55:57,720
+con destino a Allensburg,
+sufrio un atraso.
+
+648
+00:56:48,040 --> 00:56:49,280
+¿Adonde estoy?
+
+649
+00:56:49,920 --> 00:56:52,480
+Digamos que en un lugar
+menos lluvioso que Seattle.
+
+650
+00:56:52,600 --> 00:56:53,760
+Pareces cansado.
+
+651
+00:56:54,160 --> 00:56:55,480
+Lo estoy, Alex.
+
+652
+00:56:56,400 --> 00:56:59,240
+Todo esto huele mal.
+
+653
+00:56:59,880 --> 00:57:02,040
+¿Por que Tsutomu
+estaba allá?
+
+654
+00:57:02,200 --> 00:57:03,800
+Se tanto como tu.
+
+655
+00:57:03,920 --> 00:57:06,680
+Sabes, Alex.
+¡No me estás ayudando mucho!
+
+656
+00:57:06,960 --> 00:57:10,080
+¡No te enojes!
+Yo estoy de tu lado.
+
+657
+00:57:11,040 --> 00:57:12,120
+Lo se.
+
+658
+00:57:13,440 --> 00:57:16,800
+Los lobos estan golpeando a mi puerta,
+y tu pareces cagarte de risa.
+
+659
+00:57:17,760 --> 00:57:21,240
+¿Y que paso con el código del vírus
+de Shimomura que ibamos a estudiar?
+
+660
+00:57:21,360 --> 00:57:23,280
+Es muy complicado.
+No se.
+
+661
+00:57:23,760 --> 00:57:26,320
+Sólo se que se preocupa
+mucho por el.
+
+662
+00:57:26,480 --> 00:57:28,440
+La mayor parte del codigo fuente
+está codificado.
+
+663
+00:57:28,600 --> 00:57:31,560
+¿Podrias ponerlo en la red
+y volverlo propiedad comum?
+
+664
+00:57:31,680 --> 00:57:34,720
+- Yá pense en eso.
+- Pero luego, te debes ir del país.
+
+665
+00:57:35,080 --> 00:57:36,280
+Sabes, Alex...
+
+666
+00:57:37,080 --> 00:57:39,280
+Si tengo que salir,
+no puedo volver.
+
+667
+00:57:40,320 --> 00:57:43,800
+Tal vez tenga que hacerlo
+pero, antes, voy a descubrir el código.
+
+668
+00:57:44,320 --> 00:57:46,080
+Tu tiempo está
+por agotarse.
+
+669
+00:57:47,600 --> 00:57:49,160
+Tengo que saber
+que es.
+
+670
+00:58:02,560 --> 00:58:03,440
+Kevin...
+
+671
+00:58:03,600 --> 00:58:06,920
+Ambos sabemos que Shimomura
+trabajo para NSA.
+
+672
+00:58:07,440 --> 00:58:10,360
+Por eso, pienso que podemos presumir
+
+673
+00:58:10,680 --> 00:58:14,760
+que está codificado en 56 bits.
+¿Sabes lo que eso significa?
+
+674
+00:58:15,040 --> 00:58:20,000
+Háy 37 trillones de
+combinaciones posíbles.
+
+675
+00:58:20,160 --> 00:58:22,840
+Con tu computadora,
+vas a demorar...
+
+676
+00:58:23,240 --> 00:58:27,880
+... unos cien años, menos unas décadas
+en decifrar el código.
+
+677
+00:58:28,800 --> 00:58:29,960
+Lo se.
+
+678
+00:58:30,640 --> 00:58:35,000
+Pense en usar 10 mil computadores
+universitários para hacerlo.
+
+679
+00:58:55,480 --> 00:58:58,640
+DEPARTAMENTO DE INFORMATICA
+HORARIO DE SEGURIDAD
+
+680
+00:59:13,600 --> 00:59:14,360
+¡Hey, amigo!
+
+681
+00:59:15,080 --> 00:59:16,480
+REGISTRO, SEGURIDAD
+
+682
+00:59:21,560 --> 00:59:22,760
+Buenas noches, Ray.
+
+683
+00:59:24,680 --> 00:59:27,320
+No acostumbro ver a los informáticos
+aqui tan tarde, en verano.
+
+684
+00:59:27,560 --> 00:59:30,640
+¿Es tarde? Acostumbro a venir en el turno de Andy.
+Eso si que es tarde.
+
+685
+00:59:30,840 --> 00:59:33,840
+Voy a ser asistente el próximo
+semestre y estoy sobrecargado.
+
+686
+00:59:33,960 --> 00:59:36,080
+- Seguro sabes lo que es.
+- Claro.
+
+687
+00:59:36,720 --> 00:59:38,400
+¿Tienes la identificacion?
+
+688
+00:59:39,960 --> 00:59:42,040
+Claro.
+Disculpa.
+
+689
+00:59:46,560 --> 00:59:48,080
+- Lo lamento.
+- ¡Oh!
+
+690
+00:59:49,040 --> 00:59:51,240
+La próxima no te olvides
+de ella.
+
+691
+00:59:54,560 --> 00:59:55,680
+Gracias.
+
+692
+00:59:56,920 --> 00:59:58,040
+Buenas noches, Martin.
+
+693
+01:00:25,200 --> 01:00:26,320
+Mitnick es bueno.
+
+694
+01:00:27,360 --> 01:00:30,000
+Es mejor en esto,
+pero no es perfecto.
+
+695
+01:00:30,760 --> 01:00:32,240
+No es una máquina.
+
+696
+01:00:48,560 --> 01:00:50,240
+Todos cometen errores.
+
+697
+01:00:50,520 --> 01:00:52,200
+Tengo que encontrar
+ese error.
+
+698
+01:01:03,920 --> 01:01:06,840
+Encontramos un patron cruzando los datos...
+
+699
+01:01:07,120 --> 01:01:09,240
+... con la cuenta telefónica
+de Brian Merril.
+
+700
+01:01:59,360 --> 01:02:02,040
+Tengo la certeza de que está por usar
+un Netcom como servidor principal.
+
+701
+01:02:02,160 --> 01:02:05,040
+Las llamadas detectadas seran
+de una de vuestras cuentas-cliente,
+
+702
+01:02:05,120 --> 01:02:07,000
+una cuenta a la que Mitnick accedio.
+
+703
+01:02:08,160 --> 01:02:11,880
+Los registros que mando corresponden
+a una de nuestras cuentas.
+
+704
+01:02:12,000 --> 01:02:14,760
+La cuenta pertence la Sr. G Kremen
+de 52 años,
+
+705
+01:02:14,880 --> 01:02:17,280
+divorciado y publicitário
+en Minnesota.
+
+706
+01:02:17,400 --> 01:02:20,080
+- Perfecto.
+- Debe leer el correo una vez al mes.
+
+707
+01:02:20,200 --> 01:02:21,880
+En este momento,
+está en una sesion de Telnet.
+
+708
+01:02:22,040 --> 01:02:24,240
+El otro utilizador
+está algun lugar de Israel.
+
+709
+01:02:24,400 --> 01:02:26,360
+- ¿Dijo Israel?
+- Exactamente.
+
+710
+01:02:26,480 --> 01:02:28,160
+JSZ está en algun lugar en lsrael.
+
+711
+01:02:28,640 --> 01:02:30,400
+SESION TELNET 2563
+EN PROGRESO.
+
+712
+01:02:30,720 --> 01:02:34,480
+- Montaran escuchas en Telnet.
+- No me parece.
+
+713
+01:02:41,880 --> 01:02:45,120
+¿Ahora? No. Intenta @ Nokitel.
+
+714
+01:02:45,960 --> 01:02:46,920
+¡Nokitel!
+
+715
+01:02:47,280 --> 01:02:49,640
+- Voy a intentar.
+- Martin tiene que ser nuestro hombre.
+
+716
+01:02:49,760 --> 01:02:52,160
+- ¿Se puede detectar el POP?
+- Puedo intentar.
+
+717
+01:02:55,240 --> 01:02:58,320
+- Mi heróe es el "Icebreaker"
+- ¡El mio es Shimo!
+
+718
+01:03:02,880 --> 01:03:04,640
+Continua tecleando, idiota.
+
+719
+01:03:18,480 --> 01:03:24,240
+Necesito entrar a nytimes.com e inventar una historia sobre que Shimo es pedófilo.
+
+720
+01:03:26,200 --> 01:03:27,360
+¡Por el amor de Dios!
+
+721
+01:03:30,040 --> 01:03:30,960
+¡Vean esto!
+
+722
+01:03:32,240 --> 01:03:34,280
+En seis horas, se conecto...
+
+723
+01:03:35,360 --> 01:03:36,960
+... a Hawai, a Bóston...
+
+724
+01:03:37,160 --> 01:03:39,240
+...a un Puerto de España, a Dallas...
+
+725
+01:03:39,360 --> 01:03:40,640
+¡Maldito!
+¡Se "teletransporta"!
+
+726
+01:03:40,760 --> 01:03:42,520
+Sólo precisamos
+su verdadero POP.
+
+727
+01:03:43,520 --> 01:03:45,720
+Manténte en linea
+un segundo mas. ¡Vámos!
+
+728
+01:03:48,640 --> 01:03:49,600
+¡Vámos!
+
+729
+01:04:21,520 --> 01:04:24,800
+¿Tenemos público?
+
+730
+01:04:27,800 --> 01:04:28,600
+¡Mierda!
+
+731
+01:04:28,760 --> 01:04:31,280
+CONECCION INTERRUMPIDA
+POR EL CLIENTE.
+
+732
+01:04:32,360 --> 01:04:33,880
+Es una llamada local,
+
+733
+01:04:34,000 --> 01:04:36,880
+sin código de área...
+¡Lo descubri!
+
+734
+01:04:38,080 --> 01:04:39,800
+El POP es en Raleigh, Durham.
+
+735
+01:04:39,920 --> 01:04:41,320
+- ¿Estas seguro?
+- Seguro.
+
+736
+01:04:41,400 --> 01:04:43,360
+Nuestro hombre
+está en Carolina del Norte.
+
+737
+01:04:43,960 --> 01:04:47,400
+Sr. Shimomura, el agente Gibson
+me mantiene siempre al tanto.
+
+738
+01:04:47,560 --> 01:04:50,120
+Por eso, no se trata de seguridad
+informática...
+
+739
+01:04:50,200 --> 01:04:51,720
+... sino de hacer cumplir la ley.
+
+740
+01:04:51,840 --> 01:04:54,280
+Agente Rollins, me gustaria
+de continuar en el caso, si es posíble.
+
+741
+01:04:54,440 --> 01:04:56,200
+Comprendo.
+
+742
+01:04:56,360 --> 01:05:02,240
+Pero no puedo permitir que civiles
+participen en una accion legal.
+
+743
+01:05:02,840 --> 01:05:05,960
+En tanto, pedire
+que lo mantengan siempre informado.
+
+744
+01:05:06,120 --> 01:05:07,000
+Gracias.
+
+745
+01:05:08,080 --> 01:05:09,840
+Está contento con nuestra ida.
+
+746
+01:05:10,840 --> 01:05:12,720
+- ¿A quien vas a llamar?
+- A Brad.
+
+747
+01:05:13,360 --> 01:05:14,880
+Yá debe haber llegado a Raleigh.
+
+748
+01:05:16,440 --> 01:05:18,320
+Este tipo esconde
+alguna cosa.
+
+749
+01:05:18,520 --> 01:05:22,680
+Anoche, estuve en una sesion de Telnet,
+y parecia vigilarme.
+
+750
+01:05:22,840 --> 01:05:24,720
+¿Oiste lo que acabas
+de decir?
+
+751
+01:05:24,840 --> 01:05:27,800
+- ¡En sério! ¡El estaba ahi!
+- Estás paranoico.
+
+752
+01:05:28,120 --> 01:05:30,840
+- ¿Como carajos podria descubrirte?
+- El estaba ahi.
+
+753
+01:05:31,680 --> 01:05:34,800
+Alex, oime bien: Mañana,
+a las nueve de la mañana. No te olvides...
+
+754
+01:05:35,040 --> 01:05:36,360
+... y no te atrases.
+
+755
+01:05:40,560 --> 01:05:44,200
+No puedo dar informaciones
+sobre nuestros clientes.
+
+756
+01:05:44,320 --> 01:05:46,360
+- No estoy autorizado.
+- Yá dijo eso, Dan.
+
+757
+01:05:46,520 --> 01:05:49,960
+Sr. Shimomura, se que sera
+muy importante para usted,
+
+758
+01:05:50,120 --> 01:05:51,920
+pero no les puedo dar esos datos.
+
+759
+01:05:52,080 --> 01:05:55,000
+- ¡Cuando telefonee, prometio ayudar!
+- Y quiero ayudar.
+
+760
+01:05:55,120 --> 01:05:58,840
+Pero aquello que me pide
+puede costarme el empleo.
+
+761
+01:05:59,000 --> 01:06:01,600
+¡Hice casi 5000 km!
+No salgo de aqui sin...
+
+762
+01:06:02,840 --> 01:06:05,320
+¿No oyo lo que el dice?
+¡Puede perder el empleo!
+
+763
+01:06:05,440 --> 01:06:08,400
+Muestre algun respeto, por lo menos.
+Usted es el genio.
+
+764
+01:06:08,520 --> 01:06:10,240
+Piense en lo que está por hacer.
+
+765
+01:06:12,800 --> 01:06:14,440
+Y que es lo que podemos...
+
+766
+01:06:28,600 --> 01:06:30,080
+¿Y que piensas de esto, Dan?
+
+767
+01:06:33,000 --> 01:06:35,560
+Pesquisamos las llamadas
+hechas para POP Netcom,
+
+768
+01:06:35,640 --> 01:06:37,240
+a determinadas horas,
+
+769
+01:06:42,360 --> 01:06:44,080
+- ¿Es posíble, Dan?
+- ¡Vámos!
+
+770
+01:06:46,040 --> 01:06:48,280
+Pienso que es el.
+
+771
+01:06:50,200 --> 01:06:51,200
+Bien pensado.
+
+772
+01:07:08,680 --> 01:07:09,760
+Buen dia, Rachel.
+
+773
+01:07:09,880 --> 01:07:13,720
+- ¿Que tal el fin de semana, Sr. Fiori?
+- Corto. Demasiado corto.
+
+774
+01:07:17,600 --> 01:07:18,680
+Que rapidez.
+
+775
+01:07:22,600 --> 01:07:23,800
+Computer Sciences.
+
+776
+01:07:23,920 --> 01:07:26,800
+¿Tom, eres tu?
+¿Por que atiendes el telefono?
+
+777
+01:07:26,920 --> 01:07:30,040
+Bueno... ¿Quien habla?
+
+778
+01:07:30,480 --> 01:07:32,680
+Greg Mundy, de BEC.
+Soy su representante.
+
+779
+01:07:32,800 --> 01:07:36,520
+Llamaba a causa de las quejas
+sobre la última actualizacion.
+
+780
+01:07:36,720 --> 01:07:38,120
+¿Tuvieron problemas?
+
+781
+01:07:38,320 --> 01:07:40,600
+No que yo supiera, no.
+Un segundo.
+
+782
+01:07:40,840 --> 01:07:44,320
+Rachel, tuvimos problemas
+con las últimas actualizaciones de BEC?
+
+783
+01:07:50,520 --> 01:07:53,120
+El problema está en que destruye
+algunos sistemas.
+
+784
+01:07:53,240 --> 01:07:54,760
+- ¡Santo Dios!
+- Exactamente.
+
+785
+01:07:54,880 --> 01:07:57,640
+Es por eso que le voy a mandar
+a un funcionário de mantenimiento.
+
+786
+01:07:57,760 --> 01:07:59,640
+Su nombre es Joe.
+Debe estar por llegar.
+
+787
+01:08:00,640 --> 01:08:03,480
+Me quedaria mas tranquilo si el
+verifica vuestros sistemas.
+
+788
+01:08:03,600 --> 01:08:05,840
+Si hubiese un problema,
+el lo descubrira y lo resolvera.
+
+789
+01:08:06,000 --> 01:08:08,880
+Como sabe, BEC presta
+toda asistencia a sus productos.
+
+790
+01:08:09,200 --> 01:08:12,240
+Hola. Soy Joe Turner,
+de Binary Equipment Corporation.
+
+791
+01:08:16,600 --> 01:08:17,720
+Viernes,
+
+792
+01:08:17,840 --> 01:08:22,960
+a las 15:29,
+número 4045557332.
+
+793
+01:08:23,360 --> 01:08:25,200
+Duracion de la llamada,
+44 minutos.
+
+794
+01:08:25,840 --> 01:08:26,840
+Si, la tengo.
+
+795
+01:08:39,880 --> 01:08:41,560
+¡Que forma de comenzar la semana!
+
+796
+01:08:51,760 --> 01:08:53,120
+Es toda suya, Joe.
+
+797
+01:08:54,160 --> 01:08:57,080
+Voy a intentar un POP diferente,
+el mismo dia.
+
+798
+01:08:57,760 --> 01:09:02,040
+Una llamada
+al número 6125556400
+
+799
+01:09:02,160 --> 01:09:06,320
+a las 22:22,
+con una duracion de 49 minutos.
+
+800
+01:09:08,320 --> 01:09:09,120
+Si, la tengo.
+
+801
+01:09:25,400 --> 01:09:26,360
+Hola, Rachel.
+
+802
+01:09:26,960 --> 01:09:30,160
+¿Le importaria trerme un café?
+
+803
+01:09:31,360 --> 01:09:32,600
+- Claro.
+- Gracias.
+
+804
+01:09:37,480 --> 01:09:40,200
+Domingo, llamada a las 2:21,
+
+805
+01:09:40,560 --> 01:09:43,800
+número 9195558900.
+
+806
+01:09:47,120 --> 01:09:48,000
+Si, la tengo.
+
+807
+01:09:49,160 --> 01:09:53,040
+¿Van todas a la misma célula
+de Internet?
+
+808
+01:09:59,800 --> 01:10:05,160
+AGREGAR: MAESTRO,
+ESTOY AQUI PARA SERVIRLE.
+
+809
+01:10:15,880 --> 01:10:17,080
+Parece que si.
+
+810
+01:10:18,920 --> 01:10:20,040
+¿Cual es?
+
+811
+01:10:24,360 --> 01:10:25,840
+Célula 19,
+
+812
+01:10:26,160 --> 01:10:28,200
+a la salida de la ciudad,
+cerca del aeropuerto.
+
+813
+01:10:28,520 --> 01:10:30,120
+¿Cual es la dimension
+del área?
+
+814
+01:10:30,600 --> 01:10:32,640
+Tiene un radio
+inferior a 2 km.
+
+815
+01:10:33,480 --> 01:10:34,520
+Dan...
+
+816
+01:10:35,320 --> 01:10:36,840
+¿Tenes caña de pesca?
+
+817
+01:10:37,400 --> 01:10:38,880
+- ¿Caña de pesca?
+- Si.
+
+818
+01:10:40,640 --> 01:10:43,240
+Si, en la camioneta.
+Pesco atunes.
+
+819
+01:10:44,200 --> 01:10:47,320
+Si les gusta pescar,
+podríamos ir...
+
+820
+01:10:49,520 --> 01:10:51,640
+Está todo en orden.
+No encontre problemas.
+
+821
+01:10:55,480 --> 01:10:56,840
+Adios, pequeña detective.
+
+822
+01:11:04,840 --> 01:11:06,240
+Buenas tardes, señores.
+
+823
+01:11:06,960 --> 01:11:11,320
+Quiero agradecer oficialmente
+vuestra preciosa ayuda.
+
+824
+01:11:12,400 --> 01:11:15,960
+Dicho esto,
+vamos a lo que interesa.
+
+825
+01:11:16,720 --> 01:11:19,680
+Estamos ante una situacion
+muy delicada.
+
+826
+01:11:19,800 --> 01:11:22,520
+Vamos a intentar formalizar una queja
+contra el Sr. Mitnick.
+
+827
+01:11:22,640 --> 01:11:25,120
+Queremos que sea una queja sólida,
+
+828
+01:11:25,240 --> 01:11:28,040
+no que el contrate a un Dershowitz
+
+829
+01:11:28,160 --> 01:11:31,880
+o un espectacular Jonnhy Cochran...
+- ¡No se puede creer!
+
+830
+01:11:32,000 --> 01:11:37,680
+... o que Jerry Spence, nos derrote
+por causa de un por menor mínimo
+
+831
+01:11:37,840 --> 01:11:41,040
+del que no pensamos!
+
+832
+01:11:42,440 --> 01:11:44,240
+¿Fui claro?
+
+833
+01:11:45,840 --> 01:11:48,360
+Si lo tenemos con las manos
+en la masa, seguimos,
+
+834
+01:11:48,520 --> 01:11:50,400
+si no, nos quedamos
+quietos.
+
+835
+01:11:50,520 --> 01:11:54,120
+No habrá discusiones, nos limitaremos
+a cumplir con la ley.
+
+836
+01:11:54,680 --> 01:11:57,640
+Recojemos todos los datos,
+hacemos todo el papelerio...
+
+837
+01:11:57,840 --> 01:12:00,000
+... y haremos las aprensiones.
+
+838
+01:12:02,920 --> 01:12:04,120
+Buen dia a todos.
+
+839
+01:12:05,680 --> 01:12:06,800
+¡Mentiras!
+
+840
+01:12:15,120 --> 01:12:17,400
+Dan, Brad puede usar su telefono?
+
+841
+01:12:17,520 --> 01:12:18,440
+Todo bien.
+
+842
+01:12:18,600 --> 01:12:20,560
+Brad, llama a Ron Bowie
+de Netcom.
+
+843
+01:12:20,720 --> 01:12:23,240
+Vigila la cuenta de Cremen, para saber
+quando el tipo entra y sale.
+
+844
+01:12:23,360 --> 01:12:25,640
+- ¿Y que es lo que buscamos?
+- Patrones.
+
+845
+01:12:26,160 --> 01:12:29,320
+Pienso que usa un telemóvil,
+como hacia en Seattle.
+
+846
+01:12:29,720 --> 01:12:31,200
+Eso significa que
+podemos atraparlo.
+
+847
+01:12:31,600 --> 01:12:34,120
+MENSAJE: MAESTRO,
+ESTOY AQUI PARA SERVIRLE.
+
+848
+01:12:34,640 --> 01:12:36,520
+¿10.000 computadoras
+a tus ordenes?
+
+849
+01:12:36,640 --> 01:12:39,680
+Es como si tuvieses una super-red
+de computadoras personales. ¡Increible!
+
+850
+01:12:40,520 --> 01:12:43,040
+- ¿No crees que te expones mucho?
+- Para nada.
+
+851
+01:12:43,480 --> 01:12:46,120
+Con el derivador del sistema,
+no saben cuando estoy conectado,
+
+852
+01:12:46,240 --> 01:12:48,800
+y no háy registros.
+- ¡Eso es increible!
+
+853
+01:12:48,920 --> 01:12:51,040
+¿Cuanto tiempo piensas que te va a
+llevar descifrar "Desdén"?
+
+854
+01:12:51,120 --> 01:12:53,000
+De 24 a 36 horas,
+tal vez.
+
+855
+01:12:53,360 --> 01:12:54,400
+¡Increible!
+
+856
+01:12:55,400 --> 01:12:56,640
+¡Soy un génio!
+
+857
+01:13:08,960 --> 01:13:10,040
+Que tienes ahi.
+
+858
+01:13:10,120 --> 01:13:12,480
+Una version barata de su
+detector de células.
+
+859
+01:13:12,720 --> 01:13:15,920
+Tiene movimentos limitados, pero capta
+canales al frente y atrás.
+
+860
+01:13:16,040 --> 01:13:18,720
+¿Como es que un ciudadano comun
+posee una cosa de esas?
+
+861
+01:13:19,000 --> 01:13:20,640
+Fue diseñado por mi.
+
+862
+01:13:21,320 --> 01:13:23,000
+Eso me pone nervioso.
+
+863
+01:13:23,120 --> 01:13:24,720
+¿Me lees los MINS, Júlia?
+
+864
+01:13:25,480 --> 01:13:27,480
+555016.
+
+865
+01:13:28,360 --> 01:13:31,560
+- Siguente.
+- 5550120.
+
+866
+01:13:32,080 --> 01:13:33,200
+Siguiente.
+
+867
+01:13:46,800 --> 01:13:48,480
+¡Lo tengo!
+¡Gira a la izquierda!
+
+868
+01:13:51,920 --> 01:13:53,320
+- ¿Como es la señal?
+- Fuerte.
+
+869
+01:13:53,600 --> 01:13:55,000
+- ¡Dan!
+- ¡Santo Dios!
+
+870
+01:13:59,960 --> 01:14:01,040
+Despacio.
+
+871
+01:14:03,880 --> 01:14:05,120
+Estamos muy cerca.
+
+872
+01:14:18,200 --> 01:14:20,640
+Creo que está en este complejo
+a la izquierda.
+
+873
+01:14:27,600 --> 01:14:30,880
+- ¡Esta cerca!
+- Estaciona aqui.
+
+874
+01:14:40,520 --> 01:14:43,000
+Es sin dúda en este edifício.
+
+875
+01:15:01,440 --> 01:15:02,320
+Aqui tienen.
+
+876
+01:15:05,800 --> 01:15:06,440
+Gracias.
+
+877
+01:15:06,560 --> 01:15:08,480
+Háy mucha crema y azúcar
+por si quieren.
+
+878
+01:15:08,680 --> 01:15:12,040
+- ¿Y si el sale?
+- Queda preso por violar su condicional.
+
+879
+01:15:12,200 --> 01:15:14,520
+¿Va a interrumpir el tráfico
+de llamadas de telemóvil?
+
+880
+01:15:14,640 --> 01:15:16,440
+Vamos a codificar nuestra transmision.
+
+881
+01:15:16,560 --> 01:15:19,120
+¿Que piensa que hará al oir
+una transmision codificada?
+
+882
+01:15:22,520 --> 01:15:23,560
+Bien pensado.
+
+883
+01:15:24,320 --> 01:15:28,240
+De aqui a una, dos horas, Gibson
+pedirá una orden la Juez Dixon,
+
+884
+01:15:28,400 --> 01:15:32,120
+a pesar de no saber cual es
+su área, apuesto a que la emite.
+
+885
+01:15:32,200 --> 01:15:34,240
+Con ella, podemos hacer la detencion.
+
+886
+01:15:35,880 --> 01:15:37,240
+Son las tres en punto.
+
+887
+01:15:37,400 --> 01:15:41,960
+Espero resolver todo para las 10:00,
+10:30. Seria bueno.
+
+888
+01:15:44,080 --> 01:15:46,000
+Se fuera asi,
+no abusen del café.
+
+889
+01:15:53,920 --> 01:15:55,680
+Por lo menos, podemos escucharlo.
+
+890
+01:16:03,040 --> 01:16:03,920
+¡Mierda!
+
+891
+01:16:04,600 --> 01:16:06,800
+PROGRAMA TERMINO
+INESPERADAMENTE
+
+892
+01:16:24,480 --> 01:16:27,840
+Es un modem. No me gusta nada
+oir este sonido.
+
+893
+01:16:28,040 --> 01:16:29,360
+¿Por que?
+
+894
+01:16:29,520 --> 01:16:32,920
+El solo tiene que cargar los archivos y
+esconderlos en algun lugar de la red.
+
+895
+01:16:33,040 --> 01:16:35,760
+La última vez, uso a Netcom.
+La próxima, no sabemos.
+
+896
+01:16:36,080 --> 01:16:38,600
+Carga los archivos,
+apaga los discos rígidos,
+
+897
+01:16:38,720 --> 01:16:40,800
+y cuando el FBI toca a la puerta...
+
+898
+01:16:41,600 --> 01:16:44,000
+¿Que pasa, Tomu?
+
+899
+01:16:45,000 --> 01:16:47,360
+- Tocar a la puerta...
+- ¿Si?
+
+900
+01:16:49,720 --> 01:16:52,000
+Tocar a la puerta
+es el único aviso que necesita.
+
+901
+01:16:52,600 --> 01:16:56,080
+Transfiere los archivos a un lugar
+que solo el conoce.
+
+902
+01:16:57,320 --> 01:16:59,960
+- No habra pruebas.
+- Esa es nuestra oportunidad.
+
+903
+01:17:00,320 --> 01:17:02,360
+Podremos recuperar los archivos.
+
+904
+01:17:03,320 --> 01:17:05,040
+Solo tenemos que estar
+preparados.
+
+905
+01:17:06,360 --> 01:17:08,640
+- ¿Que hacem aqui?
+- Dan. Necesito un favor.
+
+906
+01:17:08,800 --> 01:17:11,200
+Háy alguien en Raleigh que tenga
+un simulador de células?
+
+907
+01:17:11,360 --> 01:17:13,000
+- ¿Para prestarle?
+- Si.
+
+908
+01:17:14,120 --> 01:17:16,360
+Conozco un tipo
+que conoce otro,
+
+909
+01:17:16,640 --> 01:17:19,480
+pero el no es flor que se quiere.
+
+910
+01:17:27,080 --> 01:17:29,520
+¿SITUACION???
+
+911
+01:17:58,960 --> 01:18:01,200
+DECODIFICACION FALLADA
+
+912
+01:18:25,120 --> 01:18:26,120
+¡Oiganme bien!
+
+913
+01:18:27,520 --> 01:18:29,680
+No fui yo quien
+le presto esto.
+
+914
+01:18:29,840 --> 01:18:32,400
+No quiero a Kevin Mitnick
+detras mio.
+
+915
+01:18:45,160 --> 01:18:48,440
+- Respetaremos su privacidad.
+- ¿Privacidad?
+
+916
+01:18:49,400 --> 01:18:50,800
+No se lo que
+es eso.
+
+917
+01:18:54,240 --> 01:18:55,000
+¡Vámos!
+
+918
+01:19:02,680 --> 01:19:04,240
+DECODIFICACION TERMINADA
+
+919
+01:19:05,200 --> 01:19:07,200
+ACCESO CONCEDIDO
+"¡BIENVENIDO, TSUTOMU!"
+
+920
+01:19:07,560 --> 01:19:09,160
+INICIALIZANDO...
+
+921
+01:19:10,560 --> 01:19:13,520
+- ¿Gibson dice que?
+- Tiene la orden. Entran a las 9:30.
+
+922
+01:19:13,640 --> 01:19:17,120
+- ¡Pero Rollins dijo a las 10:00!
+- ¡Al demonio con Rollins!. ¡Van a las 9:30!
+
+923
+01:19:17,200 --> 01:19:19,200
+¡Corre para allá!
+Nos quedamos sin tiempo.
+
+924
+01:19:22,080 --> 01:19:24,480
+¡No lo vamos a conseguir!
+¡No lo vamos a conseguir!
+
+925
+01:19:27,840 --> 01:19:29,160
+DESDÉN
+
+926
+01:19:30,520 --> 01:19:32,040
+PORTALES DE LA RED
+
+927
+01:19:32,160 --> 01:19:34,080
+LLAMANDO...
+
+928
+01:19:42,600 --> 01:19:43,840
+Tomu, Tomu...
+
+929
+01:19:44,480 --> 01:19:46,120
+¿Entonces era esto
+lo que querias?
+
+930
+01:19:47,000 --> 01:19:49,560
+Redujimos el área
+a cuatro apartamentos.
+
+931
+01:19:50,520 --> 01:19:52,400
+Situados en el 2º piso,
+de este lado.
+
+932
+01:19:52,480 --> 01:19:57,040
+El Agente Gibson usará
+un scanner celular.
+
+933
+01:19:57,360 --> 01:19:59,800
+Asi que al detectarlo,
+entramos en accion.
+
+934
+01:20:10,240 --> 01:20:11,440
+Esta en el 2º piso.
+
+935
+01:20:11,560 --> 01:20:13,480
+Está casi.
+Solo unos segundos mas.
+
+936
+01:20:33,880 --> 01:20:36,320
+"Te gusta la historia, cierto?"
+
+937
+01:20:47,120 --> 01:20:49,360
+"Soy perito en História"
+
+938
+01:20:51,680 --> 01:20:54,760
+"Dadme un punto de apoyo...
+
+939
+01:20:57,040 --> 01:20:59,840
+... dijo Arquimedes,
+y movere la Tierra"
+
+940
+01:21:20,040 --> 01:21:21,000
+Llamen a Rollins.
+
+941
+01:21:22,520 --> 01:21:23,920
+Creo que lo encontraron.
+
+942
+01:21:43,400 --> 01:21:44,520
+¡Esto promete!
+
+943
+01:21:51,120 --> 01:21:52,240
+Rollins esta
+llegando.
+
+944
+01:22:09,120 --> 01:22:10,000
+¿Preparado?
+
+945
+01:22:22,680 --> 01:22:24,720
+- ¿Quien es?
+- ¡FBI! ¡Abra!
+
+946
+01:22:28,440 --> 01:22:31,320
+- ¡vAMOS, Mitnick!
+- ¡Santo Dios!
+
+947
+01:22:32,880 --> 01:22:34,440
+CONECCION ESTABLECIDA
+
+948
+01:22:39,240 --> 01:22:41,600
+Tsutomu, es hora de participar
+de tus herramientas.
+
+949
+01:22:41,760 --> 01:22:43,200
+El mundo tiene derecho a saberlo.
+
+950
+01:22:46,000 --> 01:22:47,240
+CARGANDO
+
+951
+01:22:54,920 --> 01:22:56,560
+CARGAMENTO COMPLETO
+
+952
+01:22:57,520 --> 01:22:58,600
+¡Se acabo!
+
+953
+01:23:01,600 --> 01:23:02,720
+¡Te lo dije Tomu!
+
+954
+01:23:13,480 --> 01:23:15,920
+- ¿Puedo ayudarlos?
+- Está bajo arresto.
+
+955
+01:23:17,800 --> 01:23:21,120
+En Raleigh, Carolina del Norte,
+el "Hacker" mas buscado del mundo
+
+956
+01:23:21,240 --> 01:23:22,640
+fue presentado
+en un tribunal federal...
+
+957
+01:23:22,800 --> 01:23:25,760
+... fue detenido el miercoles,
+en un complejo de apartamentos...
+
+958
+01:23:25,880 --> 01:23:28,800
+El hábil "Hacker" obligo al FBI
+a perseguirlo durante dos años,
+
+959
+01:23:28,920 --> 01:23:30,120
+antes de ser capturado.
+
+960
+01:23:30,240 --> 01:23:33,720
+Mitnick fue encontrado por el perito
+en seguridad informática, Shimomura.
+
+961
+01:23:33,840 --> 01:23:36,840
+Kevin Mitnick fue acusado de robar
+via lnternet informacion
+
+962
+01:23:36,960 --> 01:23:38,760
+por un valor
+de millones de dólares...
+
+963
+01:23:38,880 --> 01:23:43,520
+Aun cuando se ha detenido, al criminal
+informático mas buscado por el FBI,
+
+964
+01:23:43,640 --> 01:23:48,320
+Kevin Mitnick, se torno un símbolo
+de la inseguridad en la era de la informacion.
+
+965
+01:23:50,040 --> 01:23:52,000
+SEIS MESES DESPUES
+
+966
+01:24:16,320 --> 01:24:17,160
+Kevin...
+
+967
+01:24:19,760 --> 01:24:22,920
+... gracias por recibirme.
+Queria conocerte.
+
+968
+01:24:23,720 --> 01:24:25,960
+Lamento que sea
+en estas circunstancias.
+
+969
+01:24:29,880 --> 01:24:31,800
+Lo que paso a mis...
+
+970
+01:24:34,320 --> 01:24:36,320
+¿A los archivos?
+¿Que les paso?
+
+971
+01:24:36,480 --> 01:24:39,040
+Tenia un simulador
+de telemóvil en el auto,
+
+972
+01:24:39,160 --> 01:24:40,760
+en la puerta de tu apartamento.
+
+973
+01:24:40,960 --> 01:24:44,200
+Cuando pensaste estar conectado
+a Netcom, te conectaste a mi.
+
+974
+01:24:45,040 --> 01:24:46,800
+Yo recibi el cargamento.
+
+975
+01:24:48,760 --> 01:24:50,120
+Eras una máquina.
+
+976
+01:24:51,520 --> 01:24:52,760
+Lo era, si.
+
+977
+01:24:55,400 --> 01:24:57,120
+¿Porque lo hiciste, Kevin?
+
+978
+01:24:57,400 --> 01:24:59,160
+La cuestion es "Como"
+
+979
+01:25:00,640 --> 01:25:02,600
+La cuestion es siempre "Como"
+
+980
+01:25:05,640 --> 01:25:07,400
+- Voy a hacerte una pregunta.
+- Okey.
+
+981
+01:25:09,320 --> 01:25:11,680
+¿Por que yo estoy preso
+y tu no?
+
+982
+01:25:14,640 --> 01:25:16,120
+¿No respondes?
+
+983
+01:25:16,720 --> 01:25:18,920
+¿Por que yo estoy preso
+y tu no?
+
+984
+01:25:19,440 --> 01:25:22,480
+¿Que es lo que hice tan malo?
+¿Y tu tan bueno?
+
+985
+01:25:22,560 --> 01:25:26,240
+- Descifre el código de tu vírus.
+- Sabes que lo que hice estaba mal, y tu tambien.
+
+986
+01:25:26,960 --> 01:25:29,120
+¡Destruí todo! El desarrollo.
+Todo desaparecio.
+
+987
+01:25:29,400 --> 01:25:31,600
+¡Que conmovedor! Ahora
+que tienes la consciência limpa.
+
+988
+01:25:31,760 --> 01:25:33,640
+¿Quieres saber porque
+estás aqui?
+
+989
+01:25:34,800 --> 01:25:36,440
+Recibi esto por correo.
+
+990
+01:25:37,000 --> 01:25:39,800
+Es una cuenta de una casa
+de articulos sadomasoquistas.
+
+991
+01:25:39,920 --> 01:25:43,880
+¡Por valor de 29,450 dólares!
+No és una víctima.
+
+992
+01:25:44,640 --> 01:25:47,680
+No fui yo quien hizo eso,
+pero se quien fue.
+
+993
+01:25:50,680 --> 01:25:54,080
+- Abusan de las personas...
+- ¿Desde cuando respetas a alguien?
+
+994
+01:26:01,200 --> 01:26:02,240
+¡Guardia!
+
+995
+01:26:04,520 --> 01:26:05,520
+¡Guardia!
+
+996
+01:26:07,480 --> 01:26:10,480
+¡Eso! ¡Vete ahora!
+Ve a casa, hijo de puta!
+
+997
+01:26:11,120 --> 01:26:12,320
+¡Hijo de puta!
+
+998
+01:26:19,840 --> 01:26:21,200
+Finalmente, se acabo.
+
+999
+01:26:24,080 --> 01:26:26,120
+¿Quedaste satisfecho con la visita?
+
+1000
+01:26:27,520 --> 01:26:29,000
+¿Satisfecho? No...
+
+1001
+01:26:30,520 --> 01:26:32,120
+El está preso
+por mi culpa.
+
+1002
+01:26:36,560 --> 01:26:38,720
+BIENVENIDO, TSUTOMU SHIMOMURA
+
+1003
+01:26:43,160 --> 01:26:45,560
+TIPO DE OPERACION:
+RETIRO DE DINERO.
+
+1004
+01:26:46,240 --> 01:26:48,840
+TRANSACCION INTERRUMPIDA
+FALTA DE FONDOS.
+
+1005
+01:26:49,000 --> 01:26:51,160
+¡No puede ser!
+¡Acabo de depositar un cheque!
+
+1006
+01:26:56,680 --> 01:26:58,960
+¡Estúpida máquina
+me comio la tarjeta!
+
+1007
+01:26:59,240 --> 01:27:01,880
+LIBEREN A KEVIN.
+
+1008
+01:27:11,680 --> 01:27:12,920
+Kevin Mitnick fue detenido en 1995...
+
+1009
+01:27:13,040 --> 01:27:16,240
+... por violacion de libertad
+condicional y posesion de dispositivos
+de acesso ilegales.
+
+1010
+01:27:18,600 --> 01:27:21,520
+Mientras aguardaba juzgamiento
+por entrada ilícita en computadoras,
+
+1011
+01:27:21,640 --> 01:27:23,720
+acepto un acuerdo,
+en Marzo de 1999.
+
+1012
+01:27:25,640 --> 01:27:29,080
+En Agosto fue condenado a una pena
+de cinco años, menos el tiempo cumplido
+
+1013
+01:27:29,200 --> 01:27:33,160
+y a pagar 4.125 dólares,
+ahora el Estado pide 1,5 millones.
+
+1014
+01:27:33,280 --> 01:27:37,360
+Kevin deberá ser puesto en libertad
+en Enero del 2000.
+
+1015
+01:27:42,560 --> 01:27:47,600
+Shimomura continua siendo consultor
+de Fortune 500 y del Gobierno.
+
+1016
+01:27:48,600 --> 01:27:58,600
+Downloaded From www.AllSubs.org
+

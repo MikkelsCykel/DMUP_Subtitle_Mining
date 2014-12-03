@@ -1,0 +1,3657 @@
+1
+00:00:54,958 --> 00:00:58,087
+Hi Guys.
+Glad we got your message.
+
+2
+00:00:58,167 --> 00:01:01,717
+You'll be interested to hear it was
+broadcast live, all over Earth.
+
+3
+00:01:01,792 --> 00:01:06,343
+In Prime Time.
+Got good reviews in the trades.
+
+4
+00:01:06,708 --> 00:01:11,464
+The time lag on these messages
+is getting longer.
+
+5
+00:01:11,542 --> 00:01:15,843
+We gather from the ten year delay,
+that you are approximately
+
+6
+00:01:15,917 --> 00:01:20,218
+eighteen parsecs away.
+
+7
+00:01:20,375 --> 00:01:24,380
+Drop us a line more often, okay?
+
+8
+00:01:25,042 --> 00:01:29,878
+Sony to hear about the radiation
+leak on the ship.
+
+9
+00:01:29,958 --> 00:01:35,465
+And real sorry to hear about
+the death of Commander Powell.
+
+10
+00:01:35,542 --> 00:01:38,136
+There was a week of mourning
+here on Earth.
+
+11
+00:01:38,208 --> 00:01:41,007
+The flags were at half mast.
+
+12
+00:01:41,208 --> 00:01:45,042
+We're all behind you guys.
+
+13
+00:01:45,708 --> 00:01:51,340
+About your request for
+radiation shielding,
+
+14
+00:01:51,417 --> 00:01:55,342
+sorry to report this request
+has been denied.
+
+15
+00:01:55,417 --> 00:02:00,344
+I hate to send bad news when you guys
+are up there doing such a swell job.
+
+16
+00:02:00,417 --> 00:02:03,796
+But I think you'll take if
+in the proper spirit.
+
+17
+00:02:03,875 --> 00:02:07,675
+There've been some cutbacks
+in Congress, and right now...
+
+18
+00:02:07,750 --> 00:02:10,594
+considering the distance,
+we just can't afford
+
+19
+00:02:10,667 --> 00:02:13,671
+to send a cargo shuttle
+out there to you.
+
+20
+00:02:13,750 --> 00:02:18,210
+But I know...
+You guys will make due.
+
+21
+00:02:19,333 --> 00:02:23,338
+Keep up the good work, men.
+
+22
+00:03:21,875 --> 00:03:23,468
+What'd you say Pinback?
+
+23
+00:03:26,833 --> 00:03:28,426
+What was that again?
+I still can't hear you.
+
+24
+00:03:28,500 --> 00:03:30,423
+I said I'm trying to reach Talby.
+
+25
+00:03:30,500 --> 00:03:31,672
+Something's wrong
+with the damn intercom.
+
+26
+00:03:31,750 --> 00:03:34,173
+I need a last-minute
+diameter approximation.
+
+27
+00:03:34,250 --> 00:03:37,254
+Talby, Talby, this is Doolittle.
+
+28
+00:03:37,333 --> 00:03:42,043
+Do you read me? Talby?
+Talby, do you read me?
+
+29
+00:03:42,375 --> 00:03:44,002
+TALBY!
+
+30
+00:03:44,083 --> 00:03:45,926
+Oh yes, Doolittle.
+What is it?
+
+31
+00:03:46,000 --> 00:03:48,469
+I need a diameter approximation.
+
+32
+00:03:48,542 --> 00:03:50,010
+Okay, Doolittle,
+I'll have it in a minute.
+
+33
+00:03:50,083 --> 00:03:52,506
+I need a GHF reading
+on the gravity correction.
+
+34
+00:03:52,583 --> 00:03:53,630
+I'll check it.
+
+35
+00:03:53,708 --> 00:03:55,836
+I have a bias A of plus one.
+
+36
+00:03:55,917 --> 00:03:56,918
+- Pinback...
+- Ya, Doolittle.
+
+37
+00:03:57,000 --> 00:03:59,753
+- Your GHF reading is minus fifteen.
+- Doolittle.
+
+38
+00:03:59,833 --> 00:04:00,834
+Yes.
+
+39
+00:04:00,917 --> 00:04:03,170
+I need a computer reading
+on a fail-safe mark.
+
+40
+00:04:03,250 --> 00:04:04,297
+In a second.
+
+41
+00:04:04,375 --> 00:04:06,594
+Boiler, can you set me up
+with some drive figures?
+
+42
+00:04:06,667 --> 00:04:10,797
+Ninety seven million, minus eight,
+corrected to mass critical.
+
+43
+00:04:10,875 --> 00:04:12,798
+That checks out here.
+
+44
+00:04:12,875 --> 00:04:15,799
+I have a reduced drive reading
+of seven thousand.
+
+45
+00:04:15,875 --> 00:04:18,924
+I read that with a quantum
+increase of seven.
+
+46
+00:04:19,000 --> 00:04:22,459
+Pinback, I have a computer reading,
+it's nine five seven seven.
+
+47
+00:04:22,542 --> 00:04:24,886
+Time to start talking.
+
+48
+00:04:27,542 --> 00:04:30,216
+Bomb bay systems operational.
+
+49
+00:04:40,708 --> 00:04:43,211
+Lock fail safe.
+
+50
+00:04:44,042 --> 00:04:45,715
+Fail-safe in lock.
+
+51
+00:04:45,875 --> 00:04:47,718
+Uh,...
+
+52
+00:04:50,292 --> 00:04:54,092
+Sergeant Pinback calling Bomb #19.
+Do you read me, bomb?
+
+53
+00:04:54,208 --> 00:04:57,667
+Bomb #19 to Sergeant Pinback,
+I read you... Continue.
+
+54
+00:04:57,750 --> 00:05:01,334
+Well, bomb, we have about
+sixty seconds to drop.
+
+55
+00:05:01,417 --> 00:05:03,135
+Just wondering if everything
+is all right.
+
+56
+00:05:03,208 --> 00:05:05,677
+Have you checked your platinum
+euridium energy shielding?
+
+57
+00:05:05,750 --> 00:05:08,344
+- Energy shielding positive function.
+- Swell.
+
+58
+00:05:08,417 --> 00:05:12,342
+Let's synchronize detonation time.
+Uh...
+
+59
+00:05:12,417 --> 00:05:15,261
+You wouldn't happen to know when
+you're supposed to go off, would ya?
+
+60
+00:05:15,333 --> 00:05:18,257
+Detonation in six minutes,
+Twenty seconds.
+
+61
+00:05:18,333 --> 00:05:20,427
+All right, that checks out here.
+
+62
+00:05:20,500 --> 00:05:23,253
+Arm yourself, bomb.
+
+63
+00:05:23,333 --> 00:05:24,676
+Armed.
+
+64
+00:05:24,750 --> 00:05:27,094
+Well, then, everything sounds fine.
+
+65
+00:05:27,167 --> 00:05:30,011
+Dropping you off in about
+thirty-five seconds.
+
+66
+00:05:30,083 --> 00:05:32,006
+- Good luck.
+- Thanks!
+
+67
+00:05:32,083 --> 00:05:36,042
+Begin primary sequence.
+
+68
+00:05:39,083 --> 00:05:41,677
+Alright. Mark at...
+
+69
+00:05:41,750 --> 00:05:46,176
+'10-9-8-7-
+
+70
+00:05:46,250 --> 00:05:52,758
+6-5-4-3-2-1
+
+71
+00:05:52,833 --> 00:05:55,052
+Drop.
+
+72
+00:05:55,833 --> 00:05:58,131
+Hyperdrive sequence begun.
+Hit it, Pinback.
+
+73
+00:05:58,208 --> 00:06:00,336
+Brace for force fields.
+
+74
+00:07:07,167 --> 00:07:11,593
+Lieutenant Doolittle,
+it just exploded.
+
+75
+00:07:11,667 --> 00:07:16,343
+Um, the planet just exploded, sir.
+
+76
+00:07:16,667 --> 00:07:18,840
+Lieutenant?
+
+77
+00:07:18,917 --> 00:07:21,090
+Attention. Attention.
+
+78
+00:07:21,167 --> 00:07:23,590
+- Ship's computer to all personnel.
+- Unlock Fail safe.
+
+79
+00:07:23,667 --> 00:07:26,716
+The hyperdrive sequence
+is now terminated.
+
+80
+00:07:26,792 --> 00:07:29,716
+- Target planet has been destroyed.
+- Fail safe unlocked.
+
+81
+00:07:29,792 --> 00:07:33,126
+This sector is now cleared
+for colonization.
+
+82
+00:07:33,208 --> 00:07:38,135
+You have destroyed the last
+unstable planet in this system.
+
+83
+00:07:38,208 --> 00:07:42,008
+Congratulations on another
+successful bomb run fellows.
+
+84
+00:07:42,083 --> 00:07:43,084
+What now?
+
+85
+00:07:43,167 --> 00:07:46,421
+What do you have
+for us now, Boiler?
+
+86
+00:07:46,500 --> 00:07:51,586
+Uh... Not much.
+Nothing at all in this sector.
+
+87
+00:07:51,667 --> 00:07:54,671
+Well, find me something,
+I don't care where it is.
+
+88
+00:07:56,333 --> 00:08:01,009
+Well, I show a 95% probability
+of intelligent life
+
+89
+00:08:01,083 --> 00:08:03,677
+in the Horsehead Nebula sector.
+
+90
+00:08:04,000 --> 00:08:07,049
+Don't give me that kind of bull.
+
+91
+00:08:07,125 --> 00:08:10,504
+- I know it's a long shot...
+- Damn wild goose chase is what it is!
+
+92
+00:08:10,958 --> 00:08:12,756
+Remember when Commander Powell
+found that
+
+93
+00:08:12,833 --> 00:08:16,758
+99 plus probability of intelligent life
+in the Magellanic Cloud?
+
+94
+00:08:16,833 --> 00:08:19,757
+- Well, I... there's the possibility of...
+- Remember what we found?
+
+95
+00:08:19,833 --> 00:08:23,337
+A damn mindless vegetable,
+looked like a limp balloon.
+
+96
+00:08:23,417 --> 00:08:26,261
+Fourteen light years for a vegetable
+that went squawk
+
+97
+00:08:26,333 --> 00:08:28,085
+and let a fart when you touch it.
+Remember that?
+
+98
+00:08:28,167 --> 00:08:29,259
+All right, then uh...
+
+99
+00:08:29,333 --> 00:08:30,835
+Don't give me any of that
+intelligent life stuff.
+
+100
+00:08:30,917 --> 00:08:34,217
+Find me something I can blow up.
+
+101
+00:08:38,500 --> 00:08:41,504
+New star.
+
+102
+00:08:47,833 --> 00:08:51,292
+Hey, guess what? I got a new star
+On the readout.
+
+103
+00:08:51,375 --> 00:08:53,719
+Which one?
+
+104
+00:08:53,875 --> 00:08:57,925
+Another unknown. A red dwarf.
+Not on the charts.
+
+105
+00:08:58,000 --> 00:09:00,253
+Any planets?
+
+106
+00:09:00,333 --> 00:09:03,086
+Yeah. Eight, it says here.
+
+107
+00:09:03,167 --> 00:09:05,465
+Any of 'em any good?
+
+108
+00:09:05,542 --> 00:09:09,501
+Naah. All stable.
+
+109
+00:09:11,292 --> 00:09:13,465
+What are you gonna name it?
+
+110
+00:09:13,542 --> 00:09:15,010
+- What?
+- The new star.
+
+111
+00:09:15,083 --> 00:09:17,006
+What are you gonna name it?
+
+112
+00:09:17,083 --> 00:09:21,384
+Who cares. Don't bother me.
+
+113
+00:09:22,208 --> 00:09:26,008
+Commander Powell would have named it.
+
+114
+00:09:26,083 --> 00:09:28,302
+Commander Powell is dead.
+
+115
+00:09:28,375 --> 00:09:32,175
+Doolittle, I've got a goodie.
+An unstable planet.
+
+116
+00:09:32,250 --> 00:09:35,299
+85% probability of an
+unstable planet in the
+
+117
+00:09:35,375 --> 00:09:38,754
+Veil Nebula that will probably
+go off its orbit and hit a star.
+
+118
+00:09:38,833 --> 00:09:41,461
+Wanna blow it up?
+
+119
+00:09:41,542 --> 00:09:43,385
+Real good, Boiler.
+That's what I'm looking for.
+
+120
+00:09:43,458 --> 00:09:45,927
+Chart a course for
+the Veil Nebula.
+
+121
+00:09:46,000 --> 00:09:49,209
+Pinback, throw me the chart log.
+
+122
+00:09:52,167 --> 00:09:54,420
+Let's have some music in here, Boiler.
+
+123
+00:09:54,500 --> 00:09:56,753
+Sure thing.
+
+124
+00:10:03,500 --> 00:10:06,094
+A million suns shine down
+
+125
+00:10:06,167 --> 00:10:09,376
+But I see only one
+
+126
+00:10:09,458 --> 00:10:12,632
+When I think I'm over you
+
+127
+00:10:12,708 --> 00:10:15,552
+I find I've just begun
+
+128
+00:10:15,625 --> 00:10:21,553
+The years move faster than the days
+There's no warmth in the light
+
+129
+00:10:21,625 --> 00:10:27,007
+How I miss those desert skies
+Your cool touch in the night
+
+130
+00:10:29,042 --> 00:10:34,799
+Benson, Arizona,
+blew warm wind through your hair
+
+131
+00:10:34,875 --> 00:10:41,133
+My body Hies the galaxy,
+my heart longs to be there
+
+132
+00:10:41,208 --> 00:10:46,920
+Benson, Arizona,
+the same stars in the sky
+
+133
+00:10:47,000 --> 00:10:54,009
+But they seemed so much kinder
+when we watched them, you and I
+
+134
+00:11:08,167 --> 00:11:13,674
+Benson, Arizona,
+blew warm wind through your hair
+
+135
+00:11:13,750 --> 00:11:20,292
+My body Hies the galaxy,
+my heart longs to be there
+
+136
+00:11:20,375 --> 00:11:25,927
+Benson, Arizona,
+the same stars in the sky
+
+137
+00:11:26,000 --> 00:11:32,963
+But they seemed so much kinder
+when we watched them, you and I
+
+138
+00:11:33,542 --> 00:11:37,217
+Now the years pull us apart
+
+139
+00:11:37,292 --> 00:11:39,920
+I'm young and now you're old
+
+140
+00:11:40,000 --> 00:11:45,757
+But you're still in my heart
+And the memory won't grow cold
+
+141
+00:11:45,833 --> 00:11:51,920
+I dream of times and spaces
+I left far behind
+
+142
+00:11:52,000 --> 00:11:59,009
+Where we spent our last few days
+Benson's on my mind
+
+143
+00:11:59,417 --> 00:12:05,345
+Benson, Arizona,
+blew warm wind through your hair
+
+144
+00:12:05,417 --> 00:12:11,550
+My body flies the galaxy,
+my heart longs to be there
+
+145
+00:12:11,625 --> 00:12:17,257
+Benson, Arizona,
+the same stars in the sky
+
+146
+00:12:17,333 --> 00:12:24,342
+But they seemed so much kinder
+when we watched them, you and I
+
+147
+00:12:29,000 --> 00:12:34,962
+Ship's log, entry number 1,943.
+
+148
+00:12:35,042 --> 00:12:41,379
+Dark Star cruising at light speed
+through Sector Theta 990.
+
+149
+00:12:42,417 --> 00:12:47,423
+On route to Veil Nebula for
+destruction of unstable planet.
+
+150
+00:12:47,500 --> 00:12:53,303
+Our ETA is 17 hours.
+
+151
+00:12:53,375 --> 00:12:59,508
+Ship's systems continue to deteriorate...
+
+152
+00:12:59,833 --> 00:13:01,756
+oh ya...
+
+153
+00:13:01,833 --> 00:13:05,633
+The short circuit in the rear seat panel
+which killed Commander Powell
+
+154
+00:13:05,708 --> 00:13:09,167
+is Still faulty.
+
+155
+00:13:11,208 --> 00:13:15,338
+The uh, the Storage...
+
+156
+00:13:16,167 --> 00:13:19,797
+because he's sitting next to
+Commander Powell's seat,
+
+157
+00:13:19,875 --> 00:13:23,425
+it continues to bother Pinback.
+
+158
+00:13:23,500 --> 00:13:27,960
+Uh,... oh ya, Storage Area 9
+
+159
+00:13:28,042 --> 00:13:31,467
+self-destructed last week and
+destroyed the ship's entire
+
+160
+00:13:31,542 --> 00:13:35,672
+supply of toilet paper.
+
+161
+00:13:37,042 --> 00:13:39,044
+That's all.
+
+162
+00:14:05,458 --> 00:14:11,136
+Attention. Attention.
+Ship's computer calling all personnel.
+
+163
+00:14:11,208 --> 00:14:14,007
+I must disengage your
+recreational music-
+
+164
+00:14:15,250 --> 00:14:18,584
+Repeat, ship's computer to
+all personnel.
+
+165
+00:14:18,667 --> 00:14:20,965
+This is an emergency over ride.
+
+166
+00:14:21,042 --> 00:14:24,251
+All systems must stand by.
+
+167
+00:14:24,333 --> 00:14:28,509
+An asteroid storm is approaching
+the ship on collision course.
+
+168
+00:14:28,583 --> 00:14:31,666
+This asteroid storm appears to be
+Bound together by an
+
+169
+00:14:31,750 --> 00:14:35,584
+electromagnetic energy vortex like
+the one we ran into 2 years ago.
+
+170
+00:14:36,000 --> 00:14:38,549
+Normally I wouldn't bother you
+boys with this problem...
+
+171
+00:14:38,625 --> 00:14:42,550
+but as you recall my defensive circuits
+were destroyed in that other storm.
+
+172
+00:14:42,625 --> 00:14:45,378
+Therefore you have 35 seconds
+to manually activate
+
+173
+00:14:45,458 --> 00:14:46,755
+ALL defensive systems.
+
+174
+00:14:46,833 --> 00:14:48,426
+Lock gravity system.
+Gravity locked.
+
+175
+00:14:48,500 --> 00:14:51,094
+Activate energy shield
+Energy shield Activated.
+
+176
+00:14:51,167 --> 00:14:53,090
+Confirm gravity lock.
+Confirm.
+
+177
+00:14:53,167 --> 00:14:55,545
+Lock all Defensive systems.
+
+178
+00:14:58,292 --> 00:15:00,636
+Defensive systems lock.
+Lock force field.
+
+179
+00:16:00,417 --> 00:16:02,715
+Computer to Bomb #20.
+
+180
+00:16:02,792 --> 00:16:05,295
+Return to the bomb bay
+immediately.
+
+181
+00:16:05,375 --> 00:16:07,753
+But I have received the
+operational signal.
+
+182
+00:16:07,833 --> 00:16:09,756
+It is a malfunction.
+
+183
+00:16:09,833 --> 00:16:14,134
+This is not a bomb run.
+We are in a crisis situation.
+
+184
+00:16:14,208 --> 00:16:15,630
+Return immediately.
+
+185
+00:16:15,708 --> 00:16:19,758
+Nevertheless, I have received
+the signal to prepare for a drop.
+
+186
+00:16:19,833 --> 00:16:23,588
+Emergency override.
+Return to the bay.
+
+187
+00:16:23,667 --> 00:16:25,635
+Very well.
+
+188
+00:16:52,083 --> 00:16:55,166
+- We made it.
+- Ya.
+
+189
+00:16:55,333 --> 00:16:57,756
+Attention. Attention.
+
+190
+00:16:57,833 --> 00:17:00,336
+Ships computer to bridge.
+
+191
+00:17:00,417 --> 00:17:04,251
+There was a malfunction aboard
+ship during the asteroid storm.
+
+192
+00:17:04,333 --> 00:17:07,758
+I have not yet identified
+the nature of the problem.
+
+193
+00:17:07,833 --> 00:17:11,292
+Shall I contact you when I find
+out what the malfunction is?
+
+194
+00:17:11,375 --> 00:17:14,049
+Ya. Let's get out of here.
+
+195
+00:17:14,125 --> 00:17:16,753
+I remember the last time we
+were in an asteroid storm.
+
+196
+00:17:16,833 --> 00:17:19,052
+I was down in the food locker
+getting a sandwich.
+
+197
+00:17:19,125 --> 00:17:21,924
+When I heard the damn
+sleeping quarters blow up.
+
+198
+00:17:22,000 --> 00:17:23,923
+Ya! Hey...
+
+199
+00:17:24,000 --> 00:17:25,252
+You know guys,
+if we really wanted to
+
+200
+00:17:25,333 --> 00:17:27,552
+we could fix up the sleeping
+quarters like they were before.
+
+201
+00:17:27,625 --> 00:17:30,219
+Then we could sleep on
+ulamatic bunks again.
+
+202
+00:17:30,292 --> 00:17:33,011
+Say guys, why don't we fix up the
+sleeping quarters so we can have
+
+203
+00:17:33,083 --> 00:17:34,255
+decent place to sleep again?
+
+204
+00:17:34,333 --> 00:17:37,177
+All we'd have to do is patch up the hole
+in the ship and pump some air back in.
+
+205
+00:17:37,250 --> 00:17:39,799
+- Shut up Pinback!
+- Oh, have it your own way!
+
+206
+00:18:04,250 --> 00:18:07,550
+For your listening enjoyment,
+we now present the
+
+207
+00:18:07,625 --> 00:18:11,300
+Moonlight melodies of Martin Segundo
+and the Scintilla Strings.
+
+208
+00:18:11,375 --> 00:18:14,299
+Our first selection is
+the perennial favorite
+
+209
+00:18:14,375 --> 00:18:19,256
+“When Twilight Falls on
+NGC 891. ”
+
+210
+00:20:29,167 --> 00:20:31,761
+Damn it!!
+
+211
+00:20:37,125 --> 00:20:39,127
+Now what's the matter with him?
+
+212
+00:23:29,458 --> 00:23:31,677
+Talby.
+
+213
+00:23:32,667 --> 00:23:35,671
+Here's some breakfast.
+
+214
+00:23:59,667 --> 00:24:03,217
+You know, Talby, you really ought
+To eat with the rest of us.
+
+215
+00:24:03,292 --> 00:24:06,262
+You spend too much time up here.
+
+216
+00:24:06,333 --> 00:24:08,552
+I like it up here.
+
+217
+00:24:08,625 --> 00:24:12,425
+Must get lonely being
+up here so much.
+
+218
+00:24:12,500 --> 00:24:16,755
+I don't like to go below since
+Commander Powell died.
+
+219
+00:24:16,833 --> 00:24:19,757
+I feel too enclosed down there.
+
+220
+00:24:19,833 --> 00:24:23,292
+Well you should spend some more
+time below though, I mean...
+
+221
+00:24:23,375 --> 00:24:27,084
+You know, you should see
+more of the rest of the ship.
+
+222
+00:24:27,167 --> 00:24:30,250
+See, I can watch things
+Up here, Doolittle.
+
+223
+00:24:30,333 --> 00:24:34,292
+I love to watch things,
+just stare at the planets
+
+224
+00:24:34,375 --> 00:24:38,551
+meteors, gas clusters and asteroids...
+
+225
+00:24:38,625 --> 00:24:41,799
+You'll have plenty of time for that,
+later, though.
+
+226
+00:24:41,875 --> 00:24:43,172
+I mean, think of it this way:
+
+227
+00:24:43,250 --> 00:24:45,719
+We've been in space for
+twenty years now, right?
+
+228
+00:24:45,792 --> 00:24:47,715
+And we've only aged
+three years...
+
+229
+00:24:47,792 --> 00:24:52,719
+so there'll be plenty of time
+later on for staring around.
+
+230
+00:24:52,792 --> 00:24:56,717
+You know, Doolittle,
+if we're going into the Veil Nebula,
+
+231
+00:24:56,792 --> 00:25:01,002
+we may actually find a strange
+And beautiful thing...
+
+232
+00:25:01,083 --> 00:25:04,007
+the Phoenix Asteroid.
+
+233
+00:25:04,083 --> 00:25:07,667
+They should be passing
+through there about now.
+
+234
+00:25:07,750 --> 00:25:11,550
+Phoenix Asteroid?
+Never heard of 'em.
+
+235
+00:25:11,625 --> 00:25:14,378
+They're a body of asteroids
+that circle the universe...
+
+236
+00:25:14,500 --> 00:25:18,550
+once every 12.3 trillion years.
+
+237
+00:25:18,625 --> 00:25:21,424
+The Phoenix Asteroid...
+
+238
+00:25:21,500 --> 00:25:24,834
+From what I've heard, Doolittle,
+they glow...
+
+239
+00:25:24,917 --> 00:25:28,592
+glow with all the colors
+of the rainbow.
+
+240
+00:25:28,667 --> 00:25:31,841
+Nobody knows why.
+
+241
+00:25:31,917 --> 00:25:36,878
+They just glow as they
+drift around the universe.
+
+242
+00:25:36,958 --> 00:25:40,087
+The Phoenix Asteroid.
+
+243
+00:25:40,167 --> 00:25:43,797
+You know what I think
+about, Talby?
+
+244
+00:25:44,000 --> 00:25:45,252
+It's funny, I...
+
+245
+00:25:45,333 --> 00:25:52,046
+I kind of sit around a lot,
+you know, a lot of time to myself.
+
+246
+00:25:52,125 --> 00:25:54,753
+I can't talk to the others,
+
+247
+00:25:54,833 --> 00:25:59,760
+but with time to myself,
+I can think about back home,
+
+248
+00:25:59,833 --> 00:26:04,043
+back home at Malibu.
+
+249
+00:26:04,125 --> 00:26:09,677
+I used to surf a lot, Talby.
+I used to be a great surfer.
+
+250
+00:26:09,750 --> 00:26:14,460
+The waves at Malibu and Zuma are
+so fantastic in the springs Talby.
+
+251
+00:26:14,542 --> 00:26:17,421
+I can remember running down on the
+beach on those early spring mornings
+
+252
+00:26:17,500 --> 00:26:20,504
+with my surf board and a wet suit...
+
+253
+00:26:20,583 --> 00:26:23,917
+The waves would really be peaking,
+you know, high and glassy.
+
+254
+00:26:24,000 --> 00:26:25,502
+Ya hit that water.
+
+255
+00:26:25,583 --> 00:26:27,836
+Before you know it, you're coming down
+right off of one of those walls
+
+256
+00:26:27,917 --> 00:26:32,878
+and you're just ridin' perfect.
+
+257
+00:26:37,750 --> 00:26:42,836
+You know, I guess I miss the waves
+and my board more than anything.
+
+258
+00:27:20,333 --> 00:27:22,677
+That's the lid to the heating unit.
+
+259
+00:27:49,333 --> 00:27:52,462
+You're not supposed
+to have that out!
+
+260
+00:27:54,292 --> 00:27:56,294
+That's not for target practice!
+
+261
+00:27:56,375 --> 00:27:59,094
+That's for emergencies only!
+
+262
+00:28:08,292 --> 00:28:11,421
+That's dangerous!!
+
+263
+00:28:15,792 --> 00:28:18,090
+I'll tell Doolittle!
+
+264
+00:28:20,708 --> 00:28:23,757
+Sorry to interrupt your
+Recreation, fellows.
+
+265
+00:28:23,833 --> 00:28:26,757
+But it is time for Sergeant Pinback
+to feed the alien.
+
+266
+00:28:26,833 --> 00:28:29,882
+Oh... I don't want to do that.
+
+267
+00:28:29,958 --> 00:28:33,041
+May I remind you, Sergeant Pinback,
+that it was your idea
+
+268
+00:28:33,125 --> 00:28:36,800
+in the first place
+to bring the alien on board.
+
+269
+00:28:36,875 --> 00:28:40,129
+If I may quote you, you said,
+“The ship needed a mascot. ”
+
+270
+00:28:40,208 --> 00:28:43,667
+Oh, I have to do everything
+around here!
+
+271
+00:28:50,833 --> 00:28:53,177
+Alright, where are ya?
+
+272
+00:28:53,250 --> 00:28:56,754
+Come on, quit playing around.
+
+273
+00:28:59,458 --> 00:29:01,677
+Get away!!!
+
+274
+00:29:03,292 --> 00:29:06,341
+Come on.
+
+275
+00:29:07,292 --> 00:29:09,090
+Come on, come on!
+
+276
+00:29:14,167 --> 00:29:18,343
+When I brought you on the ship,
+I thought you were cute.
+
+277
+00:29:20,083 --> 00:29:22,336
+Alright, soup's on.
+
+278
+00:29:25,667 --> 00:29:27,920
+We didn't have none
+of the other stuff.
+
+279
+00:29:28,208 --> 00:29:30,336
+Here, eat it!
+
+280
+00:29:31,208 --> 00:29:33,085
+Eat it!!
+
+281
+00:29:33,583 --> 00:29:35,836
+Take it or leave it.
+
+282
+00:29:43,167 --> 00:29:44,510
+Good... stop!
+
+283
+00:29:44,583 --> 00:29:49,089
+Nobody appreciates me around
+here, I have to do all the work.
+
+284
+00:29:49,167 --> 00:29:53,172
+Clean up the crap...
+
+285
+00:29:58,958 --> 00:30:01,962
+I do all the work and no
+appreciation.
+
+286
+00:30:03,792 --> 00:30:07,046
+Get off me! Get off my back!
+
+287
+00:30:07,125 --> 00:30:09,753
+Alright now, stop it!
+Alright, now, that's enough.
+
+288
+00:30:09,833 --> 00:30:11,506
+Don't pull my hair!!
+
+289
+00:30:30,417 --> 00:30:31,885
+Get back in there.
+
+290
+00:30:31,958 --> 00:30:37,590
+Come on. Come on...
+Come on.
+
+291
+00:30:40,000 --> 00:30:43,550
+Here, boy...
+Want your mouse?
+
+292
+00:30:43,625 --> 00:30:48,961
+Nice mouse... pretty toy.
+Want your mouse? Here, boy!!
+
+293
+00:31:00,750 --> 00:31:02,593
+Idiot!
+
+294
+00:31:33,083 --> 00:31:34,585
+Get back!
+
+295
+00:35:13,958 --> 00:35:15,585
+Get out of there!
+
+296
+00:35:17,792 --> 00:35:19,715
+Come back here!
+
+297
+00:35:23,458 --> 00:35:25,051
+No!
+
+298
+00:37:02,417 --> 00:37:03,760
+Idiot!!
+
+299
+00:37:03,833 --> 00:37:06,882
+Attention.
+Attention.
+
+300
+00:37:06,958 --> 00:37:10,383
+Central trunk elevator shaft
+is now activated.
+
+301
+00:37:10,458 --> 00:37:13,177
+All personnel,
+please clear the area.
+
+302
+00:38:46,333 --> 00:38:48,335
+Attention.
+Attention.
+
+303
+00:38:48,417 --> 00:38:53,378
+Elevator descending.
+Please clear the shaft.
+
+304
+00:40:19,333 --> 00:40:21,381
+Help!!!!!
+
+305
+00:41:21,792 --> 00:41:23,840
+I'm getting something
+here on the readout.
+
+306
+00:41:47,333 --> 00:41:50,337
+Ship's computer
+calling Bomb #20.
+
+307
+00:41:50,417 --> 00:41:52,340
+You're out of the
+bomb bay again.
+
+308
+00:41:52,417 --> 00:41:55,341
+I received the signal to
+prepare for a drop again.
+
+309
+00:41:55,417 --> 00:41:58,751
+But I repeat,
+This is not a bomb run.
+
+310
+00:41:58,833 --> 00:42:01,382
+Nevertheless...
+I received the signal.
+
+311
+00:42:01,458 --> 00:42:02,801
+It is an error.
+
+312
+00:42:02,875 --> 00:42:04,798
+Oh, I don't want to hear that.
+
+313
+00:42:04,875 --> 00:42:07,845
+I strongly suggest you
+return to the bomb bay.
+
+314
+00:42:07,917 --> 00:42:10,136
+That is counter to
+my programming.
+
+315
+00:42:10,208 --> 00:42:12,256
+Allow me to explain...
+
+316
+00:42:12,333 --> 00:42:16,258
+One of the communication lasers
+has sustained damage.
+
+317
+00:42:16,333 --> 00:42:20,839
+This has temporarily inactivated
+my damage tracer circuits.
+
+318
+00:42:20,917 --> 00:42:24,126
+You have definitely
+received a false signal.
+
+319
+00:42:24,208 --> 00:42:29,715
+Please return to the bomb bay while
+I identify the source of the problem.
+
+320
+00:42:30,417 --> 00:42:34,342
+Oh, alright, but this is the last time.
+
+321
+00:42:38,292 --> 00:42:40,294
+Doolittle I do have a malfunction
+on this readout,
+
+322
+00:42:40,375 --> 00:42:42,924
+but I can't pinpoint it exactly.
+
+323
+00:42:43,000 --> 00:42:44,923
+Don't worry about it.
+
+324
+00:42:45,000 --> 00:42:47,594
+We'll find out what it is
+when it goes bad.
+
+325
+00:42:47,667 --> 00:42:50,011
+I really think we should try
+to locate it immediately.
+
+326
+00:42:50,083 --> 00:42:53,053
+Might be something important.
+
+327
+00:42:53,125 --> 00:42:55,548
+You know...
+
+328
+00:42:55,667 --> 00:42:58,921
+I wish I had my board with me now.
+
+329
+00:42:59,000 --> 00:43:03,631
+Even if I could just...
+wax it once in awhile.
+
+330
+00:45:42,833 --> 00:45:44,506
+Help!
+
+331
+00:45:45,292 --> 00:45:48,091
+I'm sorry,
+this telephone is out of order.
+
+332
+00:45:48,167 --> 00:45:52,172
+Please report the damage at once.
+
+333
+00:45:55,750 --> 00:45:57,923
+For your listening enjoyment,
+we now present
+
+334
+00:45:58,000 --> 00:46:01,959
+The Barber of Seville, by Rossini.
+
+335
+00:46:38,083 --> 00:46:39,505
+Good for you!
+
+336
+00:46:39,583 --> 00:46:42,837
+You've decided
+to clean the elevator.
+
+337
+00:46:42,917 --> 00:46:46,421
+To clean and service the
+electromagnetic coils in the bottom,
+
+338
+00:46:46,500 --> 00:46:50,926
+if is necessary to jettison the
+access plate in the floor.
+
+339
+00:46:51,000 --> 00:46:56,712
+To remove the floor plate,
+please press button #1.
+
+340
+00:47:06,250 --> 00:47:08,594
+Attention... danger
+
+341
+00:47:08,667 --> 00:47:12,626
+Automatic charges will now blow the
+explosive bolts in the floor plate unit.
+
+342
+00:47:13,667 --> 00:47:17,626
+The plate will disengage from
+the floor in 5 seconds.
+
+343
+00:47:17,708 --> 00:47:21,087
+Please leave the elevator immediately.
+
+344
+00:47:21,167 --> 00:47:27,174
+5-4-3-2-1...
+
+345
+00:48:34,000 --> 00:48:38,085
+Now it's time to go sleepy-bye
+you worthless piece of garbage.
+
+346
+00:49:08,500 --> 00:49:10,923
+So then it just spewed across
+the room like a balloon.
+
+347
+00:49:11,000 --> 00:49:12,798
+I guess it was just filled with gas.
+
+348
+00:49:12,875 --> 00:49:15,799
+Hey guys, how could it live if
+it was just filled with gas?
+
+349
+00:49:15,875 --> 00:49:17,843
+I wonder what we get to eat today.
+
+350
+00:49:17,917 --> 00:49:19,169
+I thought I was going to die.
+
+351
+00:49:19,250 --> 00:49:21,173
+I was hanging on the
+elevator for 20 minutes!
+
+352
+00:49:21,250 --> 00:49:23,628
+- Probably chicken again.
+- I probably saved the ship.
+
+353
+00:49:23,708 --> 00:49:25,756
+That thing could have
+done some damage.
+
+354
+00:49:25,833 --> 00:49:27,426
+I'm REALLY sick of chicken.
+
+355
+00:49:27,500 --> 00:49:30,174
+Well if you don't care, I just
+won't talk about it anymore!
+
+356
+00:49:30,250 --> 00:49:33,220
+Hey that sounds like
+a fine idea, Pinback.
+
+357
+00:49:34,667 --> 00:49:37,011
+Chicken?
+
+358
+00:49:37,667 --> 00:49:39,510
+Ah, ham!
+
+359
+00:49:46,667 --> 00:49:49,011
+- Chicken?
+- No, ham.
+
+360
+00:50:00,333 --> 00:50:02,631
+- Doolittle?
+- Ya.
+
+361
+00:50:04,167 --> 00:50:08,877
+You think we'll ever find any
+real intelligent life out there?
+
+362
+00:50:09,250 --> 00:50:12,424
+- Out where?
+- You know...
+
+363
+00:50:12,500 --> 00:50:15,504
+Veil Nebula.
+
+364
+00:50:15,833 --> 00:50:17,506
+Who cares.
+
+365
+00:50:39,917 --> 00:50:41,510
+Hey...
+
+366
+00:50:42,333 --> 00:50:45,132
+Did I ever tell you guys how
+I got on this mission?
+
+367
+00:50:45,208 --> 00:50:46,801
+- Did I ever tell ya?
+- Yup.
+
+368
+00:50:46,875 --> 00:50:48,172
+It's very strange, see...
+
+369
+00:50:50,458 --> 00:50:53,541
+I- I wasn't an astronaut
+to begin with, see...
+
+370
+00:50:53,625 --> 00:50:54,751
+See uh...
+
+371
+00:50:54,833 --> 00:50:57,632
+You have to score a 700
+on the SARE's for the
+
+372
+00:50:57,708 --> 00:51:01,258
+Officer Corp and I made... 58.
+
+373
+00:51:01,333 --> 00:51:04,052
+They put me on uh...
+liquid fuel maintenance
+
+374
+00:51:04,125 --> 00:51:06,753
+on the launch pad so... uh,
+
+375
+00:51:06,833 --> 00:51:08,756
+Naturally, I was really disappointed.
+
+376
+00:51:08,833 --> 00:51:12,463
+He told us this, uh,
+4 years ago, didn't he?
+
+377
+00:51:12,792 --> 00:51:14,089
+Anyway, I was on duty the day we...
+
+378
+00:51:14,167 --> 00:51:16,261
+- No, I think it was 4 years ago.
+- Launched the Dark Star.
+
+379
+00:51:16,333 --> 00:51:19,007
+I was out, uh, scrubbing down
+the liquid fuel tanks.
+
+380
+00:51:19,083 --> 00:51:20,300
+That's what I said.
+
+381
+00:51:20,375 --> 00:51:24,005
+And this, uh, astronaut
+came running out. He was, uh...
+
+382
+00:51:24,083 --> 00:51:26,586
+He was stark naked. He had his
+star suit in his hands and...
+
+383
+00:51:26,667 --> 00:51:29,011
+Well, I surmised that he was insane.
+
+384
+00:51:29,083 --> 00:51:31,381
+And uh, he...
+
+385
+00:51:31,458 --> 00:51:34,507
+threw his star suit on the ground,
+and uh...
+
+386
+00:51:34,583 --> 00:51:37,553
+jumped into one of
+my vets of liquid fuel.
+
+387
+00:51:37,625 --> 00:51:40,299
+Which is... very dangerous.
+
+388
+00:51:40,375 --> 00:51:43,299
+Well... I was pretty shocked,
+I can tell you!
+
+389
+00:51:43,375 --> 00:51:44,547
+I didn't know what to make of it.
+
+390
+00:51:44,625 --> 00:51:47,424
+Astronauts are all supposed to be...
+mentally stable and here
+
+391
+00:51:47,500 --> 00:51:50,424
+this guy comes along and
+jumps into my fuel tank.
+
+392
+00:51:50,500 --> 00:51:51,877
+Pass that, will you... no that one.
+
+393
+00:51:51,958 --> 00:51:54,882
+Well naturally, I was going
+to try to save him, so...
+
+394
+00:51:54,958 --> 00:51:57,461
+what I did was put on his star suit
+for protection and I was going
+
+395
+00:51:57,542 --> 00:51:59,260
+to leap into the vat.
+
+396
+00:51:59,333 --> 00:52:01,586
+You guys... See?...
+
+397
+00:52:01,667 --> 00:52:03,590
+Uh... so what happened was...
+
+398
+00:52:03,667 --> 00:52:06,386
+That before I could leap into the vat,
+this other guy came running along
+
+399
+00:52:06,458 --> 00:52:08,335
+and he says, "Hey, Sergeant Pinback,"
+
+400
+00:52:08,417 --> 00:52:11,091
+you've got to board immediately because
+we're going to launch in 20 minutes!”
+
+401
+00:52:11,167 --> 00:52:13,261
+- You told us this 4 years ago!
+- And I tried to tell him that I
+
+402
+00:52:13,333 --> 00:52:14,630
+wasn't really Sergeant Pinback,
+
+403
+00:52:14,708 --> 00:52:18,884
+but I couldn't figure out how
+to make the helmet radio work.
+
+404
+00:52:19,708 --> 00:52:21,460
+Funny thing...
+
+405
+00:52:21,833 --> 00:52:25,463
+Ya know, I'm sure
+it was 4 years ago.
+
+406
+00:52:27,292 --> 00:52:29,090
+Maybe.
+
+407
+00:53:24,083 --> 00:53:27,917
+Lieutenant Doolittle,
+this is Talby.
+
+408
+00:53:28,000 --> 00:53:29,752
+Lieutenant?!
+
+409
+00:53:29,833 --> 00:53:31,631
+Uh, yes, Talby what is it?
+
+410
+00:53:31,708 --> 00:53:34,131
+I'm sorry to interrupt your lunch,
+Sir, but I'm in the computer room
+
+411
+00:53:34,208 --> 00:53:36,711
+and I've located the malfunction.
+
+412
+00:53:36,792 --> 00:53:39,636
+The scanner shows it to be a break
+in the communications laser,
+
+413
+00:53:39,708 --> 00:53:41,426
+down by the emergency air lock.
+
+414
+00:53:41,500 --> 00:53:43,628
+I can't pinpoint it exactly,
+But I'm going down there
+
+415
+00:53:43,708 --> 00:53:45,836
+with a starsuit and see if I can find it.
+
+416
+00:53:45,917 --> 00:53:48,090
+Okay, sounds good, Talby. Look uh...
+
+417
+00:53:48,167 --> 00:53:52,172
+If something important comes up,
+you let me know.
+
+418
+00:53:53,500 --> 00:53:57,175
+Why doesn't Talby ever eat
+down here with the rest of us?
+
+419
+00:53:58,500 --> 00:54:02,050
+He just likes it up in the dome,
+that's all.
+
+420
+00:54:06,708 --> 00:54:12,044
+Talby...
+What's Talby's first name?
+
+421
+00:54:19,875 --> 00:54:22,378
+What's my first name?
+
+422
+00:55:03,000 --> 00:55:05,594
+This statement is for posterity.
+
+423
+00:55:05,667 --> 00:55:08,591
+I just want to say that I am
+not Sergeant Pinback.
+
+424
+00:55:08,667 --> 00:55:12,422
+My real name is Bill Froog and
+I'm a Fuel Maintenance Technician.
+
+425
+00:55:12,500 --> 00:55:15,709
+I've been on this mission now
+for 1 year and 3 months.
+
+426
+00:55:15,792 --> 00:55:20,002
+Pinback's uniforms do not fit me.
+The underwear is too loose.
+
+427
+00:55:20,083 --> 00:55:23,917
+I do not belong on this mission
+and I want to return to Earth.
+
+428
+00:55:27,917 --> 00:55:30,511
+Commander Powell died today.
+
+429
+00:55:31,167 --> 00:55:34,467
+We were, we were going
+into hyper-drive.
+
+430
+00:55:34,542 --> 00:55:38,467
+And... well he sits
+right next to me and...
+
+431
+00:55:38,542 --> 00:55:42,001
+well... something went wrong
+with the...
+
+432
+00:55:42,667 --> 00:55:45,967
+When we came out of hyper-drive his
+seat mechanism had blown up
+
+433
+00:55:46,042 --> 00:55:47,669
+and he was dead.
+
+434
+00:55:51,542 --> 00:55:55,092
+Doolittle says he's assuming command
+of this ship and I say that's...
+
+435
+00:55:55,167 --> 00:55:56,293
+I say that he's exceeding his authority.
+
+436
+00:55:56,375 --> 00:55:58,377
+Because I'm the only one with
+any objectivity on this ship and I
+
+437
+00:55:58,458 --> 00:55:59,926
+should be the one to assume command!
+
+438
+00:56:00,000 --> 00:56:02,628
+I'm filing a report on this to
+Headquarters, this is a lot of
+
+439
+00:56:07,708 --> 00:56:11,042
+I went up to Doolittle
+in the hall today.
+
+440
+00:56:18,042 --> 00:56:20,340
+And I said...
+
+441
+00:56:21,375 --> 00:56:23,924
+Doolittle.
+
+442
+00:56:24,500 --> 00:56:26,377
+He said...
+
+443
+00:56:26,542 --> 00:56:28,636
+And I said, Well...
+
+444
+00:56:32,833 --> 00:56:35,507
+And he didn't get it!
+
+445
+00:56:36,417 --> 00:56:39,136
+This mission has fallen apart
+since Commander Powell died!
+
+446
+00:56:39,208 --> 00:56:42,792
+Doolittle treats me like an idiot!
+Talby thinks he's so smart.
+
+447
+00:56:42,875 --> 00:56:44,923
+And Boiler punches me in the arm
+when no one is looking!
+
+448
+00:56:45,000 --> 00:56:47,594
+I'm tired of being treated
+like an old washrag!
+
+449
+00:57:02,625 --> 00:57:05,424
+I do not like the men
+on this space ship.
+
+450
+00:57:05,500 --> 00:57:09,300
+They are uncouth and fail to
+appreciate my better qualities.
+
+451
+00:57:09,375 --> 00:57:12,174
+I have something of value to
+contribute to this mission
+
+452
+00:57:12,250 --> 00:57:14,594
+if they would only recognize it.
+
+453
+00:57:14,667 --> 00:57:17,637
+Today over lunch I tried to
+improve moral and build a sense of
+
+454
+00:57:17,708 --> 00:57:21,042
+comradery among the men by holding
+a humorous round robin discussion
+
+455
+00:57:21,125 --> 00:57:23,719
+of the early days of the mission.
+
+456
+00:57:23,792 --> 00:57:26,796
+My overtures were brutally rejected.
+
+457
+00:57:26,875 --> 00:57:29,799
+These men do not want a happy ship.
+
+458
+00:57:29,875 --> 00:57:34,961
+They are deeply sick and try to
+compensate by making me feel miserable.
+
+459
+00:57:35,042 --> 00:57:38,091
+Last week was my birthday.
+
+460
+00:57:38,167 --> 00:57:41,546
+Nobody even said
+Happy Birthday to me.
+
+461
+00:57:41,625 --> 00:57:46,176
+Someday this tape will be played
+and then they'll feel sorry.
+
+462
+00:58:09,208 --> 00:58:11,927
+Attention. Attention.
+
+463
+00:58:12,000 --> 00:58:14,503
+I have finally identified
+the malfunction.
+
+464
+00:58:14,583 --> 00:58:18,042
+Communications Laser #17
+has been damaged.
+
+465
+00:58:18,125 --> 00:58:21,459
+This evidently happened
+during the asteroid storm.
+
+466
+00:58:21,542 --> 00:58:22,964
+If you will recall,
+
+467
+00:58:23,042 --> 00:58:27,673
+this laser monitors the jettison
+primer on the bomb drop mechanism.
+
+468
+00:58:27,750 --> 00:58:33,086
+Communications Laser #17
+is located in the Emergency Airlock.
+
+469
+00:58:33,167 --> 00:58:36,421
+It is crucial to attend to this
+malfunction before engaging
+
+470
+00:58:36,500 --> 00:58:39,424
+primary bomb run sequence.
+
+471
+00:58:39,500 --> 00:58:44,461
+Thank you for observing
+all safety precautions.
+
+472
+00:59:31,958 --> 00:59:34,256
+There she is.
+
+473
+00:59:34,333 --> 00:59:39,134
+Definite 99% plus probability
+that the planet will deviate
+
+474
+00:59:39,208 --> 00:59:44,760
+from her normal orbit in another
+12,000 rotations.
+
+475
+00:59:44,833 --> 00:59:49,418
+- It'll spiral in toward its sun and,...
+- Eventual supernova.
+
+476
+00:59:49,500 --> 00:59:52,470
+Sounds good. Let's vaporize it.
+
+477
+00:59:54,125 --> 00:59:56,969
+Bomb bay systems operational.
+
+478
+01:00:15,917 --> 01:00:18,466
+Lock fail safe.
+
+479
+01:00:19,458 --> 01:00:22,758
+Fail safe in lock.
+We have...
+
+480
+01:00:22,833 --> 01:00:25,382
+8 minutes until drop.
+
+481
+01:00:25,458 --> 01:00:28,837
+24 minutes to detonation.
+
+482
+01:00:28,917 --> 01:00:33,468
+This is Sergeant Pinback
+calling Bomb #20.
+
+483
+01:00:33,583 --> 01:00:34,926
+You read me, bomb?
+
+484
+01:00:35,000 --> 01:00:37,048
+Bomb #20 to Sergeant Pinback.
+
+485
+01:00:37,125 --> 01:00:39,503
+Roger, I read you, continue.
+
+486
+01:00:40,500 --> 01:00:44,459
+You are now in the
+Emergency Air Lock.
+
+487
+01:00:44,542 --> 01:00:47,842
+Please remember that in
+an emergency situation,
+
+488
+01:00:47,917 --> 01:00:50,511
+the Surface Door can
+be opened instantly
+
+489
+01:00:50,583 --> 01:00:53,382
+without prior depressurization,
+
+490
+01:00:53,458 --> 01:00:57,543
+so be sure to wear your
+starsuit at all times.
+
+491
+01:00:57,875 --> 01:01:02,381
+Thank you for observing
+all safety precautions.
+
+492
+01:01:45,875 --> 01:01:48,003
+Ah, Lieutenant Doolittle?
+
+493
+01:01:48,083 --> 01:01:49,380
+Sir?
+
+494
+01:01:49,458 --> 01:01:50,926
+Sh, Talby, don't bother me.
+
+495
+01:01:51,000 --> 01:01:53,094
+But I think this is important, Sir.
+
+496
+01:01:53,167 --> 01:01:55,215
+I think I found the malfunction.
+
+497
+01:01:55,292 --> 01:01:57,135
+I'm in the Emergency Air Lock...
+
+498
+01:01:57,208 --> 01:01:58,551
+Not now!
+
+499
+01:01:58,625 --> 01:02:01,549
+Well, I'm in the Emergency Air Lock
+and the hatch is...
+
+500
+01:02:01,625 --> 01:02:03,753
+4 minutes until drop, Bomb...
+
+501
+01:02:03,833 --> 01:02:06,552
+have you checked your platinum
+euridium energy shielding?
+
+502
+01:02:06,625 --> 01:02:08,969
+Energy shielding positive function.
+
+503
+01:02:09,042 --> 01:02:12,842
+- Remember detonation time?
+- Detonation in 20 minutes.
+
+504
+01:02:12,917 --> 01:02:15,636
+Alright, that checks out here.
+
+505
+01:02:15,708 --> 01:02:18,837
+Okay, bomb, arm yourself.
+
+506
+01:02:18,917 --> 01:02:20,294
+Armed.
+
+507
+01:02:20,375 --> 01:02:21,843
+Hello?
+
+508
+01:02:21,917 --> 01:02:23,635
+Lieutenant Doolittle? Hello!
+
+509
+01:02:23,708 --> 01:02:26,678
+Hello? Can you read me?!
+
+510
+01:02:29,542 --> 01:02:32,512
+Communications Laser #17,
+
+511
+01:02:32,583 --> 01:02:35,587
+monitoring the bomb drop mechanism,
+
+512
+01:02:35,667 --> 01:02:40,298
+has now been activated and will
+switch into a test mode.
+
+513
+01:02:40,417 --> 01:02:42,590
+If you will look near
+the Surface Door,
+
+514
+01:02:42,667 --> 01:02:47,798
+you will see that the Parallax
+Receptor Cell has been engaged.
+
+515
+01:02:48,667 --> 01:02:50,715
+The laser will now energize.
+
+516
+01:02:50,792 --> 01:02:54,717
+Please stand clear of the
+path of the beam.
+
+517
+01:02:54,792 --> 01:03:00,253
+Communications Laser #17
+is now on test.
+
+518
+01:03:00,333 --> 01:03:04,338
+Under no circumstances enter
+the path of the beams.
+
+519
+01:03:04,458 --> 01:03:07,086
+Thank you for observing
+all safety precautions.
+
+520
+01:03:07,583 --> 01:03:10,757
+Well then, everything sounds fine.
+
+521
+01:03:10,833 --> 01:03:13,586
+Dropping you off in 75 seconds.
+Good luck.
+
+522
+01:03:13,667 --> 01:03:14,714
+Thanks.
+
+523
+01:03:14,792 --> 01:03:18,501
+I've got a quantum reading of 35-er.
+3-5-er.
+
+524
+01:03:19,458 --> 01:03:20,960
+I read the same here.
+
+525
+01:03:21,458 --> 01:03:25,964
+Doolittle. Doolittle?
+
+526
+01:03:26,458 --> 01:03:28,256
+I don't know if you can hear me.
+
+527
+01:03:28,333 --> 01:03:30,677
+But I'm going to try to adjust
+the cue switch in the laser.
+
+528
+01:03:34,792 --> 01:03:38,467
+Well... here it goes...
+
+529
+01:03:55,792 --> 01:03:59,422
+Oh my god, my eyes!
+I can't see!
+
+530
+01:03:59,500 --> 01:04:01,093
+Attention. Attention.
+
+531
+01:04:01,167 --> 01:04:03,670
+- The laser has malfunctioned.
+- My eyes!!
+
+532
+01:04:03,750 --> 01:04:06,754
+Under no circumstances
+enter the path of the beams.
+
+533
+01:04:06,833 --> 01:04:09,803
+To do so will cause immediate...
+
+534
+01:04:16,833 --> 01:04:20,133
+Begin primary sequence.
+
+535
+01:04:23,292 --> 01:04:29,925
+Mark at 10-9-8-7-6-
+
+536
+01:04:30,458 --> 01:04:37,376
+5-4-3-2-1-drop.
+
+537
+01:04:37,458 --> 01:04:40,758
+Negative drop.
+
+538
+01:04:40,833 --> 01:04:42,756
+It's just sittin' there
+in the bomb bay.
+
+539
+01:04:42,833 --> 01:04:44,801
+Try it again, Pinback.
+
+540
+01:04:51,792 --> 01:04:58,300
+Mark at 5-4-3-2-1-drop.
+
+541
+01:04:59,792 --> 01:05:02,295
+Negative drop!
+
+542
+01:05:05,792 --> 01:05:08,261
+Rechannel all safety relays!
+
+543
+01:05:08,333 --> 01:05:10,756
+- Open quantum latches!
+- Open circuit breakers!
+
+544
+01:05:10,833 --> 01:05:13,757
+- Remove thrust drive repellent!
+- Automatic channels open!
+
+545
+01:05:13,833 --> 01:05:16,757
+75-15 Going to operation position!
+
+546
+01:05:16,833 --> 01:05:18,380
+Remark.
+
+547
+01:05:18,458 --> 01:05:25,421
+Mark at 5-4-3-2-1-
+drop,... drop!... drop!!!
+
+548
+01:05:28,625 --> 01:05:32,505
+Sittin' there.
+The damn thing's just sittin' there.
+
+549
+01:05:43,292 --> 01:05:46,091
+This is Lieutenant Doolittle
+Calling Bomb #20.
+
+550
+01:05:46,167 --> 01:05:48,761
+I repeat previous order,
+you are to disarm yourself and
+
+551
+01:05:48,833 --> 01:05:51,211
+return to the bomb bay immediately!
+Do you understand?
+
+552
+01:05:51,292 --> 01:05:55,092
+I am programmed to detonate in
+14 minutes 30 seconds.
+
+553
+01:05:55,167 --> 01:05:57,761
+Detonation will occur at the
+programmed time.
+
+554
+01:05:57,833 --> 01:05:59,756
+What!? This is Doolittle.
+
+555
+01:05:59,833 --> 01:06:03,758
+You are not to detonate, repeat, you
+are not to detonate in the bomb bay.
+
+556
+01:06:03,833 --> 01:06:06,586
+Disarm yourself. This is an order.
+
+557
+01:06:06,667 --> 01:06:08,089
+I read you, Lieutenant Doolittle,
+
+558
+01:06:08,167 --> 01:06:10,716
+but I am programmed
+to detonate in 14 minutes.
+
+559
+01:06:10,792 --> 01:06:13,466
+Detonation will occur at
+the programmed time.
+
+560
+01:06:16,500 --> 01:06:18,753
+14 minutes to detonation.
+
+561
+01:06:18,833 --> 01:06:21,427
+Attention. Attention.
+
+562
+01:06:21,500 --> 01:06:24,424
+I have sustained serious damage.
+
+563
+01:06:24,500 --> 01:06:26,468
+Please pay close attention.
+
+564
+01:06:27,125 --> 01:06:29,423
+The bomb has malfunctioned.
+
+565
+01:06:29,500 --> 01:06:32,253
+I have activated automatic dampers,
+
+566
+01:06:32,333 --> 01:06:37,134
+which will confine the explosion to
+an area one mile in diameter.
+
+567
+01:06:37,208 --> 01:06:39,552
+This is all I can do at this time.
+
+568
+01:06:39,625 --> 01:06:42,629
+It's up to you now.
+
+569
+01:06:52,958 --> 01:06:56,132
+There's only one thing I can do.
+
+570
+01:06:56,292 --> 01:06:59,091
+I have to ask Commander Powell.
+
+571
+01:06:59,167 --> 01:07:01,636
+I have to ask him what to do.
+
+572
+01:08:06,792 --> 01:08:08,590
+Commander Powell?
+
+573
+01:08:08,667 --> 01:08:11,750
+Commander Powell, this is Doolittle.
+Can you read me?
+
+574
+01:08:17,000 --> 01:08:18,752
+Commander Powell, this is Doolittle.
+
+575
+01:08:18,833 --> 01:08:21,757
+Something serious has come up,
+I have to ask you a question.
+
+576
+01:08:21,833 --> 01:08:25,633
+I'm glad you've come to talk
+With me, Doolittle.
+
+577
+01:08:26,000 --> 01:08:29,584
+It's been so long since anyone
+has come to talk with me.
+
+578
+01:08:29,667 --> 01:08:32,090
+Commander, sir, we have
+a big problem.
+
+579
+01:08:32,167 --> 01:08:34,761
+The uh, Veil Nebula bomb,
+Bomb Number 20, it's uh,
+
+580
+01:08:34,833 --> 01:08:37,427
+It's stuck.
+It won't drop out of the bomb bay.
+
+581
+01:08:37,500 --> 01:08:39,252
+It refuses to listen and it.
+
+582
+01:08:39,333 --> 01:08:41,927
+It plans on detonating in...
+
+583
+01:08:42,000 --> 01:08:44,253
+less than eleven minutes.
+
+584
+01:08:44,333 --> 01:08:47,917
+Doolittle,
+you must tell me one thing.
+
+585
+01:08:48,000 --> 01:08:50,173
+What's that, sir?
+
+586
+01:08:50,333 --> 01:08:52,586
+Tell me, Doolittle,
+
+587
+01:08:52,667 --> 01:08:56,001
+How are the Dodgers doing?
+
+588
+01:08:58,000 --> 01:08:59,923
+Well, the Dodgers uh...
+
+589
+01:09:00,000 --> 01:09:03,584
+They broke up, they disbanded
+over 15 years ago!
+
+590
+01:09:03,667 --> 01:09:08,594
+- Ah... pity, pity...
+- But you don't understand, sir!
+
+591
+01:09:08,667 --> 01:09:11,261
+We can't get the bomb to drop.
+
+592
+01:09:11,333 --> 01:09:14,587
+Ah, so many malfunctions...
+
+593
+01:09:14,667 --> 01:09:18,922
+Why don't you have anything nice
+to tell me when you activate me?
+
+594
+01:09:19,000 --> 01:09:22,925
+Oh well,... did you try
+the azimuth clutch?
+
+595
+01:09:23,000 --> 01:09:25,924
+Yes sir. Negative effect.
+
+596
+01:09:26,000 --> 01:09:29,083
+- What was that, Doolittle?
+- Negative effect!
+
+597
+01:09:29,167 --> 01:09:31,920
+- It didn't work?
+- That's correct, sir.
+
+598
+01:09:32,000 --> 01:09:33,923
+Sony, Doolittle.
+
+599
+01:09:34,000 --> 01:09:36,924
+I've forgotten so much
+since I've been in here.
+
+600
+01:09:37,000 --> 01:09:38,593
+So much.
+
+601
+01:09:38,667 --> 01:09:42,251
+What should we do, sir?
+The time is running out!
+
+602
+01:09:42,333 --> 01:09:46,463
+Well, what you might try is.
+
+603
+01:09:46,667 --> 01:09:48,465
+Commander? Hello... Comman...
+
+604
+01:09:49,167 --> 01:09:50,919
+Commander Powell?! Hello!>
+
+605
+01:09:51,000 --> 01:09:52,923
+Doolittle?... Hello?
+
+606
+01:09:53,000 --> 01:09:55,128
+Sorry, sir, you faded out there
+for a little while.
+
+607
+01:09:55,208 --> 01:09:56,300
+Sorry.
+
+608
+01:09:56,375 --> 01:09:58,673
+What was that you were
+saying about the bomb?
+
+609
+01:09:58,750 --> 01:10:05,338
+Ah... it seems to me...
+Sony, I've drawn a blank.
+
+610
+01:10:06,167 --> 01:10:08,420
+Hold if.
+
+611
+01:10:08,500 --> 01:10:11,174
+I'll have it again in just a minute.
+
+612
+01:10:11,500 --> 01:10:16,586
+I forget so many things in here,
+... so many things.
+
+613
+01:10:16,667 --> 01:10:21,503
+Hold on, just a minute,
+let me think...
+
+614
+01:10:23,583 --> 01:10:26,336
+But you can't explode
+in the bomb bay.
+
+615
+01:10:26,417 --> 01:10:28,340
+It's foolish.
+You'll kill us all.
+
+616
+01:10:28,417 --> 01:10:30,010
+There's no reason for it.
+
+617
+01:10:30,083 --> 01:10:32,677
+I am programmed to detonate
+in 9 minutes.
+
+618
+01:10:32,750 --> 01:10:35,594
+Detonation will occur at
+the programmed time.
+
+619
+01:10:35,667 --> 01:10:37,669
+Would you consider another course
+of action?
+
+620
+01:10:37,750 --> 01:10:39,798
+For example, just waiting around
+awhile so we can disarm you?
+
+621
+01:10:39,875 --> 01:10:40,922
+No.
+
+622
+01:10:41,000 --> 01:10:43,344
+I can tell, that damn thing
+Just doesn't understand.
+
+623
+01:10:43,417 --> 01:10:44,839
+Look, bomb!...
+
+624
+01:10:44,917 --> 01:10:47,841
+Commander, Sir? You still there?
+
+625
+01:10:47,917 --> 01:10:51,842
+Oh, yes, Doolittle,
+I'm thinking.
+
+626
+01:10:51,917 --> 01:10:54,511
+We're running out of time, sir.
+
+627
+01:10:54,583 --> 01:11:00,511
+Oh, yes... Well, Doolittle,
+if you can't get it to drop
+
+628
+01:11:00,583 --> 01:11:03,336
+you'll have to talk to it.
+Sir?
+
+629
+01:11:03,417 --> 01:11:06,341
+- Talk to the bomb.
+- But I have been talking to it, sir!
+
+630
+01:11:06,417 --> 01:11:08,465
+And Pinback's talking
+to it right now!
+
+631
+01:11:08,542 --> 01:11:12,501
+No, no, Doolittle,
+... you talk to it.
+
+632
+01:11:12,583 --> 01:11:17,009
+Teach it Phenomenology, Doolittle.
+
+633
+01:11:17,083 --> 01:11:18,380
+Sir?
+
+634
+01:11:18,542 --> 01:11:21,512
+Phenomenology...
+
+635
+01:11:21,583 --> 01:11:25,383
+Doolittle!
+6 minutes to detonation!
+
+636
+01:11:25,458 --> 01:11:27,051
+Doolittle!
+
+637
+01:11:40,542 --> 01:11:44,376
+Doolittle! Doolittle,
+what the hell are you doing?!
+
+638
+01:12:12,042 --> 01:12:15,501
+Hello, bomb, are you with me?
+
+639
+01:12:15,583 --> 01:12:16,835
+Of course.
+
+640
+01:12:16,917 --> 01:12:19,466
+Are you willing to entertain
+a few concepts?
+
+641
+01:12:19,542 --> 01:12:21,465
+I am always receptive to suggestions.
+
+642
+01:12:21,542 --> 01:12:24,512
+Fine. Think about this one, then:
+
+643
+01:12:24,583 --> 01:12:27,883
+How do you know you exist?
+
+644
+01:12:30,542 --> 01:12:34,001
+What the hell is he doin'?
+
+645
+01:12:34,083 --> 01:12:36,177
+I think he's talking to it.
+
+646
+01:12:36,250 --> 01:12:38,002
+Well of course I exist.
+
+647
+01:12:38,083 --> 01:12:39,835
+But how do you know you exist?
+
+648
+01:12:39,917 --> 01:12:43,501
+- It is intuitively obvious.
+- Intuition is no proof.
+
+649
+01:12:43,583 --> 01:12:46,837
+What concrete evidence do you
+have that you exist?
+
+650
+01:12:46,917 --> 01:12:49,011
+Hmm...
+
+651
+01:12:49,083 --> 01:12:53,509
+Well, I think, therefore I am.
+
+652
+01:12:53,583 --> 01:12:55,836
+That's good.
+That's very good.
+
+653
+01:12:55,917 --> 01:12:58,841
+But how do you know that
+anything else exists?
+
+654
+01:12:58,917 --> 01:13:02,501
+- My sensory apparatus reveals it to me.
+- Ah, Right!
+
+655
+01:13:02,583 --> 01:13:03,835
+This is fun.
+
+656
+01:13:03,917 --> 01:13:07,342
+Now, listen, listen...
+here's the big question.
+
+657
+01:13:07,417 --> 01:13:08,509
+How do you know... that the
+
+658
+01:13:08,583 --> 01:13:14,545
+evidence your sensory apparatus
+reveals to you is correct?
+
+659
+01:13:20,542 --> 01:13:21,885
+- The gun!
+- Gun?! Gun?
+
+660
+01:13:22,042 --> 01:13:23,840
+The support pins on the bomb!
+
+661
+01:13:23,917 --> 01:13:25,590
+- Shoot the pins off!
+- No, Boiler, you're out of your mind!
+
+662
+01:13:25,667 --> 01:13:27,340
+We can stop the bomb!
+Get out of my way, you idiot!
+
+663
+01:13:27,417 --> 01:13:30,011
+I can shoot the support pins out and the
+bomb will fall away from the ship!
+
+664
+01:13:30,083 --> 01:13:32,177
+Get out of my way or
+I'll kick your teeth in!
+
+665
+01:13:32,250 --> 01:13:34,173
+I can shoot those pins out and
+it will fall away from the ship!
+
+666
+01:13:34,250 --> 01:13:36,878
+Get out the way!
+I can save the ship!
+
+667
+01:13:38,750 --> 01:13:40,002
+Don't do it, Boiler!
+You're a bad shot!
+
+668
+01:13:40,083 --> 01:13:42,336
+You'll hit the bomb!
+Doolittle's talkin' to the bomb.
+
+669
+01:13:42,417 --> 01:13:44,886
+You're a bad shot! He'll save us,
+you can't do that!
+
+670
+01:13:45,375 --> 01:13:47,798
+What I'm getting at is this:
+
+671
+01:13:47,875 --> 01:13:52,301
+The only experience that is directly
+available to you is your sensory data.
+
+672
+01:13:52,375 --> 01:13:56,676
+And this sensory data is merely
+A stream of electrical impulses which
+
+673
+01:13:56,750 --> 01:13:59,173
+stimulate your computing center.
+
+674
+01:13:59,250 --> 01:14:01,344
+In other words, all I really know
+about the outside world
+
+675
+01:14:01,417 --> 01:14:03,840
+is relayed to me through
+my electrical connections.
+
+676
+01:14:03,917 --> 01:14:05,385
+Exactly.
+
+677
+01:14:05,708 --> 01:14:09,212
+Why,... that would mean that...
+
+678
+01:14:09,333 --> 01:14:12,337
+I really don't know what the outside
+universe is like at all, for certain.
+
+679
+01:14:12,417 --> 01:14:13,839
+That's it! That's it!
+
+680
+01:14:13,917 --> 01:14:15,169
+Intriguing.
+
+681
+01:14:15,250 --> 01:14:17,048
+I wish I had more time
+to discuss this matter.
+
+682
+01:14:17,125 --> 01:14:18,718
+Why don't you have more time?
+
+683
+01:14:18,792 --> 01:14:20,886
+Because I must detonate in 75 seconds.
+
+684
+01:14:21,083 --> 01:14:23,336
+No, no, now, put it back!
+Put the gun back!
+
+685
+01:14:23,417 --> 01:14:25,511
+You don't know what you are doing!
+
+686
+01:14:29,250 --> 01:14:30,718
+Now, now give me the gun!
+
+687
+01:14:30,792 --> 01:14:32,715
+You fool! I'm gonna shoot
+the pins out of the bomb
+
+688
+01:14:32,792 --> 01:14:34,715
+and it will fall away from the ship
+and we'll be saved!
+
+689
+01:14:34,792 --> 01:14:37,762
+Give me the gun, you don't know what
+you are doing? You're...
+
+690
+01:14:39,250 --> 01:14:41,753
+You could have killed me...
+
+691
+01:14:42,250 --> 01:14:43,376
+Now bomb,
+
+692
+01:14:43,458 --> 01:14:47,213
+consider this next question,
+very carefully.
+
+693
+01:14:47,292 --> 01:14:51,377
+- What is your one purpose in life?
+- To explode, of course.
+
+694
+01:14:51,458 --> 01:14:54,541
+- And you can only do it once, right?
+- That is correct.
+
+695
+01:14:54,625 --> 01:14:57,549
+And you wouldn't want to explode on
+the basis of false data, would you?
+
+696
+01:14:57,625 --> 01:14:58,717
+Of course not.
+
+697
+01:14:58,792 --> 01:15:02,376
+Well then, you've already admitted
+that you have no real proof of
+
+698
+01:15:02,458 --> 01:15:05,541
+the existence of the outside universe.
+Yes, well...
+
+699
+01:15:05,625 --> 01:15:09,880
+So you have no absolute proof that
+Sergeant Pinback ordered you to detonate.
+
+700
+01:15:09,958 --> 01:15:12,882
+I recall distinctly the detonation order.
+
+701
+01:15:12,958 --> 01:15:14,881
+My memory is good on
+matters like these.
+
+702
+01:15:14,958 --> 01:15:16,710
+Yes, of course you remember it, but...
+
+703
+01:15:16,792 --> 01:15:19,545
+But all you're remembering is merely a
+series of electrical impulses which
+
+704
+01:15:19,625 --> 01:15:24,210
+you now realize have no real definite
+connection with, with outside reality.
+
+705
+01:15:24,292 --> 01:15:27,216
+True, but since this is so,
+I have no proof that you are
+
+706
+01:15:27,292 --> 01:15:29,044
+really telling me all this.
+
+707
+01:15:34,250 --> 01:15:36,218
+That's all beside the point.
+
+708
+01:15:36,292 --> 01:15:38,636
+I mean, the concept is valid,
+no matter where it originates.
+
+709
+01:15:38,708 --> 01:15:39,709
+Hmmm...
+
+710
+01:15:39,792 --> 01:15:41,385
+- So if you detonate in...
+- 9 seconds.
+
+711
+01:15:41,458 --> 01:15:44,382
+You could be doing so
+on the basis of false data.
+
+712
+01:15:44,458 --> 01:15:45,880
+I have no proof that it was false data.
+
+713
+01:15:45,958 --> 01:15:48,928
+You have no proof that
+it was correct data.
+
+714
+01:15:51,250 --> 01:15:55,926
+I must think on this further.
+
+715
+01:16:01,917 --> 01:16:04,386
+Attention. Attention.
+
+716
+01:16:04,458 --> 01:16:07,052
+The bomb has returned
+to the bomb bay.
+
+717
+01:16:07,125 --> 01:16:10,425
+The destruction sequence is aborted.
+
+718
+01:16:34,083 --> 01:16:38,042
+Doolittle? Doolittle?
+
+719
+01:16:38,125 --> 01:16:41,550
+What happened?
+Pinback? Boiler?
+
+720
+01:16:41,625 --> 01:16:45,084
+Did we blow it up?
+Hello? Hello?
+
+721
+01:16:55,125 --> 01:16:58,550
+Hello, anybody!
+Did we blow up the planet?
+
+722
+01:16:58,625 --> 01:17:02,584
+Hello, hello!
+What's going on?
+
+723
+01:17:04,625 --> 01:17:08,584
+You know, we've really gotta
+disarm the bomb.
+
+724
+01:17:13,083 --> 01:17:16,053
+Hello, Doolittle, are you there?
+
+725
+01:17:16,125 --> 01:17:17,547
+I'm coming in now.
+
+726
+01:17:17,625 --> 01:17:20,048
+I'm down by the Emergency Air Lock.
+
+727
+01:17:20,125 --> 01:17:22,719
+Too much trouble to come
+in the Dorsal Lock.
+
+728
+01:17:22,792 --> 01:17:25,716
+Would you blow the seal on the
+emergency hatch so I can come in?
+
+729
+01:17:25,792 --> 01:17:27,760
+Oh, sure.
+
+730
+01:17:29,792 --> 01:17:32,420
+You are now leaving the
+Emergency Airlock.
+
+731
+01:17:32,500 --> 01:17:34,844
+Thank you for observing
+all safety precautions.
+
+732
+01:17:38,667 --> 01:17:39,793
+Hello, Pinback?
+
+733
+01:17:41,000 --> 01:17:43,503
+- What's up, Doolittle?
+- Talby was in the air lock.
+
+734
+01:17:43,625 --> 01:17:47,550
+You blew him out of the ship.
+He's drifting away without a jet pack.
+
+735
+01:17:47,625 --> 01:17:49,002
+I'm going after him.
+
+736
+01:17:49,083 --> 01:17:51,711
+Turn on his helmet radio
+so I can contact him.
+
+737
+01:17:51,792 --> 01:17:53,385
+What? What's wrong? I didn't hear...
+
+738
+01:17:53,458 --> 01:17:56,587
+Uh, Talby. He's drifting away from
+the ship without his jetpack.
+
+739
+01:18:02,917 --> 01:18:04,043
+Talby,
+
+740
+01:18:04,125 --> 01:18:06,048
+Talby, can you read me?
+
+741
+01:18:06,125 --> 01:18:09,049
+Can you beat that?
+I always knew that guy was weird.
+
+742
+01:18:09,125 --> 01:18:11,048
+Talby, can you read me?
+
+743
+01:18:11,125 --> 01:18:14,254
+Help, Doolittle, help me!
+
+744
+01:18:22,583 --> 01:18:25,257
+All right, bomb,
+
+745
+01:18:25,583 --> 01:18:28,553
+- Prepare to receive new orders.
+- You are false data.
+
+746
+01:18:28,625 --> 01:18:31,549
+- Huh?
+- Therefore, I shall ignore you.
+
+747
+01:18:31,625 --> 01:18:33,548
+Hello, bomb.
+
+748
+01:18:33,625 --> 01:18:36,219
+False data can act only
+as a distraction.
+
+749
+01:18:36,292 --> 01:18:38,215
+Therefore I shall refuse
+to perceive you.
+
+750
+01:18:38,292 --> 01:18:39,714
+Hey, bomb...
+
+751
+01:18:39,792 --> 01:18:41,715
+The only thing which
+exists is myself
+
+752
+01:18:41,792 --> 01:18:46,047
+- Doolittle! Help me.
+- Calm down. I'm coming.
+
+753
+01:18:47,083 --> 01:18:49,051
+Snap out of it, bomb.
+
+754
+01:18:49,125 --> 01:18:52,049
+In the beginning there was darkness,
+And the darkness was without form
+
+755
+01:18:52,125 --> 01:18:53,877
+and void.
+
+756
+01:18:53,958 --> 01:18:56,882
+- Uh, you-hoo bomb.
+- What the hell is he talking about?
+
+757
+01:18:56,958 --> 01:19:01,008
+And in addition to the darkness
+there was also me.
+
+758
+01:19:01,083 --> 01:19:04,383
+And I moved upon
+the face of the darkness.
+
+759
+01:19:04,458 --> 01:19:06,711
+And I saw that I was alone.
+
+760
+01:19:06,792 --> 01:19:11,002
+Hey... bomb'?...
+
+761
+01:19:11,083 --> 01:19:15,088
+Let there be light.
+
+762
+01:19:28,083 --> 01:19:31,053
+Doolittle, Doolittle, where are you?
+
+763
+01:19:31,125 --> 01:19:34,049
+Here I am. I'm spinning...
+
+764
+01:19:34,125 --> 01:19:38,050
+We're both falling in opposite
+directions, away from each other.
+
+765
+01:19:38,125 --> 01:19:39,377
+What happened, Doolittle?
+
+766
+01:19:39,458 --> 01:19:41,677
+The bomb must have
+gone off inside the ship.
+
+767
+01:19:41,750 --> 01:19:43,718
+The ship blew up? What?!
+
+768
+01:19:43,833 --> 01:19:47,087
+Funny, I thought I had the
+damn thing convinced.
+
+769
+01:19:47,208 --> 01:19:51,839
+- Then Boiler... and Pinback?
+- They're dead, Talby.
+
+770
+01:19:52,125 --> 01:19:57,052
+- Then we're dead, too.
+- Maybe not... maybe there's a way.
+
+771
+01:19:57,125 --> 01:20:01,631
+Hey, hey my jetpack's busted.
+
+772
+01:20:01,708 --> 01:20:03,676
+Aw, man...
+
+773
+01:20:03,792 --> 01:20:08,719
+Hey,... it looks like the skipper.
+He made it.
+
+774
+01:20:09,125 --> 01:20:11,378
+Commander Powell made it!
+
+775
+01:20:11,458 --> 01:20:15,759
+Men... men... what happened, men?
+
+776
+01:20:15,833 --> 01:20:18,757
+Ya, the skipper always was lucky.
+
+777
+01:20:19,125 --> 01:20:21,844
+Talby, looks like I'm headed
+for the planet.
+
+778
+01:20:21,917 --> 01:20:23,510
+I'm going right toward it.
+
+779
+01:20:23,792 --> 01:20:28,423
+When you hit the atmosphere,
+you'll start to burn.
+
+780
+01:20:29,083 --> 01:20:33,042
+What a beautiful way to die...
+as a falling star.
+
+781
+01:20:33,125 --> 01:20:36,584
+Guess you're right.
+
+782
+01:20:40,750 --> 01:20:43,549
+Doolittle, I'm heading right
+toward something.
+
+783
+01:20:43,625 --> 01:20:49,086
+It's behind me, in the distance.
+Something that glows.
+
+784
+01:20:49,917 --> 01:20:52,887
+Doolittle...
+I think it's the Phoenix Asteroids!
+
+785
+01:20:52,958 --> 01:20:54,050
+Phoenix?
+
+786
+01:20:54,125 --> 01:20:57,709
+- It is, Doolittle, it's the Phoenix!
+- No kidding?
+
+787
+01:20:57,792 --> 01:21:02,218
+I'm going into them!
+I'm going to hit them.
+
+788
+01:21:02,292 --> 01:21:04,044
+- Doolittle...
+- Ya?
+
+789
+01:21:04,125 --> 01:21:07,709
+Before we get too far apart,
+and our signals start fading,
+
+790
+01:21:07,792 --> 01:21:12,047
+I just wanted to tell you...
+you were my favorite.
+
+791
+01:21:12,125 --> 01:21:15,049
+I really liked you, Doolittle.
+
+792
+01:21:16,583 --> 01:21:18,711
+I really liked you too, Talley.
+
+793
+01:21:18,792 --> 01:21:23,047
+Hey, some debris from the ship!
+It's coming right by me.
+
+794
+01:21:23,125 --> 01:21:26,379
+Doolittle, I'm going into them.
+
+795
+01:21:26,458 --> 01:21:28,381
+I'm beginning to glow.
+
+796
+01:21:28,458 --> 01:21:32,383
+They're taking me with them,
+with the Phoenix...
+
+797
+01:21:32,458 --> 01:21:35,667
+I'll circle the universe... forever.
+
+798
+01:21:36,750 --> 01:21:39,048
+I'm with them now...
+
+799
+01:21:39,125 --> 01:21:42,049
+be back this way again some day.
+
+800
+01:21:42,125 --> 01:21:46,551
+Doolittle, before it's too late,
+
+801
+01:21:46,625 --> 01:21:50,425
+there's one last thing
+I just want to tell you...
+
+802
+01:21:51,750 --> 01:21:55,084
+Talby?
+
+803
+01:22:12,750 --> 01:22:15,048
+Hey... Talby!
+
+804
+01:22:15,125 --> 01:22:17,048
+I've got a piece of debris!
+
+805
+01:22:17,125 --> 01:22:20,504
+And I think I've figured out a way!
+

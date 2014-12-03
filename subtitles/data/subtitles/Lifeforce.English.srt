@@ -1,0 +1,4521 @@
+0
+00:00:01,000 --> 00:00:04,000
+Downloaded From www.AllSubs.org
+
+1
+00:01:42,702 --> 00:01:45,398
+August 9, 2:30 p.m.
+Greenwich Mean Time.
+
+2
+00:01:45,472 --> 00:01:47,736
+The H.M.S. Churchill,
+outward bound.
+
+3
+00:01:47,807 --> 00:01:50,605
+On board: a joint
+British-American space team.
+
+4
+00:01:50,677 --> 00:01:55,046
+Their mission: to intercept and study
+the comet bearing Dr. Halley's name.
+
+5
+00:01:55,115 --> 00:01:59,051
+The Churchill is the first spacecraft
+equipped with the Nerva engine.
+
+6
+00:01:59,119 --> 00:02:01,917
+It propels the Churchill
+with constant acceleration...
+
+7
+00:02:01,988 --> 00:02:05,651
+enough to create Earth-type gravity for
+the first time on an extended flight.
+
+8
+00:02:05,725 --> 00:02:10,025
+The Churchill is on course
+for its rendezvous.
+
+9
+00:02:10,096 --> 00:02:12,860
+- Sir, this is odd.
+- What?
+
+10
+00:02:12,932 --> 00:02:14,490
+I'm getting a small radar
+cross section...
+
+11
+00:02:14,567 --> 00:02:17,730
+just ahead of the nucleus
+in the coma of the comet.
+
+12
+00:02:17,804 --> 00:02:22,036
+I've got it too. Check the length.
+It's at the limit of my scan angle.
+
+13
+00:02:22,108 --> 00:02:24,201
+- What's going on?
+- You run an equipment check?
+
+14
+00:02:24,277 --> 00:02:25,904
+Every five minutes.
+
+15
+00:02:25,979 --> 00:02:28,880
+- Radar states 150 miles.
+- 150 miles what?
+
+16
+00:02:28,948 --> 00:02:31,883
+- Length.
+- 150 miles long?
+
+17
+00:02:33,286 --> 00:02:34,913
+What's 150 miles long?
+
+18
+00:02:34,988 --> 00:02:36,649
+It's a radar trace.
+
+19
+00:02:36,723 --> 00:02:40,250
+- Something in the coma of the comet.
+- Show me.
+
+20
+00:02:40,326 --> 00:02:43,727
+- E.G.R. is confirmed.
+- Looks good.
+
+21
+00:02:43,796 --> 00:02:45,229
+E.G.R. is optimal.
+
+22
+00:02:45,298 --> 00:02:46,856
+Track three on three.
+
+23
+00:02:46,933 --> 00:02:48,366
+Roger.
+
+24
+00:02:49,435 --> 00:02:51,369
+What's its height?
+
+25
+00:02:51,437 --> 00:02:54,736
+I've got a vertical reading
+of two miles at least.
+
+26
+00:02:54,807 --> 00:02:57,173
+Ambient temperature: six degrees.
+
+27
+00:02:57,243 --> 00:02:59,609
+Less than two percent traces
+of manganese, titanium--
+
+28
+00:02:59,679 --> 00:03:01,112
+Try and raise base.
+
+29
+00:03:01,181 --> 00:03:04,014
+Tell them we have an artificial
+object out here hidden--
+
+30
+00:03:04,083 --> 00:03:07,849
+- Are you sure you want to say "hidden"?
+- It's located in the head of the comet.
+
+31
+00:03:07,921 --> 00:03:10,685
+Keep sending that
+until they acknowledge.
+
+32
+00:03:10,757 --> 00:03:12,520
+Use a secured downlink.
+
+33
+00:03:12,592 --> 00:03:15,618
+Sorry, Commander, everything's
+been swamped by the coma winds.
+
+34
+00:03:15,695 --> 00:03:17,754
+We can't get anything back to base.
+
+35
+00:03:17,830 --> 00:03:19,855
+How long is the blackout period?
+
+36
+00:03:19,933 --> 00:03:21,958
+All the way.
+
+37
+00:03:33,713 --> 00:03:36,045
+What are you gonna do?
+
+38
+00:03:36,115 --> 00:03:37,548
+Go on in.
+
+39
+00:03:39,953 --> 00:03:42,183
+We're only gonna get one chance,
+Derebridge.
+
+40
+00:03:43,623 --> 00:03:47,218
+That thing won't be back
+for another 76 years...
+
+41
+00:03:47,293 --> 00:03:49,887
+and we'll both be dead.
+
+42
+00:03:49,963 --> 00:03:52,056
+We have to take a look now.
+
+43
+00:04:01,841 --> 00:04:05,106
+- Shut down Nerva.
+- Shutting down.
+
+44
+00:04:05,178 --> 00:04:07,009
+Down.
+
+45
+00:04:17,924 --> 00:04:21,860
+- Solar panels retracted.
+- Check. Give me a readout, Bob.
+
+46
+00:04:57,263 --> 00:04:59,561
+Executing E.V.A. maneuver.
+
+47
+00:05:12,745 --> 00:05:15,339
+Where do you suppose
+this thing came from?
+
+48
+00:05:16,783 --> 00:05:20,617
+- Was it exploring the comet?
+- Come on, guys, let's do it.
+
+49
+00:05:21,921 --> 00:05:24,014
+The surface looks badly pitted.
+
+50
+00:05:24,090 --> 00:05:27,184
+In that case,
+it's been here a long time.
+
+51
+00:05:27,260 --> 00:05:29,353
+It's derelict, whatever it is.
+
+52
+00:05:29,429 --> 00:05:32,523
+Stand by, Churchill.
+We're going in.
+
+53
+00:05:32,598 --> 00:05:35,863
+Roger, Carlsen.
+We copy. We have you going in.
+
+54
+00:05:38,938 --> 00:05:44,035
+Churchill, it looks like
+some giant artery, organic.
+
+55
+00:05:44,110 --> 00:05:46,874
+I almost have the feeling
+I've been here before.
+
+56
+00:05:50,950 --> 00:05:52,713
+Oh, boy.
+
+57
+00:05:59,392 --> 00:06:01,826
+This is incredible.
+
+58
+00:06:01,894 --> 00:06:05,159
+I hope you can appreciate
+the scale of this on the video.
+
+59
+00:06:05,231 --> 00:06:07,825
+Roger. We're getting it.
+It's all on tape.
+
+60
+00:06:11,838 --> 00:06:13,271
+Oh, shit.
+
+61
+00:06:13,339 --> 00:06:16,331
+Whoa. Here they are.
+
+62
+00:06:25,017 --> 00:06:26,484
+Churchill...
+
+63
+00:06:26,552 --> 00:06:29,612
+it looks like we found the occupants
+of the ship.
+
+64
+00:06:31,057 --> 00:06:34,925
+They look like giant bats.
+
+65
+00:06:44,203 --> 00:06:49,800
+- There must be hundreds of them.
+- Thousands.
+
+66
+00:06:49,876 --> 00:06:52,140
+Dead, I hope.
+
+67
+00:07:08,327 --> 00:07:10,318
+Looks prehistoric.
+
+68
+00:07:18,271 --> 00:07:20,205
+It's completely desiccated.
+
+69
+00:07:24,410 --> 00:07:29,438
+- Crumbles.
+- Y es, it would.
+
+70
+00:07:29,515 --> 00:07:32,746
+All the fluid's been lost
+to space over the years.
+
+71
+00:07:41,060 --> 00:07:44,052
+We'll bag this one,
+take it with us.
+
+72
+00:07:44,130 --> 00:07:47,930
+We're deploying
+the specimen bag.
+
+73
+00:08:05,551 --> 00:08:06,984
+Jesus.
+
+74
+00:08:07,053 --> 00:08:09,783
+What the hell is that?
+
+75
+00:08:10,389 --> 00:08:11,822
+Commander...
+
+76
+00:08:11,891 --> 00:08:14,257
+the ship has just deployed a--
+
+77
+00:08:14,327 --> 00:08:18,354
+It looks like some sort
+of big structure that's just unfolding.
+
+78
+00:08:18,431 --> 00:08:19,955
+It's enormous.
+
+79
+00:08:21,300 --> 00:08:24,394
+God, what is it?
+
+80
+00:08:31,511 --> 00:08:32,876
+We must get out of here.
+
+81
+00:08:32,945 --> 00:08:34,845
+Nobody's going anywhere.
+Stay where you are.
+
+82
+00:08:36,249 --> 00:08:39,514
+Churchill, this is Carlsen.
+What's happening out there?
+
+83
+00:08:39,585 --> 00:08:41,280
+The thing stopped opening.
+
+84
+00:08:41,354 --> 00:08:45,586
+The only way to describe it is
+it's like a giant umbrella.
+
+85
+00:08:45,658 --> 00:08:49,594
+Good God.
+It's absolutely enormous.
+
+86
+00:08:49,662 --> 00:08:51,459
+What's it doing now?
+
+87
+00:08:52,565 --> 00:08:53,998
+Nothing, sir.
+
+88
+00:08:57,937 --> 00:08:59,598
+It's stopped opening.
+
+89
+00:08:59,672 --> 00:09:01,902
+It's just sitting there.
+
+90
+00:09:01,974 --> 00:09:05,842
+- Can you tell what it's made of?
+- Not metal.
+
+91
+00:09:05,912 --> 00:09:07,709
+It's radar transparent.
+
+92
+00:09:09,849 --> 00:09:11,612
+Okay.
+
+93
+00:09:11,684 --> 00:09:13,914
+If it starts up again,
+let me know.
+
+94
+00:09:13,986 --> 00:09:16,386
+Any activity out there.
+You understand?
+
+95
+00:09:16,455 --> 00:09:17,888
+Y es, sir.
+
+96
+00:09:26,098 --> 00:09:28,032
+That's where we're going.
+
+97
+00:10:26,959 --> 00:10:29,484
+There's something there.
+
+98
+00:10:29,562 --> 00:10:31,860
+Commander, this is Churchill.
+
+99
+00:10:31,931 --> 00:10:34,900
+We're losing our signal.
+We've lost V.T.R.
+
+100
+00:10:34,967 --> 00:10:36,696
+Come in, Commander!
+
+101
+00:10:55,121 --> 00:10:58,056
+Three bodies.
+
+102
+00:10:58,124 --> 00:11:00,183
+Perfectly preserved.
+
+103
+00:11:02,528 --> 00:11:05,622
+They look to me
+to be like an--
+
+104
+00:11:05,698 --> 00:11:08,690
+Something's happening to me.
+
+105
+00:11:08,768 --> 00:11:11,202
+What's wrong with me?
+
+106
+00:11:26,952 --> 00:11:28,385
+Commander, come in.
+
+107
+00:11:28,454 --> 00:11:31,389
+This is Churchill.
+Do you copy?
+
+108
+00:11:35,461 --> 00:11:39,056
+They seem to be in some sort
+of suspended animation or sleep.
+
+109
+00:11:39,131 --> 00:11:40,598
+Hold on.
+We're coming down.
+
+110
+00:12:03,756 --> 00:12:06,782
+Churchill, if you read...
+
+111
+00:12:06,859 --> 00:12:10,022
+there are two nude males
+and one female.
+
+112
+00:12:10,096 --> 00:12:14,658
+This is Churchill.
+We have no picture. Come in, Tom.
+
+113
+00:12:14,734 --> 00:12:19,637
+Churchill,
+I said we found a young girl.
+
+114
+00:12:19,705 --> 00:12:22,572
+"Girl"? You mean human?
+
+115
+00:12:22,641 --> 00:12:25,041
+Definitely humanoid.
+
+116
+00:12:25,111 --> 00:12:27,045
+I'd say she's perfect.
+
+117
+00:12:27,113 --> 00:12:30,549
+I've been in space for six months.
+She looks perfect to me.
+
+118
+00:12:36,355 --> 00:12:40,416
+- Derebridge, what's wrong?
+- What's wrong?
+
+119
+00:12:52,805 --> 00:12:57,435
+- How many do you want to take back?
+- I say we take back all three...
+
+120
+00:12:57,510 --> 00:13:00,673
+and one of the dead things
+in the other chamber.
+
+121
+00:13:00,746 --> 00:13:04,546
+Let's see if we can break them free.
+
+122
+00:13:25,171 --> 00:13:27,537
+Churchill, come in.
+This is Mission Control, Great Britain.
+
+123
+00:13:27,606 --> 00:13:29,540
+Do you copy?
+
+124
+00:13:29,608 --> 00:13:32,304
+If they're going to pick us up,
+they should get us this close.
+
+125
+00:13:32,378 --> 00:13:34,608
+Simply aren't receiving,
+Dr. Bukovsky.
+
+126
+00:13:34,680 --> 00:13:37,706
+Automatic circuits don't even respond.
+
+127
+00:13:38,851 --> 00:13:40,978
+They're radio dead.
+
+128
+00:13:41,053 --> 00:13:44,887
+Christ, I hope it's just
+their communications.
+
+129
+00:13:56,535 --> 00:13:58,298
+How's their orbit look?
+
+130
+00:13:58,370 --> 00:14:01,806
+You can see it's stable,
+but they're slightly off.
+
+131
+00:14:01,874 --> 00:14:03,307
+They should have adjusted
+coming in...
+
+132
+00:14:03,375 --> 00:14:04,933
+but they haven't.
+
+133
+00:14:05,010 --> 00:14:06,443
+What do you make of that?
+
+134
+00:14:06,512 --> 00:14:08,878
+It would appear that
+they set their course...
+
+135
+00:14:08,948 --> 00:14:12,384
+just after they left the comet
+and haven't updated it since.
+
+136
+00:14:18,824 --> 00:14:22,089
+- The Columbia?
+- The Columbia.
+
+137
+00:14:22,161 --> 00:14:25,358
+We have a liftoff.
+
+138
+00:14:30,703 --> 00:14:32,193
+Tower cleared.
+
+139
+00:14:42,715 --> 00:14:45,013
+Control, this is Columbia.
+
+140
+00:14:45,084 --> 00:14:47,109
+Are we cleared
+to initiate docking procedure?
+
+141
+00:14:47,186 --> 00:14:49,711
+Go ahead, Columbia.
+You are looking good.
+
+142
+00:14:49,788 --> 00:14:52,256
+Stand by for soft dock.
+
+143
+00:14:53,425 --> 00:14:54,858
+Soft dock.
+
+144
+00:14:57,963 --> 00:14:59,396
+Soft dock confirmed.
+
+145
+00:16:11,670 --> 00:16:14,901
+Columbia,
+the ship's completely gutted.
+
+146
+00:16:14,974 --> 00:16:16,464
+Oh, my God.
+
+147
+00:16:16,542 --> 00:16:20,774
+Houston, we have a problem.
+There's been a fire.
+
+148
+00:16:25,851 --> 00:16:29,514
+I'll take a look in the tug bay.
+You two, try the top deck.
+
+149
+00:16:56,015 --> 00:16:58,142
+Columbia, they're all dead.
+
+150
+00:16:59,618 --> 00:17:02,644
+Nothing down here, Columbia.
+I'm going into the tug bay.
+
+151
+00:17:05,991 --> 00:17:07,424
+I'll get the tapes.
+
+152
+00:17:38,390 --> 00:17:39,823
+Somner...
+
+153
+00:17:39,892 --> 00:17:42,383
+there's something you ought to see
+in the tug bay.
+
+154
+00:17:58,177 --> 00:18:02,671
+I see.
+How did you open the girl's case?
+
+155
+00:18:02,748 --> 00:18:04,477
+We didn't, Minister.
+
+156
+00:18:04,550 --> 00:18:08,350
+We were talking about how to get it open
+when it popped open of its own accord.
+
+157
+00:18:08,420 --> 00:18:11,719
+- Did you X-ray the crystal cases?
+- We're not certain they're crystal.
+
+158
+00:18:11,790 --> 00:18:15,248
+The casings are not metallic.
+I'm not even sure they're organic.
+
+159
+00:18:15,327 --> 00:18:18,922
+The casing is right there
+in front of us without being there...
+
+160
+00:18:18,997 --> 00:18:21,431
+- if that makes any sense.
+- And the bodies?
+
+161
+00:18:22,668 --> 00:18:24,158
+We're going to do
+our first dissection now.
+
+162
+00:18:26,171 --> 00:18:28,969
+Provided, of course,
+that Dr. Fallada agrees they're dead.
+
+163
+00:18:33,812 --> 00:18:36,838
+I don't know that I am qualified
+to pass judgment on alien death.
+
+164
+00:18:36,915 --> 00:18:39,179
+You would agree that
+they're less alive than we are?
+
+165
+00:18:40,986 --> 00:18:45,355
+Yesterday in Hong Kong,
+gold closed lower.
+
+166
+00:18:45,424 --> 00:18:48,291
+In light trading
+on European currency markets...
+
+167
+00:18:48,360 --> 00:18:51,193
+the pound closed mixed against
+the dollar and West German marks.
+
+168
+00:18:53,465 --> 00:18:56,525
+There will be a full market report
+after the late news.
+
+169
+00:18:56,602 --> 00:18:59,935
+This is James Graham
+reporting from the city.
+
+170
+00:19:00,005 --> 00:19:01,939
+Now back to the newsroom.
+
+171
+00:19:08,747 --> 00:19:11,113
+Halley's Comet is now
+dominating the northern sky...
+
+172
+00:19:11,183 --> 00:19:13,651
+stretching over 100 million miles
+across the heavens...
+
+173
+00:19:13,719 --> 00:19:16,882
+occupying one-sixth
+of the entire visible horizon.
+
+174
+00:19:16,955 --> 00:19:19,253
+On this exceptionally clear night...
+
+175
+00:19:19,324 --> 00:19:22,987
+a group of enthusiasts are commemorating
+Dr. Edmund Halley's great prediction...
+
+176
+00:19:23,061 --> 00:19:26,997
+by holding an outdoor watching from
+his original observatory at Greenwich.
+
+177
+00:19:27,065 --> 00:19:28,999
+Our viewers may be interested
+to know...
+
+178
+00:19:29,067 --> 00:19:32,764
+that comets were once considered
+to be hargingers of evil.
+
+179
+00:19:32,838 --> 00:19:35,671
+One of the earliest words
+for comet was "disaster"...
+
+180
+00:19:35,741 --> 00:19:38,073
+which in Latin means "evil star."
+
+181
+00:19:38,143 --> 00:19:42,170
+It may indeed be an evil star
+for the deep space probe Churchill.
+
+182
+00:19:42,247 --> 00:19:45,876
+There's still no word from Her Majesty's
+government as to the fate of the crew...
+
+183
+00:19:45,951 --> 00:19:47,782
+whether they're alive or dead.
+
+184
+00:19:47,853 --> 00:19:49,548
+We can only await
+further developments--
+
+185
+00:23:11,223 --> 00:23:12,690
+Use my body.
+
+186
+00:23:48,660 --> 00:23:51,220
+- Where's the girl?
+- She's gone.
+
+187
+00:23:54,900 --> 00:23:56,333
+I saw her.
+
+188
+00:24:00,906 --> 00:24:02,737
+She did that.
+
+189
+00:24:06,411 --> 00:24:08,811
+- Security.
+- Hello. Professor Fallada here.
+
+190
+00:24:08,880 --> 00:24:10,973
+I'm calling
+at Dr. Bukovsky's orders.
+
+191
+00:24:11,049 --> 00:24:14,917
+- Get me the duty security captain now.
+- Yes, sir.
+
+192
+00:24:14,986 --> 00:24:16,419
+Don't worry.
+
+193
+00:24:16,488 --> 00:24:19,855
+A naked girl is not going
+to get out of this complex.
+
+194
+00:24:57,496 --> 00:25:01,398
+Four-nine to Control. You'll
+never believe what I'm looking at.
+
+195
+00:25:04,336 --> 00:25:07,601
+- Control, can you say that again?
+- I believe you heard me.
+
+196
+00:25:07,672 --> 00:25:10,835
+There's a girl on the loose
+in the building. She must not leave.
+
+197
+00:25:10,909 --> 00:25:13,571
+Pardon me, but I thought you said
+she was naked.
+
+198
+00:25:13,645 --> 00:25:16,512
+That's right. That's what I said.
+Surely, you can find her.
+
+199
+00:25:16,581 --> 00:25:18,515
+Must be some kind of joke.
+
+200
+00:25:24,389 --> 00:25:25,822
+Don't believe it.
+
+201
+00:25:28,360 --> 00:25:30,521
+All right, miss,
+just stay where you are.
+
+202
+00:25:30,595 --> 00:25:32,563
+You heard them.
+They said grab her.
+
+203
+00:25:32,631 --> 00:25:35,691
+Take it easy, mate.
+She's not in her right mind.
+
+204
+00:25:35,767 --> 00:25:39,203
+Control, we have located the girl
+in the main lobby.
+
+205
+00:25:40,605 --> 00:25:42,436
+That's it. Come on.
+
+206
+00:25:43,742 --> 00:25:45,767
+- Yes?
+- We've located the girl, sir.
+
+207
+00:25:45,844 --> 00:25:48,244
+- Where?
+- She's downstairs in the main lobby.
+
+208
+00:25:48,313 --> 00:25:50,110
+Right.
+
+209
+00:25:50,181 --> 00:25:54,515
+She's in the main lobby.
+You all right to go down there?
+
+210
+00:25:55,720 --> 00:25:58,018
+Nice and easy.
+
+211
+00:25:58,089 --> 00:26:01,718
+Come on.
+Come to me.
+
+212
+00:26:01,793 --> 00:26:03,761
+Come to Daddy.
+
+213
+00:26:13,905 --> 00:26:16,396
+Make it stop.
+
+214
+00:26:16,474 --> 00:26:19,034
+Come on!
+Let's get her!
+
+215
+00:27:05,824 --> 00:27:07,655
+- Are you all right, mate?
+- Y eah.
+
+216
+00:27:30,749 --> 00:27:35,846
+All nonmilitary personnel
+please clear the area.
+
+217
+00:27:35,920 --> 00:27:40,254
+I repeat: Everybody who has
+no business to be here...
+
+218
+00:27:40,325 --> 00:27:44,261
+please clear the area
+for your own safety.
+
+219
+00:27:44,329 --> 00:27:46,092
+This is a police announcement.
+
+220
+00:27:49,601 --> 00:27:52,900
+Sorry, gentlemen,
+no photographs, please.
+
+221
+00:27:54,439 --> 00:27:56,202
+It's all right.
+
+222
+00:27:56,274 --> 00:28:00,506
+- Which of you is Dr. Bukovsky?
+- I am.
+
+223
+00:28:00,578 --> 00:28:03,706
+- I'm Colonel Caine.
+- From the S.A.S.?
+
+224
+00:28:03,782 --> 00:28:07,775
+That last remark is not for publication.
+This is a D notice situation.
+
+225
+00:28:22,233 --> 00:28:23,666
+Not too close.
+
+226
+00:28:27,405 --> 00:28:31,000
+And this was murder, you say?
+
+227
+00:28:36,414 --> 00:28:39,008
+Tell me again
+how the girl overpowered you.
+
+228
+00:28:41,252 --> 00:28:42,685
+She--
+
+229
+00:28:45,590 --> 00:28:49,185
+It was the most overwhelmingly
+feminine presence I've ever encountered.
+
+230
+00:28:50,595 --> 00:28:53,689
+- I was drawn to her on a level that--
+- Was it sexual?
+
+231
+00:28:53,765 --> 00:28:57,701
+Yes, overwhelmingly so.
+
+232
+00:28:57,769 --> 00:29:01,728
+And horrible.
+Loss of control.
+
+233
+00:29:01,806 --> 00:29:03,797
+The guard was dead
+when you came into the room?
+
+234
+00:29:03,875 --> 00:29:07,242
+- You found him as he is now?
+- Yeah.
+
+235
+00:29:07,312 --> 00:29:10,543
+And the girl came from the ship
+Churchill?
+
+236
+00:29:10,615 --> 00:29:12,139
+Uh-huh.
+
+237
+00:29:12,217 --> 00:29:15,709
+She spoke to you, in English?
+
+238
+00:29:15,787 --> 00:29:17,311
+That's right.
+
+239
+00:29:17,388 --> 00:29:20,152
+How would she know English?
+
+240
+00:29:20,225 --> 00:29:24,161
+Going back, you say the ship's tapes
+were destroyed in the fire.
+
+241
+00:29:24,229 --> 00:29:26,163
+They weren't destroyed
+in the fire.
+
+242
+00:29:26,231 --> 00:29:28,825
+That's what we were told
+to tell the public. They were erased.
+
+243
+00:29:28,900 --> 00:29:30,333
+"Erased"?
+
+244
+00:29:30,401 --> 00:29:32,665
+Also, the Churchill's escape pod
+is missing.
+
+245
+00:29:32,737 --> 00:29:35,365
+- Did someone escape?
+- We don't know.
+
+246
+00:29:35,440 --> 00:29:37,499
+Unfortunately, the condition
+of the bodies...
+
+247
+00:29:37,575 --> 00:29:40,169
+make an accurate count
+impossible.
+
+248
+00:29:40,245 --> 00:29:42,509
+Could the heat from the fire
+have launched the pod?
+
+249
+00:29:46,584 --> 00:29:48,518
+What started the fire?
+
+250
+00:29:51,156 --> 00:29:56,025
+The ship's oxygen system ignited.
+It was a terribly hot fire.
+
+251
+00:29:56,094 --> 00:30:00,963
+Y et you say the three cases
+containing the bodies were untouched.
+
+252
+00:30:01,032 --> 00:30:03,193
+- That's correct.
+- Where were they found?
+
+253
+00:30:03,268 --> 00:30:05,532
+In the bay
+where the space tug was stored.
+
+254
+00:30:05,603 --> 00:30:07,696
+Where everything else was charred.
+
+255
+00:30:09,274 --> 00:30:12,038
+Incredible, is it not?
+
+256
+00:30:13,978 --> 00:30:19,610
+- Have you examined the cases?
+- Using every technique we have.
+
+257
+00:30:19,684 --> 00:30:21,914
+X-ray scans of the cases
+yield only blurred images.
+
+258
+00:30:21,986 --> 00:30:26,889
+-What does that mean?
+-They're not precisely physical objects.
+
+259
+00:30:26,958 --> 00:30:28,926
+More like a force field.
+
+260
+00:30:28,993 --> 00:30:33,054
+We're a bit out of our depth here.
+The whole thing is--
+
+261
+00:30:33,131 --> 00:30:36,066
+Yes, I know, incredible.
+
+262
+00:30:37,468 --> 00:30:41,029
+Have they done an autopsy yet
+on the guard? I suppose not.
+
+263
+00:30:41,105 --> 00:30:42,538
+What about your two other bodies?
+
+264
+00:30:44,475 --> 00:30:47,535
+Colonel, may I be excused?
+
+265
+00:30:47,612 --> 00:30:50,240
+I seem to be feeling
+a little more nauseous than I thought.
+
+266
+00:30:50,315 --> 00:30:51,748
+Y es, of course.
+
+267
+00:31:00,425 --> 00:31:03,394
+I noticed from your door, Dr. Fallada,
+that your area is biochemistry.
+
+268
+00:31:04,929 --> 00:31:06,863
+But I understand
+your real interest is--
+
+269
+00:31:06,931 --> 00:31:09,195
+Death, Colonel Caine.
+Correct.
+
+270
+00:31:09,267 --> 00:31:11,201
+Thanatology is the name for it.
+
+271
+00:31:11,269 --> 00:31:13,703
+Death for you
+is a bureaucratic problem.
+
+272
+00:31:13,771 --> 00:31:16,365
+Who did it? When?
+Why did they do it?
+
+273
+00:31:16,441 --> 00:31:19,035
+- Am I correct?
+- And for you?
+
+274
+00:31:20,111 --> 00:31:22,045
+I'm fascinated by death itself:
+
+275
+00:31:22,113 --> 00:31:25,344
+what happens as we die, when we die,
+what happens after we die.
+
+276
+00:31:25,416 --> 00:31:27,714
+- You mean life after death?
+- Yes.
+
+277
+00:31:27,785 --> 00:31:33,223
+- Is there life after death?
+- Do you really want to know?
+
+278
+00:31:37,629 --> 00:31:41,690
+But to answer your question,
+yes, I think there is.
+
+279
+00:31:41,766 --> 00:31:45,566
+If I am correct, the lifeforce
+is conserved always...
+
+280
+00:31:45,637 --> 00:31:47,605
+and in all things,
+even after death.
+
+281
+00:31:47,672 --> 00:31:50,436
+You think that applies
+to what's happened here tonight?
+
+282
+00:31:50,508 --> 00:31:53,909
+Yes, I do.
+
+283
+00:31:53,978 --> 00:31:57,414
+I think that girl, creature...
+
+284
+00:31:57,482 --> 00:32:00,178
+drained energy, lifeforce...
+
+285
+00:32:00,251 --> 00:32:04,847
+partially from Bukovsky
+and totally from the guard.
+
+286
+00:32:04,923 --> 00:32:08,620
+- A vampire?
+- It could be described that way.
+
+287
+00:32:08,693 --> 00:32:10,684
+In a sense, we're all vampires.
+
+288
+00:32:10,762 --> 00:32:14,323
+We drain energy
+from other life-forms.
+
+289
+00:32:14,399 --> 00:32:17,527
+The difference is one of degree.
+
+290
+00:32:17,602 --> 00:32:20,469
+That girl was no girl.
+
+291
+00:32:20,538 --> 00:32:24,497
+She is totally alien to this planet
+and our life-form...
+
+292
+00:32:24,575 --> 00:32:26,668
+and totally dangerous.
+
+293
+00:33:04,115 --> 00:33:05,548
+Jesus.
+
+294
+00:33:07,251 --> 00:33:11,187
+- Do you believe those blokes are alive?
+- I'm not paid to believe nothing.
+
+295
+00:33:14,092 --> 00:33:16,026
+I believe they're alive.
+
+296
+00:33:19,263 --> 00:33:21,424
+Don't look bloody dead to me.
+
+297
+00:34:15,453 --> 00:34:18,286
+We've had some trouble,
+but everything's under control.
+
+298
+00:34:18,356 --> 00:34:20,449
+I think you better
+come down here.
+
+299
+00:34:20,525 --> 00:34:22,516
+Yes, sir.
+Very good, sir.
+
+300
+00:34:38,443 --> 00:34:41,935
+It would appear these two
+are no longer dangerous.
+
+301
+00:34:42,013 --> 00:34:46,450
+There is certainly no possiblity
+of doing a full autopsy on them.
+
+302
+00:34:46,517 --> 00:34:48,451
+I would like
+to examine the guard.
+
+303
+00:34:48,519 --> 00:34:50,248
+Have they started the autopsy
+on the guard yet?
+
+304
+00:34:50,321 --> 00:34:51,754
+I believe so, sir.
+
+305
+00:34:54,992 --> 00:34:59,452
+This is an autopsy on the body of a
+young man, dead approximately two hours.
+
+306
+00:34:59,530 --> 00:35:01,691
+- Did you say he was about twenty?
+- Y es, that's correct.
+
+307
+00:36:10,067 --> 00:36:11,500
+Get the colonel down here!
+
+308
+00:37:07,191 --> 00:37:09,659
+Put him in an isolation cell,
+quickly!
+
+309
+00:37:27,545 --> 00:37:30,036
+I had no idea
+it could be passed on.
+
+310
+00:37:30,114 --> 00:37:32,082
+What do you suggest?
+
+311
+00:37:32,149 --> 00:37:34,549
+I would recommend that you
+place this body in another cell.
+
+312
+00:37:34,619 --> 00:37:37,247
+It was two hours ago
+that the guard was attacked.
+
+313
+00:37:37,321 --> 00:37:40,381
+I won't be at all surprised
+if we're seeing a pattern here.
+
+314
+00:37:40,458 --> 00:37:42,392
+- Do as he says, Kelly.
+- Y es, sir.
+
+315
+00:37:42,460 --> 00:37:44,394
+Also, I want the two other male bodies
+that were shot.
+
+316
+00:37:44,462 --> 00:37:46,396
+Collect the pieces
+and watch them.
+
+317
+00:37:46,464 --> 00:37:49,627
+- Get me the Home Secretary now.
+- Sir.
+
+318
+00:37:49,700 --> 00:37:52,362
+- Call for the colonel, sir.
+- Sir, you have a call.
+
+319
+00:37:57,775 --> 00:37:59,333
+I'll be right there.
+
+320
+00:37:59,410 --> 00:38:02,538
+They've just found a body in Hyde Park.
+A naked girl.
+
+321
+00:38:02,613 --> 00:38:05,138
+They say she's
+in an indescribable condition.
+
+322
+00:38:05,216 --> 00:38:07,150
+Could that be your girl?
+
+323
+00:38:08,152 --> 00:38:10,814
+- Well?
+- That's not her.
+
+324
+00:38:10,888 --> 00:38:12,822
+Inspector,
+what about the two boys?
+
+325
+00:38:12,890 --> 00:38:15,859
+They were in the park earlier, sir.
+
+326
+00:38:15,926 --> 00:38:20,363
+We saw her, I think, earlier.
+
+327
+00:38:20,431 --> 00:38:23,491
+Any rate,
+that looks like her hair.
+
+328
+00:38:23,567 --> 00:38:25,296
+- What a mess.
+- Was she alone?
+
+329
+00:38:25,369 --> 00:38:27,394
+No, that's why we noticed her.
+
+330
+00:38:27,471 --> 00:38:30,497
+She was with a dark-haired girl,
+real good-looking and all.
+
+331
+00:38:30,574 --> 00:38:32,439
+Didn't have a lot
+of clothes on either.
+
+332
+00:38:32,510 --> 00:38:34,444
+We thought they might be--
+Well, you know.
+
+333
+00:38:34,512 --> 00:38:37,345
+Y es. Did you see where
+the dark-haired girl went?
+
+334
+00:38:37,415 --> 00:38:40,077
+No, we didn't.
+
+335
+00:38:40,151 --> 00:38:42,449
+We angled on back
+to see if maybe we could...
+
+336
+00:38:42,520 --> 00:38:45,683
+you know,
+see them doing something.
+
+337
+00:38:45,756 --> 00:38:47,883
+- That's when we found her.
+- How long ago was that?
+
+338
+00:38:47,958 --> 00:38:50,950
+- Half an hour ago.
+- This lad phoned us, and we called you.
+
+339
+00:38:51,028 --> 00:38:53,155
+Y es. Thank you, lnspector.
+
+340
+00:38:56,500 --> 00:38:58,798
+Obviously, the work of the girl.
+
+341
+00:38:58,869 --> 00:39:01,702
+Could we have this body sent back
+to the center with the others?
+
+342
+00:39:01,772 --> 00:39:03,706
+Y es, I suppose that's a good idea.
+
+343
+00:39:03,774 --> 00:39:06,299
+Inspector, let me know
+if you find anything else.
+
+344
+00:39:06,377 --> 00:39:08,971
+- We'll be taking her back with us.
+- Very good, sir.
+
+345
+00:39:11,682 --> 00:39:13,115
+Now she has clothes.
+
+346
+00:39:15,920 --> 00:39:18,286
+There's something
+I want you to see, sir.
+
+347
+00:39:27,932 --> 00:39:31,925
+Dr. Hans Fallada, Sir Percy
+Hestlestine, the Home Secretary.
+
+348
+00:39:32,002 --> 00:39:34,994
+You're just in time.
+
+349
+00:39:35,072 --> 00:39:37,063
+It's exactly two hours.
+
+350
+00:39:49,520 --> 00:39:52,853
+This is the guard who was originally
+overcome by the space girl.
+
+351
+00:40:28,426 --> 00:40:31,486
+As I feared,
+once transformed...
+
+352
+00:40:31,562 --> 00:40:34,190
+the victims need regular infusions
+of energy...
+
+353
+00:40:34,265 --> 00:40:36,756
+- otherwise--
+- Otherwise what?
+
+354
+00:41:00,524 --> 00:41:04,824
+Oh, my God. Dear God.
+
+355
+00:41:06,330 --> 00:41:10,824
+And we have the pathologist
+who was attacked by the guard.
+
+356
+00:41:20,277 --> 00:41:23,178
+- See?
+- He, too, needs feeding.
+
+357
+00:41:39,697 --> 00:41:43,189
+The same thing will happen
+to that girl we found in the park...
+
+358
+00:41:43,267 --> 00:41:44,700
+in about one hour.
+
+359
+00:43:06,116 --> 00:43:09,779
+Good Lord! Goodness!
+
+360
+00:43:16,393 --> 00:43:17,826
+She's the last?
+
+361
+00:43:17,895 --> 00:43:20,557
+- Have there been any further reports?
+- No, sir.
+
+362
+00:43:20,631 --> 00:43:23,122
+We're set up to get the calls here
+the instant one comes in.
+
+363
+00:43:23,200 --> 00:43:24,963
+- What?
+- Nothing.
+
+364
+00:43:25,035 --> 00:43:28,664
+You say these creatures
+were brought back from the Churchill?
+
+365
+00:43:28,739 --> 00:43:31,731
+Yes, sir, but not this one.
+She's a victim of the creatures.
+
+366
+00:43:31,809 --> 00:43:34,972
+Yes, but where did
+the Churchill acquire them?
+
+367
+00:43:35,045 --> 00:43:37,343
+We have no way of determining that
+at present.
+
+368
+00:43:37,414 --> 00:43:39,575
+- Perhaps that's all changing.
+- What?
+
+369
+00:43:39,650 --> 00:43:42,414
+I've just received a call
+from the J.P.L. in Pasadena.
+
+370
+00:43:42,486 --> 00:43:44,750
+The goldstone tracking disc
+has just picked up something...
+
+371
+00:43:44,822 --> 00:43:49,418
+they think is Churchill's escape pod
+reentering the Earth's atmosphere.
+
+372
+00:43:49,493 --> 00:43:52,155
+- Where?
+- Texas.
+
+373
+00:44:26,096 --> 00:44:29,554
+Where?
+Walter Reed Army Hospital?
+
+374
+00:44:29,633 --> 00:44:33,000
+Is he hurt? Just exhausted.
+
+375
+00:44:33,070 --> 00:44:35,004
+Get him the hell over here!
+
+376
+00:44:38,175 --> 00:44:40,143
+Colonel Carlsen?
+They're expecting you, sir.
+
+377
+00:44:42,646 --> 00:44:44,079
+Colonel Carlsen, sir.
+
+378
+00:44:45,315 --> 00:44:46,748
+Tom.
+
+379
+00:44:51,355 --> 00:44:53,289
+I thought you were dead.
+
+380
+00:44:54,992 --> 00:44:58,894
+Allow me to introduce Colonel Caine
+of the Special Air Services.
+
+381
+00:44:58,962 --> 00:45:00,395
+How do you do?
+
+382
+00:45:00,464 --> 00:45:02,932
+- You already know Dr. Fallada.
+- Colonel.
+
+383
+00:45:04,702 --> 00:45:06,135
+Take a seat.
+
+384
+00:45:10,240 --> 00:45:12,674
+I'm sorry to drag you over here
+like this.
+
+385
+00:45:12,743 --> 00:45:15,803
+I'm sure you'd rather be recuperating
+with a pretty nurse.
+
+386
+00:45:18,549 --> 00:45:21,074
+We've got to know what happened
+on the Churchill.
+
+387
+00:45:21,151 --> 00:45:22,709
+Yes, of course.
+
+388
+00:45:26,090 --> 00:45:29,423
+It may be very difficult
+for you...
+
+389
+00:45:29,493 --> 00:45:32,087
+to accept what
+I'm going to say.
+
+390
+00:45:32,162 --> 00:45:35,256
+We'll have very little difficulty
+believing anything you have to tell us.
+
+391
+00:45:35,332 --> 00:45:38,631
+- Do go on.
+- You know something?
+
+392
+00:45:38,702 --> 00:45:41,728
+There was a fire
+aboard the Churchill.
+
+393
+00:45:41,805 --> 00:45:44,535
+You might be interested to know that
+the bodies of the three humanoids...
+
+394
+00:45:44,608 --> 00:45:46,576
+were not destroyed in that fire.
+
+395
+00:45:46,643 --> 00:45:49,111
+They survived in their cases.
+
+396
+00:45:49,179 --> 00:45:52,410
+They were brought down here to London,
+and the female has escaped.
+
+397
+00:45:52,483 --> 00:45:54,417
+She's killed three people already.
+
+398
+00:45:55,886 --> 00:45:57,376
+Oh, my God.
+
+399
+00:45:58,989 --> 00:46:01,583
+So whatever you have to tell us
+is rather pressing.
+
+400
+00:46:01,658 --> 00:46:04,627
+Please, tell us what happened.
+
+401
+00:46:07,397 --> 00:46:09,991
+We found the bodies
+aboard the alien spacecraft.
+
+402
+00:46:10,067 --> 00:46:11,466
+What alien spacecraft?
+
+403
+00:46:14,104 --> 00:46:16,732
+Colonel,
+take it from the beginning.
+
+404
+00:46:16,807 --> 00:46:21,005
+Assume we know nothing,
+which is understating the matter.
+
+405
+00:46:22,946 --> 00:46:26,211
+We approached within 9,000 miles
+of Halley's Comet...
+
+406
+00:46:29,453 --> 00:46:32,354
+when we detected an object
+in the comet's coma.
+
+407
+00:46:32,422 --> 00:46:37,359
+After we discovered the bodies,
+we transferred them to the Churchill.
+
+408
+00:46:37,427 --> 00:46:41,454
+We have the three humanoid creatures
+and one of the bat-like things.
+
+409
+00:46:41,532 --> 00:46:44,660
+This is Churchill.
+We copy. Welcome back.
+
+410
+00:46:44,735 --> 00:46:46,669
+Have you gotten through
+to Earth yet, Rawlings?
+
+411
+00:46:46,737 --> 00:46:50,036
+No, sir, and the tail
+of the comet's heating up.
+
+412
+00:46:54,912 --> 00:46:58,279
+- What's the matter, Derebridge?
+- I don't know, Tom.
+
+413
+00:46:58,348 --> 00:47:00,111
+I feel drained.
+
+414
+00:47:00,184 --> 00:47:01,651
+Do you?
+
+415
+00:47:03,487 --> 00:47:06,047
+I feel invigorated.
+You okay?
+
+416
+00:47:07,257 --> 00:47:10,852
+- Yeah. I'm fine.
+- Okay.
+
+417
+00:47:14,097 --> 00:47:16,657
+Everybody back
+to their stations.
+
+418
+00:47:17,968 --> 00:47:19,902
+Let's get the hell out of here.
+
+419
+00:47:24,508 --> 00:47:27,739
+On the trip back to Earth,
+the crew began to die...
+
+420
+00:47:27,811 --> 00:47:29,745
+one by one.
+
+421
+00:47:34,952 --> 00:47:36,476
+Rawlings...
+
+422
+00:47:36,553 --> 00:47:38,544
+the radio officer,
+was the first to go.
+
+423
+00:47:50,467 --> 00:47:53,061
+Rawlings denied any knowledge
+of what he had done.
+
+424
+00:47:53,136 --> 00:47:55,195
+I don't remember.
+
+425
+00:47:59,109 --> 00:48:02,601
+Besides myself, you're the only one
+who has been up here in the last hour.
+
+426
+00:48:04,047 --> 00:48:06,641
+I've been feeling weak recently...
+
+427
+00:48:06,717 --> 00:48:09,151
+not myself.
+
+428
+00:48:09,219 --> 00:48:12,211
+Just don't remember.
+
+429
+00:48:28,338 --> 00:48:31,136
+We found Rawlings' body
+the next day.
+
+430
+00:48:40,150 --> 00:48:41,583
+Exactly how...
+
+431
+00:48:41,652 --> 00:48:43,950
+did he die, Colonel?
+
+432
+00:48:44,021 --> 00:48:46,990
+The life just drained out of him.
+
+433
+00:48:52,262 --> 00:48:53,729
+One by one...
+
+434
+00:48:56,833 --> 00:48:58,858
+the rest of the crew
+began to die.
+
+435
+00:49:02,572 --> 00:49:04,005
+Somehow...
+
+436
+00:49:06,510 --> 00:49:08,444
+I don't know how...
+
+437
+00:49:11,148 --> 00:49:12,809
+I held out.
+
+438
+00:49:17,287 --> 00:49:19,380
+It just seemed
+to be a matter of will.
+
+439
+00:49:21,091 --> 00:49:23,025
+I always thought--
+
+440
+00:49:27,431 --> 00:49:28,864
+The girl--
+
+441
+00:49:30,634 --> 00:49:33,467
+Y es? The girl?
+
+442
+00:49:39,242 --> 00:49:41,642
+I can't remember.
+
+443
+00:49:54,791 --> 00:49:57,055
+What I remember next...
+
+444
+00:49:57,127 --> 00:50:00,324
+is the view
+out of the observation window...
+
+445
+00:50:00,397 --> 00:50:02,695
+coming into Earth's orbit.
+
+446
+00:50:04,468 --> 00:50:07,767
+I couldn't expose the world
+to what we'd brought back with us.
+
+447
+00:51:28,485 --> 00:51:30,817
+I was determined
+to destroy them all.
+
+448
+00:51:57,948 --> 00:52:00,712
+It was the hardest thing I ever did.
+
+449
+00:52:00,784 --> 00:52:03,014
+We understand.
+
+450
+00:52:03,086 --> 00:52:05,020
+It must have taken great courage
+to try and make--
+
+451
+00:52:05,088 --> 00:52:07,022
+No, you don't understand.
+
+452
+00:52:08,225 --> 00:52:11,422
+Part of me didn't want to leave.
+
+453
+00:52:11,495 --> 00:52:14,521
+She killed all my friends,
+and I still didn't want to leave.
+
+454
+00:52:15,765 --> 00:52:17,960
+Leaving her was the hardest thing
+I ever did.
+
+455
+00:52:22,272 --> 00:52:25,036
+Colonel Carlsen looks exhausted to me.
+
+456
+00:52:25,108 --> 00:52:28,441
+We should allow him to get some sleep,
+continue with this later.
+
+457
+00:52:28,512 --> 00:52:29,945
+Very well.
+
+458
+00:52:32,182 --> 00:52:33,615
+Thank you, Colonel.
+
+459
+00:53:00,644 --> 00:53:03,738
+NASA tracking and ours...
+
+460
+00:53:03,813 --> 00:53:07,613
+have just reported an unusual structure
+leaving Halley's Comet.
+
+461
+00:53:07,684 --> 00:53:09,117
+It's headed for us.
+
+462
+00:53:09,186 --> 00:53:10,653
+What is it?
+
+463
+00:53:11,788 --> 00:53:13,380
+Radar ranging reports the object...
+
+464
+00:53:13,456 --> 00:53:17,392
+is a needlelike shape,
+150 miles long.
+
+465
+00:53:17,460 --> 00:53:19,928
+Its present course projects out
+into a perfect Earth orbit...
+
+466
+00:53:19,996 --> 00:53:22,931
+in a little more than two days.
+
+467
+00:53:22,999 --> 00:53:25,934
+I've just received a call
+from the Prime Minister.
+
+468
+00:53:27,237 --> 00:53:29,432
+There's going to be a meeting
+at Downing Street.
+
+469
+00:53:29,506 --> 00:53:31,133
+Prime Minister wants answers.
+
+470
+00:53:57,834 --> 00:53:59,768
+Close your eyes.
+
+471
+00:54:08,411 --> 00:54:09,878
+You're giving me your life.
+
+472
+00:54:19,623 --> 00:54:21,250
+You're taking it.
+
+473
+00:55:27,290 --> 00:55:29,554
+You're draining me.
+
+474
+00:55:29,626 --> 00:55:32,561
+You're taking too much of me.
+
+475
+00:55:59,322 --> 00:56:01,449
+It was just a dream.
+
+476
+00:56:01,524 --> 00:56:05,358
+- What dream?
+- The girl-- She visited me.
+
+477
+00:56:05,428 --> 00:56:07,521
+Visited you? How?
+
+478
+00:56:07,597 --> 00:56:09,030
+In my mind.
+
+479
+00:56:14,270 --> 00:56:17,433
+She has some kind
+of mental contact with me.
+
+480
+00:56:17,507 --> 00:56:19,065
+She's draining me.
+
+481
+00:56:19,142 --> 00:56:21,076
+Tell us about the dream.
+
+482
+00:56:22,712 --> 00:56:24,907
+I can't. It's gone.
+
+483
+00:56:24,981 --> 00:56:26,812
+It's faded.
+
+484
+00:56:26,883 --> 00:56:28,316
+I can't remember.
+
+485
+00:56:28,385 --> 00:56:30,012
+Have you ever been hypnotized?
+
+486
+00:56:32,188 --> 00:56:34,452
+Do you mind if I try?
+
+487
+00:56:34,524 --> 00:56:37,459
+Yeah, let's try it.
+
+488
+00:56:37,527 --> 00:56:42,658
+- Not now. He's too exhausted.
+- Fine. In the morning.
+
+489
+00:56:42,732 --> 00:56:46,759
+Just stare at it until your eyes
+feel tired, then close them.
+
+490
+00:56:46,836 --> 00:56:51,967
+You'll feel very tired,
+very sleepy.
+
+491
+00:56:52,041 --> 00:56:57,877
+She seems to speak to me
+in my dreams.
+
+492
+00:57:00,283 --> 00:57:01,716
+She--
+
+493
+00:57:03,086 --> 00:57:04,553
+The girl--
+
+494
+00:57:04,621 --> 00:57:06,054
+I feel--
+
+495
+00:57:07,090 --> 00:57:10,548
+What do you feel for her?
+
+496
+00:57:10,627 --> 00:57:13,289
+I feel very...
+
+497
+00:57:13,363 --> 00:57:15,160
+close to her.
+
+498
+00:57:15,231 --> 00:57:18,325
+Is she in touch with you?
+
+499
+00:57:18,401 --> 00:57:20,892
+I feel...
+
+500
+00:57:20,970 --> 00:57:23,564
+as if my mind...
+
+501
+00:57:23,640 --> 00:57:26,234
+is not entirely my own.
+
+502
+00:57:26,309 --> 00:57:29,836
+If she is in contact
+with your mind...
+
+503
+00:57:29,913 --> 00:57:32,609
+perhaps you are in contact
+with hers.
+
+504
+00:57:32,682 --> 00:57:34,206
+Can you see her?
+
+505
+00:57:34,284 --> 00:57:36,946
+Can you see where she is?
+
+506
+00:57:37,884 --> 00:57:39,317
+Y es.
+
+507
+00:57:39,386 --> 00:57:41,411
+Where is she now?
+
+508
+00:57:41,488 --> 00:57:44,924
+A place.
+I don't know the name of it.
+
+509
+00:57:44,991 --> 00:57:46,583
+She's walking.
+
+510
+00:57:47,994 --> 00:57:50,588
+She has a different face...
+
+511
+00:57:50,664 --> 00:57:52,256
+but it's her.
+
+512
+00:57:52,332 --> 00:57:54,596
+"A different face"?
+How can that be?
+
+513
+00:57:54,668 --> 00:57:57,603
+She's using a different body.
+
+514
+00:57:57,671 --> 00:58:00,765
+- What is she doing?
+- She's looking for a man.
+
+515
+00:58:00,841 --> 00:58:02,672
+What man?
+
+516
+00:58:02,742 --> 00:58:06,269
+Any man.
+A healthy man.
+
+517
+00:58:06,346 --> 00:58:09,440
+Does she intend to kill him?
+
+518
+00:58:09,516 --> 00:58:12,110
+- Why not?
+- She's afraid of being caught.
+
+519
+00:58:12,185 --> 00:58:15,450
+- How could she be caught?
+- The body would give her away.
+
+520
+00:58:15,522 --> 00:58:17,615
+What is she hoping to do?
+
+521
+00:58:17,691 --> 00:58:20,285
+She wants to...
+
+522
+00:58:20,360 --> 00:58:23,124
+draw some energy from him.
+
+523
+00:58:23,196 --> 00:58:24,788
+Not enough to kill him.
+
+524
+00:58:24,865 --> 00:58:28,301
+- She can do that?
+- Y es.
+
+525
+00:58:28,368 --> 00:58:31,166
+There's another mind.
+
+526
+00:58:31,238 --> 00:58:33,297
+Y es.
+
+527
+00:58:33,373 --> 00:58:35,102
+The girl's name...
+
+528
+00:58:35,175 --> 00:58:36,802
+is Ellen.
+
+529
+00:58:36,877 --> 00:58:38,811
+There are two people
+in one body?
+
+530
+00:58:38,879 --> 00:58:41,370
+Two minds?
+
+531
+00:58:41,448 --> 00:58:44,178
+Ellen and the vampire?
+
+532
+00:58:44,251 --> 00:58:45,684
+Yes.
+
+533
+00:58:48,321 --> 00:58:50,915
+She's watching a man.
+
+534
+00:58:50,991 --> 00:58:52,754
+What is the man doing?
+
+535
+00:58:52,826 --> 00:58:57,422
+He's parked,
+doing something with his car.
+
+536
+00:58:59,232 --> 00:59:01,427
+Get the license number.
+
+537
+00:59:01,501 --> 00:59:04,937
+Can you see the license number
+of his car?
+
+538
+00:59:05,005 --> 00:59:06,438
+Y es.
+
+539
+00:59:07,741 --> 00:59:09,174
+Read it out.
+
+540
+00:59:09,242 --> 00:59:11,437
+FMC...
+
+541
+00:59:13,113 --> 00:59:16,048
+129E...
+
+542
+00:59:16,116 --> 00:59:18,846
+or R.
+
+543
+00:59:18,919 --> 00:59:21,786
+What is the make of the car?
+
+544
+00:59:23,690 --> 00:59:26,124
+A white Volvo.
+
+545
+00:59:29,362 --> 00:59:31,660
+What is she doing now?
+
+546
+00:59:33,033 --> 00:59:34,591
+They're driving now.
+
+547
+00:59:34,668 --> 00:59:37,569
+Does she ask him his name?
+
+548
+00:59:37,637 --> 00:59:42,574
+She's pulling her skirt...
+
+549
+00:59:43,977 --> 00:59:45,740
+over her knees.
+
+550
+00:59:46,813 --> 00:59:48,246
+She's--
+
+551
+00:59:49,316 --> 00:59:50,749
+He's...
+
+552
+00:59:52,152 --> 00:59:54,086
+putting his...
+
+553
+00:59:56,656 --> 01:00:00,922
+hand on her leg.
+
+554
+01:00:16,209 --> 01:00:19,610
+FMC129E or possibly R...
+
+555
+01:00:19,679 --> 01:00:21,772
+belonging to a white Volvo.
+
+556
+01:00:21,848 --> 01:00:24,612
+The driver of the car
+picked up a girl named Ellen.
+
+557
+01:00:24,684 --> 01:00:27,619
+I have to know who the girl is
+and where we can find her.
+
+558
+01:00:27,687 --> 01:00:29,780
+She's connected with the case.
+
+559
+01:00:29,856 --> 01:00:32,950
+I can't explain over an open line.
+Thank you.
+
+560
+01:00:34,527 --> 01:00:36,791
+Do you think he's telling the truth
+about the girl?
+
+561
+01:00:36,863 --> 01:00:38,797
+We'll soon see.
+
+562
+01:00:38,865 --> 01:00:43,234
+How brilliant, if she is moving
+from body to body, mind to mind...
+
+563
+01:00:43,303 --> 01:00:46,898
+taking only a small amount
+of energy from each victim.
+
+564
+01:00:46,973 --> 01:00:49,908
+It would make sense
+that we're finding no new victims.
+
+565
+01:00:49,976 --> 01:00:51,944
+She's hoping to leave no trail.
+
+566
+01:00:52,012 --> 01:00:56,415
+If the girl is no longer in her
+original body, where is her body?
+
+567
+01:00:57,484 --> 01:01:00,578
+- Hidden.
+- Let's find it.
+
+568
+01:01:01,821 --> 01:01:04,085
+Supposing you're right
+about all of this.
+
+569
+01:01:04,157 --> 01:01:07,649
+What about that ship up there?
+What's it doing?
+
+570
+01:01:07,727 --> 01:01:11,959
+We can't know that,
+but we've got to assume the worst.
+
+571
+01:01:12,032 --> 01:01:14,091
+Maybe they're like
+the vampires of legend.
+
+572
+01:01:14,167 --> 01:01:16,101
+How's that?
+
+573
+01:01:16,169 --> 01:01:19,935
+They would carry their Earth
+with them, in their coffins.
+
+574
+01:01:20,006 --> 01:01:21,997
+Wouldn't they?
+
+575
+01:01:24,344 --> 01:01:27,438
+- We have the feed from Hawaii.
+- Here it comes.
+
+576
+01:01:27,514 --> 01:01:33,350
+- Put it on screen number one.
+- Coming in 240,000 miles.
+
+577
+01:01:34,954 --> 01:01:38,082
+My God, it's immense.
+
+578
+01:01:57,477 --> 01:02:01,573
+Hugh, do you have that skin tissue
+sample I asked for?
+
+579
+01:02:01,648 --> 01:02:03,411
+Good.
+
+580
+01:02:03,483 --> 01:02:06,418
+Of course, I'll follow
+containment procedure.
+
+581
+01:02:06,486 --> 01:02:07,919
+He's here now.
+
+582
+01:02:07,987 --> 01:02:10,421
+Send in that soldier, please.
+
+583
+01:02:13,827 --> 01:02:15,260
+Thank you.
+
+584
+01:02:49,462 --> 01:02:53,558
+One moment, Sergeant.
+Thank you for coming.
+
+585
+01:02:53,633 --> 01:02:55,897
+I'll be with you shortly.
+
+586
+01:03:05,979 --> 01:03:08,413
+Bloody awful job, chasing that car.
+
+587
+01:03:08,481 --> 01:03:11,575
+It belongs to a man named
+Ned Price who lives in Y orkshire.
+
+588
+01:03:11,651 --> 01:03:14,586
+- We have him under detention now.
+- What about the girl?
+
+589
+01:03:14,654 --> 01:03:18,090
+The girl he picked up
+was a nurse named Ellen, as you said.
+
+590
+01:03:18,158 --> 01:03:20,752
+Ellen something.
+He doesn't know her other name.
+
+591
+01:03:20,827 --> 01:03:24,923
+He dropped her at Thurlstone Hospital
+after spending the afternoon with her.
+
+592
+01:03:24,998 --> 01:03:29,435
+He was reluctant to talk about it.
+The man's totally exhausted.
+
+593
+01:03:29,502 --> 01:03:32,767
+Isn't Thurlstone an asylum
+of some sort?
+
+594
+01:03:32,839 --> 01:03:35,899
+Y es, for the criminally insane.
+
+595
+01:03:57,797 --> 01:04:02,734
+How do you do? I'm Dr. Armstrong,
+director of the hospital.
+
+596
+01:04:02,802 --> 01:04:04,736
+Come with me to my office.
+
+597
+01:04:09,309 --> 01:04:12,073
+- It's a cold night.
+- Bitterly cold.
+
+598
+01:04:13,146 --> 01:04:15,910
+This is the nurses' house.
+
+599
+01:04:15,982 --> 01:04:18,746
+Ellen Donaldson is number five.
+
+600
+01:04:18,818 --> 01:04:20,410
+Thank you.
+
+601
+01:04:20,487 --> 01:04:22,921
+Shouldn't I come up
+and introduce you?
+
+602
+01:04:22,989 --> 01:04:24,923
+- I'd rather you didn't.
+- Come along, Dr. Armstrong.
+
+603
+01:04:24,991 --> 01:04:27,425
+You and I have several matters
+to discuss.
+
+604
+01:04:32,665 --> 01:04:34,428
+Yes? Who is it?
+
+605
+01:04:34,501 --> 01:04:37,527
+My name's Colin Caine.
+Dr. Armstrong brought me over.
+
+606
+01:04:37,604 --> 01:04:40,539
+I'd like to talk to you.
+May I come in?
+
+607
+01:04:49,949 --> 01:04:51,382
+Yes?
+
+608
+01:04:53,286 --> 01:04:55,720
+- What do you want?
+- My name is Colin Caine.
+
+609
+01:04:55,788 --> 01:04:58,723
+This is Colonel Carlsen,
+United States Air Force.
+
+610
+01:04:58,791 --> 01:05:03,228
+May we come in and talk to you?
+We have seen Dr. Armstrong.
+
+611
+01:05:12,305 --> 01:05:14,239
+May I sit down?
+
+612
+01:05:17,310 --> 01:05:21,144
+I want to ask about the man you spent
+the afternoon with, Ned Price.
+
+613
+01:05:23,816 --> 01:05:26,649
+-I don't know what you're talking about.
+-I think you do.
+
+614
+01:05:26,719 --> 01:05:29,813
+- Let me see your hand.
+- Beg your pardon?
+
+615
+01:05:34,294 --> 01:05:36,285
+You're in there, aren't you?
+
+616
+01:05:38,565 --> 01:05:41,125
+- I don't know.
+- Tell me.
+
+617
+01:05:47,440 --> 01:05:49,374
+It's gone from her.
+It's in another body now.
+
+618
+01:05:49,442 --> 01:05:53,208
+- How do you know that?
+- I can see it, in her mind.
+
+619
+01:05:54,914 --> 01:05:58,714
+She's resisting.
+I'll have to force her to tell me.
+
+620
+01:05:58,785 --> 01:06:02,721
+Despite appearances,
+this woman is a masochist.
+
+621
+01:06:02,789 --> 01:06:04,256
+An extreme masochist.
+
+622
+01:06:04,324 --> 01:06:06,724
+She wants me
+to force the name out of her.
+
+623
+01:06:06,793 --> 01:06:09,557
+She wants me to hurt her.
+
+624
+01:06:09,629 --> 01:06:14,293
+I can see the images in her mind.
+Do you want to stay?
+
+625
+01:06:14,367 --> 01:06:18,463
+- Otherwise, wait outside!
+- Not at all. I am a natural voyeur.
+
+626
+01:06:23,343 --> 01:06:25,277
+Are you in there?
+
+627
+01:06:34,153 --> 01:06:35,643
+Are you there?
+
+628
+01:06:40,560 --> 01:06:41,993
+Let go.
+
+629
+01:06:43,262 --> 01:06:44,786
+Now.
+
+630
+01:07:37,483 --> 01:07:38,916
+Well?
+
+631
+01:07:38,985 --> 01:07:41,078
+I've got a physical description.
+
+632
+01:07:48,327 --> 01:07:50,761
+You better send someone
+to look after Nurse Donaldson.
+
+633
+01:07:50,830 --> 01:07:52,263
+Is she all right?
+
+634
+01:07:52,331 --> 01:07:54,822
+If I described one of the inmates
+to you, could you identify him?
+
+635
+01:07:54,901 --> 01:07:56,368
+Possibly.
+
+636
+01:07:56,436 --> 01:08:00,668
+Big man, fat, gray hair,
+birthmark on his face.
+
+637
+01:08:00,740 --> 01:08:04,733
+Jeffrey Sykes, the child murderer.
+Where did you get his description?
+
+638
+01:08:04,811 --> 01:08:09,271
+- Where is he now?
+- He's in solitary confinement.
+
+639
+01:08:09,348 --> 01:08:10,975
+He's been naughty.
+
+640
+01:08:11,050 --> 01:08:13,951
+- What is this about?
+- What we're looking for has moved.
+
+641
+01:08:14,020 --> 01:08:17,114
+- We could be here some time.
+- I better call London.
+
+642
+01:08:17,190 --> 01:08:19,954
+- May I use your telephone, Doctor?
+- Certainly.
+
+643
+01:08:20,026 --> 01:08:23,462
+- We have to see Sykes now.
+- Couldn't this wait until the morning?
+
+644
+01:08:24,864 --> 01:08:26,957
+All right, I'll arrange it.
+
+645
+01:08:27,033 --> 01:08:29,297
+Anything to oblige, Commander.
+
+646
+01:08:35,875 --> 01:08:37,900
+I wish this were not so mysterious.
+
+647
+01:08:37,977 --> 01:08:41,413
+If the police are involved,
+haven't I a right to know?
+
+648
+01:08:41,481 --> 01:08:44,575
+If you're going to start
+messing about with my patients--
+
+649
+01:08:47,120 --> 01:08:49,918
+Dr. Armstrong, I sympathize
+with your position, of course.
+
+650
+01:08:49,989 --> 01:08:54,085
+However, I can tell you
+it is a matter of national security.
+
+651
+01:08:54,160 --> 01:08:55,593
+I see.
+
+652
+01:08:55,661 --> 01:08:58,755
+But don't you think
+that I should be present...
+
+653
+01:08:58,831 --> 01:09:00,924
+to represent the interests
+of my patient?
+
+654
+01:09:01,000 --> 01:09:02,763
+- You see--
+- Can I talk to you for a second?
+
+655
+01:09:02,835 --> 01:09:04,268
+Of course.
+
+656
+01:09:05,371 --> 01:09:08,101
+The man has the l.Q.
+of a child of four.
+
+657
+01:09:08,174 --> 01:09:11,769
+That's a decision I shall have
+to defer to Colonel Caine.
+
+658
+01:09:11,844 --> 01:09:15,109
+Yes, of course, you can come along.
+Can we start now?
+
+659
+01:09:15,181 --> 01:09:19,174
+- What are you going to do to him?
+- I'd like to hypnotize him.
+
+660
+01:09:23,022 --> 01:09:24,614
+What's that?
+
+661
+01:09:24,690 --> 01:09:26,624
+Pentothal and morphine.
+
+662
+01:09:26,692 --> 01:09:30,458
+Recommended for pre-hypnosis
+and patient management.
+
+663
+01:09:41,474 --> 01:09:45,240
+Well, he seems quiet.
+
+664
+01:09:45,311 --> 01:09:47,575
+- We're ready when you are.
+- Lamson.
+
+665
+01:09:47,647 --> 01:09:49,080
+Sir.
+
+666
+01:10:12,338 --> 01:10:14,431
+Can the injection be dangerous?
+
+667
+01:10:14,507 --> 01:10:16,702
+He should have no difficulty
+tolerating it.
+
+668
+01:10:16,776 --> 01:10:18,835
+There's always a risk, sir.
+
+669
+01:10:18,911 --> 01:10:20,879
+May I have that?
+
+670
+01:10:22,748 --> 01:10:24,613
+I'll wake him up.
+
+671
+01:10:27,420 --> 01:10:29,285
+- What are you doing?
+- Stay where you are.
+
+672
+01:10:29,355 --> 01:10:32,620
+He's sick, Lamson.
+Help us. I can't explain now.
+
+673
+01:10:35,962 --> 01:10:37,395
+There's our killer, Sir Percy.
+
+674
+01:11:06,993 --> 01:11:09,325
+It's madness.
+
+675
+01:11:10,529 --> 01:11:12,895
+I want to question him.
+Where can we take him?
+
+676
+01:11:12,965 --> 01:11:14,432
+Up the ramp, sir.
+
+677
+01:11:33,686 --> 01:11:35,779
+We need to be alone.
+
+678
+01:11:44,463 --> 01:11:46,454
+How did you know it was him?
+
+679
+01:11:46,532 --> 01:11:50,901
+In the nurses' quarters,
+he touched me on the shoulder.
+
+680
+01:11:50,970 --> 01:11:52,665
+I saw into his mind.
+
+681
+01:11:53,806 --> 01:11:55,239
+What?
+
+682
+01:11:55,308 --> 01:11:58,744
+The colonel is able to see
+into the minds of people...
+
+683
+01:11:58,811 --> 01:12:02,645
+who have been possessed
+by the girl creature, sir.
+
+684
+01:12:02,715 --> 01:12:07,846
+It happens when I touch them.
+Let's get him on the table.
+
+685
+01:12:16,662 --> 01:12:18,095
+How--
+
+686
+01:12:19,332 --> 01:12:21,596
+How do you know
+she's still inside Armstrong?
+
+687
+01:12:21,667 --> 01:12:23,726
+What's to prevent her
+from moving to someone else?
+
+688
+01:12:23,803 --> 01:12:25,430
+She's trapped.
+
+689
+01:12:26,672 --> 01:12:28,469
+I can feel that.
+
+690
+01:12:28,541 --> 01:12:30,099
+Are you sure?
+
+691
+01:12:37,183 --> 01:12:39,242
+- Lamson.
+- Sir?
+
+692
+01:12:39,318 --> 01:12:44,517
+- Bring me another dose of the drug.
+- One dose is usually enough.
+
+693
+01:12:44,590 --> 01:12:48,151
+This is not a usual situation.
+How long does this stuff last?
+
+694
+01:12:48,227 --> 01:12:51,253
+A dose like that?
+A couple of hours.
+
+695
+01:12:51,330 --> 01:12:54,390
+We'll definitely need more.
+
+696
+01:12:54,467 --> 01:12:57,129
+- Bring me three doses.
+- Three?
+
+697
+01:12:57,203 --> 01:13:01,162
+I'll take responsibility.
+Just get on with it.
+
+698
+01:13:01,240 --> 01:13:03,071
+Y es, sir.
+
+699
+01:13:04,977 --> 01:13:06,569
+Is a second dose safe?
+
+700
+01:13:06,645 --> 01:13:08,738
+Surely it can strain his heart.
+
+701
+01:13:08,814 --> 01:13:13,911
+Look, you don't know
+what we're dealing with here.
+
+702
+01:13:13,986 --> 01:13:18,423
+If he slips out from under,
+she'll escape.
+
+703
+01:13:34,006 --> 01:13:35,940
+Can you hear me?
+
+704
+01:13:38,277 --> 01:13:41,713
+If you can hear me,
+just say yes.
+
+705
+01:13:46,919 --> 01:13:50,218
+It won't let me...
+
+706
+01:13:52,458 --> 01:13:53,891
+talk to you.
+
+707
+01:14:15,981 --> 01:14:18,245
+Can you see
+what's holding you prisoner?
+
+708
+01:14:21,821 --> 01:14:24,756
+Yes. She--
+
+709
+01:14:24,824 --> 01:14:27,918
+Tell her she has to talk to me!
+
+710
+01:14:28,994 --> 01:14:30,427
+Yes?
+
+711
+01:14:32,832 --> 01:14:35,096
+I brought the Pentothal.
+
+712
+01:14:35,167 --> 01:14:37,032
+Thanks. That will be all.
+
+713
+01:14:44,443 --> 01:14:45,876
+Hold him.
+
+714
+01:14:53,452 --> 01:14:54,942
+There's no need for that.
+
+715
+01:15:13,939 --> 01:15:17,875
+You in there?
+Can you still hear me?
+
+716
+01:15:20,312 --> 01:15:23,179
+Can you get into his mind,
+her mind?
+
+717
+01:15:23,249 --> 01:15:24,978
+Not with this drug.
+It's like a wall.
+
+718
+01:15:25,050 --> 01:15:27,746
+Perhaps you've given him too much.
+
+719
+01:15:27,820 --> 01:15:29,287
+Shut up!
+
+720
+01:15:34,160 --> 01:15:36,924
+Listen, you bitch...
+
+721
+01:15:36,996 --> 01:15:39,965
+I'll keep you in this state
+for weeks if I have to.
+
+722
+01:15:40,032 --> 01:15:41,659
+Now, you talk to me.
+
+723
+01:15:41,734 --> 01:15:43,668
+Carlsen, be with me.
+
+724
+01:15:44,937 --> 01:15:48,134
+- What do you want from me?
+- I love you.
+
+725
+01:15:52,077 --> 01:15:53,874
+What are you?
+
+726
+01:15:53,946 --> 01:15:57,541
+Why are you so human, so perfect?
+
+727
+01:15:58,651 --> 01:16:00,619
+What are the bird creatures
+on the ship?
+
+728
+01:16:00,686 --> 01:16:03,553
+Our bodies are unimportant.
+
+729
+01:16:03,622 --> 01:16:07,581
+As you and your men approached
+in your ship...
+
+730
+01:16:07,660 --> 01:16:10,060
+we changed them for you.
+
+731
+01:16:10,129 --> 01:16:12,791
+We entered your minds...
+
+732
+01:16:12,865 --> 01:16:15,561
+and found there new bodies.
+
+733
+01:16:15,634 --> 01:16:18,194
+I took my shape from your mind.
+
+734
+01:16:19,271 --> 01:16:22,263
+I took your language.
+
+735
+01:16:22,341 --> 01:16:25,071
+I became the woman I found there...
+
+736
+01:16:25,144 --> 01:16:29,547
+in your deepest thoughts,
+your deepest needs.
+
+737
+01:16:30,816 --> 01:16:34,149
+I am the feminine in your mind.
+
+738
+01:16:40,092 --> 01:16:42,686
+Where are you?
+
+739
+01:16:42,761 --> 01:16:44,194
+Where's your body?
+
+740
+01:16:45,397 --> 01:16:47,524
+Let me go!
+
+741
+01:16:54,573 --> 01:16:56,336
+Touch me, Carlsen.
+
+742
+01:18:33,539 --> 01:18:35,473
+- It's already spreading.
+- How?
+
+743
+01:18:35,541 --> 01:18:37,566
+- You didn't stop it. It's too late.
+- That's impossible.
+
+744
+01:18:37,643 --> 01:18:39,577
+We've only been half a step
+behind her all the way.
+
+745
+01:18:39,645 --> 01:18:41,579
+This gentleman stopped breathing.
+
+746
+01:18:43,015 --> 01:18:44,949
+There's no pulse either.
+
+747
+01:18:55,327 --> 01:18:56,760
+I think his neck is broken.
+
+748
+01:19:00,833 --> 01:19:04,269
+Prepare a stretcher for Sir Percy
+and one for Dr. Armstrong.
+
+749
+01:19:04,336 --> 01:19:06,600
+Prepare all your remaining doses
+of the drug for travel.
+
+750
+01:19:06,672 --> 01:19:08,105
+Yes, sir.
+
+751
+01:19:15,347 --> 01:19:18,783
+You said the thing hadn't stopped,
+it was still spreading.
+
+752
+01:19:18,851 --> 01:19:22,116
+- Why did you say that?
+- I don't know.
+
+753
+01:19:22,187 --> 01:19:25,623
+Could the girl have been deliberately
+leading us away from London?
+
+754
+01:19:25,691 --> 01:19:27,852
+Did we find all of her victims?
+
+755
+01:19:29,128 --> 01:19:32,097
+If there are others
+besides the girl in the park--
+
+756
+01:19:32,164 --> 01:19:35,065
+- The thing would spread.
+- In a chain reaction...
+
+757
+01:19:35,134 --> 01:19:37,398
+geometrically,
+until, by now--
+
+758
+01:19:39,104 --> 01:19:40,537
+Christ.
+
+759
+01:20:14,006 --> 01:20:17,772
+Lieutenant, can we use the radio
+to reach the S.R.C. in London?
+
+760
+01:20:17,843 --> 01:20:21,279
+Just a moment, sir.
+There's something coming through.
+
+761
+01:20:21,346 --> 01:20:23,712
+It is the S.R.C.
+for you and Carlsen.
+
+762
+01:20:27,019 --> 01:20:28,452
+Go ahead.
+
+763
+01:20:28,520 --> 01:20:31,455
+Can you hear me?
+
+764
+01:20:31,523 --> 01:20:34,617
+Fallada, speak up!
+I can't hear you!
+
+765
+01:20:35,694 --> 01:20:38,720
+The two males didn't die.
+
+766
+01:20:38,797 --> 01:20:41,391
+They jumped to the bodies
+of the two soldiers who shot them...
+
+767
+01:20:41,467 --> 01:20:44,903
+and transformed the soldiers' bodies
+into their own likenesses.
+
+768
+01:20:44,970 --> 01:20:46,904
+That's the difference
+between them and their victims.
+
+769
+01:20:46,972 --> 01:20:51,341
+Their victims can't leave their bodies.
+Only the original three can do that.
+
+770
+01:20:51,410 --> 01:20:54,573
+- But I've killed one of them.
+- One of which?
+
+771
+01:20:54,646 --> 01:20:56,910
+One of the two male vampires.
+
+772
+01:20:56,982 --> 01:21:01,544
+- One of the transformed ones.
+- How did you kill him?
+
+773
+01:21:01,620 --> 01:21:03,747
+The old way, Carlsen.
+
+774
+01:21:03,822 --> 01:21:07,918
+A leaded metal shaft
+penetrating not through the heart...
+
+775
+01:21:07,993 --> 01:21:12,089
+but through the energy center
+two inches below the heart.
+
+776
+01:21:12,164 --> 01:21:15,258
+Not steel, but leaded iron.
+
+777
+01:21:15,334 --> 01:21:17,097
+Right, Carlsen?
+
+778
+01:21:18,337 --> 01:21:21,773
+- Are you there?
+- Y es.
+
+779
+01:21:21,840 --> 01:21:24,900
+Carlsen, and you, too, Caine...
+
+780
+01:21:24,977 --> 01:21:26,911
+it is my belief...
+
+781
+01:21:26,979 --> 01:21:31,609
+that the vampires of legend
+came from creatures such as these.
+
+782
+01:21:31,683 --> 01:21:34,914
+Perhaps even
+from these very creatures.
+
+783
+01:21:34,987 --> 01:21:37,547
+I know it sounds incredible.
+
+784
+01:21:39,458 --> 01:21:41,085
+Do you hear me?
+
+785
+01:21:41,159 --> 01:21:45,528
+It's more than a belief.
+It's true.
+
+786
+01:21:46,765 --> 01:21:48,426
+They visited Earth before.
+
+787
+01:21:50,469 --> 01:21:53,802
+- What about the other male?
+- He's free.
+
+788
+01:21:55,140 --> 01:21:57,404
+- You have the girl?
+- Yes.
+
+789
+01:21:57,476 --> 01:22:01,139
+- We'll be there soon. Hold on.
+- We'll try.
+
+790
+01:22:04,383 --> 01:22:06,715
+- This came while you were talking.
+- What is it?
+
+791
+01:22:06,785 --> 01:22:10,585
+A scrambled cryptograph to Sir Percy
+from the Prime Minister.
+
+792
+01:22:10,656 --> 01:22:13,591
+We're to proceed directly
+to the citadel at Whitehall.
+
+793
+01:22:55,300 --> 01:22:56,927
+Lieutenant, the controls!
+
+794
+01:23:11,049 --> 01:23:13,040
+We've lost her.
+She's gone!
+
+795
+01:23:13,118 --> 01:23:17,077
+- Where?
+- Her body's in London.
+
+796
+01:23:17,155 --> 01:23:19,089
+Where in London?
+
+797
+01:23:21,827 --> 01:23:25,194
+You've got to tell me
+what really happened on the Churchill.
+
+798
+01:23:27,666 --> 01:23:30,760
+It wasn't Rawlings
+who destroyed the radio equipment...
+
+799
+01:23:30,836 --> 01:23:32,599
+and the ship's tapes.
+
+800
+01:23:33,672 --> 01:23:35,902
+- It was me.
+- Why?
+
+801
+01:23:35,974 --> 01:23:39,535
+I didn't want the Churchill
+to be able to reach Earth.
+
+802
+01:23:39,611 --> 01:23:42,205
+And if it did, I didn't want anyone
+to know what happened.
+
+803
+01:23:42,280 --> 01:23:43,713
+What did happen?
+
+804
+01:23:44,783 --> 01:23:48,879
+I opened her sealed
+animation case.
+
+805
+01:23:48,954 --> 01:23:53,721
+Either I did it
+or she did it.
+
+806
+01:23:53,792 --> 01:23:56,226
+I couldn't help myself.
+
+807
+01:23:56,294 --> 01:23:58,387
+I've never experienced such--
+
+808
+01:24:00,298 --> 01:24:03,563
+I was in love on a level
+you've never known.
+
+809
+01:24:09,307 --> 01:24:12,071
+It terrifies me.
+
+810
+01:24:12,144 --> 01:24:14,738
+My memory plays tricks on me.
+
+811
+01:24:18,150 --> 01:24:20,084
+She was calling me.
+
+812
+01:24:21,153 --> 01:24:24,919
+Her power was spiritual.
+
+813
+01:24:55,787 --> 01:24:57,721
+She wanted me, Caine.
+
+814
+01:25:02,294 --> 01:25:03,955
+It was more than spiritual.
+
+815
+01:25:17,476 --> 01:25:19,876
+She took some of my energy.
+
+816
+01:25:22,514 --> 01:25:25,244
+And she gave me
+some of her energy.
+
+817
+01:25:32,824 --> 01:25:36,760
+They must have been living
+off of each other when we found them.
+
+818
+01:25:36,828 --> 01:25:39,422
+There were only three of them left.
+
+819
+01:25:41,099 --> 01:25:45,502
+She killed all of my men,
+one by one.
+
+820
+01:25:47,272 --> 01:25:49,172
+But I survived.
+
+821
+01:25:50,275 --> 01:25:54,006
+She wanted me to survive.
+She chose me!
+
+822
+01:25:55,614 --> 01:25:57,047
+Why?
+
+823
+01:25:58,216 --> 01:26:01,379
+She's not human.
+She's not a woman.
+
+824
+01:26:01,453 --> 01:26:03,387
+She'll destroy you.
+
+825
+01:26:05,290 --> 01:26:07,884
+She's destroyed worlds.
+
+826
+01:26:07,959 --> 01:26:09,893
+There's something
+you might want to hear, sir.
+
+827
+01:26:09,961 --> 01:26:12,521
+A special bulletin
+from the BBC.
+
+828
+01:26:13,799 --> 01:26:15,733
+Tonight London is on the brink...
+
+829
+01:26:15,801 --> 01:26:17,894
+of the worst devastation
+since the blitz.
+
+830
+01:26:17,969 --> 01:26:23,236
+I can see large areas of the city
+burning out of control.
+
+831
+01:26:23,308 --> 01:26:25,902
+Thousands of people are now rampaging
+through the streets...
+
+832
+01:26:25,977 --> 01:26:29,913
+in a frenzied last effort
+to avoid the plague.
+
+833
+01:26:29,981 --> 01:26:32,575
+Martial law has been enforced now
+for three hours...
+
+834
+01:26:32,651 --> 01:26:35,211
+but it hasn't stemmed
+what is obviously--
+
+835
+01:27:29,307 --> 01:27:31,707
+- Yes, we've been expecting you.
+- Thank you. Carry on.
+
+836
+01:27:31,776 --> 01:27:34,370
+- Hurry over, Sergeant.
+- Right, sir.
+
+837
+01:27:34,446 --> 01:27:36,744
+- Go around the other side.
+- Right.
+
+838
+01:27:45,557 --> 01:27:47,582
+Is everything ready
+for the cabinet to evacuate?
+
+839
+01:27:47,659 --> 01:27:50,753
+- Yes, everything.
+- Please take a seat, gentlemen.
+
+840
+01:27:54,733 --> 01:28:00,103
+Sir, I have Colonel Caine
+and Colonel Carlsen here for you.
+
+841
+01:28:00,171 --> 01:28:01,798
+Very good.
+
+842
+01:28:01,873 --> 01:28:05,741
+The Prime Minister will see you shortly.
+Would you care for tea while you wait?
+
+843
+01:28:05,810 --> 01:28:10,076
+- Our business is rather urgent.
+- The Prime Minister understands that.
+
+844
+01:28:11,182 --> 01:28:12,615
+- Gentlemen.
+- Prime Minister.
+
+845
+01:28:12,684 --> 01:28:14,276
+I'm Colonel Caine,
+Special Air Service...
+
+846
+01:28:14,352 --> 01:28:17,116
+and I'm sure you've heard
+of Colonel Carlsen of the Churchill.
+
+847
+01:28:17,188 --> 01:28:18,621
+Y es, indeed.
+
+848
+01:28:18,690 --> 01:28:21,352
+Gentlemen, I look forward
+to hearing your report.
+
+849
+01:28:21,426 --> 01:28:23,417
+By the way,
+where is Sir Percy?
+
+850
+01:28:23,495 --> 01:28:25,019
+Dead, I'm afraid.
+
+851
+01:28:25,096 --> 01:28:26,961
+Oh, that's a great pity.
+
+852
+01:28:27,032 --> 01:28:31,264
+Sir, we have information
+regarding the object in space...
+
+853
+01:28:31,336 --> 01:28:33,964
+- which is bearing down on the Earth--
+- Yes, gentlemen.
+
+854
+01:28:34,039 --> 01:28:36,803
+If you'll excuse me
+just for a moment.
+
+855
+01:28:36,875 --> 01:28:39,400
+Miss Haversham,
+please come this way.
+
+856
+01:28:40,979 --> 01:28:42,571
+Here, for a moment.
+
+857
+01:28:42,647 --> 01:28:44,581
+I'll be back, gentlemen.
+
+858
+01:29:00,732 --> 01:29:02,165
+Please.
+
+859
+01:29:11,676 --> 01:29:13,610
+Somebody get the doctor immediately.
+
+860
+01:29:18,516 --> 01:29:20,313
+We need a doctor over here.
+
+861
+01:29:34,466 --> 01:29:36,161
+Go!
+
+862
+01:30:03,461 --> 01:30:06,692
+- Do you have any weapons aboard?
+- No, sir!
+
+863
+01:30:06,765 --> 01:30:09,063
+- There is a flare pistol, sir.
+- Where is it?
+
+864
+01:30:09,134 --> 01:30:11,295
+Close the breach
+and it's ready to fire!
+
+865
+01:30:11,369 --> 01:30:12,961
+Get him!
+
+866
+01:30:18,843 --> 01:30:22,438
+While you were with the Prime Minister,
+I had a call from base operations.
+
+867
+01:30:22,514 --> 01:30:25,779
+The city is now under martial law.
+We've been placed under NATO command.
+
+868
+01:30:25,850 --> 01:30:27,283
+- NATO?
+- Yes, sir.
+
+869
+01:30:27,352 --> 01:30:30,617
+My unit's been mobilized
+to a staging area at Blackheath.
+
+870
+01:30:30,688 --> 01:30:33,486
+Land at the S.R.C.
+We've got to talk to Fallada.
+
+871
+01:30:33,558 --> 01:30:37,392
+I'm to land at Blackheath.
+The city's under air quarantine.
+
+872
+01:30:37,462 --> 01:30:39,487
+If we don't do as they say,
+they'll shoot us down.
+
+873
+01:30:45,670 --> 01:30:48,901
+Zero, this is X-ray 318 requesting
+clearance to land. Over.
+
+874
+01:30:48,973 --> 01:30:52,067
+Zero, roger.
+X-ray 318, you are clear to land.
+
+875
+01:31:01,853 --> 01:31:05,414
+Come away from the aircraft!
+You are under quarantine!
+
+876
+01:31:07,325 --> 01:31:08,519
+Over here, please, sir.
+
+877
+01:31:10,228 --> 01:31:12,423
+Don't come any closer!
+Stop there!
+
+878
+01:31:12,497 --> 01:31:14,658
+I want to talk
+to your commanding officer.
+
+879
+01:31:14,732 --> 01:31:16,757
+I am Colonel Caine,
+Special Air Service...
+
+880
+01:31:16,835 --> 01:31:21,465
+and this man is Colonel Tom Carlsen,
+United States Air Force...
+
+881
+01:31:21,539 --> 01:31:23,234
+and former commander
+of the Churchill.
+
+882
+01:31:27,512 --> 01:31:30,447
+Is Dr. Hans Fallada here
+from the S.R.C.?
+
+883
+01:31:30,515 --> 01:31:34,281
+- He knows who we are.
+- No, not that I know of.
+
+884
+01:31:34,352 --> 01:31:36,513
+Has anybody heard of him?
+
+885
+01:31:36,588 --> 01:31:38,556
+He must still be in London.
+
+886
+01:31:38,623 --> 01:31:40,818
+Colonel, what exactly do you know
+about what's happening there?
+
+887
+01:31:40,892 --> 01:31:46,387
+All we know for certain is that
+a terrible plague is sweeping London.
+
+888
+01:31:46,464 --> 01:31:49,297
+The incubation period
+appears to be two hours.
+
+889
+01:31:49,367 --> 01:31:53,861
+Until that time has elapsed,
+I cannot release you from this compound.
+
+890
+01:31:53,938 --> 01:31:57,169
+We know what the plague is.
+We are not infected.
+
+891
+01:31:57,242 --> 01:32:00,575
+I know what I'm talking about!
+We're wasting valuable time!
+
+892
+01:32:01,880 --> 01:32:03,575
+We have totally isolated London...
+
+893
+01:32:03,648 --> 01:32:06,242
+in order to stop further contagion.
+
+894
+01:32:06,317 --> 01:32:09,753
+If that fails, and the surrounding
+areas are threatened...
+
+895
+01:32:09,821 --> 01:32:12,016
+Yes?
+
+896
+01:32:12,090 --> 01:32:15,617
+sterilization by thermonuclear device
+has been approved.
+
+897
+01:32:17,328 --> 01:32:20,195
+We have this from General Ames
+in Brussels.
+
+898
+01:32:20,265 --> 01:32:25,396
+He's coming up with that decision
+in just under three hours.
+
+899
+01:32:25,470 --> 01:32:28,098
+Have you heard anything
+about the ship?
+
+900
+01:32:28,173 --> 01:32:31,074
+- "The ship"?
+- The thing from Halley's Comet.
+
+901
+01:32:34,012 --> 01:32:37,641
+It's parked itself in a geostationary
+orbit directly over London.
+
+902
+01:32:56,668 --> 01:33:02,573
+All those little blue lights going up
+toward the clouds are human souls.
+
+903
+01:33:03,808 --> 01:33:06,936
+- How do you know that?
+- I feel it.
+
+904
+01:33:07,011 --> 01:33:11,710
+The process of conversion releases
+a life energy that can be collected.
+
+905
+01:33:11,783 --> 01:33:13,250
+"Collected"?
+
+906
+01:33:14,485 --> 01:33:18,478
+Is that what the umbrella is?
+A collector?
+
+907
+01:33:18,556 --> 01:33:22,390
+The energy doesn't go free.
+It goes up there.
+
+908
+01:33:43,615 --> 01:33:46,675
+The male vampire is collecting
+life energy...
+
+909
+01:33:46,751 --> 01:33:51,211
+but he has to send it through her
+to get it up to the collector.
+
+910
+01:33:52,957 --> 01:33:54,891
+Where is she?
+
+911
+01:33:56,561 --> 01:33:57,994
+Over there.
+
+912
+01:33:59,464 --> 01:34:02,228
+I get flashes
+coming from her body.
+
+913
+01:34:02,300 --> 01:34:06,566
+It's sensitive to its environment.
+It picks up things.
+
+914
+01:34:06,638 --> 01:34:10,074
+- Can you find her?
+- If I can get across to the city.
+
+915
+01:34:11,309 --> 01:34:12,742
+What about the male?
+
+916
+01:34:12,810 --> 01:34:15,574
+He'll come if he senses I found her.
+
+917
+01:34:15,647 --> 01:34:18,741
+She's drawing me.
+
+918
+01:34:18,816 --> 01:34:20,579
+I've got to go.
+
+919
+01:34:22,086 --> 01:34:23,576
+Why?
+
+920
+01:34:23,655 --> 01:34:26,590
+She wants back
+the energy she gave me.
+
+921
+01:34:29,661 --> 01:34:32,687
+When they take on a new life-form...
+
+922
+01:34:32,764 --> 01:34:35,927
+they have to learn
+from that life-form.
+
+923
+01:34:36,000 --> 01:34:37,865
+Mate with it, in a sense.
+
+924
+01:34:40,271 --> 01:34:42,205
+The girl chose me.
+
+925
+01:34:44,108 --> 01:34:47,703
+But when she mixed with me,
+she gave me a part of herself.
+
+926
+01:34:50,448 --> 01:34:52,541
+Now she wants that part back.
+
+927
+01:34:53,851 --> 01:34:56,718
+Is there any sign of activity
+in your sector? Over.
+
+928
+01:34:56,788 --> 01:35:00,383
+- No, sir.
+- Okay, keep me posted. Over.
+
+929
+01:35:00,458 --> 01:35:03,894
+Colonel, listen to me. Carlsen
+believes he can locate the source.
+
+930
+01:35:03,961 --> 01:35:05,724
+There are only two carriers.
+
+931
+01:35:05,797 --> 01:35:09,392
+If we can destroy them, it may not
+be necessary to destroy London.
+
+932
+01:35:09,467 --> 01:35:12,061
+But we only have
+an hour and a half.
+
+933
+01:35:13,304 --> 01:35:14,896
+Cease firing!
+
+934
+01:35:16,307 --> 01:35:19,401
+Where's Carlsen?
+
+935
+01:35:19,477 --> 01:35:21,741
+He knocked over two of my men
+and took an armored land rover.
+
+936
+01:35:21,813 --> 01:35:23,747
+Did he say where he was going?
+
+937
+01:35:23,815 --> 01:35:26,909
+He wanted to know where
+the Space Research Center was.
+
+938
+01:35:26,984 --> 01:35:28,918
+Rogers told him,
+then I was on the ground.
+
+939
+01:35:28,986 --> 01:35:31,079
+- Right. Whose car is this?
+- That?
+
+940
+01:35:31,155 --> 01:35:33,180
+- That's the colonel's.
+- Give me the keys.
+
+941
+01:35:33,257 --> 01:35:36,988
+- What?
+- I'm commandeering the car!
+
+942
+01:35:37,061 --> 01:35:38,494
+Give it to him.
+
+943
+01:35:39,997 --> 01:35:41,294
+And your side arm.
+
+944
+01:35:44,936 --> 01:35:47,370
+Are you sure you know
+what you're doing?
+
+945
+01:35:48,639 --> 01:35:51,164
+Once you're inside there,
+we can't allow you out.
+
+946
+01:35:54,979 --> 01:35:56,674
+- Watch out!
+- He's going in!
+
+947
+01:36:01,285 --> 01:36:03,378
+Colonel Caine, S.A.S.
+I'm crossing the river.
+
+948
+01:36:03,454 --> 01:36:05,888
+- You don't want to go in there.
+- I know I don't.
+
+949
+01:36:07,959 --> 01:36:11,395
+Get them gates in position!
+Secure this post! Move!
+
+950
+01:40:12,503 --> 01:40:14,437
+I'm glad to see you alive.
+
+951
+01:40:15,506 --> 01:40:18,236
+I reciprocate the sentiment.
+
+952
+01:40:18,309 --> 01:40:22,143
+- Is he really dead this time?
+- The only way they can be killed.
+
+953
+01:40:31,489 --> 01:40:34,117
+- Where's Bukovsky?
+- Dead.
+
+954
+01:40:35,359 --> 01:40:38,726
+- How?
+- Like the rest.
+
+955
+01:40:40,831 --> 01:40:43,061
+How did you survive?
+
+956
+01:40:46,971 --> 01:40:51,237
+- You're looking for Carlsen.
+- Has he been here?
+
+957
+01:40:51,308 --> 01:40:53,902
+No. Perhaps he misled you.
+
+958
+01:40:53,978 --> 01:40:57,277
+- What do you know about it?
+- I've been doing some more work.
+
+959
+01:40:57,348 --> 01:41:01,409
+- Go on.
+- I've discovered...
+
+960
+01:41:01,485 --> 01:41:04,682
+there is life after death.
+
+961
+01:41:04,755 --> 01:41:09,920
+-How do you know?
+-There is a certain mental transference.
+
+962
+01:41:09,994 --> 01:41:14,158
+Telepathy occurs between
+the vampires and their victims.
+
+963
+01:41:16,834 --> 01:41:21,134
+- Carlsen is after the girl.
+- How did you know that?
+
+964
+01:41:24,341 --> 01:41:27,777
+- I seem to sense it.
+- Where is she?
+
+965
+01:41:30,681 --> 01:41:32,615
+Don't you know?
+
+966
+01:41:35,519 --> 01:41:38,454
+- Carlsen knows.
+- Where?
+
+967
+01:41:38,522 --> 01:41:42,219
+She's in the cathedral.
+
+968
+01:41:42,293 --> 01:41:45,228
+She's been there
+since she escaped.
+
+969
+01:41:45,296 --> 01:41:48,231
+Rather a nice touch,
+don't you think?
+
+970
+01:41:48,299 --> 01:41:51,393
+The crypt of kings and queens.
+
+971
+01:41:51,469 --> 01:41:53,061
+Stay where you are.
+
+972
+01:42:13,157 --> 01:42:14,749
+Here I go.
+
+973
+01:43:32,303 --> 01:43:34,294
+I knew you would come.
+
+974
+01:44:18,616 --> 01:44:20,049
+I'm here.
+
+975
+01:44:20,117 --> 01:44:23,177
+Now can this madness end?
+
+976
+01:44:24,154 --> 01:44:26,088
+Come.
+
+977
+01:44:26,156 --> 01:44:27,851
+Be with me.
+
+978
+01:44:29,159 --> 01:44:31,059
+I need you.
+
+979
+01:44:31,128 --> 01:44:33,596
+It was always intended...
+
+980
+01:44:33,664 --> 01:44:35,325
+you should find us...
+
+981
+01:44:35,399 --> 01:44:37,959
+and bring us to Earth.
+
+982
+01:44:44,808 --> 01:44:49,040
+The web of destiny
+carries your blood and soul...
+
+983
+01:44:49,113 --> 01:44:52,640
+back to the genesis
+of my life-form.
+
+984
+01:44:58,956 --> 01:45:00,583
+Come with me.
+
+985
+01:48:12,549 --> 01:48:16,280
+It will be much less terrifying
+if you just come to me.
+
+986
+01:48:21,758 --> 01:48:23,385
+I'll do just that.
+
+987
+01:49:51,148 --> 01:49:52,581
+What are these feelings?
+
+988
+01:49:52,649 --> 01:49:56,585
+Why do I feel so close to you,
+need you?
+
+989
+01:49:56,653 --> 01:50:01,113
+Because you're one of us.
+You always have been.
+
+990
+01:50:01,191 --> 01:50:03,159
+You're like me.
+Be with me.
+
+991
+01:50:16,006 --> 01:50:18,941
+Just a little more.
+
+992
+01:50:19,941 --> 01:50:29,941
+Downloaded From www.AllSubs.org
+

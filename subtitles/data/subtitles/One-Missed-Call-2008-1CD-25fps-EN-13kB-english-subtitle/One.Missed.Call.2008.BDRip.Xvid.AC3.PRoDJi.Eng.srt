@@ -1,0 +1,600 @@
+{1}{1}25.000
+{2305}{2345}Get out of the way!
+{2346}{2412}This way!
+{2535}{2607}Saint Luke's Hospital.|I repeat, Saint Luke's Hospital.
+{2608}{2669}Does anything hurt?
+{2670}{2727}Sweetheart, is your mommy here?
+{2728}{2795}Do you know where she is?
+{2977}{3060}Really, I'm just... No.
+{3061}{3137}Don't come over.
+{3142}{3242}No. No, I swear|I wasn't just seeing things.
+{3243}{3337}I mean, it could have just been a prank.
+{3340}{3415}I don't know who.
+{3422}{3535}No, really, I'm just gonna see you|at school tomorrow.
+{3552}{3620}Thanks, Leann.
+{3635}{3697}Bye.
+{4417}{4490}Luna?
+{4615}{4677}Luna?
+{7965}{8001}Come on.|Over here.
+{8002}{8072}Beth's a little too sane for me,|but she does throw a good party.
+{8073}{8142}Yeah, so now I'm having sex|and phone sex at the same time.
+{8143}{8215}Oh, man. Are you serious?
+{8255}{8355}I know, but he was just so handsome.
+{8356}{8411}And I was so nervous, you know?
+{8412}{8500}And I'm trying to describe|the plot of Beloved to him...
+{8501}{8539}...and I just started crying.
+{8540}{8650}It was a perfect year, wasn't it?|I loved it.
+{8680}{8812}Brian, could you get your eyes off Taylor|for two seconds and help me with this?
+{8847}{8894}Unbelievable.
+{8895}{9000}And before the sheets are even cold.|No wonder why Leann moved out.
+{9001}{9122}I am a man. I have needs.|Is that a problem for you?
+{9123}{9195}No. But it might be a problem for Taylor.
+{9196}{9256}Hot. Yes, well...
+{9257}{9347}...we can't force Taylor|to have good taste, now can we?
+{9348}{9420}Just keep chopping.
+{9421}{9492}I'll keep chopping.
+{9607}{9730}You know, I can hear you analyzing me in|your head. You might as well do it out loud.
+{9731}{9812}Okay, I think that|you're still messed up over Leann.
+{9813}{9859}You think if you flirt with Taylor...
+{9860}{9949}...maybe Leann'll get jealous|and come back to you.
+{9950}{10055}Go back to analyzing me in your head.|I think I like that better.
+{10145}{10240}Hey, did someone lock the door?
+{10825}{10884}- Hey, Leann. Hi.|- Hi.
+{10885}{10941}Oh, I'm so glad to see you.
+{10942}{11021}- Me too.|- Is... Is Brian home?
+{11022}{11122}Yeah, he's in the kitchen,|so we should go upstairs.
+{11187}{11265}How you doing?
+{11347}{11415}Oh. Oh.
+{11417}{11455}Hey, it's Leann.
+{11456}{11517}Bye.
+{11597}{11717}Okay. Just leave the alarm off. Thanks.
+{11847}{11914}Hey.
+{11915}{11981}How was it?
+{11982}{12092}It was a funeral. It sucked.
+{12097}{12205}From now on, I only go to parties|where no one gets cremated.
+{12206}{12254}How are Shelley's parents?
+{12255}{12375}Considering their 24-year-old daughter|drowned in the backyard pond...
+{12376}{12430}...they're great.
+{12440}{12489}And you?
+{12490}{12557}I knew Shelley.|We interned at Saint Luke's together.
+{12558}{12606}I mean, she was not crazy.
+{12607}{12685}I know, but the way she was|talking at the end was pretty...
+{12686}{12765}Yeah, that doesn't mean|she killed herself.
+{12845}{12917}That's not my ringtone.
+{13120}{13179}It says it's from Shelley.
+{13180}{13265}Who'd be calling from Shelley's phone?
+{13332}{13412}That's creepy.
+{13427}{13512}It's dated Monday, 10:17 p. m.
+{13557}{13665}It's Friday. Maybe you just|set the date wrong.
+{13940}{14015}Leann, what is it?
+{14016}{14082}Leann?
+{14255}{14315}If you'd like to hear this message again...
+{14316}{14371}...press one.
+{14372}{14488}Voice call received Monday,|June 12th, 10:17 p.m.
+{14490}{14611}I don't know,|it's the weirdest, weirdest thing.
+{14612}{14732}It's like every time I|turn around, they're...
+{14740}{14860}No! Aaah!
+{14890}{14967}That's your voice.
+{14968}{15045}That's you.
+{15250}{15279}Yeah?|Yeah.
+{15280}{15306}Cut me a break, man.
+{15307}{15377}No, man, you know what the price is.|You gotta hit it right.
+{15378}{15414}All right. Give me that.
+{15415}{15485}All right, slow down, homie.
+{15486}{15531}Okay?
+{15532}{15637}Yeah. They're real nice.
+{15745}{15851}Detective Andrews. Yeah.
+{15852}{15909}A group of hikers found her.
+{15910}{16048}We held off on the autopsy|until you got here, detective.
+{16049}{16185}Even so, your sister was out|there for more than a week.
+{16186}{16285}There's really no need for you to do this.
+{16952}{17015}Whew.
+{17295}{17382}Oh, jeez.
+{18297}{18384}In cases of severe and repeated|childhood abuse...
+{18385}{18469}...the posttraumatic-stress model|may be valid.
+{18470}{18585}Long-term effects may include|sexual dysfunction, amnesia...
+{18586}{18700}...dissociation, even hallucinations|and multiple personalities.
+{18701}{18751}The post-trauma child...
+{18752}{18829}...faces formidable developmental tasks...
+{18830}{18970}...and among these what we call|"dissociative virtuosity. "
+{18992}{19105}The post-trauma child|will form primary attachments...
+{19106}{19159}...to develop a sense of basic trust...
+{19160}{19300}...and to preserve a sense|of hope and meaning in life.
+{19307}{19411}The child will, from this experience,|attempt to...
+{19412}{19514}...construct an explanation|of what's happened.
+{19515}{19655}And these explanations may excuse|the parental negligence or abuse.
+{19656}{19780}The child may blame themselves|for what has happened.
+{19850}{19975}Look, if you come over|earlier then we can study some more.
+{19997}{20034}Leann!
+{20035}{20115}Hey. Do you wanna|go get some coffee?
+{20116}{20189}No. No. I've...
+{20190}{20295}...gotta get to the library.|Paper's due next week.
+{20296}{20380}Are you okay?|You seem kind of weirded-out.
+{20381}{20451}I haven't been sleeping too well.
+{20452}{20504}Call me tonight.|I'll read you my paper...
+{20505}{20625}...on developmental perspectives|in abuse cases. It's better than Ambien.
+{20652}{20745}Okay. Bye.
+{20772}{20840}Bye.
+{20935}{21050}The library will be closing in five minutes.
+{22102}{22156}- Hey, Lee.|- Hey.
+{22157}{22209}Hey, what's up?
+{22210}{22312}Oh, I'm just finishing up this paper.|What are you doing?
+{22317}{22445}I just got sprung from the stacks.|My brain was mushing out.
+{22446}{22517}Oh, God, I know what you mean.
+{22685}{22746}Leann?
+{22747}{22809}Leann? Hello?
+{22810}{22965}Listen, Beth, I didn't mean to ditch you|after class today. I...
+{23185}{23247}Leann, are you still there?
+{23250}{23364}I don't know how to explain it.|L... I've been...
+{23365}{23472}- I've been having some problems.|- What kind of problems?
+{23532}{23577}Ever since I...
+{23578}{23621}Well, I don't know.
+{23622}{23764}I mean, Shelley drowned,|and that was my voice screaming.
+{23765}{23905}And then that bizarre phone call,|and it was dated today.
+{23915}{23985}10:17 p.m.
+{24100}{24176}- I don't...|- Where are you?
+{24177}{24252}I'm at the overpass on College.
+{24260}{24314}That's two minutes away.|I'll be right there.
+{24315}{24435}I keep seeing things. I mean,|weird people looking at me.
+{24436}{24476}- Leann?|- I'm sorry.
+{24477}{24534}I didn't mean to panic. I've just...
+{24535}{24635}I've been seeing|some really strange stuff.
+{24640}{24735}I don't know,|it's the weirdest, weirdest thing.
+{24736}{24830}Every time I turn around, they're...
+{25060}{25115}Leann!
+{25170}{25232}- No! No!|- Leann!
+{26332}{26420}Didn't see anything?|Like I said, she threw herself off.
+{26421}{26474}Please, can we go?|This is taking so long.
+{26475}{26550}You're gonna have to stay here|until I get all the information.
+{26551}{26625}I need you to sign this statement.
+{26717}{26780}- Hey.|- Hey.
+{26847}{26907}And then she got this strange phone call.
+{26908}{26944}It's hard to believe.
+{26945}{27035}Yeah, Leann told me the same thing|happened to Shelley before she drowned.
+{27036}{27104}- That is so eerie.|Taylor.
+{27105}{27196}What? I'm just saying what Leann said.
+{27197}{27279}Yeah, well, maybe this isn't the time,|all right?
+{27280}{27369}I heard Shelley got a phone call|from an old advisor of hers.
+{27370}{27450}I heard that too. Only it turned out|the advisor was already dead.
+{27451}{27520}Would you stop it?
+{27522}{27597}Her parents are right in the other room.
+{27675}{27760}It's like dead people call you,|but it's your own voice.
+{27761}{27830}And then you die too.
+{27835}{27864}Shit, Taylor, know what?
+{27865}{27975}Don't try to think, all right?|It just makes you look ridiculous.
+{28035}{28109}I heard it too.
+{28110}{28201}That's it. Now I'm really creeped out.
+{28202}{28292}It's shit, all right? It's total bullshit.
+{28572}{28629}Brian! Brian!
+{28630}{28691}What's his problem?
+{28692}{28772}He had a thing for Leann.
+{29522}{29580}Brian.
+{29637}{29686}Are you okay?
+{29687}{29757}What was that back there?
+{30027}{30144}To listen to your messages, press one.
+{30145}{30232}Voice call received|Wednesday, June 14th...
+{30233}{30304}...12:02 p.m.
+{30305}{30395}Damn it, I forgot. I swear if I|didn't have my head screwed on...
+{30545}{30616}The call came in two nights ago.|From Leann's phone.
+{30617}{30715}- That was the night that she died.|- Only the call was dated Wednesday.
+{30716}{30831}Today. 12:02 p.m.
+{30832}{30909}I don't believe in magic, Beth.
+{30910}{31052}I don't believe in anything. But ever since|I got that phone call, things have been...
+{31055}{31132}...weird.|- Like what?
+{31190}{31229}No, Brian, you have to tell me.
+{31230}{31340}That's the exact same thing|that Leann told me right before she...
+{31385}{31442}Brian?
+{31475}{31552}What's wrong? Brian?
+{31657}{31726}Look...
+{31727}{31774}- What's...?|- Forget about it, okay?
+{31775}{31821}- No, Brian, don't!|- These things work...
+{31822}{31915}...because they get in your head, Beth.|You're the psych lady, you know that.
+{31916}{31990}If you don't think about it,|it can't hurt you.
+{32135}{32210}Like I said.
+{32605}{32674}Brian, your phone!
+{32675}{32742}You forgot your phone.
+{32840}{32930}Damn it, I forgot. I swear if I|didn't have my head screwed on...
+{33395}{33434}Let's go over this again.
+{33435}{33545}Welder's acetylene tank exploded.|Your friend happened to be in the way.
+{33546}{33611}Okay. And what about|Leann and the voice mails?
+{33612}{33695}We checked on that. There were no|voice mails on your friends' phones.
+{33696}{33769}- Either of them.|- But I heard them. Okay?
+{33770}{33882}Leann got a phone call, and so did Brian,|right before they died.
+{33883}{33934}Both of them did.
+{33935}{34032}I hear it happened to Shelley too,|Shelley Baum, right before she died.
+{34033}{34084}Well, thank you, Miss Raymond.
+{34085}{34217}We'll check on that, and we'll contact you|if we need anything else.
+{34300}{34346}What about the hard candies?
+{34347}{34415}Both of these kids were eating them.|My sister too.
+{34416}{34481}Three people eating hard candy|in two weeks?
+{34482}{34572}The girl's right, Mickey. There's gotta be|some kind of connection here.
+{34573}{34647}You know,|I'm really sorry about your sister.
+{34648}{34709}But if it was my sister...
+{34710}{34860}...I'd take some personal time,|just till I was thinking right again.
+{34945}{35015}Excuse me, Miss Raymond?
+{35025}{35084}I'm sorry, I didn't mean to startle you.
+{35085}{35152}I'm Detective Jack Andrews. I heard|what you were saying...
+{35153}{35211}...and, well, Detective Lee's a good cop...
+{35212}{35275}...but she's a little short|on imagination, you know?
+{35276}{35349}- What are you saying?|- I don't really know.
+{35350}{35451}Except Shelley Baum interned|with my sister at Saint Luke's.
+{35452}{35545}My sister Jean, she died in a fall|two days before Shelley drowned.
+{35546}{35613}Oh, I'm sorry.|But then, you see what I'm saying.
+{35614}{35680}Everybody seems to be|linked together somehow.
+{35681}{35754}Something doesn't make sense here so...
+{35755}{35865}...if you can think of anything else,|give me a call.
+{37615}{37680}You didn't get a call, did you?
+{37707}{37807}But my number was in Brian's cell.
+{37837}{37922}I'm gonna be next.
+{37935}{37976}I can feel it.
+{37977}{38029}No, you don't know that, okay?
+{38030}{38140}Because my number is in Brian's cell too.|Here.
+{38177}{38297}No power, no problem.
+{38327}{38400}Any dead people call...
+{38445}{38517}...we're not home.
+{39370}{39442}- Which one is it?|- Uh!
+{39690}{39745}Who?
+{40192}{40240}Oh, God.
+{40241}{40286}Oh, God.
+{40287}{40377}This can't be happening.
+{40605}{40695}There are no batteries.
+{40755}{40846}It says 8:32 p.m. On Friday.
+{40847}{40937}That's two days from now.
+{41250}{41307}Everything I'm seeing is there. It's real.
+{41308}{41377}I'm seeing it and it's happening...
+{41410}{41525}I do not. Okay?
+{41622}{41707}Okay, you wanna delete it? Do it yourself.
+{41720}{41819}Look, I'm... I'm sure you'll be fine.
+{41820}{41932}I wanna do mine.|- You wanna do it too? Go ahead.
+{41987}{42052}Go on, you can all do it.
+{42053}{42096}There you go.
+{42097}{42175}- That's a...|- Wait.
+{42282}{42334}Sorry, ladies.|It just doesn't work that way.
+{42335}{42405}Right. You're telling me|that we can't cancel the service?
+{42406}{42464}You don't have to cancel.|Just use up your minutes.
+{42465}{42552}That's what I'm trying to tell you.|We don't wanna use this phone at all.
+{42553}{42672}Well, the phone is yours, so you|can do whatever you want with it.
+{43340}{43386}Miss Anthony?
+{43387}{43455}- Taylor Anthony?|- Yeah.
+{43456}{43499}Ted Summers.
+{43500}{43615}I'm a television producer. I work|on the program American Miracles.
+{43616}{43655}Oh, I've heard of that.
+{43656}{43691}Yeah.
+{43692}{43744}Some students called us|about what happened...
+{43746}{43796}...and they told us|all about your problem.
+{43797}{43905}- Can we help you with something? We're...|- We were very moved by your story, Taylor.
+{43906}{44021}- We think we might be able to help you.|- How?
+{44022}{44135}About five years ago,|my son suffered a possession.
+{44187}{44276}Yeah. It was pretty devastating|for the whole family.
+{44277}{44357}So when I created my show,|I wanted to make it a point...
+{44358}{44454}...to build an extensive resource|of people who were able...
+{44455}{44550}...to deal successfully|with those evil influences like that.
+{44551}{44609}What do you mean,|like, you do exorcisms?
+{44610}{44720}- I think this is nonsense.|- Do you have the telephone on you, Taylor?
+{44721}{44802}- What? No, we threw it away.|- Do you have the phone?
+{44803}{44895}Well, it would really be helpful.|Here. Here.
+{44896}{44951}Now, you show me...
+{44952}{45015}...exactly what happened|when the phone call came in.
+{45016}{45056}Okay, come here. Nope, nope.
+{45057}{45117}Thank you very much.|This is ridiculous. Thank you.
+{45118}{45177}- We don't need a reality show.|- I understand...
+{45178}{45227}...you wanna protect your friend.|- I do.
+{45228}{45282}- I admire that.|- Thank you.
+{45552}{45625}- Come on, let's go.|- Jesus.
+{45626}{45695}Come on, come on.
+{45737}{45812}Wait, we could s...
+{45817}{45869}Hey, maybe he could help me, Beth.
+{45870}{45975}No, Taylor, you don't need an exorcism.|Okay?
+{45976}{46070}That guy was so full of it.
+{47360}{47415}Andrews.
+{48550}{48652}Miss Raymond, it is not your|imagination. The phone calls happened.
+{48653}{48721}The other detective said|nobody could find the voice mails.
+{48722}{48805}Because the other detective|didn't bother to check the phone records.
+{48806}{48854}I did, and it's all right there.
+{48855}{48967}Brian was called by Leann, Leann|was called by Shelley, and Shelley...
+{48968}{49031}...was called from my sister.
+{49032}{49115}All right? And all the calls came in|after the caller was already dead.
+{49116}{49161}Right. Who called your sister?
+{49162}{49245}If we could trace it to the source|and find out who started this, then...
+{49246}{49315}I was up all night tracking it.|I'm gonna go see her now.
+{49316}{49354}- I'll give you a call. Okay?|- Okay.
+{49355}{49414}- I'm gonna come with you.|- That's not a good idea.
+{49415}{49560}Yeah, it is, because these are my friends|and there's no way I'm gonna sit here.
+{49590}{49660}The call my sister got|came from a nurse at an old-age home.
+{49661}{49725}A woman named Marie Layton.
+{49860}{49942}It's right up here on the right.
+{50135}{50179}I wouldn't hold my breath.
+{50180}{50280}Nobody's been in there for|more than two weeks now, not a soul.
+{50281}{50370}Okay. Thank you very much.
+{50605}{50699}You know, I'm gonna go get the super.
+{50700}{50770}That could take hours.|Why don't you just break in?
+{50771}{50833}I'm a cop.
+{50834}{50895}I'm not.
+{50965}{51042}All right, give it a shot.
+{51227}{51282}Okay.
+{51312}{51372}I was getting it.
+{52015}{52142}Well, whoever Marie Layton is,|she's a hell of a housekeeper, huh?
+{52362}{52527}We're not... We're not...|We're not... We're not...
+{55255}{55350}- Hey, you okay?|- Yeah.
+{55482}{55562}I found this in the living room.
+{55563}{55649}It must be one of those nanny cams.
+{55650}{55735}To keep an eye on the children.
+{55815}{55992}Okay, so judging from the angle, the|camera would have been right here.
+{56072}{56147}So where did it go?
+{56640}{56679}Beth.
+{56680}{56764}Look, if you don't talk to me,|I can't help you.
+{56765}{56885}That noise, the inhaler. I heard it|both times, before Leann and Brian...
+{56886}{56977}Then when I looked behind me,|there was nobody there.
+{57005}{57069}What the hell is happening?
+{57070}{57145}This is the morgue file of the dead|from the last month or so.
+{57146}{57213}If Marie Layton died,|she did it in another city.
+{57214}{57285}I don't know how you stand|looking at this stuff.
+{57286}{57355}The dead ones don't really|bother me so much.
+{57356}{57409}Now take a look at this. All right.
+{57410}{57483}It's not a Marie Layton,|but an Ellie Layton.
+{57484}{57554}That's the older daughter|from the photograph.
+{57555}{57647}Yeah. It says she died of an asthma attack|in her apartment.
+{57648}{57725}There's a CPS report attached too.
+{57740}{57814}Child Protective Services.|Was she an abuse victim?
+{57815}{57920}It says her mother was questioned|by a psychiatric nurse at...
+{57921}{58030}...Saint Luke's.|- Your sister.
+{58067}{58135}Wanna give me a hand with those?|Yeah, sure.
+{58136}{58205}Make sure Jesus is centered, all right?
+{58206}{58274}Let's go, people! Let's go!
+{58275}{58334}Hey, Gary, this is a great place.
+{58335}{58400}I have a feeling|it's gonna be a terrific show.
+{58401}{58507}- How's our girl doing, huh?|Not bad.
+{58597}{58649}This is Beth. I'm calling for Taylor.
+{58650}{58760}Taylor, when you get this,|will you call me, please? Thanks.
+{58761}{58869}Jean's papers. I haven't had a chance|to go through them yet...
+{58870}{58955}...but she kept records of everything|in case she had to go to court...
+{58956}{59030}...so it's gotta be in here someplace.
+{59215}{59317}She was the baby.|I was supposed to look out for her.
+{59318}{59372}I'm sorry.
+{59555}{59607}Is this it?
+{59740}{59771}It says Marie Layton...
+{59772}{59852}...checked her daughter Ellie|into the hospital for an asthma attack.
+{59853}{59926}And here's the little one, Laurel,|stuck a needle in her hand.
+{59927}{60065}Laurel, insect bites, a burn on her leg.|Ellie, another asthma attack.
+{60066}{60131}Okay, Laurel again,|pesticide in her eye.
+{60132}{60195}Here's another one.|Laurel ingested detergent.
+{60196}{60229}And there, another burn.
+{60230}{60315}Look at that. That's nine admissions|in April and May alone.
+{60316}{60394}Munchausen syndrome by proxy.
+{60395}{60470}It's when a mother wants attention,|so she hurts her children...
+{60471}{60504}...so they need medical help.
+{60505}{60564}But there's no way|she could've given Ellie asthma.
+{60565}{60640}No, but she could have exposed her|to something to set it off.
+{60641}{60700}So Ellie has an asthma attack and dies.
+{60701}{60764}My sister starts asking questions.
+{60765}{60832}Marie gets nervous|she's gonna be found out...
+{60833}{60905}...so she takes Laurel and disappears.
+{60906}{60977}I'm gonna go get Missing Persons on this.
+{61095}{61164}A cell phone rings|and Death is on the line.
+{61165}{61254}A beautiful coed,|a ticking clock of ghostly murder.
+{61255}{61334}Next, American Miracles takes you there|as a famed exorcist...
+{61335}{61455}...tries to outrace the mysterious curse|that has already claimed two lives.
+{61465}{61572}Spiritual energy exists|in the same electromagnetic spectrum...
+{61573}{61644}...as light or microwaves.
+{61645}{61750}It's no surprise|it can travel through cellular phones.
+{61751}{61834}And it grows there, like a seed...
+{61835}{61972}...where it eventually manifests as|hallucinations, spiritual disturbances...
+{61973}{62019}...and finally death.
+{62020}{62064}For you, darling.
+{62065}{62126}Taylor, it's Beth.|Hey, Beth.
+{62127}{62174}Listen, I'm sorry. I'm really sorry.
+{62175}{62235}It's okay. Hold on.|We'll be there in a few minutes.
+{62236}{62294}No. It's gonna work out. I know it.
+{62295}{62405}- No, Taylor, listen to me.|- There's nothing else I can do.
+{62406}{62482}- Shit.|Okay, everybody, here we go.
+{62483}{62557}Quiet, please. And four, three, two...
+{62558}{62635}We cast out this unclean spirit.
+{62670}{62724}Depart from here, Satan.
+{62725}{62786}Depart, every demonic power...
+{62787}{62867}...every infernal adversary, every legion.
+{62868}{62901}I command you.
+{62902}{62964}I command you in the name of God...
+{62965}{63092}...in the names of all his heavenly|angels, to be gone from this cell phone.
+{63093}{63124}I command you...
+{63125}{63237}...by the judge of the living and the|dead, you will leave my sister alone.
+{63238}{63300}Come out, I say, in Jesus' name!
+{63301}{63350}You serpent!
+{63351}{63391}Devil!
+{63392}{63446}In the name of Jesus of Nazareth...
+{63447}{63555}...you will haunt this child of God|no more:
+{63572}{63680}Stop tormenting my sister.|You will come out now!
+{63855}{63910}I am calling you by name, Satan.
+{63911}{63977}Come out. Show yourself!
+{64087}{64169}Depart. Depart this place. Depart.
+{64170}{64247}Hey, hey, you guys, take it easy.|I'm a cop.
+{64655}{64717}Keep rolling. Keep rolling.
+{65060}{65160}Taylor? Taylor.
+{65162}{65222}Taylor.
+{65702}{65810}Beth, hey. You okay? Yeah?
+{65925}{66007}Everybody back off.
+{66015}{66120}Did you get that, huh?|Please tell me you got it.
+{66121}{66171}Huh?
+{66172}{66220}Ah...
+{66720}{66784}Tomorrow.
+{66785}{66840}You weren't there, Mickey.|You didn't see this.
+{66841}{66904}- This girl needs protection.|- From what?
+{66905}{67015}The ghost in her cell phone?|Tell her to call customer service.
+{67016}{67066}Jack, Mickey's got a point.
+{67067}{67135}Best use of people here|is we find the doer.
+{67136}{67179}Yeah.
+{67180}{67265}You're doing a great job so far.
+{67947}{67986}Voice call received...
+{67987}{68112}Saturday, June 17th, 7:55 p.m.
+{68113}{68179}Why?
+{68180}{68285}Please, just tell me why.
+{68580}{68702}Look, are you sure you wanna stay here?|Maybe you could stay with family instead?
+{68703}{68795}- Well, my father's dead.|- Well, what about your mother?
+{68860}{68935}She and I don't talk very much.
+{68950}{69020}- You don't have to stay.|- That's not gonna happen, okay?
+{69021}{69092}I'm not going anywhere.
+{69452}{69552}Look, this isn't over yet.
+{69553}{69594}All right?
+{69595}{69750}- There's still time to figure this out.|- Not before 7:55 tonight.
+{69890}{69972}- Jesus. Beth, what happened here?|- Oh!
+{70060}{70120}How old were you|when you got those?
+{70121}{70205}Seven? Eight?
+{70235}{70310}Was it your mother?
+{70357}{70427}Did your father know?
+{70490}{70612}When I call you, I expect you to come.|Do you hear me?
+{70650}{70694}Do...
+{70695}{70740}::you:::
+{70741}{70785}...hear me?
+{71245}{71300}My father knew.
+{71340}{71411}Cry, baby, cry
+{71412}{71481}You're disgusting.
+{71482}{71585}Go ahead. Go cry to your father.
+{71987}{72060}Daddy?
+{72142}{72217}Daddy?
+{73255}{73316}Hello.
+{73317}{73385}Yeah. Okay.
+{73386}{73447}Where?
+{73450}{73509}All right. All right, thanks.
+{73510}{73625}That was Missing Persons.|They found Laurel. She's in a foster home.
+{73655}{73718}She was at Saint Luke's|when it caught fire.
+{73719}{73779}- Wait. So she was still at the hospital?|- Yes.
+{73780}{73882}She'd cut her arm, and there'd been|a report to Child Protective Services.
+{73883}{73947}They were holding her|until she could be examined.
+{73948}{74010}What about her mother?|Do you know where she is?
+{74011}{74097}She hasn't been seen since the fire.
+{74115}{74237}- Well, do you think we could talk to Laurel?|- You can try.
+{74367}{74487}Laurel? There are some people here|to see you.
+{74607}{74705}Hi, Laurel. My name's Jack.
+{74765}{74845}It's a cute little teddy bear you got there.
+{74872}{74954}Does your teddy bear have a name?
+{74955}{75035}She hasn't spoken since the fire.
+{75090}{75129}Laurel, listen to me.
+{75130}{75192}It's very important|that we find your mother.
+{75193}{75272}Do you know where she is right now?
+{75305}{75397}Laurel, do you know|where your mother went?
+{75402}{75482}Do you know where she is?
+{75667}{75740}Do you think there's maybe|some way that you could talk to her?
+{75741}{75830}L...|You wanna try talking to her?
+{75930}{76060}What's wrong?|It's just the song the bear plays.
+{76110}{76169}Laurel, honey?
+{76170}{76235}Honey, do you know|where your mother is?
+{76236}{76266}Laurel?
+{76267}{76299}Can you tell...? Look at me.
+{76300}{76380}Can you tell us? Do you know?|Can you say something?
+{76381}{76472}Where is your mother? Goddamn it.
+{76545}{76626}Oh, that was great, you know?|You really have a way with kids.
+{76627}{76707}We have four hours left.|We're not gonna find her in time.
+{76708}{76759}Yes, we will.|The first thing we'll do...
+{76760}{76826}...is go downtown|and hit the department computers.
+{76827}{76892}Everybody leaves a trail,|ATM machines, credit cards.
+{76893}{76939}- We'll track Marie that way.|- You do that.
+{76940}{77032}I'll find out about the fire at Saint|Luke's. Everything seems to start there.
+{77033}{77099}Are you out of your mind?|Don't even think about that.
+{77100}{77200}- I'm not letting you out of my sight.|- We'll get more done if we split up, okay?
+{77201}{77270}And I'm safe until 7:55 p.m.
+{77271}{77311}All right.
+{77312}{77380}- I'll meet you at the library at 7 sharp.|- Okay.
+{77381}{77456}Here, take my other phone.
+{77457}{77530}Call me if you need me.
+{79327}{79395}Dr. Nelson, please report to Cardiology.
+{79396}{79441}Dr. Nelson, please report...
+{79442}{79550}- Can you ask him to hurry, please?|- I've already called him twice.
+{79560}{79672}- Miss Raymond. Mm-hm.|- Dr. Painter? I need your help.
+{79673}{79728}You were the doctor|on the children's ward...
+{79729}{79782}...the day of the fire|at Saint Luke's Hospital?
+{79783}{79811}- That's right.|- Okay.
+{79812}{79886}Do you remember a little girl,|Laurel Layton? She was 6.
+{79887}{79997}She had cut herself and you made her|stay there so the CPS could investigate.
+{80040}{80066}Shit.
+{80067}{80124}Sure, I remember her.|Her sister had just died...
+{80126}{80182}...and one of the nurses|filled out a report.
+{80183}{80224}Right. Do you remember her mother?
+{80225}{80325}Was her mother there when the fire|started? It was during visiting hours?
+{80326}{80425}That wouldn't have made a difference.|The mother was there all the time.
+{80802}{80862}Excuse me. I'm looking for a student,|her name is Beth.
+{80863}{80932}She was supposed to be here|earlier today.
+{80937}{80969}Where are you?
+{80970}{81045}I think Marie Layton was in the hospital|when it burned down.
+{81046}{81091}I think that she might've died there.
+{81092}{81144}Impossible. All the bodies were identified.
+{81145}{81250}I know, but what if they didn't find her?|What if her body's still inside?
+{81251}{81355}She was a sick woman, a child abuser.|What if her body is still inside...
+{81356}{81425}...and her spirit's there,|moving through the phones...
+{81426}{81485}...attacking people?
+{81505}{81587}Okay, all right. Where are you?|I'll come get you.
+{81588}{81702}Well, here we are, miss, Saint Luke's.
+{81703}{81754}What's left of it, anyway.
+{81755}{81812}Beth, no! Wait for me, all right?|I'm on my way.
+{81813}{81895}Hurry, there's not much time.
+{88230}{88285}Shit!
+{89160}{89235}- It's okay, it's okay.|- She's coming for me. She's coming.
+{89236}{89310}- Okay, come on. Let's go.|- She's coming.
+{89515}{89605}No! No!
+{89750}{89825}What the hell is that?
+{89840}{89900}Come on, let's go!
+{89980}{90060}- Try those doors right there.|- Uhn!
+{90890}{90948}Jack!
+{90950}{91007}Jack!
+{91550}{91610}No!
+{94095}{94160}Beth!
+{97037}{97122}Please don't hurt me.
+{97182}{97250}Please.
+{97307}{97485}Forgive me.
+{97500}{97572}Why?
+{97575}{97635}Why?
+{98407}{98461}She had to be the first.
+{98462}{98564}She had to have my sister's number|stored in her cell phone.
+{98565}{98665}I know what she was,|but I have this feeling that she...
+{98666}{98757}...brought me here or something|to protect me.
+{98777}{98877}Otherwise, why am I still alive?
+{99200}{99277}Broken pile ready to go?|Yeah.
+{100127}{100166}Do you wanna come in?
+{100167}{100260}No, I've gotta go tell Laurel|that her mother's gone.
+{100261}{100325}Besides, you look like|you could use some rest.
+{100326}{100382}Yeah.
+{100410}{100492}Maybe you could call me sometime.
+{100493}{100552}How about tomorrow?
+{100555}{100627}Tomorrow would be nice.
+{102467}{102590}It's just as well.|I'll tell her myself in the morning.
+{102735}{102816}What is it?|- That's Laurel's, isn't it?
+{102817}{102930}It looks like hers.|Yeah, that's the teddy bear.
+{103275}{103319}It's a nanny cam.
+{103320}{103417}Records what goes on in the kid's room.
+{103647}{103729}We'll come in here...
+{103730}{103809}...and sit you down.
+{103810}{103920}Now, be a nice little girl.
+{104475}{104540}Oh, my God.
+{104707}{104815}Now, this will only hurt a little.
+{104832}{104900}Hey, guys...
+{105065}{105157}Get away from her!
+{105185}{105229}It was you.
+{105230}{105317}It was you the whole time.
+{105385}{105467}I should've known.
+{105555}{105622}Mama!
+{105625}{105692}Please, help me! Mama!
+{105715}{105775}Mama!
+{107457}{107530}Hi, Laurel. It wasn't|your mother who hurt you.
+{107531}{107597}It was your sister, Ellie, wasn't it?
+{107732}{107840}But she always gave me candy.
+{107887}{107967}- More stuff from the hospital?|- Yep. CSU will go through it tomorrow.
+{107968}{108045}- See you later.|- Yeah. Take it easy, man.
+{109370}{109475}Voice call received Saturday, June 17th...
+{109476}{109557}...11 p.m.
+{109622}{109661}No.
+{109662}{109740}No, wait. Wait, no!
+{109862}{109935}I... I just thought|you should hear this, Jack.
+{109936}{110002}Jack?
+{110415}{110495}Come on. Come on, pick up.
+{110607}{110694}Hi. No one's home, leave us a message.
+{110695}{110812}Beth, listen, okay?|Marie wasn't the first, it w...
+{110885}{110934}So, look, you were right.
+{110935}{111015}Marie wasn't trying to kill you|at the hospital. She was trying...
+{111016}{111049}...to protect you, all right?
+{111050}{111147}She was trying to|keep her daughter away from you.
+{111190}{111252}Call me.
+{113737}{113788}- Hey, are you all right?|- Yeah.
+{113790}{113839}Look, it wasn't Marie, all right?
+{113840}{113930}The whole time it was Ellie.|She made the very first phone call.
+{113952}{114025}What's that?
+{114455}{114537}No. No, wait. No!
+{114560}{114652}No!
+{115450}{115510}Aah!

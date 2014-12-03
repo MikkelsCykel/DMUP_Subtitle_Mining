@@ -1,0 +1,8912 @@
+1
+00:01:04,378 --> 00:01:06,892
+BUG: Now I lay me down to sleep,
+
+2
+00:01:06,992 --> 00:01:09,149
+I pray the Lord my soul to keep.
+
+3
+00:01:09,249 --> 00:01:11,799
+If I should die before I wake,
+
+4
+00:01:11,894 --> 00:01:14,203
+I pray the Lord my soul to take.
+
+5
+00:01:14,303 --> 00:01:15,568
+NEWSCASTER: Before tonight's murder,
+
+6
+00:01:15,668 --> 00:01:16,356
+there has been no clue...
+
+7
+00:01:16,456 --> 00:01:18,125
+...as to who this killer might be.
+
+8
+00:01:18,225 --> 00:01:20,840
+But now the Riverton Ripper
+and the knife he uses...
+
+9
+00:01:20,940 --> 00:01:22,785
+...have been caught by a high-definition...
+
+10
+00:01:22,885 --> 00:01:23,630
+...security camera.
+
+11
+00:01:23,730 --> 00:01:24,979
+SARAH: Any day, now.
+NEWSCASTER: Police say...
+
+12
+00:01:25,079 --> 00:01:27,017
+...that the killer is a Caucasian male...
+
+13
+00:01:27,117 --> 00:01:28,268
+...in his mid-to-late 30s.
+
+14
+00:01:28,368 --> 00:01:29,915
+It's too dark to see his face...
+
+15
+00:01:30,015 --> 00:01:32,071
+...but the quality of the image has allowed...
+
+16
+00:01:32,171 --> 00:01:33,140
+...forensic technicians...
+
+17
+00:01:33,240 --> 00:01:34,624
+...to zoom in and enhance it enough...
+
+18
+00:01:34,724 --> 00:01:36,323
+...to make out the word 'Vengeance'
+
+19
+00:01:36,423 --> 00:01:39,093
+etched on the blade
+of the Ripper's weapon.
+
+20
+00:01:39,193 --> 00:01:40,759
+No one was in the area at the time...
+
+21
+00:01:40,859 --> 00:01:42,616
+SARAH: That's beautiful, Abel.
+
+22
+00:01:42,716 --> 00:01:44,951
+And Leah's going to love that house.
+
+23
+00:01:45,051 --> 00:01:46,987
+Shameless distraction device.
+
+24
+00:01:47,087 --> 00:01:48,100
+Come to bed.
+
+25
+00:01:48,200 --> 00:01:50,005
+The news is too scary
+for me to watch alone.
+
+26
+00:01:50,105 --> 00:01:51,204
+Okay, Sarah, I'll be up soon.
+
+27
+00:01:51,304 --> 00:01:53,699
+NEWSCASTER: We consulted
+local psychiatrist.
+
+28
+00:01:53,799 --> 00:01:54,661
+Dr. William Blake.
+
+29
+00:01:54,761 --> 00:01:56,096
+Oh, shit.
+
+30
+00:01:56,196 --> 00:01:57,235
+(GROANING)
+NEWSCASTER:
+
+31
+00:01:57,335 --> 00:01:58,298
+Here's what he had to say.
+
+32
+00:01:58,398 --> 00:01:59,391
+DR. BLAKE: The identity of...
+
+33
+00:01:59,491 --> 00:02:00,133
+...a killer of this sort...
+
+34
+00:02:00,233 --> 00:02:02,747
+...may well not even be known to himself.
+
+35
+00:02:02,847 --> 00:02:04,619
+He could be anywhere and anyone...
+
+36
+00:02:04,719 --> 00:02:07,174
+...leading a normal life,
+so far as he knows,
+
+37
+00:02:07,274 --> 00:02:08,787
+and never dream for an instant that,
+
+38
+00:02:08,887 --> 00:02:12,202
+every so often,
+he turns into a monster.
+
+39
+00:02:12,301 --> 00:02:13,325
+ABEL: What is this?
+
+40
+00:02:13,425 --> 00:02:14,413
+NEWSCASTER: Twenty-one-year-old.
+
+41
+00:02:14,513 --> 00:02:14,948
+Penny Anderson,
+
+42
+00:02:15,048 --> 00:02:16,162
+a graduate student at Boston University...
+
+43
+00:02:16,262 --> 00:02:17,498
+WOMAN: (SCREAMING) Somebody.
+
+44
+00:02:17,598 --> 00:02:18,690
+NEWSCASTER:...studying for a Ph.D.
+
+45
+00:02:18,790 --> 00:02:19,186
+In psychology.
+
+46
+00:02:19,286 --> 00:02:21,286
+WOMAN: Help me.
+
+47
+00:02:21,388 --> 00:02:23,447
+No.
+
+48
+00:02:23,890 --> 00:02:24,937
+(GASPING).
+
+49
+00:02:25,037 --> 00:02:26,125
+NEWSCASTER: The victim's funeral...
+
+50
+00:02:26,225 --> 00:02:26,993
+...will be held tomorrow at...
+
+51
+00:02:27,093 --> 00:02:29,983
+Dear God, tell me this is a dream.
+
+52
+00:02:33,700 --> 00:02:34,983
+ABEL (AS JAMES):
+What's with the knife, Abel?
+
+53
+00:02:35,083 --> 00:02:36,770
+What's with the blood?
+It's really crazy stuff.
+
+54
+00:02:36,870 --> 00:02:40,340
+It's not my knife, James.
+I don't know what's with it.
+
+55
+00:02:40,440 --> 00:02:41,280
+(AS PENNY) I think someone...
+
+56
+00:02:41,380 --> 00:02:41,775
+...has broken in.
+
+57
+00:02:41,875 --> 00:02:42,884
+(AS BRAD) No one has broken in.
+
+58
+00:02:42,984 --> 00:02:43,477
+Come on, Penny.
+
+59
+00:02:43,577 --> 00:02:45,124
+FEMALE VOICE: Please, Abel.
+Blake said it could happen.
+
+60
+00:02:45,224 --> 00:02:47,394
+A one in a million chance, he said.
+
+61
+00:02:47,494 --> 00:02:48,865
+(AS PENNY) What if it did?
+
+62
+00:02:48,965 --> 00:02:51,175
+He said to call him, 24/7.
+
+63
+00:02:51,273 --> 00:02:52,639
+(AS BRAD) Abel, listen.
+Call him now. You've...
+
+64
+00:02:52,739 --> 00:02:53,353
+...got to call Dr. Blake.
+
+65
+00:02:53,453 --> 00:02:55,278
+(AS PENNY) Please put down the knife.
+
+66
+00:02:55,378 --> 00:02:56,056
+Call the doctor.
+
+67
+00:02:56,156 --> 00:02:58,876
+FEMALE VOICE: God will help you.
+
+68
+00:02:59,392 --> 00:03:00,763
+(AS RIPPER) Call Dr. Blake,
+
+69
+00:03:00,863 --> 00:03:01,895
+and I kill your family.
+
+70
+00:03:01,995 --> 00:03:03,778
+(GASPING).
+
+71
+00:03:03,878 --> 00:03:06,662
+Sorry, sorry,
+I just need a hug.
+
+72
+00:03:06,900 --> 00:03:09,620
+That knife is so scary,
+you know?
+
+73
+00:03:09,903 --> 00:03:10,916
+What knife?
+
+74
+00:03:11,016 --> 00:03:14,174
+SARAH: The Ripper's.
+They've got it on tape.
+
+75
+00:03:14,274 --> 00:03:15,869
+RIPPER: Don't do something...
+
+76
+00:03:15,969 --> 00:03:16,643
+...stupid, Abel.
+
+77
+00:03:16,743 --> 00:03:17,722
+Here's the deal.
+
+78
+00:03:17,822 --> 00:03:20,752
+Just look the other way when I kill and...
+
+79
+00:03:20,852 --> 00:03:22,582
+...your family stays alive.
+
+80
+00:03:22,682 --> 00:03:25,269
+Turn me in,
+and you'll live alone...
+
+81
+00:03:25,369 --> 00:03:26,987
+...in a house of blood.
+
+82
+00:03:27,087 --> 00:03:28,133
+(GASPS)...
+
+83
+00:03:28,233 --> 00:03:30,233
+...(PHONE RINGING).
+
+84
+00:03:32,492 --> 00:03:33,606
+Hello?
+
+85
+00:03:33,706 --> 00:03:35,544
+Abel, this is Dr. Blake.
+Is everything okay?
+
+86
+00:03:35,644 --> 00:03:37,665
+No, no, no.
+Everything is not okay.
+
+87
+00:03:37,765 --> 00:03:38,865
+I found something.
+
+88
+00:03:38,965 --> 00:03:40,400
+What did you find?
+
+89
+00:03:40,500 --> 00:03:41,614
+A knife.
+
+90
+00:03:41,714 --> 00:03:45,121
+Under my bench.
+And not just any knife.
+
+91
+00:03:45,221 --> 00:03:47,089
+The one on TV.
+The Ripper's knife.
+
+92
+00:03:47,189 --> 00:03:49,322
+I swear before God,
+Dr. Blake, I didn't know.
+
+93
+00:03:49,422 --> 00:03:50,484
+But the second that I went to call you...
+
+94
+00:03:50,584 --> 00:03:51,178
+...there was somebody,
+
+95
+00:03:51,278 --> 00:03:53,860
+and he said don't call you, or else...
+
+96
+00:03:53,960 --> 00:03:55,960
+DR. BLAKE: Or else?
+
+97
+00:03:56,057 --> 00:03:57,265
+What?
+
+98
+00:03:57,365 --> 00:04:00,899
+Or else he would kill Sarah. And Leah.
+
+99
+00:04:00,999 --> 00:04:02,101
+And the others, too.
+
+100
+00:04:02,201 --> 00:04:04,109
+Abel, I'll be there in 10 minutes.
+
+101
+00:04:04,209 --> 00:04:05,592
+I want you to tell Sarah...
+
+102
+00:04:05,692 --> 00:04:08,308
+...to take Leah,
+and drive to her sister's.
+
+103
+00:04:08,408 --> 00:04:10,645
+I haven't told her about this part of my life.
+
+104
+00:04:10,745 --> 00:04:12,210
+But you swore to me you would.
+
+105
+00:04:12,310 --> 00:04:13,277
+That's part of the agreement.
+
+106
+00:04:13,377 --> 00:04:14,913
+Just get here before it's too late.
+
+107
+00:04:15,013 --> 00:04:18,388
+DR. BLAKE: Abel, have Sarah
+drive to May's house,
+
+108
+00:04:18,488 --> 00:04:19,139
+with Leah.
+
+109
+00:04:19,239 --> 00:04:21,523
+May is working nights
+and Sarah is sound asleep.
+
+110
+00:04:21,623 --> 00:04:22,891
+I can't just wake her up.
+
+111
+00:04:22,991 --> 00:04:24,489
+DR. BLAKE: You have to.
+
+112
+00:04:24,589 --> 00:04:26,428
+Abel?
+
+113
+00:04:26,528 --> 00:04:28,195
+You there?
+
+114
+00:04:28,295 --> 00:04:30,295
+Abel?
+
+115
+00:04:35,789 --> 00:04:38,087
+(SCREAMING).
+
+116
+00:04:39,659 --> 00:04:41,659
+ABEL: No. No.
+
+117
+00:04:47,267 --> 00:04:48,639
+DR. BLAKE: What the hell
+are you looking at?
+
+118
+00:04:48,739 --> 00:04:49,369
+Break the door down.
+
+119
+00:04:49,469 --> 00:04:50,752
+ABEL: I won't let you do this. I won't.
+
+120
+00:04:50,852 --> 00:04:52,018
+DR. BLAKE: Open the door. Abel.
+
+121
+00:04:52,118 --> 00:04:53,473
+ABEL: I won't...
+
+122
+00:04:53,573 --> 00:04:55,573
+DR. BLAKE: Abel.
+
+123
+00:04:56,343 --> 00:04:57,490
+PATERSON: Police, open up.
+
+124
+00:04:57,590 --> 00:04:58,927
+BOBBY: Mr. Plenkov, open up.
+
+125
+00:04:59,027 --> 00:05:00,261
+DR. BLAKE: Abel,
+open the door.
+
+126
+00:05:00,361 --> 00:05:01,927
+BOBBY: Plenkov. Open up.
+
+127
+00:05:02,027 --> 00:05:04,084
+PATERSON: Kick it in, Bobby.
+
+128
+00:05:04,184 --> 00:05:05,331
+(DOOR CRASHING OPEN).
+
+129
+00:05:05,431 --> 00:05:07,754
+DR. BLAKE: Get up those stairs now.
+
+130
+00:05:07,854 --> 00:05:10,744
+PATERSON: Which room?
+On the right?
+
+131
+00:05:10,924 --> 00:05:12,606
+Mr. Plenkov. Mr. Plenkov.
+
+132
+00:05:12,706 --> 00:05:13,907
+(GROWLING) Freeze.
+
+133
+00:05:14,007 --> 00:05:15,141
+(GUNSHOTS).
+
+134
+00:05:15,241 --> 00:05:16,863
+Shit.
+
+135
+00:05:16,963 --> 00:05:18,465
+Bobby, check him.
+Check him.
+
+136
+00:05:18,565 --> 00:05:19,848
+Hey, sweetie.
+Hey, sweetie, come here.
+
+137
+00:05:19,948 --> 00:05:21,148
+Come here.
+What's your name?
+
+138
+00:05:21,248 --> 00:05:22,502
+BOBBY: No pulse, Frank.
+What's your name, huh?
+
+139
+00:05:22,602 --> 00:05:23,996
+BOBBY: I'll check the woman.
+No, no, no, no,
+
+140
+00:05:24,096 --> 00:05:24,404
+look at me.
+
+141
+00:05:24,504 --> 00:05:26,653
+You're okay, all right?
+You're okay.
+
+142
+00:05:26,753 --> 00:05:29,265
+Get away from me.
+
+143
+00:05:31,144 --> 00:05:32,562
+Bobby.
+Yeah?
+
+144
+00:05:32,662 --> 00:05:33,861
+Get her downstairs.
+
+145
+00:05:33,961 --> 00:05:35,961
+BOBBY: Hey, sweetheart,
+
+146
+00:05:36,059 --> 00:05:37,617
+here we go.
+
+147
+00:05:37,717 --> 00:05:40,333
+I got you.
+You're going to be fine.
+
+148
+00:05:40,433 --> 00:05:42,035
+PATERSON: Get in here.
+Cover us.
+
+149
+00:05:42,135 --> 00:05:43,303
+PATERSON: He's dead.
+
+150
+00:05:43,403 --> 00:05:45,292
+So is Elvis.
+You never know.
+
+151
+00:05:45,392 --> 00:05:46,405
+You have an epi?
+
+152
+00:05:46,505 --> 00:05:48,094
+We got it.
+
+153
+00:05:48,194 --> 00:05:50,162
+JEANNE: The mother is dead, too.
+
+154
+00:05:50,262 --> 00:05:50,830
+Way dead.
+
+155
+00:05:50,930 --> 00:05:53,512
+You missed the kid, you fuck.
+
+156
+00:05:53,612 --> 00:05:56,002
+(AS RIPPER) I'll get them all next time.
+
+157
+00:05:56,102 --> 00:05:58,102
+Son of a bitch.
+
+158
+00:05:59,639 --> 00:06:01,456
+GUS: Epinephrine kicks ass.
+
+159
+00:06:01,556 --> 00:06:03,556
+Hey. Hey.
+
+160
+00:06:04,177 --> 00:06:07,067
+JEANNE: Let's get the gurney, Gus.
+
+161
+00:06:07,347 --> 00:06:10,662
+Abel, I'll get you to a hospital. Abel?
+
+162
+00:06:10,758 --> 00:06:12,758
+You piece of shit.
+
+163
+00:06:12,853 --> 00:06:14,853
+He's not a monster.
+
+164
+00:06:14,988 --> 00:06:16,189
+What do you call him, then?
+
+165
+00:06:16,289 --> 00:06:18,329
+I call him mentally ill.
+
+166
+00:06:19,359 --> 00:06:22,028
+(AS ABEL) Thank you for stopping me.
+
+167
+00:06:22,128 --> 00:06:23,396
+Abel.
+
+168
+00:06:23,496 --> 00:06:25,496
+Forgive me.
+
+169
+00:06:25,765 --> 00:06:27,500
+He's talking to you.
+
+170
+00:06:27,600 --> 00:06:29,600
+Please.
+
+171
+00:06:29,694 --> 00:06:31,671
+Would it hurt you to be human?
+
+172
+00:06:31,771 --> 00:06:33,771
+Just once?
+
+173
+00:06:35,842 --> 00:06:37,659
+We'll let God sort it out.
+
+174
+00:06:37,759 --> 00:06:39,759
+Thank you.
+
+175
+00:06:42,248 --> 00:06:43,429
+(SCREAMING).
+
+176
+00:06:43,529 --> 00:06:44,765
+No, Abel.
+
+177
+00:06:44,865 --> 00:06:46,736
+Abel, talk to me.
+
+178
+00:06:46,836 --> 00:06:49,216
+(AS RIPPER) Abel's not here.
+
+179
+00:06:52,292 --> 00:06:54,109
+This is for you, you cunt.
+
+180
+00:06:54,209 --> 00:06:56,209
+(GUNSHOT).
+
+181
+00:06:56,830 --> 00:06:59,210
+That's for shut the fuck up.
+
+182
+00:07:07,207 --> 00:07:08,287
+How's Mrs. King doing?
+
+183
+00:07:08,387 --> 00:07:09,522
+Baby is two months premature.
+
+184
+00:07:09,622 --> 00:07:11,291
+Dr. Carrie says he's blind, too.
+
+185
+00:07:11,391 --> 00:07:13,262
+Seven births in one hour,
+all premature.
+
+186
+00:07:13,362 --> 00:07:15,248
+What's going on here?
+Anarchy.
+
+187
+00:07:15,348 --> 00:07:16,327
+MAY: What else you got?
+
+188
+00:07:16,427 --> 00:07:19,335
+We got a cop, Frank Paterson,
+who took two in the vest.
+
+189
+00:07:19,435 --> 00:07:21,202
+And?
+And we got a perp.
+
+190
+00:07:21,302 --> 00:07:22,738
+Go on.
+Mid-30s,
+
+191
+00:07:22,838 --> 00:07:25,190
+white male, under constraint...
+
+192
+00:07:25,290 --> 00:07:26,215
+...and critical.
+
+193
+00:07:26,315 --> 00:07:29,227
+Took multiple gunshots and stab wounds.
+
+194
+00:07:29,327 --> 00:07:29,896
+EEG flat.
+
+195
+00:07:29,996 --> 00:07:31,442
+Oh, and are you ready for this?
+
+196
+00:07:31,542 --> 00:07:32,699
+We think he's the Ripper.
+
+197
+00:07:32,799 --> 00:07:34,216
+What?
+Family guy.
+
+198
+00:07:34,316 --> 00:07:35,935
+Killed the wife,
+tried to kill his kid.
+
+199
+00:07:36,035 --> 00:07:37,237
+You got a name?
+
+200
+00:07:37,337 --> 00:07:39,337
+Plenkov. Abel Plenkov.
+
+201
+00:07:41,841 --> 00:07:43,841
+GUS: May, you copy?
+
+202
+00:07:44,210 --> 00:07:45,812
+May?
+
+203
+00:07:45,912 --> 00:07:48,061
+He said he'd get them all next time.
+
+204
+00:07:48,161 --> 00:07:49,949
+What do you think he meant?
+
+205
+00:07:50,049 --> 00:07:52,110
+Maybe he was talking about his other...
+
+206
+00:07:52,210 --> 00:07:52,919
+...personalities.
+
+207
+00:07:53,019 --> 00:07:54,735
+My family is from Haiti.
+
+208
+00:07:54,835 --> 00:07:56,070
+And down there they don't say...
+
+209
+00:07:56,170 --> 00:07:58,608
+...that someone like him
+has multiple personalities.
+
+210
+00:07:58,708 --> 00:08:00,593
+What do they say he has?
+
+211
+00:08:00,693 --> 00:08:02,693
+Multiple souls.
+
+212
+00:08:02,789 --> 00:08:04,164
+What's the difference?
+
+213
+00:08:04,264 --> 00:08:07,082
+Personalities die when the patient dies.
+
+214
+00:08:07,182 --> 00:08:09,182
+Souls live on.
+
+215
+00:08:10,603 --> 00:08:13,748
+It's all just superstition,
+I suppose.
+
+216
+00:08:16,242 --> 00:08:18,111
+Could you hand me my jacket, please?
+
+217
+00:08:18,211 --> 00:08:20,421
+It's cold as hell in here.
+
+218
+00:08:22,949 --> 00:08:24,949
+Thanks.
+
+219
+00:08:25,285 --> 00:08:27,495
+Is this your evidence bag?
+
+220
+00:08:27,720 --> 00:08:29,720
+(SCREAMING).
+
+221
+00:08:30,824 --> 00:08:33,374
+Get that fucker under control.
+
+222
+00:08:35,028 --> 00:08:37,163
+(RIPPER LAUGHING MANIACALLY)...
+
+223
+00:08:37,263 --> 00:08:39,263
+...(SCREAMING).
+
+224
+00:08:43,970 --> 00:08:45,970
+Shit.
+
+225
+00:08:50,610 --> 00:08:51,690
+Frank.
+
+226
+00:08:51,790 --> 00:08:53,162
+I can't believe you fucking guys.
+
+227
+00:08:53,262 --> 00:08:54,596
+You're supposed to be watching him.
+
+228
+00:08:54,696 --> 00:08:55,771
+You all right?
+You good?
+
+229
+00:08:55,871 --> 00:08:56,282
+Fuck you.
+
+230
+00:08:56,382 --> 00:08:57,474
+You're all right.
+GUS: Let me see.
+
+231
+00:08:57,574 --> 00:08:58,184
+Get out of my way.
+
+232
+00:08:58,284 --> 00:09:00,220
+Where the hell is Plenkov?
+GUS: Let me see.
+
+233
+00:09:00,320 --> 00:09:02,445
+PATERSON: Shit. Fix that.
+
+234
+00:09:05,792 --> 00:09:09,192
+PATERSON: Call for backup.
+I got Plenkov.
+
+235
+00:09:14,968 --> 00:09:16,968
+PATERSON: Fuck.
+
+236
+00:09:30,783 --> 00:09:35,603
+CROWD: One, two,
+three, four, five,
+
+237
+00:09:35,703 --> 00:09:40,773
+six, seven, eight, nine, ten,
+
+238
+00:09:40,873 --> 00:09:43,294
+11,12.
+
+239
+00:09:45,832 --> 00:09:48,250
+BRANDON: The lights out.
+
+240
+00:09:48,350 --> 00:09:49,847
+(ALARM RINGING)
+(GASPING).
+
+241
+00:09:49,947 --> 00:09:51,738
+BRANDON: Midnight.
+
+242
+00:09:51,838 --> 00:09:53,520
+All right. This is it.
+
+243
+00:09:53,620 --> 00:09:55,322
+Let the day begin.
+
+244
+00:09:55,422 --> 00:09:58,070
+(ALL CHEERING).
+
+245
+00:10:03,883 --> 00:10:05,118
+As you all know,
+
+246
+00:10:05,218 --> 00:10:07,198
+Ripper Day marks two things.
+
+247
+00:10:07,298 --> 00:10:09,469
+One of them bad,
+one of them good.
+
+248
+00:10:09,569 --> 00:10:12,158
+The good part is,
+it's the birthday...
+
+249
+00:10:12,258 --> 00:10:13,760
+...of seven of us here...
+
+250
+00:10:13,860 --> 00:10:16,590
+...born 16 years ago tonight.
+
+251
+00:10:17,730 --> 00:10:18,844
+Jerome King.
+
+252
+00:10:18,944 --> 00:10:20,934
+Hey, Jerome.
+(ALL WHOOPING).
+
+253
+00:10:21,034 --> 00:10:23,034
+Alex Dunkelman.
+
+254
+00:10:24,137 --> 00:10:27,106
+Jay Chan, with a new
+Ripper puppet tonight.
+
+255
+00:10:27,206 --> 00:10:29,206
+Bug Hellerman...
+
+256
+00:10:30,076 --> 00:10:31,277
+Hellerman?
+
+257
+00:10:31,377 --> 00:10:32,992
+ALEX: It's about time.
+
+258
+00:10:33,092 --> 00:10:34,792
+BRANDON: Better late than never,
+
+259
+00:10:34,892 --> 00:10:35,381
+I suppose.
+
+260
+00:10:35,481 --> 00:10:37,596
+Where you been?
+Sleeping.
+
+261
+00:10:37,696 --> 00:10:39,399
+It's okay, Bug takes a little longer...
+
+262
+00:10:39,499 --> 00:10:41,066
+...because he's a little slower, I guess.
+
+263
+00:10:41,166 --> 00:10:42,167
+(ALL LAUGHING).
+
+264
+00:10:42,267 --> 00:10:44,103
+Moving on to Penelope Bryte over there,
+
+265
+00:10:44,203 --> 00:10:45,024
+by the ambulance,
+
+266
+00:10:45,124 --> 00:10:48,673
+who, incidentally, knows God.
+They speak daily.
+
+267
+00:10:48,773 --> 00:10:51,464
+And to the beautiful and gorgeous.
+
+268
+00:10:51,564 --> 00:10:53,333
+Brittany Cunningham.
+
+269
+00:10:53,433 --> 00:10:55,702
+And last, but,
+of course, not least...
+
+270
+00:10:55,802 --> 00:10:57,253
+ALL: Brandon O'Neil.
+
+271
+00:10:57,353 --> 00:10:58,552
+Yes, sir.
+
+272
+00:10:58,652 --> 00:10:59,988
+(ALL CHEERING).
+
+273
+00:11:00,088 --> 00:11:02,616
+Thank you, thank you,
+thank you very much.
+
+274
+00:11:02,716 --> 00:11:03,209
+Pleasure.
+
+275
+00:11:03,309 --> 00:11:06,709
+Now, it's time for the bad part, people.
+
+276
+00:11:06,980 --> 00:11:08,932
+We of the Riverton Seven...
+
+277
+00:11:09,032 --> 00:11:12,986
+...have had to share our birthday
+with a monster,
+
+278
+00:11:13,086 --> 00:11:15,336
+the serial killer Abel Plenkov,
+
+279
+00:11:15,436 --> 00:11:18,625
+who died at midnight
+the day we were born.
+
+280
+00:11:18,725 --> 00:11:20,739
+It's the Ripper.
+CROWD: Ooh.
+
+281
+00:11:20,839 --> 00:11:23,510
+Legend has it that we,
+the Riverton Seven,
+
+282
+00:11:23,610 --> 00:11:25,679
+are the mirrors of Abel Plenkov's...
+
+283
+00:11:25,779 --> 00:11:26,599
+...personalities.
+
+284
+00:11:26,699 --> 00:11:28,516
+The ones that turned the Ripper in.
+
+285
+00:11:28,616 --> 00:11:30,919
+And that the Ripper still wants revenge.
+
+286
+00:11:31,019 --> 00:11:33,059
+So Abel Plenkov is dead,
+
+287
+00:11:34,140 --> 00:11:35,975
+but his ghost isn't.
+
+288
+00:11:36,075 --> 00:11:39,389
+No, it lurks underneath
+the old railroad bridge.
+
+289
+00:11:39,489 --> 00:11:40,513
+You've seen it.
+
+290
+00:11:40,613 --> 00:11:42,160
+It sleeps in the river.
+
+291
+00:11:42,260 --> 00:11:44,684
+It roams the darkest corners of the woods...
+
+292
+00:11:44,784 --> 00:11:47,191
+...just waiting for the next Ripper Day...
+
+293
+00:11:47,291 --> 00:11:48,321
+...to come around.
+
+294
+00:11:48,421 --> 00:11:52,076
+Because, on that day,
+our birthday, tonight,
+
+295
+00:11:52,358 --> 00:11:54,906
+the devil has told him
+that he can take his revenge.
+
+296
+00:11:55,006 --> 00:11:58,179
+But he can only come out of the river...
+
+297
+00:11:58,279 --> 00:11:59,227
+...at this spot.
+
+298
+00:11:59,327 --> 00:12:02,313
+And every year,
+since we have been able,
+
+299
+00:12:02,413 --> 00:12:05,872
+one of us Riverton Seven has volunteered...
+
+300
+00:12:05,972 --> 00:12:08,274
+...to drive him back into the river...
+
+301
+00:12:08,374 --> 00:12:09,724
+...where he belongs.
+
+302
+00:12:09,824 --> 00:12:12,204
+And tonight is no exception.
+
+303
+00:12:12,578 --> 00:12:16,195
+And I, personally,
+have chosen to volunteer...
+
+304
+00:12:16,295 --> 00:12:17,598
+GIRL 1: Brandon?
+GIRL 2: No.
+
+305
+00:12:17,698 --> 00:12:19,298
+...to volunteer Bug Hellerman, that is.
+
+306
+00:12:19,398 --> 00:12:20,432
+(ALL CHEERING).
+
+307
+00:12:20,532 --> 00:12:21,768
+BRANDON: It's your turn, Bug.
+
+308
+00:12:21,868 --> 00:12:23,902
+All the rest of us have done it.
+
+309
+00:12:24,002 --> 00:12:27,026
+We will now summon the Ripper
+from the river.
+
+310
+00:12:27,126 --> 00:12:31,121
+If he appears yet again,
+then Bug must slay him,
+
+311
+00:12:31,219 --> 00:12:32,265
+or we'll all die.
+
+312
+00:12:32,365 --> 00:12:33,844
+Can you do it, Bug?
+Save us.
+
+313
+00:12:33,944 --> 00:12:35,944
+Let's call him up.
+
+314
+00:12:36,936 --> 00:12:39,268
+If you can hear me, Ripper,
+
+315
+00:12:39,739 --> 00:12:41,507
+make yourself known.
+
+316
+00:12:41,607 --> 00:12:43,732
+ALL: Make yourself known.
+
+317
+00:12:43,943 --> 00:12:45,943
+Make yourself known.
+
+318
+00:12:46,079 --> 00:12:48,079
+Make yourself known.
+
+319
+00:12:48,214 --> 00:12:49,916
+Make yourself known.
+
+320
+00:12:50,016 --> 00:12:52,016
+Make yourself known.
+
+321
+00:12:52,115 --> 00:12:53,686
+BRANDON: Fear ye, Ripper.
+
+322
+00:12:53,786 --> 00:12:55,001
+ALL: Fear ye the Ripper.
+
+323
+00:12:55,101 --> 00:12:57,101
+Shut up.
+
+324
+00:12:57,423 --> 00:12:58,807
+JEROME: What did I do?
+ALEX: Bug is freaking out.
+
+325
+00:12:58,907 --> 00:13:00,640
+BRANDON: Fear ye the Ripper.
+
+326
+00:13:00,740 --> 00:13:02,442
+ALL: Fear ye the Ripper.
+
+327
+00:13:02,542 --> 00:13:03,575
+(TWIG SNAPPING).
+
+328
+00:13:03,675 --> 00:13:04,452
+GIRL 1: Oh, my God.
+
+329
+00:13:04,552 --> 00:13:05,031
+What is that?
+
+330
+00:13:05,131 --> 00:13:07,000
+JEROME: It's coming from the woods.
+
+331
+00:13:07,100 --> 00:13:08,984
+BRANDON: Whoa. Nice, Jay.
+JAY: Damn right.
+
+332
+00:13:09,084 --> 00:13:11,613
+Come on, Bug,
+it's just a puppet.
+
+333
+00:13:11,713 --> 00:13:12,772
+Knock it over.
+
+334
+00:13:12,872 --> 00:13:13,918
+ALL: Fear ye the Ripper.
+
+335
+00:13:14,018 --> 00:13:16,142
+JEROME: Come on,
+you can take him, Bug.
+
+336
+00:13:16,242 --> 00:13:17,910
+Get in there, you pussy.
+
+337
+00:13:18,010 --> 00:13:19,861
+Look at how scared he is.
+
+338
+00:13:19,961 --> 00:13:21,271
+ALEX: Push him over.
+BRANDON: Down...
+
+339
+00:13:21,371 --> 00:13:22,015
+...on your knees, Bug.
+
+340
+00:13:22,115 --> 00:13:23,594
+JEROME: Slay that beastie, Bug.
+
+341
+00:13:23,694 --> 00:13:25,162
+BRANDON: Damn,
+that is a big mother.
+
+342
+00:13:25,262 --> 00:13:26,500
+JEROME: Bug, come on.
+
+343
+00:13:26,600 --> 00:13:28,268
+BRANDON: Get him.
+What are you doing?
+
+344
+00:13:28,368 --> 00:13:29,367
+I can't do this.
+
+345
+00:13:29,467 --> 00:13:30,218
+BRANDON: But you must,
+
+346
+00:13:30,318 --> 00:13:30,623
+or we'll die.
+
+347
+00:13:30,723 --> 00:13:32,266
+ALEX: Come on, Bug.
+Just knock him down.
+
+348
+00:13:32,366 --> 00:13:33,226
+That's all you have to do.
+
+349
+00:13:33,326 --> 00:13:34,507
+(SIREN SQUAWKING).
+
+350
+00:13:34,607 --> 00:13:35,741
+This is the police.
+Disperse immediately.
+
+351
+00:13:35,841 --> 00:13:36,807
+Cops.
+
+352
+00:13:36,907 --> 00:13:38,263
+POLICEMAN: You're in violation
+of the Riverton...
+
+353
+00:13:38,363 --> 00:13:38,831
+...midnight curfew.
+
+354
+00:13:38,931 --> 00:13:40,782
+Return to your homes immediately...
+
+355
+00:13:40,882 --> 00:13:42,246
+...or your parents will face prosecution.
+
+356
+00:13:42,346 --> 00:13:42,635
+Bug, run.
+
+357
+00:13:42,735 --> 00:13:43,849
+BRANDON: Police brutality.
+
+358
+00:13:43,949 --> 00:13:46,153
+POLICEMAN: You want brutality?
+I'll show you brutality.
+
+359
+00:13:46,253 --> 00:13:47,319
+BRANDON: God damn it.
+
+360
+00:13:47,419 --> 00:13:49,055
+ALEX: Watch the tree, Jerome.
+
+361
+00:13:49,155 --> 00:13:50,357
+(STUDENTS SHRIEKING).
+
+362
+00:13:50,457 --> 00:13:52,497
+ALEX: Sorry, Bug, sorry.
+
+363
+00:13:52,645 --> 00:13:53,860
+You're good?
+
+364
+00:13:53,960 --> 00:13:56,398
+He's still alive. It's okay.
+Grab my hand.
+
+365
+00:13:56,498 --> 00:13:58,498
+I'm blind, Bug.
+Not you.
+
+366
+00:13:58,718 --> 00:14:00,102
+You good?
+Who's this?
+
+367
+00:14:00,202 --> 00:14:01,287
+JEROME: It's not cool.
+
+368
+00:14:01,387 --> 00:14:02,670
+ALEX: Why the hell are there cops here?
+
+369
+00:14:02,770 --> 00:14:03,869
+JAY: Jerome, big log. Big log.
+
+370
+00:14:03,969 --> 00:14:05,003
+(BOYS LAUGHING)...
+
+371
+00:14:05,103 --> 00:14:06,542
+...(CHATTER ON POLICE RADIO).
+
+372
+00:14:06,642 --> 00:14:07,639
+Get down.
+
+373
+00:14:07,739 --> 00:14:10,011
+What the fuck was that?
+Why did they stop us?
+
+374
+00:14:10,111 --> 00:14:11,731
+POLICEMAN: Go home.
+
+375
+00:14:11,831 --> 00:14:14,734
+Ripper Day has been officially canceled.
+
+376
+00:14:14,834 --> 00:14:17,837
+JAY: Just better sit and wait.
+Why so glum, chum?
+
+377
+00:14:17,937 --> 00:14:19,287
+I failed.
+
+378
+00:14:19,387 --> 00:14:21,386
+Because you couldn't kill him?
+
+379
+00:14:21,486 --> 00:14:23,257
+Now we're all going to die,
+and it's my fault.
+
+380
+00:14:23,357 --> 00:14:24,434
+No.
+That's bullshit.
+
+381
+00:14:24,534 --> 00:14:25,678
+Brandon made up.
+
+382
+00:14:25,778 --> 00:14:27,164
+If he was so worried about it, he should...
+
+383
+00:14:27,264 --> 00:14:27,980
+...have killed it himself.
+
+384
+00:14:28,080 --> 00:14:29,515
+That puppet was scary.
+Thanks.
+
+385
+00:14:29,615 --> 00:14:31,455
+And the coat was creepy.
+You added some moss...
+
+386
+00:14:31,555 --> 00:14:32,518
+...and grass and shit, right?
+
+387
+00:14:32,618 --> 00:14:33,875
+Yeah, man,
+he lived under the...
+
+388
+00:14:33,975 --> 00:14:34,887
+...river for like 16 years.
+
+389
+00:14:34,987 --> 00:14:36,202
+He's primeval, baby.
+
+390
+00:14:36,302 --> 00:14:38,004
+If he rode in an ambulance
+on the way to the hospital,
+
+391
+00:14:38,104 --> 00:14:39,959
+how did he get the coat and everything?
+
+392
+00:14:40,059 --> 00:14:42,139
+In my version,
+the day after Plenkov...
+
+393
+00:14:42,239 --> 00:14:43,463
+...supposedly drowned...
+
+394
+00:14:43,563 --> 00:14:44,744
+...his house was burglarized, right?
+
+395
+00:14:44,844 --> 00:14:47,215
+And he took the boots,
+the coat, his whole outfit.
+
+396
+00:14:47,315 --> 00:14:48,601
+Why would a burglar just take clothes?
+
+397
+00:14:48,701 --> 00:14:50,152
+A burglar wouldn't, Bug.
+
+398
+00:14:50,252 --> 00:14:52,538
+But Plenkov would,
+if he was still alive.
+
+399
+00:14:52,638 --> 00:14:54,107
+Exactly.
+The Ripper's alive?
+
+400
+00:14:54,207 --> 00:14:55,105
+ALEX: Could be.
+I thought you said...
+
+401
+00:14:55,205 --> 00:14:55,708
+...he was just a ghost.
+
+402
+00:14:55,808 --> 00:14:57,023
+No, he's dead.
+
+403
+00:14:57,123 --> 00:14:59,691
+No. Not necessarily.
+They never found his body.
+
+404
+00:14:59,791 --> 00:15:01,747
+And nobody really knew him
+or his wife very well.
+
+405
+00:15:01,847 --> 00:15:02,961
+They were new to Riverton.
+Yeah.
+
+406
+00:15:03,061 --> 00:15:05,397
+And, Plenkov could look
+completely different...
+
+407
+00:15:05,497 --> 00:15:06,219
+...after 16 years.
+
+408
+00:15:06,319 --> 00:15:08,903
+Like, cosmetic surgery,
+hair transplants,
+
+409
+00:15:09,003 --> 00:15:10,123
+Weight Watchers.
+
+410
+00:15:10,223 --> 00:15:11,539
+And he could have changed his name.
+
+411
+00:15:11,639 --> 00:15:13,671
+Snuck back into Riverton
+to get his revenge this year.
+
+412
+00:15:13,771 --> 00:15:15,428
+He could be Principal Pratt.
+
+413
+00:15:15,528 --> 00:15:17,528
+Shut the fuck up.
+
+414
+00:15:17,663 --> 00:15:19,703
+I got to get home, guys.
+
+415
+00:15:21,667 --> 00:15:23,484
+Wait, are you guys set for tomorrow?
+
+416
+00:15:23,584 --> 00:15:24,887
+For what?
+JAY: The buzzard thing...
+
+417
+00:15:24,987 --> 00:15:25,438
+...or whatever.
+
+418
+00:15:25,538 --> 00:15:26,618
+Condor.
+
+419
+00:15:26,718 --> 00:15:27,786
+Yeah, we made a sock puppet.
+
+420
+00:15:27,886 --> 00:15:29,366
+A sock puppet?
+You'll put your...
+
+421
+00:15:29,466 --> 00:15:30,143
+...class to sleep.
+
+422
+00:15:30,243 --> 00:15:31,925
+A good show-and-tell
+needs shock-and-awe.
+
+423
+00:15:32,025 --> 00:15:33,983
+It's my fault.
+I was too scared about...
+
+424
+00:15:34,083 --> 00:15:35,414
+...tonight to think about it.
+
+425
+00:15:35,514 --> 00:15:36,797
+Listen, Bug.
+
+426
+00:15:36,897 --> 00:15:38,564
+I'm scared of the Ripper, too.
+You are?
+
+427
+00:15:38,664 --> 00:15:40,665
+I got to cross that bridge twice a day.
+
+428
+00:15:40,765 --> 00:15:41,867
+I do what my grandma taught me.
+
+429
+00:15:41,967 --> 00:15:44,603
+Spit in the river, and
+he won't come after me.
+
+430
+00:15:44,703 --> 00:15:46,959
+That works?
+Yeah, for 16 years.
+
+431
+00:15:47,059 --> 00:15:48,173
+See you, guys.
+
+432
+00:15:48,273 --> 00:15:50,273
+See you.
+
+433
+00:15:50,529 --> 00:15:51,831
+I got to go.
+
+434
+00:15:51,931 --> 00:15:53,466
+We should go, too.
+
+435
+00:15:53,566 --> 00:15:55,263
+Quint is going to kill me if he catches...
+
+436
+00:15:55,363 --> 00:15:56,068
+...me out this late.
+
+437
+00:15:56,168 --> 00:15:57,619
+BOBBY: I don't know
+about this new curfew.
+
+438
+00:15:57,719 --> 00:15:59,087
+We should've let them kill him first.
+
+439
+00:15:59,187 --> 00:16:01,187
+PATERSON: Kill who?
+
+440
+00:16:01,407 --> 00:16:03,407
+Plenkov.
+
+441
+00:16:03,876 --> 00:16:05,144
+The Ripper.
+
+442
+00:16:05,244 --> 00:16:06,392
+Very creative.
+
+443
+00:16:06,492 --> 00:16:07,566
+That's why every kid in Riverton...
+
+444
+00:16:07,666 --> 00:16:08,414
+...has Ripper nightmares...
+
+445
+00:16:08,514 --> 00:16:10,494
+...and the adults have memorial services.
+
+446
+00:16:10,594 --> 00:16:13,401
+It's time to move on.
+Leave the past behind.
+
+447
+00:16:13,501 --> 00:16:15,168
+Come on.
+Let's get out of here.
+
+448
+00:16:15,268 --> 00:16:16,705
+PATERSON: I'm glad
+they're getting rid of it.
+
+449
+00:16:16,805 --> 00:16:18,139
+Rid of what?
+
+450
+00:16:18,239 --> 00:16:20,239
+That damn ambulance.
+
+451
+00:16:20,337 --> 00:16:21,975
+Pratt, the new principal at the high school...
+
+452
+00:16:22,075 --> 00:16:23,625
+...convinced the chamber of commerce...
+
+453
+00:16:23,725 --> 00:16:24,597
+...it was bad for tourism.
+
+454
+00:16:24,697 --> 00:16:26,345
+What?
+
+455
+00:16:26,445 --> 00:16:29,880
+No, no, no. It's a memorial.
+That's why it's still here.
+
+456
+00:16:29,980 --> 00:16:32,489
+Tourism, Bob.
+Tourism is where...
+
+457
+00:16:32,589 --> 00:16:34,589
+...everything is going.
+
+458
+00:16:35,908 --> 00:16:36,976
+'Let's go to Riverton, honey,
+
+459
+00:16:37,076 --> 00:16:39,351
+'where that crazy fucker
+killed seven people...
+
+460
+00:16:39,451 --> 00:16:40,112
+...and his wife'.
+
+461
+00:16:40,212 --> 00:16:42,212
+Not.
+
+462
+00:16:47,520 --> 00:16:49,818
+(FOOTSTEPS APPROACHING)...
+
+463
+00:17:17,616 --> 00:17:19,616
+...(RUSTLING).
+
+464
+00:17:27,426 --> 00:17:29,426
+JAY: What the hell?
+
+465
+00:17:36,235 --> 00:17:38,931
+(GRUFFLY) Fear ye the Ripper.
+
+466
+00:17:39,405 --> 00:17:41,587
+I spit in the river.
+I spit in the river.
+
+467
+00:17:41,687 --> 00:17:42,942
+Bug.
+
+468
+00:17:43,042 --> 00:17:44,122
+Alex.
+
+469
+00:17:44,222 --> 00:17:46,269
+No. Please, no.
+
+470
+00:17:50,049 --> 00:17:52,049
+(GRUNTS)...
+
+471
+00:17:52,184 --> 00:17:54,184
+...(SCREAMING)...
+
+472
+00:17:54,286 --> 00:17:56,286
+...(GASPING).
+
+473
+00:18:00,526 --> 00:18:02,526
+What just happened?
+
+474
+00:18:12,571 --> 00:18:14,781
+(FOOTSTEPS APPROACHING)...
+
+475
+00:18:18,677 --> 00:18:20,677
+...(DOOR OPENS).
+
+476
+00:18:21,080 --> 00:18:23,349
+QUINT: You better be in bed.
+
+477
+00:18:23,449 --> 00:18:24,650
+(DOOR CLOSES).
+
+478
+00:18:24,750 --> 00:18:27,202
+I'll kick your punk ass if you ain't.
+
+479
+00:18:27,302 --> 00:18:30,138
+If you fuck with me,
+you'll be sorry.
+
+480
+00:18:30,238 --> 00:18:31,904
+Shithead.
+
+481
+00:18:32,004 --> 00:18:33,740
+Fear ye the Ripper.
+
+482
+00:18:33,840 --> 00:18:35,840
+(THUNDER CLAPPING).
+
+483
+00:18:37,263 --> 00:18:38,511
+DR. COOPER ON RADIO:
+The California Condors...
+
+484
+00:18:38,611 --> 00:18:40,015
+...are magnificent birds.
+
+485
+00:18:40,115 --> 00:18:44,216
+They can fly 15,000 feet high,
+cruise at 55 miles per hour...
+
+486
+00:18:44,316 --> 00:18:47,222
+...and cover 150 miles in a single day.
+
+487
+00:18:47,322 --> 00:18:49,578
+And they're so big,
+they're often mistaken...
+
+488
+00:18:49,678 --> 00:18:51,210
+...for small airplanes on radar.
+
+489
+00:18:51,310 --> 00:18:53,860
+I mean... I mean,
+they're huge.
+
+490
+00:18:54,313 --> 00:18:55,528
+FEMALE RADIO HOST: That's amazing.
+
+491
+00:18:55,628 --> 00:18:57,161
+You're listening to The Birding Hour,
+
+492
+00:18:57,261 --> 00:18:59,668
+and the guest tonight
+is Dr. Richard Cooper,
+
+493
+00:18:59,768 --> 00:19:01,867
+national expert on the California Condor...
+
+494
+00:19:01,967 --> 00:19:04,013
+...and author of the bestselling book,
+
+495
+00:19:04,113 --> 00:19:05,224
+Keeper of the Souls.
+
+496
+00:19:05,324 --> 00:19:06,908
+Please, Dr. Cooper,
+this is fascinating.
+
+497
+00:19:07,008 --> 00:19:07,793
+Tell us some more.
+
+498
+00:19:07,893 --> 00:19:08,973
+DR. COOPER: They've been pulled back...
+
+499
+00:19:09,073 --> 00:19:10,411
+...from the brink of extinction a bit.
+
+500
+00:19:10,511 --> 00:19:11,745
+They're hanging in there.
+
+501
+00:19:11,845 --> 00:19:14,071
+The California Condor
+has always captured...
+
+502
+00:19:14,171 --> 00:19:14,967
+...the imagination.
+
+503
+00:19:15,067 --> 00:19:17,452
+A Native American
+medicine man once said,
+
+504
+00:19:17,552 --> 00:19:20,152
+'It's true that the condor literally eats death.
+
+505
+00:19:20,252 --> 00:19:22,074
+'But the great bird is not sickened by this.
+
+506
+00:19:22,174 --> 00:19:23,423
+'No, it has a secret.
+
+507
+00:19:23,523 --> 00:19:25,932
+'It keeps the souls of all
+the fallen creatures...
+
+508
+00:19:26,032 --> 00:19:26,712
+...it consumes.
+
+509
+00:19:26,812 --> 00:19:29,028
+'And they are its treasure and its protection.
+
+510
+00:19:29,128 --> 00:19:31,094
+'And with each soul it
+takes in and shelters...
+
+511
+00:19:31,194 --> 00:19:32,985
+...it grows larger and wiser.
+
+512
+00:19:33,085 --> 00:19:35,638
+'Too large and wise to ever succumb...
+
+513
+00:19:35,738 --> 00:19:36,722
+...to death itself'.
+
+514
+00:19:36,822 --> 00:19:37,970
+RADIO HOST: Well,
+we all know that...
+
+515
+00:19:38,070 --> 00:19:39,859
+...the California Condor was near extinction.
+
+516
+00:19:39,959 --> 00:19:41,390
+It's so nice to hear that they have...
+
+517
+00:19:41,490 --> 00:19:42,461
+...a fighting chance now.
+
+518
+00:19:42,561 --> 00:19:44,358
+DR. COOPER: Oh,
+they are surviving with the...
+
+519
+00:19:44,458 --> 00:19:45,564
+...help of some terrific people.
+
+520
+00:19:45,664 --> 00:19:47,852
+And they have some
+very interesting ways of...
+
+521
+00:19:47,952 --> 00:19:49,268
+...defending themselves, too.
+
+522
+00:19:49,368 --> 00:19:50,648
+RADIO HOST: Really?
+Could you share...
+
+523
+00:19:50,748 --> 00:19:51,237
+...some of those?
+
+524
+00:19:51,337 --> 00:19:53,802
+DR. COOPER: Not on the radio.
+
+525
+00:19:54,874 --> 00:19:56,615
+PENELOPE: And please
+watch over the missionaries,
+
+526
+00:19:56,715 --> 00:19:57,643
+our soldiers in foreign lands,
+
+527
+00:19:57,743 --> 00:20:02,157
+the President, Mom and Dad,
+and especially the seven...
+
+528
+00:20:02,257 --> 00:20:04,257
+...of us, this day.
+
+529
+00:20:05,885 --> 00:20:08,775
+Is this the year?
+It feels like it.
+
+530
+00:20:11,490 --> 00:20:15,740
+I know you can't tell me,
+but please keep Bug safe.
+
+531
+00:20:16,195 --> 00:20:18,195
+In Jesus' name, amen.
+
+532
+00:20:21,967 --> 00:20:23,784
+PENELOPE'S MOM:
+Penelope. It's getting late.
+
+533
+00:20:23,884 --> 00:20:25,884
+I'm coming.
+
+534
+00:20:27,139 --> 00:20:29,139
+It's getting late.
+
+535
+00:20:32,011 --> 00:20:34,741
+Thank you.
+Message received.
+
+536
+00:20:38,417 --> 00:20:41,052
+Crows, 10.
+Snot-nosed kids, zip.
+
+537
+00:20:41,387 --> 00:20:42,788
+Hey.
+
+538
+00:20:42,888 --> 00:20:44,103
+Ass-wipe.
+
+539
+00:20:44,203 --> 00:20:49,048
+Get your little butt to school
+before I put my boot up it.
+
+540
+00:20:49,528 --> 00:20:51,860
+Let's go. Now.
+
+541
+00:21:02,107 --> 00:21:04,188
+Can you step back a little bit, Quint?
+
+542
+00:21:04,288 --> 00:21:07,433
+What's the matter?
+Don't you trust me?
+
+543
+00:21:08,747 --> 00:21:10,747
+Of course I trust you.
+
+544
+00:21:16,722 --> 00:21:19,804
+Don't trust anyone,
+you dumb shit.
+
+545
+00:21:19,904 --> 00:21:21,904
+(LAUGHS).
+
+546
+00:21:22,161 --> 00:21:24,079
+Thanks, Quint.
+Felt good.
+
+547
+00:21:24,179 --> 00:21:26,179
+Anytime.
+
+548
+00:21:30,402 --> 00:21:32,402
+(PHONE RINGING).
+
+549
+00:21:35,007 --> 00:21:37,472
+I know you want me, Brittany.
+
+550
+00:21:37,943 --> 00:21:38,796
+Speaking.
+I've got today's...
+
+551
+00:21:38,896 --> 00:21:39,645
+...assignment, Brandon.
+
+552
+00:21:39,745 --> 00:21:40,724
+Got paper and pen?
+
+553
+00:21:40,824 --> 00:21:42,495
+Of course I do.
+
+554
+00:21:42,595 --> 00:21:43,999
+Bug Hellerman, three.
+
+555
+00:21:44,099 --> 00:21:45,384
+Bug?
+
+556
+00:21:45,484 --> 00:21:47,498
+Alex Dunkelman, eight.
+I need it done this morning.
+
+557
+00:21:47,598 --> 00:21:48,721
+Alex gets an eight?
+
+558
+00:21:48,821 --> 00:21:50,604
+You have a problem with that?
+
+559
+00:21:50,704 --> 00:21:52,718
+No, it's just that it's pretty high on Fang's...
+
+560
+00:21:52,818 --> 00:21:53,492
+...punitive scale.
+
+561
+00:21:53,592 --> 00:21:57,363
+Usually, giving an eight
+to the son of a felon...
+
+562
+00:21:57,463 --> 00:21:59,347
+...comes with a bonus, is all.
+
+563
+00:21:59,447 --> 00:22:00,944
+Don't say something stupid, Brandon.
+
+564
+00:22:01,044 --> 00:22:02,735
+Nothing big.
+
+565
+00:22:02,835 --> 00:22:04,670
+A blowjob would do.
+
+566
+00:22:04,770 --> 00:22:07,588
+How about I have my dog bite it off and...
+
+567
+00:22:07,688 --> 00:22:09,375
+...bury it in my backyard?
+
+568
+00:22:09,475 --> 00:22:11,600
+How big is your backyard?
+
+569
+00:22:12,444 --> 00:22:13,924
+WOMAN ON RADIO:
+Good morning, Riverton.
+
+570
+00:22:14,024 --> 00:22:17,061
+It's hour 7 of Ripper Day 16.
+
+571
+00:22:17,161 --> 00:22:18,898
+And we're talking with Betty O'Neil,
+
+572
+00:22:18,998 --> 00:22:21,089
+mother of Riverton star quarterback,
+
+573
+00:22:21,189 --> 00:22:22,021
+Brandon O'Neil...
+
+574
+00:22:22,121 --> 00:22:25,758
+...and head of the group,
+Citizens for a Saner Riverton.
+
+575
+00:22:25,858 --> 00:22:28,575
+Mrs. O'Neil,
+why ban Ripper Day?
+
+576
+00:22:28,675 --> 00:22:30,911
+It's just kids having fun, isn't it?
+
+577
+00:22:31,011 --> 00:22:32,745
+BETTY: No, it's not kids having fun.
+
+578
+00:22:32,845 --> 00:22:34,046
+It's kids having nightmares,
+
+579
+00:22:34,146 --> 00:22:36,585
+seeing the Ripper everywhere. Kids...
+
+580
+00:22:36,685 --> 00:22:37,749
+...(SCREAMING).
+
+581
+00:22:37,849 --> 00:22:41,473
+Jumpy this morning, aren't we?
+Where is the sock puppet?
+
+582
+00:22:41,573 --> 00:22:42,653
+Where did you come from?
+
+583
+00:22:42,753 --> 00:22:43,754
+Your window, where else?
+
+584
+00:22:43,854 --> 00:22:45,126
+WOMAN ON RADIO: ls Brandon damaged,
+
+585
+00:22:45,226 --> 00:22:45,611
+do you think?
+
+586
+00:22:45,711 --> 00:22:47,393
+BETTY: Of course Brandon isn't...
+
+587
+00:22:47,493 --> 00:22:48,526
+What the fuck is that?
+
+588
+00:22:48,626 --> 00:22:49,694
+Sock puppet.
+
+589
+00:22:49,794 --> 00:22:51,430
+On steroids?
+
+590
+00:22:51,530 --> 00:22:53,334
+Kind of.
+Kind of?
+
+591
+00:22:53,434 --> 00:22:55,134
+Only you wear it this time.
+
+592
+00:22:55,234 --> 00:22:57,268
+What? Excuse me?
+
+593
+00:22:57,368 --> 00:23:00,428
+BUG: Like Jay said,
+'Shock and awe.'
+
+594
+00:23:02,861 --> 00:23:05,264
+Thought Edgar was a home crow.
+
+595
+00:23:05,364 --> 00:23:06,444
+Raven.
+
+596
+00:23:06,544 --> 00:23:08,132
+He's a guard.
+He watches over you,
+
+597
+00:23:08,232 --> 00:23:08,701
+you know?
+
+598
+00:23:08,801 --> 00:23:11,152
+You're still spooked by last night, right?
+
+599
+00:23:11,252 --> 00:23:12,430
+We were all watching
+the river and he came...
+
+600
+00:23:12,530 --> 00:23:12,938
+...from the woods.
+
+601
+00:23:13,038 --> 00:23:14,085
+That's scary.
+
+602
+00:23:14,185 --> 00:23:18,243
+Now, that's Jay's whole thing.
+Never do what they expect.
+
+603
+00:23:18,343 --> 00:23:21,195
+And now we got Edgar up there
+to keep him away. So...
+
+604
+00:23:21,295 --> 00:23:24,617
+You can have him if you want, after tonight.
+
+605
+00:23:24,717 --> 00:23:26,365
+Edgar.
+Seriously?
+
+606
+00:23:26,465 --> 00:23:28,302
+Yeah. It's your birthday.
+
+607
+00:23:28,402 --> 00:23:30,434
+Well, thanks.
+
+608
+00:23:30,534 --> 00:23:31,940
+I should get you a present.
+
+609
+00:23:32,040 --> 00:23:34,612
+How about a weekend in Las Vegas with.
+
+610
+00:23:34,712 --> 00:23:36,128
+Brittany Cunningham?
+
+611
+00:23:36,228 --> 00:23:37,376
+Brittany doesn't know I'm alive.
+
+612
+00:23:37,476 --> 00:23:38,431
+She's gonna, after two days...
+
+613
+00:23:38,531 --> 00:23:39,031
+...and two nights...
+
+614
+00:23:39,131 --> 00:23:41,679
+...of star-studded shows
+and high-stakes gambling.
+
+615
+00:23:41,779 --> 00:23:43,151
+Oh, yeah.
+
+616
+00:23:43,251 --> 00:23:46,071
+Or I could just help you with that.
+
+617
+00:23:46,171 --> 00:23:48,388
+Yeah, that's just as good.
+
+618
+00:23:48,488 --> 00:23:49,520
+It's heavy.
+
+619
+00:23:49,620 --> 00:23:51,026
+It's all the fluids.
+
+620
+00:23:51,126 --> 00:23:52,291
+Fluids?
+
+621
+00:23:52,391 --> 00:23:54,036
+PENELOPE: The Lord is my shepherd.
+
+622
+00:23:54,136 --> 00:23:54,780
+I shall not want.
+
+623
+00:23:54,880 --> 00:23:56,927
+He leadeth me beside the still waters.
+
+624
+00:23:57,027 --> 00:23:59,029
+He restoreth my soul.
+
+625
+00:23:59,129 --> 00:24:00,971
+Yea, though I walk through the valley...
+
+626
+00:24:01,071 --> 00:24:02,221
+...of the shadow of death,
+
+627
+00:24:02,321 --> 00:24:04,957
+I will fear no evil,
+for thou art with me.
+
+628
+00:24:05,057 --> 00:24:07,777
+Thou anointest my head with oil.
+
+629
+00:24:07,874 --> 00:24:09,628
+My cup runneth over.
+
+630
+00:24:09,728 --> 00:24:12,113
+Surely goodness and
+mercy will follow me...
+
+631
+00:24:12,213 --> 00:24:14,312
+...through all the days of my life,
+
+632
+00:24:14,412 --> 00:24:16,914
+and I will dwell in the house of...
+
+633
+00:24:17,014 --> 00:24:18,370
+...the Lord forever.
+
+634
+00:24:18,470 --> 00:24:20,470
+Amen.
+
+635
+00:24:25,778 --> 00:24:27,988
+I know you're there, Lord.
+
+636
+00:24:28,113 --> 00:24:30,113
+(CAWING).
+
+637
+00:24:31,984 --> 00:24:33,984
+And I know you're here.
+
+638
+00:24:42,594 --> 00:24:44,107
+(PHONE RINGING).
+
+639
+00:24:44,207 --> 00:24:46,046
+BUG: Hello?
+MAY: You like it?
+
+640
+00:24:46,146 --> 00:24:48,333
+Yeah, it's great.
+Thanks, Mom.
+
+641
+00:24:48,433 --> 00:24:50,169
+I scotch-taped your number to it.
+
+642
+00:24:50,269 --> 00:24:53,144
+And mine, and 9-1-1.
+Happy birthday, Bug.
+
+643
+00:24:53,244 --> 00:24:53,906
+I love you.
+
+644
+00:24:54,006 --> 00:24:56,006
+Love you, too.
+
+645
+00:24:56,642 --> 00:24:58,689
+How do...
+Do I close it?
+
+646
+00:24:58,789 --> 00:25:01,644
+Hit the red button.
+Boom, done.
+
+647
+00:25:03,048 --> 00:25:04,128
+Small.
+
+648
+00:25:04,228 --> 00:25:05,330
+That bad?
+
+649
+00:25:05,430 --> 00:25:06,734
+No, that's good.
+
+650
+00:25:06,834 --> 00:25:08,053
+CHANDELLE: Jerome.
+
+651
+00:25:08,153 --> 00:25:09,233
+Uh-oh.
+
+652
+00:25:09,333 --> 00:25:10,469
+Get, Dunkelman.
+
+653
+00:25:10,569 --> 00:25:11,602
+ALEX: Catch you later, Jerome.
+
+654
+00:25:11,702 --> 00:25:13,169
+What did I do now?
+See you, Jerome.
+
+655
+00:25:13,269 --> 00:25:14,660
+It's what you're not going to do,
+
+656
+00:25:14,760 --> 00:25:16,374
+which is hang out with them.
+
+657
+00:25:16,474 --> 00:25:18,130
+Why not?
+
+658
+00:25:18,230 --> 00:25:20,232
+It's bad luck,
+is 'why not'.
+
+659
+00:25:20,332 --> 00:25:21,480
+Especially on Ripper Day.
+
+660
+00:25:21,580 --> 00:25:23,887
+You should totally come some year, Fang.
+
+661
+00:25:23,987 --> 00:25:24,570
+It was wild.
+
+662
+00:25:24,670 --> 00:25:26,588
+Like, Brandon set Bug up
+to fight the monster,
+
+663
+00:25:26,688 --> 00:25:28,719
+which was huge, by the way.
+
+664
+00:25:28,819 --> 00:25:31,287
+And Bug, he was so scared.
+
+665
+00:25:31,387 --> 00:25:34,470
+Brandon didn't set Bug up. I did.
+
+666
+00:25:35,480 --> 00:25:36,763
+Do you know how to
+steam open an envelope...
+
+667
+00:25:36,863 --> 00:25:38,064
+...so it doesn't show?
+
+668
+00:25:38,164 --> 00:25:39,365
+Put it in the freezer for an hour.
+
+669
+00:25:39,465 --> 00:25:42,695
+It opens itself and reseals perfectly.
+
+670
+00:25:44,289 --> 00:25:46,289
+This is to Bug.
+
+671
+00:25:46,491 --> 00:25:48,491
+Oh, really?
+
+672
+00:25:48,827 --> 00:25:50,827
+Here they come.
+
+673
+00:25:52,097 --> 00:25:53,799
+Hold up, boys.
+What do you got there?
+
+674
+00:25:53,899 --> 00:25:55,615
+Happy birthday, insect.
+
+675
+00:25:55,715 --> 00:25:56,916
+(DIALING).
+
+676
+00:25:57,016 --> 00:25:58,737
+Clueless as usual.
+
+677
+00:25:58,837 --> 00:25:59,938
+Go.
+
+678
+00:26:00,038 --> 00:26:02,802
+Mr. Kaiser,
+sixth period biology.
+
+679
+00:26:03,208 --> 00:26:04,924
+It'll be there.
+
+680
+00:26:05,024 --> 00:26:06,259
+Thanks, Jose.
+
+681
+00:26:06,359 --> 00:26:07,892
+So, you want to come over tonight?
+
+682
+00:26:07,992 --> 00:26:10,832
+We could burn the house down
+with my stepfather in it.
+
+683
+00:26:10,932 --> 00:26:13,227
+(SARCASTICALLY) Ha, ha, ha.
+
+684
+00:26:13,324 --> 00:26:14,230
+He give you anything for your birthday?
+
+685
+00:26:14,330 --> 00:26:16,330
+Yeah, a hematoma.
+
+686
+00:26:16,521 --> 00:26:18,521
+Made it himself, too.
+
+687
+00:26:19,124 --> 00:26:20,137
+Oh.
+
+688
+00:26:20,237 --> 00:26:22,988
+Behold, Bug,
+what light in yonder...
+
+689
+00:26:23,088 --> 00:26:25,088
+...window breaks.
+
+690
+00:26:26,064 --> 00:26:28,516
+She is so beautiful.
+
+691
+00:26:28,616 --> 00:26:30,616
+She's hot for you, too.
+
+692
+00:26:31,436 --> 00:26:33,219
+You should go over there and talk to her.
+
+693
+00:26:33,319 --> 00:26:34,885
+Excuse me, Officer Ramirez.
+
+694
+00:26:34,985 --> 00:26:36,520
+Maria told me you know all about baseball.
+
+695
+00:26:36,620 --> 00:26:37,655
+Mmm-hmm.
+Uh-oh.
+
+696
+00:26:37,755 --> 00:26:38,857
+RAMIREZ: What do you want to know?
+
+697
+00:26:38,957 --> 00:26:41,082
+Distraction maneuver.
+Run.
+
+698
+00:26:42,347 --> 00:26:44,679
+Bug. This is a three.
+
+699
+00:26:45,417 --> 00:26:47,599
+Dunkelman, this is an eight.
+
+700
+00:26:47,699 --> 00:26:49,699
+(GRUNTS).
+
+701
+00:26:49,795 --> 00:26:52,106
+That's the way the cookie crumbles.
+
+702
+00:26:52,206 --> 00:26:53,525
+Dunkelman,
+
+703
+00:26:53,625 --> 00:26:56,139
+stay away from the Fang Zone.
+
+704
+00:26:56,239 --> 00:26:58,874
+And you,
+you stay away from him.
+
+705
+00:27:00,966 --> 00:27:02,201
+ALEX: Thanks, Brandon.
+
+706
+00:27:02,301 --> 00:27:03,635
+Felt good.
+
+707
+00:27:03,735 --> 00:27:05,119
+BRANDON: Ass-wipe.
+
+708
+00:27:05,219 --> 00:27:09,469
+Not as good as your mother
+felt last night, though.
+
+709
+00:27:10,142 --> 00:27:12,060
+Just bought yourself a 20.
+
+710
+00:27:12,160 --> 00:27:14,160
+Brandon O'Neil.
+
+711
+00:27:15,080 --> 00:27:17,850
+Do not bring the wrath
+of Jehovah down upon you.
+
+712
+00:27:17,950 --> 00:27:20,244
+Your sins are already
+a stench in the nostrils...
+
+713
+00:27:20,344 --> 00:27:21,186
+...of an angry God.
+
+714
+00:27:21,286 --> 00:27:22,769
+Like knocking up Melanie Pratt,
+
+715
+00:27:22,869 --> 00:27:23,488
+who's only 15...
+
+716
+00:27:23,588 --> 00:27:25,506
+...and the principal's daughter.
+
+717
+00:27:25,606 --> 00:27:27,171
+What? Melanie's pregnant?
+
+718
+00:27:27,271 --> 00:27:29,143
+She's in my prayer group. Duh.
+
+719
+00:27:29,243 --> 00:27:30,476
+What men will do to you in prison...
+
+720
+00:27:30,576 --> 00:27:32,556
+...is nothing compared
+to what demons will...
+
+721
+00:27:32,656 --> 00:27:33,398
+...do to you in Hell.
+
+722
+00:27:33,498 --> 00:27:36,235
+On beds of fire.
+Through all eternity.
+
+723
+00:27:36,335 --> 00:27:38,370
+I'm going to get you for this, Penelope.
+
+724
+00:27:38,470 --> 00:27:41,474
+If you do, God will get you, Brandon,
+
+725
+00:27:41,574 --> 00:27:43,342
+and it won't be pretty.
+
+726
+00:27:43,442 --> 00:27:46,502
+When you least expect it, Dunkelman.
+
+727
+00:27:49,247 --> 00:27:50,327
+Hi, Bug.
+Hi.
+
+728
+00:27:50,427 --> 00:27:52,398
+Happy birthday.
+Thanks, Penelope.
+
+729
+00:27:52,498 --> 00:27:53,218
+Same to you.
+
+730
+00:27:53,318 --> 00:27:54,486
+Did you get my note?
+
+731
+00:27:54,586 --> 00:27:55,666
+Note?
+
+732
+00:27:55,766 --> 00:27:57,138
+I left it in your mailbox.
+
+733
+00:27:57,238 --> 00:27:59,238
+No.
+
+734
+00:27:59,624 --> 00:28:00,873
+It doesn't matter.
+
+735
+00:28:00,973 --> 00:28:02,661
+What?
+
+736
+00:28:02,761 --> 00:28:04,646
+Pray for our souls, Bug.
+He's coming.
+
+737
+00:28:04,746 --> 00:28:05,708
+Jesus?
+
+738
+00:28:05,808 --> 00:28:07,808
+We should be so lucky.
+
+739
+00:28:10,836 --> 00:28:12,836
+Don't forget me.
+
+740
+00:28:14,473 --> 00:28:16,808
+Rise up and gird your loins, Alex.
+
+741
+00:28:16,908 --> 00:28:18,908
+The end is near.
+
+742
+00:28:23,982 --> 00:28:25,165
+Why is Penelope always saying...
+
+743
+00:28:25,265 --> 00:28:26,018
+...weird stuff like that?
+
+744
+00:28:26,118 --> 00:28:27,535
+Parallel universe, baby.
+
+745
+00:28:27,635 --> 00:28:28,902
+I don't understand her,
+sometimes.
+
+746
+00:28:29,002 --> 00:28:31,023
+I mean, the way she said that.
+
+747
+00:28:31,123 --> 00:28:32,670
+(AS PENELOPE) Pray for our souls, Bug.
+
+748
+00:28:32,770 --> 00:28:34,770
+He's coming.
+
+749
+00:28:35,093 --> 00:28:36,728
+What if she meant the Ripper?
+
+750
+00:28:36,828 --> 00:28:38,363
+I'm scared.
+
+751
+00:28:38,463 --> 00:28:40,179
+We're 16, Bug.
+
+752
+00:28:40,279 --> 00:28:42,829
+Like it or not, we're men now.
+
+753
+00:28:42,887 --> 00:28:43,914
+I don't feel like a man.
+
+754
+00:28:44,014 --> 00:28:45,616
+No man does.
+That's why you...
+
+755
+00:28:45,716 --> 00:28:46,405
+...got to fake it.
+
+756
+00:28:46,505 --> 00:28:48,085
+Fake being a man to be a man?
+
+757
+00:28:48,185 --> 00:28:50,058
+That's the way it works.
+So, you can't run.
+
+758
+00:28:50,158 --> 00:28:52,257
+You have to face your fear like a man.
+
+759
+00:28:52,357 --> 00:28:53,357
+Even though I'm not a man?
+
+760
+00:28:53,457 --> 00:28:54,626
+Because you're not a man.
+
+761
+00:28:54,726 --> 00:28:55,743
+Listen, the better you fake it,
+
+762
+00:28:55,843 --> 00:28:56,682
+the better man you are.
+
+763
+00:28:56,782 --> 00:28:58,734
+Just fake it?
+Well, fake it good.
+
+764
+00:28:58,834 --> 00:29:00,393
+Like, if you're scared,
+act like you...
+
+765
+00:29:00,493 --> 00:29:01,253
+...don't give a shit.
+
+766
+00:29:01,353 --> 00:29:04,028
+Or if somebody hurts you,
+say, 'Thank you very much.
+
+767
+00:29:04,128 --> 00:29:05,090
+That felt wonderful'.
+
+768
+00:29:05,190 --> 00:29:08,205
+Thanks, Brandon.
+I can't raise my arm.
+
+769
+00:29:08,305 --> 00:29:10,245
+Feels good.
+Yeah, there you go.
+
+770
+00:29:10,345 --> 00:29:11,779
+That all you got, Brandon?
+
+771
+00:29:11,879 --> 00:29:14,445
+I mean, I feel downright cheated.
+
+772
+00:29:14,545 --> 00:29:16,977
+I'm amazed that
+you're getting this so quick.
+
+773
+00:29:17,077 --> 00:29:17,869
+It's tricky stuff.
+
+774
+00:29:17,969 --> 00:29:19,184
+I was faking that I did.
+
+775
+00:29:19,284 --> 00:29:20,317
+(SCHOOL BELL RINGING).
+
+776
+00:29:20,417 --> 00:29:22,498
+You were?
+Completely.
+
+777
+00:29:23,175 --> 00:29:24,626
+Yeah, but you were faking it good.
+
+778
+00:29:24,726 --> 00:29:25,924
+I was?
+
+779
+00:29:26,024 --> 00:29:27,779
+Abso-fucking-lutely.
+
+780
+00:29:27,879 --> 00:29:30,684
+You now have permission to shave.
+
+781
+00:29:30,780 --> 00:29:32,217
+MR. KAISER: As you know, class,
+
+782
+00:29:32,317 --> 00:29:34,203
+we're nearing the end of our reports...
+
+783
+00:29:34,303 --> 00:29:35,287
+...on living creatures.
+
+784
+00:29:35,387 --> 00:29:38,481
+Dogs, fish, honeybees.
+
+785
+00:29:39,291 --> 00:29:41,734
+We had an especially
+nice one from Brittany.
+
+786
+00:29:41,834 --> 00:29:43,228
+Cunningham last session...
+
+787
+00:29:43,328 --> 00:29:46,303
+...on the butterflies of our state.
+
+788
+00:29:47,799 --> 00:29:51,210
+Today's presentation
+will be by Adam Hellerman...
+
+789
+00:29:51,310 --> 00:29:52,804
+...and Alex Dunkelman.
+
+790
+00:29:52,904 --> 00:29:54,904
+Are you boys ready?
+
+791
+00:29:55,740 --> 00:29:57,220
+Boys?
+ALEX: Bug, come on.
+
+792
+00:29:57,320 --> 00:29:58,389
+MR. KAISER: While we're young.
+
+793
+00:29:58,489 --> 00:30:00,489
+Get up.
+
+794
+00:30:02,914 --> 00:30:04,954
+I believe this is yours.
+
+795
+00:30:08,286 --> 00:30:10,027
+'Back from the Brink.' By Adam Hellerman...
+
+796
+00:30:10,127 --> 00:30:10,989
+...and Alex Dunkelman.
+
+797
+00:30:11,089 --> 00:30:12,338
+Dumbfuckelman.
+
+798
+00:30:12,438 --> 00:30:14,004
+Brandon.
+
+799
+00:30:14,104 --> 00:30:17,550
+Our subject today is about a bird.
+
+800
+00:30:19,297 --> 00:30:22,334
+You having another one
+of your migraines, Adam?
+
+801
+00:30:22,434 --> 00:30:24,116
+Shock and awe.
+
+802
+00:30:24,216 --> 00:30:26,216
+Adam.
+
+803
+00:30:27,005 --> 00:30:29,697
+Our subject today is the largest bird...
+
+804
+00:30:29,797 --> 00:30:31,076
+...in North America.
+
+805
+00:30:31,176 --> 00:30:33,758
+Unchanged since the Pleistocene Epoch...
+
+806
+00:30:33,858 --> 00:30:36,562
+...and only recently
+rescued from extinction.
+
+807
+00:30:36,662 --> 00:30:38,775
+I present to you.
+
+808
+00:30:38,984 --> 00:30:41,903
+Gymnogyps californianus.
+
+809
+00:30:42,003 --> 00:30:43,235
+Anus.
+
+810
+00:30:43,335 --> 00:30:44,856
+MR. KAISER: Brandon, second warning.
+
+811
+00:30:44,956 --> 00:30:46,604
+The California Condor.
+
+812
+00:30:46,704 --> 00:30:47,940
+(ALL GASPING).
+
+813
+00:30:48,040 --> 00:30:49,194
+Good Lord.
+
+814
+00:30:49,294 --> 00:30:50,374
+BUG: Are you ready?
+
+815
+00:30:50,474 --> 00:30:51,778
+Fly, now.
+
+816
+00:30:51,878 --> 00:30:53,078
+(ALL EXCLAIMING).
+
+817
+00:30:53,178 --> 00:30:55,049
+His wingspan...
+
+818
+00:30:55,149 --> 00:30:57,149
+...is 10 feet wide.
+
+819
+00:30:57,302 --> 00:31:00,277
+His body, more than four feet high.
+
+820
+00:31:00,374 --> 00:31:03,888
+He can weigh as much as 350 parrots.
+
+821
+00:31:03,988 --> 00:31:05,393
+As for soaring,
+
+822
+00:31:05,493 --> 00:31:07,727
+he can glide effortlessly for days...
+
+823
+00:31:07,827 --> 00:31:10,715
+...until he finds his food,
+which is carrion.
+
+824
+00:31:10,815 --> 00:31:15,479
+A dead, stinking body
+crawling with maggots...
+
+825
+00:31:16,087 --> 00:31:17,505
+...is ice-cream to him.
+
+826
+00:31:17,605 --> 00:31:19,124
+MR. KAISER: Bug.
+
+827
+00:31:19,224 --> 00:31:21,041
+Just showmanship, Mr. Kaiser.
+The facts are correct.
+
+828
+00:31:21,141 --> 00:31:22,273
+(ALEX BREATHING HEAVILY).
+
+829
+00:31:22,373 --> 00:31:24,903
+A California Condor can consume...
+
+830
+00:31:25,003 --> 00:31:26,531
+...the carcass of a cow...
+
+831
+00:31:26,631 --> 00:31:27,933
+...in one day.
+
+832
+00:31:28,033 --> 00:31:29,046
+Bullshit.
+
+833
+00:31:29,146 --> 00:31:31,146
+(GROWLS).
+
+834
+00:31:38,009 --> 00:31:41,069
+BUG: And if anyone tries to harm it,
+
+835
+00:31:41,580 --> 00:31:43,960
+if anyone even so much as...
+
+836
+00:31:44,282 --> 00:31:47,937
+...touches one of its feathers, just one...
+
+837
+00:31:51,556 --> 00:31:53,069
+...(GIRL GASPING).
+
+838
+00:31:53,169 --> 00:31:55,060
+What are you going to do?
+
+839
+00:31:55,160 --> 00:31:57,370
+Going to bite me, asshole?
+
+840
+00:31:57,470 --> 00:31:59,030
+Uh-uh.
+
+841
+00:31:59,130 --> 00:32:01,130
+(ALL SHRIEKING).
+
+842
+00:32:01,499 --> 00:32:05,409
+The bird will vomit
+copiously on its tormentor.
+
+843
+00:32:07,572 --> 00:32:10,718
+And if that doesn't work,
+the great bird has...
+
+844
+00:32:10,818 --> 00:32:12,377
+...another defense, too.
+
+845
+00:32:12,477 --> 00:32:14,092
+Bottle two, Alex.
+
+846
+00:32:14,192 --> 00:32:15,793
+BRANDON: What the hell is that?
+
+847
+00:32:15,893 --> 00:32:18,813
+And that is why no one should ever screw...
+
+848
+00:32:18,913 --> 00:32:20,752
+...with the California Condor.
+
+849
+00:32:20,852 --> 00:32:22,852
+(ALEX GRUNTING).
+
+850
+00:32:23,288 --> 00:32:25,757
+Thank you, Brandon.
+That felt so good.
+
+851
+00:32:25,857 --> 00:32:28,393
+Alex and I would like to thank you all...
+
+852
+00:32:28,493 --> 00:32:30,788
+...for your kind attention.
+
+853
+00:32:31,263 --> 00:32:33,263
+(GAGGING).
+
+854
+00:32:36,167 --> 00:32:38,795
+Hall pass. Go.
+
+855
+00:32:40,038 --> 00:32:42,078
+GIRL: That was so wrong.
+
+856
+00:32:44,376 --> 00:32:46,376
+(EXHALING)...
+
+857
+00:32:48,079 --> 00:32:50,079
+...(SIGHING)...
+
+858
+00:33:05,397 --> 00:33:07,397
+...(GASPS)...
+
+859
+00:33:16,741 --> 00:33:19,107
+...(SCHOOL BELL RINGING)...
+
+860
+00:33:26,217 --> 00:33:27,819
+...(GASPS).
+
+861
+00:33:27,919 --> 00:33:29,759
+Didn't mean to scare you.
+
+862
+00:33:29,859 --> 00:33:30,589
+You okay?
+
+863
+00:33:30,689 --> 00:33:31,803
+Yeah.
+
+864
+00:33:31,903 --> 00:33:34,106
+Bug, that was amazing.
+
+865
+00:33:34,206 --> 00:33:35,713
+Oh, my God,
+that suit was genius.
+
+866
+00:33:35,813 --> 00:33:36,528
+I felt like Mothra.
+
+867
+00:33:36,628 --> 00:33:37,893
+How'd you come up with that?
+
+868
+00:33:37,993 --> 00:33:38,496
+I don't know.
+
+869
+00:33:38,596 --> 00:33:40,143
+Have a good puke?
+Couldn't.
+
+870
+00:33:40,243 --> 00:33:41,581
+Try the finger thing?
+Nothing.
+
+871
+00:33:41,681 --> 00:33:43,681
+Bummer.
+
+872
+00:33:43,779 --> 00:33:44,970
+We should get out of here.
+
+873
+00:33:45,070 --> 00:33:46,684
+Brandon's really mad now, I guess.
+
+874
+00:33:46,784 --> 00:33:50,253
+You don't know the half of it.
+Brandon is way past mad.
+
+875
+00:33:50,353 --> 00:33:52,180
+He's been humiliated twice in two hours...
+
+876
+00:33:52,280 --> 00:33:53,111
+...in front of Brittany.
+
+877
+00:33:53,211 --> 00:33:54,791
+He's approaching nuclear.
+
+878
+00:33:54,891 --> 00:33:57,461
+But he's not the one we got to worry about.
+
+879
+00:33:57,561 --> 00:33:59,298
+He's not?
+No, it's Fang.
+
+880
+00:33:59,398 --> 00:34:01,269
+Brandon only does
+what she tells him to do.
+
+881
+00:34:01,369 --> 00:34:03,169
+The fish stinks from the head.
+
+882
+00:34:03,269 --> 00:34:04,402
+Why would Fang want to hurt us?
+
+883
+00:34:04,502 --> 00:34:05,502
+You? I don't know.
+
+884
+00:34:05,602 --> 00:34:07,158
+Me, I got caught outside
+the girls' bathroom...
+
+885
+00:34:07,258 --> 00:34:08,059
+...between 2:00 and 2:30.
+
+886
+00:34:08,159 --> 00:34:10,044
+That's when Fang
+and her crew talk business.
+
+887
+00:34:10,144 --> 00:34:11,444
+Anybody caught in the Fang Zone...
+
+888
+00:34:11,544 --> 00:34:13,380
+...during that half hour is treated like a spy.
+
+889
+00:34:13,480 --> 00:34:14,878
+Just because you were
+out there doesn't mean...
+
+890
+00:34:14,978 --> 00:34:15,467
+...you were spying.
+
+891
+00:34:15,567 --> 00:34:16,850
+I was spying.
+
+892
+00:34:16,950 --> 00:34:19,387
+There's a revolution going on here.
+
+893
+00:34:19,487 --> 00:34:21,139
+Fang must fall.
+
+894
+00:34:21,239 --> 00:34:22,555
+Fang, fall?
+
+895
+00:34:22,655 --> 00:34:23,788
+Like the mob.
+
+896
+00:34:23,888 --> 00:34:25,289
+We need to get something on her...
+
+897
+00:34:25,389 --> 00:34:26,044
+...so incriminating...
+
+898
+00:34:26,144 --> 00:34:28,446
+...that she has to leave
+us common folk alone.
+
+899
+00:34:28,546 --> 00:34:31,616
+If only we had some
+sort of listening device.
+
+900
+00:34:31,716 --> 00:34:33,716
+(PHONE RINGING).
+
+901
+00:34:35,487 --> 00:34:37,487
+Hello?
+
+902
+00:34:37,822 --> 00:34:39,847
+Condor? Crow.
+
+903
+00:34:42,594 --> 00:34:44,513
+Fang and her crew arrive in the bathroom...
+
+904
+00:34:44,613 --> 00:34:45,363
+...in three minutes.
+
+905
+00:34:45,463 --> 00:34:47,477
+Everyone else clears out five before.
+
+906
+00:34:47,577 --> 00:34:49,806
+That means we have
+a window of two minutes,
+
+907
+00:34:49,906 --> 00:34:50,502
+starting now.
+
+908
+00:34:50,602 --> 00:34:51,615
+Window?
+
+909
+00:34:51,715 --> 00:34:52,986
+To get your phone in there.
+
+910
+00:34:53,086 --> 00:34:54,372
+In the girls' bathroom?
+
+911
+00:34:54,472 --> 00:34:56,302
+I'm sure Brittany is going to be there,
+
+912
+00:34:56,402 --> 00:34:57,676
+as well, talking about you.
+
+913
+00:34:57,776 --> 00:34:59,234
+We could gather that kind of...
+
+914
+00:34:59,334 --> 00:35:00,211
+...intelligence, also.
+
+915
+00:35:00,311 --> 00:35:01,391
+Talking about me?
+
+916
+00:35:01,491 --> 00:35:03,199
+Yeah, yeah.
+You amazed her back...
+
+917
+00:35:03,299 --> 00:35:04,382
+...there in biology, Bug.
+
+918
+00:35:04,482 --> 00:35:06,063
+She saw a new man standing there,
+
+919
+00:35:06,163 --> 00:35:09,120
+fascinated, powerful, daring.
+
+920
+00:35:10,021 --> 00:35:11,727
+Get your phone in there.
+You're going to hear it...
+
+921
+00:35:11,827 --> 00:35:12,524
+...with your own ears.
+
+922
+00:35:12,624 --> 00:35:15,427
+But now, you only got a minute, 45.
+
+923
+00:35:15,527 --> 00:35:16,843
+What if there's somebody in there?
+
+924
+00:35:16,943 --> 00:35:18,312
+No, no.
+I got that covered.
+
+925
+00:35:18,412 --> 00:35:19,443
+(GIRLS SHRIEKING).
+
+926
+00:35:19,543 --> 00:35:21,399
+I'm sorry. Sorry, sorry.
+Wrong bathroom, Jerome.
+
+927
+00:35:21,499 --> 00:35:23,648
+Yours is down the hall,
+around the corner.
+
+928
+00:35:23,748 --> 00:35:25,484
+Did I scare anyone else?
+No one else is in there,
+
+929
+00:35:25,584 --> 00:35:27,605
+but it's a Fang Zone in 30 seconds.
+
+930
+00:35:27,705 --> 00:35:29,323
+GIRL 1: Let's go.
+Come on, hurry up.
+
+931
+00:35:29,423 --> 00:35:29,974
+GIRL 2: I am.
+
+932
+00:35:30,074 --> 00:35:32,074
+Clear.
+
+933
+00:35:46,458 --> 00:35:48,126
+Can you hear me?
+Ten seconds.
+
+934
+00:35:48,226 --> 00:35:50,226
+Go.
+
+935
+00:35:53,665 --> 00:35:55,875
+Come on, come on, come on.
+
+936
+00:35:59,037 --> 00:36:01,037
+(FAKES EVIL LAUGHTER).
+
+937
+00:36:03,341 --> 00:36:06,189
+Brittany, window,
+Chandelle, door,
+
+938
+00:36:06,289 --> 00:36:08,289
+Maria, you've got five.
+
+939
+00:36:16,254 --> 00:36:17,300
+Go.
+
+940
+00:36:17,400 --> 00:36:19,485
+The sophomores have paid
+another year's protection...
+
+941
+00:36:19,585 --> 00:36:20,125
+...for their bikes.
+
+942
+00:36:20,225 --> 00:36:23,069
+And the answers to next
+week's organic chemistry...
+
+943
+00:36:23,169 --> 00:36:24,429
+...test are selling briskly.
+
+944
+00:36:24,529 --> 00:36:26,297
+Bottom line,
+$2,000 in the bank.
+
+945
+00:36:26,397 --> 00:36:28,214
+We got her. (CHUCKLING).
+
+946
+00:36:28,314 --> 00:36:29,534
+Good numbers.
+
+947
+00:36:29,634 --> 00:36:31,417
+Speaking of numbers,
+
+948
+00:36:31,517 --> 00:36:32,954
+apparently this morning
+there was a problem...
+
+949
+00:36:33,054 --> 00:36:34,906
+...with Brandon giving the punitives?
+
+950
+00:36:35,006 --> 00:36:36,441
+A three and an eight,
+I believe.
+
+951
+00:36:36,541 --> 00:36:39,094
+The numbers were
+administered properly and...
+
+952
+00:36:39,194 --> 00:36:40,445
+...on schedule, however,
+
+953
+00:36:40,545 --> 00:36:41,760
+before Brandon could leave the area,
+
+954
+00:36:41,860 --> 00:36:43,230
+Penelope Bryte came out of nowhere...
+
+955
+00:36:43,330 --> 00:36:46,475
+...and told him he was going to hell.
+
+956
+00:36:47,051 --> 00:36:48,653
+Brandon would enjoy hell.
+
+957
+00:36:48,753 --> 00:36:50,963
+Kick some ass, take names.
+
+958
+00:36:51,689 --> 00:36:54,459
+There something you're not telling me?
+
+959
+00:36:54,559 --> 00:36:56,275
+Well, Maria's dad was there.
+
+960
+00:36:56,375 --> 00:36:58,165
+I thought I told you to distract him with...
+
+961
+00:36:58,265 --> 00:36:59,063
+...the baseball stuff.
+
+962
+00:36:59,163 --> 00:37:01,305
+I did, but Penelope's
+yelling got your father...
+
+963
+00:37:01,405 --> 00:37:02,467
+...looking straight at us.
+
+964
+00:37:02,567 --> 00:37:04,777
+Maybe Penelope needs a 10.
+
+965
+00:37:04,873 --> 00:37:05,882
+A 10?
+A 10?
+
+966
+00:37:05,982 --> 00:37:07,806
+What's her story, anyway?
+
+967
+00:37:07,906 --> 00:37:09,946
+She's obsessed with Bug.
+
+968
+00:37:11,042 --> 00:37:12,493
+Girls find him attractive.
+
+969
+00:37:12,593 --> 00:37:13,623
+(EXCLAIMING).
+
+970
+00:37:13,723 --> 00:37:15,723
+Do you?
+
+971
+00:37:16,381 --> 00:37:17,982
+What?
+
+972
+00:37:18,082 --> 00:37:20,082
+Find Bug attractive.
+
+973
+00:37:20,285 --> 00:37:22,285
+No, of course not.
+
+974
+00:37:22,387 --> 00:37:23,433
+Sorry.
+
+975
+00:37:23,533 --> 00:37:25,473
+He's a lunatic, Brittany.
+
+976
+00:37:25,573 --> 00:37:27,340
+A brain-bomb waiting to go off.
+
+977
+00:37:27,440 --> 00:37:28,606
+His only real friend is Dunkelman,
+
+978
+00:37:28,706 --> 00:37:31,229
+and Dunkelman just uses
+him as his monkey.
+
+979
+00:37:31,329 --> 00:37:33,247
+He's been in and out institutions...
+
+980
+00:37:33,347 --> 00:37:33,998
+...half his life.
+
+981
+00:37:34,098 --> 00:37:36,157
+Bug has killed people.
+
+982
+00:37:36,901 --> 00:37:38,136
+Killed people?
+Monkey?
+
+983
+00:37:38,236 --> 00:37:40,956
+Wake up and smell the Starbucks.
+
+984
+00:37:42,040 --> 00:37:44,873
+You're right.
+He's pathetic.
+
+985
+00:37:45,443 --> 00:37:48,163
+Brandon's the one for you, Brit.
+
+986
+00:37:48,947 --> 00:37:50,230
+He's a diamond.
+
+987
+00:37:50,330 --> 00:37:51,766
+In the rough, I'll admit...
+
+988
+00:37:51,866 --> 00:37:54,397
+...but a diamond just the same.
+
+989
+00:37:54,497 --> 00:37:58,182
+By comparison,
+Bug is a lump of coal.
+
+990
+00:37:58,556 --> 00:38:00,556
+Trust me on this.
+
+991
+00:38:01,359 --> 00:38:03,359
+Okay?
+
+992
+00:38:03,453 --> 00:38:05,453
+Okay, Fang.
+
+993
+00:38:05,563 --> 00:38:07,563
+Good girl.
+
+994
+00:38:11,436 --> 00:38:13,436
+Bug, don't run away.
+
+995
+00:38:15,440 --> 00:38:16,688
+Stop it.
+
+996
+00:38:16,788 --> 00:38:19,193
+Bug, say, 'Thanks, Fang,
+that felt great.'
+
+997
+00:38:19,293 --> 00:38:21,279
+I'd be lying.
+That's the point.
+
+998
+00:38:21,379 --> 00:38:23,281
+Thanks, Fang.
+That felt great.
+
+999
+00:38:23,381 --> 00:38:24,664
+That felt fucking great.
+
+1000
+00:38:24,764 --> 00:38:26,228
+That's a bad word.
+
+1001
+00:38:26,328 --> 00:38:28,353
+Be bad.
+It makes things good.
+
+1002
+00:38:28,453 --> 00:38:29,701
+Everything's backwards with you.
+
+1003
+00:38:29,801 --> 00:38:31,801
+Just fake you're bad.
+
+1004
+00:38:32,390 --> 00:38:34,585
+Thanks, Fang.
+That felt...
+
+1005
+00:38:36,961 --> 00:38:40,446
+...fucking great.
+That felt fucking great.
+
+1006
+00:38:40,541 --> 00:38:41,652
+Good.
+But you do have to do...
+
+1007
+00:38:41,752 --> 00:38:42,400
+...one more thing.
+
+1008
+00:38:42,500 --> 00:38:44,013
+I can't handle another fucking thing, okay?
+
+1009
+00:38:44,113 --> 00:38:45,919
+You've got to get your phone back.
+
+1010
+00:38:46,019 --> 00:38:47,984
+Are you fucking kidding me?
+I'm not fucking kidding you.
+
+1011
+00:38:48,084 --> 00:38:49,619
+They're going to find it,
+they're going to trace it...
+
+1012
+00:38:49,719 --> 00:38:50,922
+...they're going to call your mom.
+
+1013
+00:38:51,022 --> 00:38:52,805
+She's going to have to come in and get...
+
+1014
+00:38:52,905 --> 00:38:54,212
+...humiliated by Principal Pratt.
+
+1015
+00:38:54,312 --> 00:38:55,358
+No fucking way.
+
+1016
+00:38:55,458 --> 00:38:56,993
+Way. And enough with the 'fucks' now.
+
+1017
+00:38:57,093 --> 00:38:58,128
+You say 'fuck'.
+
+1018
+00:38:58,228 --> 00:39:01,628
+You're not me, okay?
+You're not me, okay?
+
+1019
+00:39:09,527 --> 00:39:11,276
+Stop it.
+Stop it.
+
+1020
+00:39:11,376 --> 00:39:13,376
+Bug?
+Bug?
+
+1021
+00:39:14,565 --> 00:39:16,565
+Bug.
+Bug.
+
+1022
+00:39:17,835 --> 00:39:19,835
+BOTH: Boo.
+
+1023
+00:39:26,778 --> 00:39:27,824
+Cut it out.
+Cut it out.
+
+1024
+00:39:27,924 --> 00:39:29,262
+Bug. Bug.
+Bug. Bug.
+
+1025
+00:39:29,362 --> 00:39:31,362
+Bug.
+Bug.
+
+1026
+00:39:33,017 --> 00:39:35,017
+What just happened?
+
+1027
+00:39:35,153 --> 00:39:37,153
+Nothing.
+
+1028
+00:39:43,394 --> 00:39:46,114
+Do you think I'm a monkey, Alex?
+
+1029
+00:39:46,213 --> 00:39:48,232
+Have you killed people, Bug?
+
+1030
+00:39:48,332 --> 00:39:50,372
+Not that I can remember.
+
+1031
+00:39:51,135 --> 00:39:55,215
+Well, I can't remember
+buying you bananas either.
+
+1032
+00:39:56,240 --> 00:39:58,240
+I'll be right back.
+
+1033
+00:40:05,917 --> 00:40:07,917
+(EXCLAIMING).
+
+1034
+00:40:08,352 --> 00:40:10,366
+ALEX: Keep it down in there.
+
+1035
+00:40:10,466 --> 00:40:12,923
+Bug? Where are you?
+
+1036
+00:40:14,425 --> 00:40:16,635
+What's taking you so long?
+
+1037
+00:40:17,895 --> 00:40:19,895
+Bug?
+
+1038
+00:40:23,334 --> 00:40:25,334
+Bug, someone's coming.
+
+1039
+00:40:28,840 --> 00:40:30,921
+BRITTANY: Alex,
+what are you doing here?
+
+1040
+00:40:31,021 --> 00:40:32,959
+ALEX: Hi, Brittany. Brittany,
+why are you going back...
+
+1041
+00:40:33,059 --> 00:40:33,745
+...into the bathroom?
+
+1042
+00:40:33,845 --> 00:40:35,662
+BRITTANY: I forgot my purse.
+None of your business.
+
+1043
+00:40:35,762 --> 00:40:37,762
+ALEX: incoming.
+
+1044
+00:40:39,383 --> 00:40:40,234
+BRITTANY: Hello?
+Please say...
+
+1045
+00:40:40,334 --> 00:40:40,885
+...this is a nightmare.
+
+1046
+00:40:40,985 --> 00:40:42,346
+Please say this is a nightmare.
+
+1047
+00:40:42,446 --> 00:40:43,187
+Anyone in there?
+
+1048
+00:40:43,287 --> 00:40:45,346
+Hello? Who locked this?
+
+1049
+00:40:47,391 --> 00:40:49,391
+(BOTH SCREAMING)...
+
+1050
+00:40:49,694 --> 00:40:51,694
+...(SIREN WAILING).
+
+1051
+00:41:09,347 --> 00:41:12,131
+He probably just fell in.
+Accidents happen.
+
+1052
+00:41:12,231 --> 00:41:13,730
+If Jeanne-Baptiste is down there,
+
+1053
+00:41:13,830 --> 00:41:15,019
+we're not talking accident.
+
+1054
+00:41:15,119 --> 00:41:17,004
+I could fucking feel it coming.
+
+1055
+00:41:17,104 --> 00:41:19,556
+Yeah.
+You couldn't feel shit.
+
+1056
+00:41:20,591 --> 00:41:22,591
+PATERSON: No, I could.
+
+1057
+00:41:23,161 --> 00:41:25,541
+Give me a minute, all right?
+
+1058
+00:41:30,568 --> 00:41:32,568
+JEANNE: Hey, Frank.
+Hey.
+
+1059
+00:41:36,474 --> 00:41:38,710
+He's been dead at least 1 2 hours.
+
+1060
+00:41:38,810 --> 00:41:40,945
+What the hell hit him, Jeanne?
+
+1061
+00:41:41,045 --> 00:41:43,680
+Two miles of this,
+for starters.
+
+1062
+00:41:44,582 --> 00:41:46,582
+Any knife wounds?
+
+1063
+00:41:46,851 --> 00:41:49,553
+Nothing obvious.
+Could take an autopsy...
+
+1064
+00:41:49,653 --> 00:41:50,788
+...to know for sure.
+
+1065
+00:41:50,888 --> 00:41:52,223
+Come on.
+
+1066
+00:41:52,323 --> 00:41:54,323
+JEANNE: What? You're not
+thinking what I think you're...
+
+1067
+00:41:54,423 --> 00:41:55,059
+...thinking, are you?
+
+1068
+00:41:55,159 --> 00:41:56,374
+PATERSON: What are you thinking?
+
+1069
+00:41:56,474 --> 00:41:58,109
+Probably there was alcohol last night.
+
+1070
+00:41:58,209 --> 00:42:00,098
+Might have gotten tipsy on his way home.
+
+1071
+00:42:00,198 --> 00:42:02,233
+Kid's in my 1 2-step.
+JEANNE: Sorry.
+
+1072
+00:42:02,333 --> 00:42:04,718
+Well, we'll know quick enough.
+
+1073
+00:42:04,818 --> 00:42:06,477
+The autopsy will tell us
+if there's any alcohol...
+
+1074
+00:42:06,577 --> 00:42:07,238
+...levels in the blood...
+
+1075
+00:42:07,338 --> 00:42:09,803
+...or any water in the lungs.
+
+1076
+00:42:10,241 --> 00:42:13,726
+And I'll check for a knife wound. I will.
+
+1077
+00:42:13,911 --> 00:42:16,161
+Sixteenth anniversary.
+
+1078
+00:42:16,261 --> 00:42:17,814
+One and six is seven.
+We didn't let them...
+
+1079
+00:42:17,914 --> 00:42:18,583
+...kill him last night,
+
+1080
+00:42:18,683 --> 00:42:20,432
+first time.
+
+1081
+00:42:20,532 --> 00:42:21,997
+And it was Bug's turn.
+
+1082
+00:42:22,097 --> 00:42:24,134
+It's kind of funny.
+
+1083
+00:42:24,234 --> 00:42:26,871
+I get scientific in 16 years
+and you go voodoo on me.
+
+1084
+00:42:26,971 --> 00:42:28,670
+What did your grandmother say?
+
+1085
+00:42:28,770 --> 00:42:29,060
+What?
+
+1086
+00:42:29,160 --> 00:42:30,451
+Did she tell you not to worry if somebody...
+
+1087
+00:42:30,551 --> 00:42:31,229
+...you thought was dead...
+
+1088
+00:42:31,329 --> 00:42:33,879
+...just might come back alive?
+
+1089
+00:42:33,974 --> 00:42:35,974
+If he was evil enough?
+
+1090
+00:42:37,068 --> 00:42:39,270
+Call me when you know something, yeah?
+
+1091
+00:42:39,370 --> 00:42:41,370
+Okay.
+
+1092
+00:42:44,642 --> 00:42:46,872
+(STUDENTS CHATTERING).
+
+1093
+00:42:53,050 --> 00:42:55,050
+Connecticut Condor?
+
+1094
+00:42:55,147 --> 00:42:57,133
+Turkey Vulture.
+You find Jay?
+
+1095
+00:42:57,233 --> 00:42:59,390
+No, weird.
+He always answers.
+
+1096
+00:42:59,490 --> 00:43:00,792
+I saw him.
+
+1097
+00:43:00,892 --> 00:43:02,892
+Where?
+
+1098
+00:43:03,127 --> 00:43:07,698
+In the boys' bathroom mirror.
+He was in the river, I think.
+
+1099
+00:43:07,798 --> 00:43:09,115
+He tried to say something, but...
+
+1100
+00:43:09,215 --> 00:43:13,953
+Bug, it's best not to think
+about your nightmares today.
+
+1101
+00:43:14,053 --> 00:43:15,422
+It wasn't a nightmare.
+
+1102
+00:43:15,522 --> 00:43:17,222
+Whatever it was.
+
+1103
+00:43:17,322 --> 00:43:20,578
+Look, all seven of us are on edge today.
+
+1104
+00:43:20,678 --> 00:43:23,881
+Seeing the Ripper
+in all sorts of weird places.
+
+1105
+00:43:23,981 --> 00:43:25,750
+It's like Brandon said,
+
+1106
+00:43:25,850 --> 00:43:27,965
+the way the cookie crumbles.
+
+1107
+00:43:28,065 --> 00:43:29,187
+For us.
+
+1108
+00:43:29,287 --> 00:43:31,287
+Just for today.
+
+1109
+00:43:33,190 --> 00:43:35,888
+You're a condor.
+You eat death for breakfast,
+
+1110
+00:43:35,988 --> 00:43:36,894
+remember that.
+
+1111
+00:43:36,994 --> 00:43:38,162
+Where you going?
+
+1112
+00:43:38,262 --> 00:43:40,262
+Call me after Pratt.
+
+1113
+00:43:42,166 --> 00:43:44,166
+Pervert.
+
+1114
+00:43:45,770 --> 00:43:47,770
+I'm sorry I screamed.
+
+1115
+00:43:48,739 --> 00:43:50,739
+I don't blame you.
+
+1116
+00:43:53,210 --> 00:43:55,392
+You should get out more, Bug.
+
+1117
+00:43:55,492 --> 00:43:58,637
+Shop. It's what I do when I'm scared.
+
+1118
+00:43:59,884 --> 00:44:01,085
+You're scared?
+
+1119
+00:44:01,185 --> 00:44:03,469
+Angry, is what I meant to say.
+
+1120
+00:44:03,569 --> 00:44:04,567
+GIRL 1: Stay safe.
+
+1121
+00:44:04,667 --> 00:44:07,812
+GIRL 2: Don't let the Ripper get you.
+
+1122
+00:44:11,963 --> 00:44:14,864
+Payback time.
+
+1123
+00:44:15,833 --> 00:44:17,616
+Think twice, jockstrap.
+
+1124
+00:44:17,716 --> 00:44:19,164
+You know what Fang
+would do if she knew...
+
+1125
+00:44:19,264 --> 00:44:20,037
+...you were moonlighting.
+
+1126
+00:44:20,137 --> 00:44:21,150
+Yeah, well, nobody's looking.
+
+1127
+00:44:21,250 --> 00:44:22,751
+But somebody's listening, Sasquatch.
+
+1128
+00:44:22,851 --> 00:44:24,089
+Think about it.
+
+1129
+00:44:24,189 --> 00:44:26,127
+I tell Chandelle,
+she tells Fang.
+
+1130
+00:44:26,227 --> 00:44:27,821
+We all know how Fang doesn't like you...
+
+1131
+00:44:27,921 --> 00:44:28,679
+...off your little leash.
+
+1132
+00:44:28,779 --> 00:44:31,484
+She'll mark you.
+Put you in the river...
+
+1133
+00:44:31,584 --> 00:44:33,284
+...with concrete flippers.
+
+1134
+00:44:33,384 --> 00:44:36,614
+That's actually just peachy, you know.
+
+1135
+00:44:36,754 --> 00:44:39,134
+I'll let Ripper get you two.
+
+1136
+00:44:40,057 --> 00:44:42,188
+You know, Bug,
+a lot of people have seen...
+
+1137
+00:44:42,288 --> 00:44:43,227
+...him already today.
+
+1138
+00:44:43,327 --> 00:44:46,302
+It's not even dark.
+Must be scary...
+
+1139
+00:44:47,365 --> 00:44:51,615
+...living in a house
+with no father to protect you.
+
+1140
+00:44:56,807 --> 00:44:58,306
+You know, I bet if you look up 'rectum'
+
+1141
+00:44:58,406 --> 00:44:59,010
+in the dictionary...
+
+1142
+00:44:59,110 --> 00:45:02,546
+...they would have a
+picture of Brandon there.
+
+1143
+00:45:02,646 --> 00:45:04,097
+You don't know fear, Bug.
+
+1144
+00:45:04,197 --> 00:45:05,728
+You puked on Brandon O'Neil.
+
+1145
+00:45:05,828 --> 00:45:08,548
+You're a hero of the revolution.
+
+1146
+00:45:10,354 --> 00:45:11,569
+Hey, Penelope.
+
+1147
+00:45:11,669 --> 00:45:13,804
+Hey, Jerome.
+What was it this time?
+
+1148
+00:45:13,904 --> 00:45:16,460
+You're wearing those squeaky shoes again.
+
+1149
+00:45:16,560 --> 00:45:18,362
+You can really hear that?
+
+1150
+00:45:18,462 --> 00:45:20,462
+Got to go. See you.
+
+1151
+00:45:21,065 --> 00:45:23,065
+See you.
+
+1152
+00:45:23,161 --> 00:45:25,161
+Hey.
+Hey.
+
+1153
+00:45:25,403 --> 00:45:31,000
+So, I heard you're seeing Principal Pratt?
+
+1154
+00:45:32,143 --> 00:45:34,143
+In 15 minutes.
+
+1155
+00:45:34,712 --> 00:45:37,496
+They called my mom at work.
+I'm doomed.
+
+1156
+00:45:37,596 --> 00:45:39,629
+We're all doomed, Bug.
+It's the human condition.
+
+1157
+00:45:39,729 --> 00:45:42,086
+The next life's the thing to focus on.
+
+1158
+00:45:42,186 --> 00:45:44,186
+(PHONE CHIMING).
+
+1159
+00:45:44,855 --> 00:45:46,903
+It's Melanie Pratt.
+
+1160
+00:45:47,003 --> 00:45:49,421
+She wants me to pray with her.
+
+1161
+00:45:49,521 --> 00:45:51,162
+You want to come?
+
+1162
+00:45:51,262 --> 00:45:53,546
+I'll be with Father Pratt.
+
+1163
+00:45:53,646 --> 00:45:55,642
+Right. Well,
+God hears you,
+
+1164
+00:45:55,742 --> 00:45:57,068
+wherever you are.
+
+1165
+00:45:57,168 --> 00:46:00,261
+If things get too hot,
+just turn on the...
+
+1166
+00:46:00,361 --> 00:46:02,361
+...prayer-conditioning.
+
+1167
+00:46:03,808 --> 00:46:05,417
+(AS ALEX) Bug, it's best
+not to think about...
+
+1168
+00:46:05,517 --> 00:46:06,377
+...your nightmares today.
+
+1169
+00:46:06,477 --> 00:46:07,928
+(AS JAY) I've got to cross
+that bridge twice a day.
+
+1170
+00:46:08,028 --> 00:46:09,491
+(SCREAMING)...
+
+1171
+00:46:09,591 --> 00:46:11,228
+...(AS BRITTANY) Shop. That's
+what I do when I'm scared.
+
+1172
+00:46:11,328 --> 00:46:12,794
+(AS JEROME) You don't
+know what fear is, Bug.
+
+1173
+00:46:12,894 --> 00:46:14,334
+You puked in Brandon O'Neil's face.
+
+1174
+00:46:14,434 --> 00:46:16,033
+I mean, you're a hero of the revolution.
+
+1175
+00:46:16,133 --> 00:46:18,589
+(AS BRANDON) Must be pretty scary...
+
+1176
+00:46:18,689 --> 00:46:20,814
+...sleeping in a house...
+
+1177
+00:46:20,958 --> 00:46:23,327
+...no father to protect you.
+PENELOPE: Cops.
+
+1178
+00:46:23,427 --> 00:46:25,425
+(AS PENELOPE) If things get
+too hot, just turn up the...
+
+1179
+00:46:25,525 --> 00:46:26,263
+...prayer-conditioning.
+
+1180
+00:46:26,363 --> 00:46:28,456
+Fear ye the Ripper.
+
+1181
+00:46:29,834 --> 00:46:31,474
+PENELOPE: Lord,
+this is a sin not...
+
+1182
+00:46:31,574 --> 00:46:32,470
+...of hate but of love.
+
+1183
+00:46:32,570 --> 00:46:34,454
+So please remember,
+you put the apple...
+
+1184
+00:46:34,554 --> 00:46:36,379
+...and the happy little snake together...
+
+1185
+00:46:36,479 --> 00:46:37,475
+...in one small garden,
+
+1186
+00:46:37,575 --> 00:46:39,288
+so, you know things can happen...
+
+1187
+00:46:39,388 --> 00:46:40,111
+...now and then.
+
+1188
+00:46:40,211 --> 00:46:42,129
+And just wrap your arms around Melanie...
+
+1189
+00:46:42,229 --> 00:46:45,629
+...and let her know that,
+no matter what,
+
+1190
+00:46:45,749 --> 00:46:48,719
+you're there for her and love her to pieces.
+
+1191
+00:46:48,819 --> 00:46:50,819
+Amen.
+
+1192
+00:46:51,155 --> 00:46:52,757
+Thanks, Penelope.
+
+1193
+00:46:52,857 --> 00:46:54,105
+Now you.
+
+1194
+00:46:54,205 --> 00:46:55,670
+I'm so ashamed.
+
+1195
+00:46:55,770 --> 00:46:58,575
+Don't be.
+It's a baby, not a bomb.
+
+1196
+00:47:03,167 --> 00:47:06,682
+Lord, it might as well be a bomb.
+
+1197
+00:47:06,782 --> 00:47:08,452
+I mean, I feel so guilty.
+
+1198
+00:47:08,552 --> 00:47:09,653
+(CLATTERING).
+
+1199
+00:47:09,753 --> 00:47:12,133
+But you know how Brandon is.
+
+1200
+00:47:12,231 --> 00:47:14,948
+'Please, please,
+pretty please'.
+
+1201
+00:47:15,212 --> 00:47:17,932
+But I still should have said no.
+
+1202
+00:47:18,415 --> 00:47:21,267
+He said it would make me feel special.
+
+1203
+00:47:21,367 --> 00:47:22,668
+It hasn't.
+
+1204
+00:47:22,768 --> 00:47:24,935
+It's made me feel fat and stupid.
+
+1205
+00:47:25,035 --> 00:47:26,102
+(CLATTERING CONTINUES).
+
+1206
+00:47:26,202 --> 00:47:29,262
+My father will be the laughingstock.
+
+1207
+00:47:29,426 --> 00:47:31,629
+My mother will probably die.
+
+1208
+00:47:31,729 --> 00:47:34,095
+My little sister Amy,
+she'll join a cult...
+
+1209
+00:47:34,195 --> 00:47:35,099
+...or something.
+
+1210
+00:47:35,199 --> 00:47:37,199
+(METALLIC RUSTLING)...
+
+1211
+00:47:52,149 --> 00:47:54,379
+...(BREATHING HEAVILY)...
+
+1212
+00:47:56,387 --> 00:47:58,387
+...(FAINT GRUNTING)...
+
+1213
+00:48:01,058 --> 00:48:03,438
+...(STAMMERING) Who is that?
+
+1214
+00:48:08,766 --> 00:48:10,766
+Melanie.
+
+1215
+00:48:12,803 --> 00:48:14,803
+Melanie, run.
+
+1216
+00:48:19,977 --> 00:48:21,977
+Melanie?
+
+1217
+00:48:25,216 --> 00:48:27,216
+(SCREAMING)...
+
+1218
+00:48:31,822 --> 00:48:34,017
+...(GRUNTING).
+
+1219
+00:48:44,802 --> 00:48:46,802
+RIPPER: Die now.
+
+1220
+00:48:51,842 --> 00:48:53,794
+If I should die before I wake...
+
+1221
+00:48:53,894 --> 00:48:54,991
+PRATT: Adam?
+
+1222
+00:48:55,091 --> 00:48:56,280
+...I pray the Lord our souls to take.
+
+1223
+00:48:56,380 --> 00:48:57,548
+Adam?
+
+1224
+00:48:57,648 --> 00:49:01,303
+Adam, Principal Pratt asked you a question.
+
+1225
+00:49:01,652 --> 00:49:04,202
+(AS PENELOPE) The end is near.
+
+1226
+00:49:04,555 --> 00:49:05,601
+Did you know your daughter's pregnant?
+
+1227
+00:49:05,701 --> 00:49:06,736
+What?
+
+1228
+00:49:06,836 --> 00:49:08,404
+She's in my prayer group. Duh.
+
+1229
+00:49:08,504 --> 00:49:10,504
+Bug.
+
+1230
+00:49:10,600 --> 00:49:13,150
+I'm sorry.
+I'm not myself, Mom.
+
+1231
+00:49:13,664 --> 00:49:16,469
+Mr. Pratt, what was the question?
+
+1232
+00:49:16,967 --> 00:49:18,967
+It's not important.
+
+1233
+00:49:19,236 --> 00:49:21,236
+You can go now, Adam.
+
+1234
+00:49:22,139 --> 00:49:23,787
+And take your creature with you.
+
+1235
+00:49:23,887 --> 00:49:25,208
+Your mom and I are going to chat...
+
+1236
+00:49:25,308 --> 00:49:25,709
+...for a while.
+
+1237
+00:49:25,809 --> 00:49:27,934
+We'll speak at home, Bug.
+
+1238
+00:49:36,053 --> 00:49:38,053
+Straight home.
+
+1239
+00:49:38,389 --> 00:49:40,389
+All right.
+
+1240
+00:49:41,125 --> 00:49:42,459
+I'm so sorry.
+
+1241
+00:49:42,559 --> 00:49:43,949
+I don't think he got much sleep...
+
+1242
+00:49:44,049 --> 00:49:44,461
+...last night.
+
+1243
+00:49:44,561 --> 00:49:46,277
+Yes, Ripper Night.
+
+1244
+00:49:46,377 --> 00:49:48,979
+It's an outrage that it's lasted this long.
+
+1245
+00:49:49,079 --> 00:49:51,080
+And for a sensitive child like Adam,
+
+1246
+00:49:51,180 --> 00:49:53,470
+it can be especially dangerous.
+
+1247
+00:49:53,570 --> 00:49:56,456
+I was checking Adam's file
+and it's remarkable,
+
+1248
+00:49:56,556 --> 00:50:00,077
+not so much for what's in it,
+but for what's not.
+
+1249
+00:50:00,177 --> 00:50:01,224
+Pardon?
+
+1250
+00:50:01,324 --> 00:50:03,264
+I've been a principal here for six months...
+
+1251
+00:50:03,364 --> 00:50:06,497
+...and I can find no medical files for him,
+
+1252
+00:50:06,597 --> 00:50:10,065
+except his vaccination records, of course,
+
+1253
+00:50:10,165 --> 00:50:12,870
+which are the one thing
+he absolutely must have...
+
+1254
+00:50:12,970 --> 00:50:14,273
+...in order to attend school here.
+
+1255
+00:50:14,373 --> 00:50:15,871
+Bug has no medical issues, really.
+
+1256
+00:50:15,971 --> 00:50:18,141
+If he did, we'd have
+no way of knowing, would we?
+
+1257
+00:50:18,241 --> 00:50:19,830
+I'm his mother, I would.
+Well, that's right.
+
+1258
+00:50:19,930 --> 00:50:22,613
+You're a nurse at Riverton Community.
+
+1259
+00:50:22,713 --> 00:50:24,247
+Head Nurse, OBIGYN.
+
+1260
+00:50:24,347 --> 00:50:26,416
+Uh-huh.
+Are Adam's records there?
+
+1261
+00:50:26,516 --> 00:50:29,321
+Adam has never been hospitalized.
+
+1262
+00:50:31,342 --> 00:50:36,095
+Has Adam ever been tested?
+Neurologically, I mean.
+
+1263
+00:50:36,195 --> 00:50:38,115
+Neurologically?
+Why would he be?
+
+1264
+00:50:38,215 --> 00:50:39,666
+Well, since I've been principal here,
+
+1265
+00:50:39,766 --> 00:50:41,797
+he's awakened twice
+in study hall screaming.
+
+1266
+00:50:41,897 --> 00:50:44,102
+He's got chronic migraines.
+He's claustrophobic.
+
+1267
+00:50:44,202 --> 00:50:45,268
+Claustrophobic?
+Last year,
+
+1268
+00:50:45,368 --> 00:50:48,271
+I was told, a friend put him in an empty...
+
+1269
+00:50:48,371 --> 00:50:49,660
+...locker just for fun...
+
+1270
+00:50:49,760 --> 00:50:51,239
+...and he was so hysterical
+he had to be sent home.
+
+1271
+00:50:51,339 --> 00:50:52,663
+Brandon O'Neil is no friend.
+
+1272
+00:50:52,763 --> 00:50:54,147
+He's a bully who never gets...
+
+1273
+00:50:54,247 --> 00:50:55,412
+...more than slap on the wrist.
+
+1274
+00:50:55,512 --> 00:50:59,082
+I'm talking about Adam
+here, Ms. Hellerman.
+
+1275
+00:50:59,903 --> 00:51:01,287
+He has serious issues.
+
+1276
+00:51:01,387 --> 00:51:03,641
+And today he terrorized a classroom...
+
+1277
+00:51:03,741 --> 00:51:06,176
+...with this monstrous bird that he built.
+
+1278
+00:51:06,276 --> 00:51:07,511
+It vomited on them.
+
+1279
+00:51:07,611 --> 00:51:09,423
+And worse,
+he's obsessed with...
+
+1280
+00:51:09,523 --> 00:51:10,881
+...this California buzzard.
+
+1281
+00:51:10,981 --> 00:51:13,197
+Not a hummingbird, not a robin,
+
+1282
+00:51:13,297 --> 00:51:15,500
+not an American eagle,
+but a bird that eats...
+
+1283
+00:51:15,600 --> 00:51:16,220
+...dead things.
+
+1284
+00:51:16,320 --> 00:51:17,704
+California Condor.
+
+1285
+00:51:17,804 --> 00:51:19,205
+Whatever.
+It eats dead things.
+
+1286
+00:51:19,305 --> 00:51:21,207
+Native Americans considered it sacred.
+
+1287
+00:51:21,307 --> 00:51:24,143
+It cleans the earth
+to make room for new life.
+
+1288
+00:51:24,243 --> 00:51:27,498
+Maybe they understood
+something we don't.
+
+1289
+00:51:27,598 --> 00:51:30,382
+I want you to listen to me very carefully.
+
+1290
+00:51:30,482 --> 00:51:33,032
+Tomorrow, I am sending Adam...
+
+1291
+00:51:33,086 --> 00:51:36,052
+...for psychological testing
+to a state facility in Boston.
+
+1292
+00:51:36,152 --> 00:51:37,456
+You what?
+For Adam's safety...
+
+1293
+00:51:37,556 --> 00:51:38,970
+...and the safety of the normal students...
+
+1294
+00:51:39,070 --> 00:51:39,543
+...in this school.
+
+1295
+00:51:39,643 --> 00:51:43,186
+It is my responsibility,
+and it is my legal...
+
+1296
+00:51:43,286 --> 00:51:45,149
+...right to do so.
+
+1297
+00:51:45,249 --> 00:51:47,064
+(AS FANG) Brandon's the one for you, Brit.
+
+1298
+00:51:47,164 --> 00:51:47,818
+He's a diamond.
+
+1299
+00:51:47,918 --> 00:51:50,553
+A diamond in the rough,
+I admit,
+
+1300
+00:51:50,687 --> 00:51:52,756
+but a diamond just the same.
+
+1301
+00:51:52,856 --> 00:51:56,690
+Compared to him,
+Bug's a lump of coal.
+
+1302
+00:51:57,094 --> 00:51:59,946
+BRITTANY: I know.
+Church in two hours.
+
+1303
+00:52:00,046 --> 00:52:00,831
+I'll be there.
+
+1304
+00:52:00,931 --> 00:52:03,651
+I'll be home in two shakes. Bye.
+
+1305
+00:52:06,570 --> 00:52:08,083
+Hey, Brittany.
+
+1306
+00:52:08,183 --> 00:52:09,286
+(GASPING).
+
+1307
+00:52:09,386 --> 00:52:11,325
+Training for the marathon, Brandon?
+
+1308
+00:52:11,425 --> 00:52:14,727
+Yeah. You know,
+I got to keep in shape.
+
+1309
+00:52:14,827 --> 00:52:16,229
+You're in great shape.
+
+1310
+00:52:16,329 --> 00:52:19,146
+You got time for that oral?
+
+1311
+00:52:20,551 --> 00:52:22,835
+You're like a crotch dog.
+
+1312
+00:52:22,935 --> 00:52:25,004
+You know, the kind that stick
+their nose in your crotch...
+
+1313
+00:52:25,104 --> 00:52:26,056
+...when you're not looking?
+
+1314
+00:52:26,156 --> 00:52:27,872
+It's like a handshake, really.
+
+1315
+00:52:27,972 --> 00:52:29,775
+My father had a crotch dog.
+
+1316
+00:52:29,875 --> 00:52:31,941
+Mom had it put out of its misery.
+
+1317
+00:52:32,041 --> 00:52:33,530
+Misery is what I'm talking about.
+
+1318
+00:52:33,630 --> 00:52:35,401
+Come on, Brittany,
+I went the extra mile...
+
+1319
+00:52:35,501 --> 00:52:36,100
+...for you today.
+
+1320
+00:52:36,200 --> 00:52:38,517
+I could've gotten expelled for that eight.
+
+1321
+00:52:38,617 --> 00:52:41,583
+Plus, I got shit on twice.
+Once by a Jesus freak,
+
+1322
+00:52:41,683 --> 00:52:42,920
+once by a fucking buzzard.
+
+1323
+00:52:43,020 --> 00:52:44,608
+Condor.
+
+1324
+00:52:44,708 --> 00:52:45,687
+BRANDON: It's just got me tense.
+
+1325
+00:52:45,787 --> 00:52:46,789
+BRITTANY: Start a hobby.
+
+1326
+00:52:46,889 --> 00:52:48,889
+This is my hobby.
+
+1327
+00:52:49,413 --> 00:52:51,027
+Besides, it's my birthday.
+
+1328
+00:52:51,127 --> 00:52:52,661
+It's all of our birthdays.
+
+1329
+00:52:52,761 --> 00:52:55,865
+I know, but I need it.
+And I want it.
+
+1330
+00:52:55,965 --> 00:52:57,337
+It should make you feel special.
+
+1331
+00:52:57,437 --> 00:53:00,524
+Come on. Fang thinks we're a good match.
+
+1332
+00:53:00,624 --> 00:53:03,042
+Fang doesn't run my private life.
+
+1333
+00:53:03,142 --> 00:53:04,510
+Does she know that?
+
+1334
+00:53:04,610 --> 00:53:07,840
+Because I could bring her up to speed.
+
+1335
+00:53:08,365 --> 00:53:10,365
+You threatening me?
+
+1336
+00:53:10,801 --> 00:53:12,801
+I'm begging you.
+
+1337
+00:53:14,037 --> 00:53:16,037
+(EXHALING)...
+
+1338
+00:53:17,474 --> 00:53:18,809
+...In the woods.
+
+1339
+00:53:18,909 --> 00:53:20,090
+You hate the woods.
+
+1340
+00:53:20,190 --> 00:53:23,047
+It's spring.
+I'm feeling romantic.
+
+1341
+00:53:23,147 --> 00:53:25,147
+Count to 60.
+
+1342
+00:53:25,415 --> 00:53:27,415
+You tricking me?
+
+1343
+00:53:27,651 --> 00:53:28,934
+I got a temper.
+
+1344
+00:53:29,034 --> 00:53:30,735
+You're not the only one.
+
+1345
+00:53:30,835 --> 00:53:32,835
+BRANDON: Sixty seconds.
+
+1346
+00:53:33,824 --> 00:53:35,824
+Fifty.
+
+1347
+00:53:36,393 --> 00:53:38,393
+Forty-two.
+
+1348
+00:53:40,130 --> 00:53:41,765
+Thirty.
+
+1349
+00:53:41,865 --> 00:53:43,865
+Fifteen.
+
+1350
+00:53:44,801 --> 00:53:46,801
+Three.
+
+1351
+00:53:50,807 --> 00:53:52,807
+Hey, Brittany.
+
+1352
+00:53:57,581 --> 00:53:59,581
+Hey, you fucking bitch.
+
+1353
+00:54:03,053 --> 00:54:05,053
+Hey.
+
+1354
+00:54:05,956 --> 00:54:07,956
+(CAWING)...
+
+1355
+00:54:21,338 --> 00:54:24,058
+...(SIRENS WAILING IN DISTANCE).
+
+1356
+00:54:24,274 --> 00:54:26,333
+Hey. Wait.
+
+1357
+00:54:30,213 --> 00:54:33,613
+BRANDON: Hey, Brittany.
+Where did you go?
+
+1358
+00:54:34,418 --> 00:54:36,418
+Brittany.
+
+1359
+00:54:42,793 --> 00:54:44,793
+Brittany.
+
+1360
+00:54:50,801 --> 00:54:52,801
+Penelope?
+
+1361
+00:54:56,273 --> 00:54:58,273
+Penelope.
+
+1362
+00:55:05,182 --> 00:55:07,477
+Now you're going to get it.
+
+1363
+00:55:21,832 --> 00:55:23,832
+(PHONE RINGING).
+
+1364
+00:55:31,808 --> 00:55:32,884
+Hello?
+BRITTANY: Just because...
+
+1365
+00:55:32,984 --> 00:55:33,710
+...she embarrassed you...
+
+1366
+00:55:33,810 --> 00:55:35,925
+...in front of me,
+you killed her?
+
+1367
+00:55:36,025 --> 00:55:37,440
+You are going to burn in hell.
+
+1368
+00:55:37,540 --> 00:55:37,814
+What?
+
+1369
+00:55:37,914 --> 00:55:40,350
+Better start running
+the other way, Brandon.
+
+1370
+00:55:40,450 --> 00:55:41,530
+I've called the police.
+
+1371
+00:55:41,630 --> 00:55:43,753
+What? No, no.
+Brittany, Brittany.
+
+1372
+00:55:43,853 --> 00:55:44,655
+Don't. Don't.
+
+1373
+00:55:44,755 --> 00:55:46,882
+(SIRENS WAILING)...
+
+1374
+00:56:01,071 --> 00:56:02,252
+...(BIRD SQUAWKING)...
+
+1375
+00:56:02,352 --> 00:56:04,352
+...(WHIMPERING)...
+
+1376
+00:56:09,413 --> 00:56:11,413
+...(PHONE RINGING).
+
+1377
+00:56:14,217 --> 00:56:15,264
+Brittany, Brittany, Brittany.
+
+1378
+00:56:15,364 --> 00:56:17,433
+Please don't get me arrested, all right?
+
+1379
+00:56:17,533 --> 00:56:19,501
+I knocked up Principal Pratt's daughter.
+
+1380
+00:56:19,601 --> 00:56:21,974
+He'll have me murdered in my cell.
+
+1381
+00:56:22,074 --> 00:56:25,389
+Hey, do you understand what I'm saying?
+
+1382
+00:56:25,829 --> 00:56:27,078
+Brittany, look,
+I know you're there.
+
+1383
+00:56:27,178 --> 00:56:30,179
+I can hear you walking. Just...
+
+1384
+00:56:30,279 --> 00:56:32,247
+I understand that you don't want to talk.
+
+1385
+00:56:32,347 --> 00:56:33,916
+I probably disgust you.
+
+1386
+00:56:34,016 --> 00:56:36,125
+It's okay, I disgust myself,
+
+1387
+00:56:36,225 --> 00:56:37,941
+sometimes.
+
+1388
+00:56:38,041 --> 00:56:41,238
+I know I'm a pig.
+I can't help it.
+
+1389
+00:56:41,712 --> 00:56:43,942
+No. Pigs are nicer.
+
+1390
+00:56:44,214 --> 00:56:47,019
+Actually, I'm just what you said.
+
+1391
+00:56:47,117 --> 00:56:49,242
+I'm a fucking crotch dog.
+
+1392
+00:56:49,553 --> 00:56:51,553
+(EXHALING).
+
+1393
+00:56:52,422 --> 00:56:54,171
+I'm sorry.
+
+1394
+00:56:54,271 --> 00:56:57,161
+RIPPER: It's too late to be sorry.
+
+1395
+00:57:00,163 --> 00:57:01,412
+Who is this?
+
+1396
+00:57:01,512 --> 00:57:05,337
+Someone from your past.
+You wouldn't remember.
+
+1397
+00:57:07,070 --> 00:57:08,718
+Put Brittany on, please.
+
+1398
+00:57:08,818 --> 00:57:10,818
+She's not here.
+
+1399
+00:57:12,075 --> 00:57:13,392
+Well, where is she?
+
+1400
+00:57:13,492 --> 00:57:15,617
+Where you're going to go.
+
+1401
+00:57:17,280 --> 00:57:19,395
+I'm going to go to the church.
+
+1402
+00:57:19,495 --> 00:57:21,385
+No, you're not.
+
+1403
+00:57:21,485 --> 00:57:23,667
+What do you mean,
+'No, I'm not?'.
+
+1404
+00:57:23,767 --> 00:57:25,767
+Think hotter.
+
+1405
+00:57:27,357 --> 00:57:28,471
+Miami?
+
+1406
+00:57:28,571 --> 00:57:30,571
+RIPPER: Try hell.
+
+1407
+00:57:31,528 --> 00:57:34,031
+Anybody you want to say goodbye to?
+
+1408
+00:57:34,131 --> 00:57:36,224
+My unborn child.
+
+1409
+00:57:40,203 --> 00:57:42,899
+Fuck your fucking unborn child.
+
+1410
+00:57:43,940 --> 00:57:46,830
+Now, where did I leave your bitch?
+
+1411
+00:57:47,043 --> 00:57:49,043
+(PANTING)...
+
+1412
+00:58:16,807 --> 00:58:18,807
+...(PANTING)...
+
+1413
+00:58:21,244 --> 00:58:22,257
+...(PHONE RINGING).
+
+1414
+00:58:22,357 --> 00:58:24,357
+What?
+
+1415
+00:58:26,049 --> 00:58:28,049
+Whose phone?
+
+1416
+00:58:37,961 --> 00:58:39,961
+Oh, my God.
+
+1417
+00:58:42,165 --> 00:58:43,847
+OPERATOR: This is Riverton 9-1-1.
+
+1418
+00:58:43,947 --> 00:58:44,501
+Please hold.
+
+1419
+00:58:44,601 --> 00:58:48,657
+All our circuits are busy.
+We will get to your call...
+
+1420
+00:58:48,757 --> 00:58:50,757
+...as soon as we can.
+
+1421
+00:58:53,543 --> 00:58:55,725
+Be home, Bug Hellerman.
+
+1422
+00:58:55,825 --> 00:58:57,825
+(EXCLAIMING)...
+
+1423
+00:59:00,417 --> 00:59:02,712
+...(BRITTANY WHIMPERING)...
+
+1424
+00:59:04,855 --> 00:59:07,016
+...(PHONE RINGING)...
+
+1425
+00:59:59,509 --> 01:00:01,509
+...(SIRENS WAILING).
+
+1426
+01:00:08,718 --> 01:00:12,849
+MAY: Okay, 10:00 a.m.,
+Boston Psychiatric Clinic.
+
+1427
+01:00:12,949 --> 01:00:14,949
+I got to go.
+
+1428
+01:00:18,194 --> 01:00:19,241
+BUG: Oh.
+
+1429
+01:00:19,341 --> 01:00:21,064
+Wow.
+
+1430
+01:00:21,164 --> 01:00:22,413
+I'm sorry I'm so late.
+
+1431
+01:00:22,513 --> 01:00:24,113
+You should be.
+
+1432
+01:00:24,213 --> 01:00:27,273
+Have a seat.
+You're too big to spank.
+
+1433
+01:00:28,905 --> 01:00:30,905
+Okay.
+
+1434
+01:00:33,743 --> 01:00:35,743
+Sweater.
+
+1435
+01:00:41,718 --> 01:00:43,086
+Did you fall?
+
+1436
+01:00:43,186 --> 01:00:45,186
+I was burying a friend.
+
+1437
+01:00:45,822 --> 01:00:47,402
+My condor.
+
+1438
+01:00:47,502 --> 01:00:51,242
+Brandon ruined it.
+I gave it a decent burial.
+
+1439
+01:00:51,761 --> 01:00:53,761
+You gave me a start.
+
+1440
+01:00:55,231 --> 01:00:57,481
+Why, you think I killed somebody?
+
+1441
+01:00:57,581 --> 01:00:59,581
+No, of course not.
+
+1442
+01:01:02,639 --> 01:01:04,639
+Make a wish.
+
+1443
+01:01:14,351 --> 01:01:16,286
+Do you want to know what I wished for?
+
+1444
+01:01:16,386 --> 01:01:17,554
+No.
+
+1445
+01:01:17,654 --> 01:01:19,856
+I wished that I could take back...
+
+1446
+01:01:19,956 --> 01:01:21,091
+...what I did today...
+
+1447
+01:01:21,191 --> 01:01:24,251
+...and make you proud of me instead.
+
+1448
+01:01:24,494 --> 01:01:26,710
+I was trying to get my phone back,
+
+1449
+01:01:26,810 --> 01:01:29,630
+the one you gave me,
+and unfortunately,
+
+1450
+01:01:29,730 --> 01:01:31,001
+I fell into the toilet.
+
+1451
+01:01:31,101 --> 01:01:32,212
+My phone fell into Brittany.
+
+1452
+01:01:32,312 --> 01:01:33,103
+Cunningham's bag...
+
+1453
+01:01:33,203 --> 01:01:35,087
+...and I didn't have a chance to get it out.
+
+1454
+01:01:35,187 --> 01:01:37,151
+What was your phone doing
+in the girls' bathroom...
+
+1455
+01:01:37,251 --> 01:01:37,908
+...in the first place?
+
+1456
+01:01:38,008 --> 01:01:39,615
+We were trying to gather
+some information...
+
+1457
+01:01:39,715 --> 01:01:40,343
+...about something.
+
+1458
+01:01:40,443 --> 01:01:42,738
+Don't tell me.
+You and Alex?
+
+1459
+01:01:42,846 --> 01:01:45,348
+I wanted to know what
+Brittany thought of me.
+
+1460
+01:01:45,448 --> 01:01:46,528
+Brittany Cunningham?
+
+1461
+01:01:46,628 --> 01:01:49,223
+She's a little sophisticated for you,
+
+1462
+01:01:49,323 --> 01:01:50,020
+isn't she?
+
+1463
+01:01:50,120 --> 01:01:52,120
+I like her.
+
+1464
+01:01:54,557 --> 01:01:58,094
+So did you find out what she thinks of you?
+
+1465
+01:01:58,194 --> 01:02:00,252
+She thinks he's a retard like...
+
+1466
+01:02:00,352 --> 01:02:01,398
+...everyone else.
+
+1467
+01:02:01,498 --> 01:02:03,281
+Do not use that word in this house.
+
+1468
+01:02:03,381 --> 01:02:05,381
+It's okay.
+
+1469
+01:02:07,871 --> 01:02:09,887
+Just because Leah says mean things,
+
+1470
+01:02:09,987 --> 01:02:11,174
+doesn't make them so.
+
+1471
+01:02:11,274 --> 01:02:12,557
+What if they are so?
+
+1472
+01:02:12,657 --> 01:02:13,790
+What?
+
+1473
+01:02:13,890 --> 01:02:14,991
+They are.
+
+1474
+01:02:15,091 --> 01:02:17,811
+Watch your nuts,
+little squirrel.
+
+1475
+01:02:22,786 --> 01:02:25,712
+Leah told Brittany that I had been...
+
+1476
+01:02:25,812 --> 01:02:27,057
+...in institutions.
+
+1477
+01:02:27,157 --> 01:02:29,282
+That I had killed people.
+
+1478
+01:02:30,226 --> 01:02:32,226
+Have I?
+
+1479
+01:02:33,096 --> 01:02:35,096
+Leah will say anything.
+
+1480
+01:02:35,498 --> 01:02:38,983
+You don't have the most supportive sister...
+
+1481
+01:02:39,083 --> 01:02:41,083
+...in the world.
+
+1482
+01:02:41,938 --> 01:02:43,052
+Who are you calling?
+
+1483
+01:02:43,152 --> 01:02:44,253
+Your phone.
+
+1484
+01:02:44,353 --> 01:02:46,818
+Mom. Come on, Mom.
+No, please.
+
+1485
+01:02:46,943 --> 01:02:48,943
+(PHONE RINGING).
+
+1486
+01:02:54,984 --> 01:02:56,984
+Hey.
+Hey.
+
+1487
+01:02:57,487 --> 01:02:59,034
+Penelope Bryte.
+
+1488
+01:02:59,134 --> 01:03:02,449
+Done with a knife,
+just like the others.
+
+1489
+01:03:09,933 --> 01:03:11,933
+(PHONE RINGING).
+
+1490
+01:03:13,069 --> 01:03:15,069
+Oh, fuck.
+
+1491
+01:03:19,242 --> 01:03:21,242
+Hey, Frank.
+
+1492
+01:03:23,446 --> 01:03:25,571
+Keeps going to voicemail.
+
+1493
+01:03:26,049 --> 01:03:27,884
+She's with Brandon.
+
+1494
+01:03:27,984 --> 01:03:29,984
+How did you know that?
+
+1495
+01:03:30,987 --> 01:03:32,987
+I just do.
+
+1496
+01:03:40,430 --> 01:03:41,898
+Time for presents.
+
+1497
+01:03:41,998 --> 01:03:43,566
+Well, this is a first.
+
+1498
+01:03:43,666 --> 01:03:46,569
+I don't give gifts just to give them, May.
+
+1499
+01:03:46,669 --> 01:03:49,049
+Gifts should mean something.
+
+1500
+01:03:52,976 --> 01:03:54,976
+Happy sweet 16th.
+
+1501
+01:03:55,378 --> 01:03:56,546
+What is it?
+
+1502
+01:03:56,646 --> 01:03:58,646
+Open it.
+
+1503
+01:04:19,669 --> 01:04:21,669
+I don't understand.
+
+1504
+01:04:22,138 --> 01:04:24,138
+Bug.
+Huh?
+
+1505
+01:04:24,307 --> 01:04:25,909
+Go to your room, now.
+What did I do?
+
+1506
+01:04:26,009 --> 01:04:28,009
+Just go.
+What?
+
+1507
+01:04:28,444 --> 01:04:30,654
+No, leave that thing here.
+
+1508
+01:04:32,515 --> 01:04:36,212
+Leah gave it to me,
+so I guess it's mine.
+
+1509
+01:04:42,458 --> 01:04:44,174
+How could you?
+
+1510
+01:04:44,274 --> 01:04:47,164
+Somebody's got to bust his cherry.
+
+1511
+01:04:48,364 --> 01:04:50,215
+(HOME PHONE RINGING).
+
+1512
+01:04:50,315 --> 01:04:52,150
+I'm sorry to hit you.
+
+1513
+01:04:52,250 --> 01:04:54,250
+But you deserve it.
+
+1514
+01:04:56,306 --> 01:04:58,856
+Your friends are calling, May.
+
+1515
+01:04:58,952 --> 01:05:00,259
+They want you at the
+church so you can all lie...
+
+1516
+01:05:00,359 --> 01:05:01,592
+...(HANGS UP PHONE) to each other again.
+
+1517
+01:05:01,692 --> 01:05:04,041
+You know?
+How God works...
+
+1518
+01:05:04,141 --> 01:05:05,795
+...in mysterious ways...
+
+1519
+01:05:05,895 --> 01:05:07,929
+...and how everything
+works out for the good...
+
+1520
+01:05:08,029 --> 01:05:11,054
+...if you just keep repeating the lies.
+
+1521
+01:05:11,154 --> 01:05:13,634
+Like, 'The Ripper's dead,
+he's not coming back'.
+
+1522
+01:05:13,734 --> 01:05:15,510
+Would it kill you to look at things...
+
+1523
+01:05:15,610 --> 01:05:17,060
+...positively just once, Leah?
+
+1524
+01:05:17,160 --> 01:05:18,895
+You're scared of being human.
+
+1525
+01:05:18,995 --> 01:05:20,964
+You get your friends to do your dirty work.
+
+1526
+01:05:21,064 --> 01:05:22,380
+You're still in high school at 19...
+
+1527
+01:05:22,480 --> 01:05:24,230
+...because you're too chicken-shit to get...
+
+1528
+01:05:24,330 --> 01:05:25,034
+...on with your life.
+
+1529
+01:05:25,134 --> 01:05:27,828
+You hide behind what should be dead...
+
+1530
+01:05:27,928 --> 01:05:28,705
+...and buried.
+
+1531
+01:05:28,805 --> 01:05:31,525
+Like you hide behind me and Bug?
+
+1532
+01:05:31,624 --> 01:05:33,624
+And my mother?
+
+1533
+01:05:33,721 --> 01:05:35,834
+No, I did what I did to save Bug from...
+
+1534
+01:05:35,934 --> 01:05:37,147
+...what you've become.
+
+1535
+01:05:37,247 --> 01:05:40,065
+And because my sister
+had more heart and courage...
+
+1536
+01:05:40,165 --> 01:05:43,986
+...on any given day than
+you have had in your...
+
+1537
+01:05:44,086 --> 01:05:46,126
+...whole miserable life.
+
+1538
+01:05:48,024 --> 01:05:50,024
+Fuck you, May.
+
+1539
+01:05:52,328 --> 01:05:53,341
+Hi.
+
+1540
+01:05:53,441 --> 01:05:55,441
+Fuck you, too.
+
+1541
+01:05:56,266 --> 01:05:58,266
+Leah.
+
+1542
+01:06:01,771 --> 01:06:04,467
+Thanks, Leah.
+That felt good.
+
+1543
+01:06:06,075 --> 01:06:08,980
+Why do you hate me?
+I've never done...
+
+1544
+01:06:09,080 --> 01:06:11,080
+...anything to you.
+
+1545
+01:06:11,180 --> 01:06:13,295
+You've ruined my life.
+
+1546
+01:06:13,395 --> 01:06:16,795
+That's what you've done,
+you little shit.
+
+1547
+01:06:16,953 --> 01:06:18,953
+(EXCLAIMING).
+
+1548
+01:06:22,258 --> 01:06:23,893
+Why?
+
+1549
+01:06:23,993 --> 01:06:25,411
+Why?
+
+1550
+01:06:25,511 --> 01:06:28,543
+I will tell you why, maggot.
+
+1551
+01:06:28,643 --> 01:06:30,448
+From the moment you were born...
+
+1552
+01:06:30,548 --> 01:06:33,438
+...everything went to shit for me.
+
+1553
+01:06:33,736 --> 01:06:35,384
+You were the miracle baby,
+
+1554
+01:06:35,484 --> 01:06:38,119
+and I was the painful reminder.
+
+1555
+01:06:38,841 --> 01:06:41,322
+You got to live in this dream...
+
+1556
+01:06:41,422 --> 01:06:44,992
+...and I got stuck in a fucking nightmare.
+
+1557
+01:06:45,448 --> 01:06:48,906
+I am sick to death of your innocence.
+
+1558
+01:06:50,320 --> 01:06:52,652
+It is an insult to me.
+
+1559
+01:06:54,657 --> 01:06:56,657
+Why am I innocent?
+
+1560
+01:06:57,627 --> 01:07:01,358
+You are so clueless,
+it is stunning.
+
+1561
+01:07:04,934 --> 01:07:06,934
+Tell me.
+
+1562
+01:07:07,170 --> 01:07:09,890
+Do you know who your father was?
+
+1563
+01:07:10,707 --> 01:07:13,092
+May said that he loved us very much.
+
+1564
+01:07:13,192 --> 01:07:15,044
+But who was he?
+
+1565
+01:07:15,144 --> 01:07:16,779
+I don't know.
+He died in a car crash.
+
+1566
+01:07:16,879 --> 01:07:18,229
+On the way to the hospital to be with May...
+
+1567
+01:07:18,329 --> 01:07:20,283
+...when she was having you, right?
+
+1568
+01:07:20,383 --> 01:07:21,497
+Yeah.
+
+1569
+01:07:21,597 --> 01:07:24,382
+What a sad,
+yet beautiful story.
+
+1570
+01:07:25,288 --> 01:07:28,176
+Have you ever asked
+yourself why May doesn't...
+
+1571
+01:07:28,276 --> 01:07:29,525
+...ever talk about him?
+
+1572
+01:07:29,625 --> 01:07:32,090
+Or why there isn't a single fucking picture...
+
+1573
+01:07:32,190 --> 01:07:33,696
+...of him around the house?
+
+1574
+01:07:33,796 --> 01:07:35,796
+Maybe it's too painful.
+
+1575
+01:07:36,899 --> 01:07:39,704
+Do you know who Abel Plenkov was?
+
+1576
+01:07:40,136 --> 01:07:41,317
+The Riverton Ripper?
+
+1577
+01:07:41,417 --> 01:07:43,417
+Besides that?
+
+1578
+01:07:43,517 --> 01:07:45,517
+No.
+
+1579
+01:07:46,409 --> 01:07:49,044
+Take a look in the mirror, Bug.
+
+1580
+01:07:55,318 --> 01:07:57,318
+(BREATHING HEAVILY).
+
+1581
+01:08:05,495 --> 01:08:08,980
+ABEL: Remember how much
+I loved you, Leah.
+
+1582
+01:08:11,234 --> 01:08:13,585
+(AS RIPPER) Leah, unlock
+the door for Daddy.
+
+1583
+01:08:13,685 --> 01:08:14,884
+(AS ABEL) Leah, don't.
+Don't listen to him.
+
+1584
+01:08:14,984 --> 01:08:16,321
+(AS RIPPER) Get out of my way.
+
+1585
+01:08:16,421 --> 01:08:17,452
+(ABEL GRUNTING).
+
+1586
+01:08:17,552 --> 01:08:19,222
+Now you're going to get it.
+
+1587
+01:08:19,322 --> 01:08:21,322
+Leah.
+
+1588
+01:08:22,245 --> 01:08:24,245
+Leah.
+
+1589
+01:08:24,341 --> 01:08:25,648
+PATERSON: Freeze.
+
+1590
+01:08:25,748 --> 01:08:29,319
+ABEL: (AS RIPPER) Open
+the door, you little bitch.
+
+1591
+01:08:29,419 --> 01:08:32,388
+GUS: Get over here.
+We got a live fetus.
+
+1592
+01:08:32,488 --> 01:08:34,257
+ABEL: (AS RIPPER) Open...
+
+1593
+01:08:34,357 --> 01:08:36,357
+...the door...
+
+1594
+01:08:36,456 --> 01:08:38,456
+...for Daddy.
+
+1595
+01:08:42,165 --> 01:08:43,833
+You did good, Mama.
+
+1596
+01:08:43,933 --> 01:08:46,352
+We'll take good care of your boy.
+
+1597
+01:08:46,452 --> 01:08:48,271
+(FANG GRUNTING)...
+
+1598
+01:08:48,371 --> 01:08:50,371
+...(CRASHING)...
+
+1599
+01:08:54,610 --> 01:08:56,090
+...(PANTING)...
+
+1600
+01:08:56,190 --> 01:08:57,495
+...(KNOCKING ON DOOR).
+
+1601
+01:08:57,595 --> 01:08:59,595
+BUG: Leah?
+
+1602
+01:08:59,916 --> 01:09:01,784
+Go away.
+
+1603
+01:09:01,884 --> 01:09:03,884
+Open the door, Leah.
+
+1604
+01:09:07,457 --> 01:09:09,457
+Do you want to die?
+
+1605
+01:09:10,393 --> 01:09:12,007
+Get out of my room.
+
+1606
+01:09:12,107 --> 01:09:14,107
+Fuck.
+
+1607
+01:09:26,776 --> 01:09:28,644
+There.
+
+1608
+01:09:28,744 --> 01:09:30,744
+We're even.
+
+1609
+01:09:34,484 --> 01:09:36,484
+Where did you get that?
+
+1610
+01:09:38,254 --> 01:09:41,314
+There's a revolution going on, Fang.
+
+1611
+01:09:45,761 --> 01:09:47,761
+Hi.
+
+1612
+01:09:48,064 --> 01:09:49,465
+Hi.
+
+1613
+01:09:49,565 --> 01:09:51,334
+(CELL PHONE RINGING).
+
+1614
+01:09:51,434 --> 01:09:53,559
+FANG: Hello?
+Is Leah okay?
+
+1615
+01:09:54,203 --> 01:09:56,203
+Leah's fine.
+
+1616
+01:09:57,807 --> 01:09:59,807
+Are you? You look...
+
+1617
+01:10:07,283 --> 01:10:09,663
+I know you're not my mother.
+
+1618
+01:10:17,260 --> 01:10:19,144
+Bug, I'm so sorry.
+I never meant...
+
+1619
+01:10:19,244 --> 01:10:21,992
+I hope you know something, too.
+
+1620
+01:10:23,199 --> 01:10:25,199
+What?
+
+1621
+01:10:25,298 --> 01:10:27,298
+That you are my mom.
+
+1622
+01:10:27,670 --> 01:10:31,240
+That one you're stuck with,
+like it or not.
+
+1623
+01:10:34,377 --> 01:10:36,377
+(EXHALES IN RELIEF)...
+
+1624
+01:10:38,514 --> 01:10:40,573
+...(CRYING).
+
+1625
+01:10:51,060 --> 01:10:53,440
+MARIA: Fang,
+you still there?
+
+1626
+01:10:54,030 --> 01:10:56,030
+Are you still there?
+
+1627
+01:10:56,599 --> 01:10:58,599
+(SNIFFLING).
+
+1628
+01:11:01,437 --> 01:11:03,437
+Are you okay?
+
+1629
+01:11:03,606 --> 01:11:05,606
+Maria just called.
+
+1630
+01:11:05,705 --> 01:11:08,144
+They found Jay Chan
+in the river this morning.
+
+1631
+01:11:08,244 --> 01:11:09,345
+No.
+
+1632
+01:11:09,445 --> 01:11:11,881
+Penelope Bryte near the old ambulance.
+
+1633
+01:11:11,981 --> 01:11:15,466
+Brandon and Brittany in the woods nearby.
+
+1634
+01:11:17,653 --> 01:11:19,535
+I was a total shit to her today,
+
+1635
+01:11:19,635 --> 01:11:20,623
+and she's dead.
+
+1636
+01:11:20,723 --> 01:11:21,904
+MAY: How can that be?
+
+1637
+01:11:22,004 --> 01:11:24,560
+FANG: You know how that can be, May.
+
+1638
+01:11:24,660 --> 01:11:26,640
+Our father is still alive.
+
+1639
+01:11:26,740 --> 01:11:28,911
+MAY: Let's wait to see
+what really happened.
+
+1640
+01:11:29,011 --> 01:11:31,012
+What's really happening, May,
+
+1641
+01:11:31,112 --> 01:11:33,580
+he's killing his way
+through the Riverton Seven.
+
+1642
+01:11:33,680 --> 01:11:35,193
+He'll get Jerome,
+and Dunkelman, and...
+
+1643
+01:11:35,293 --> 01:11:36,172
+...then he'll come for us.
+
+1644
+01:11:36,272 --> 01:11:37,656
+No.
+
+1645
+01:11:37,756 --> 01:11:41,581
+We'll go to the church
+and be with the others.
+
+1646
+01:11:44,981 --> 01:11:47,701
+I'll go to church with you, May.
+
+1647
+01:11:49,352 --> 01:11:51,562
+But this is the last time.
+
+1648
+01:11:53,923 --> 01:11:56,983
+And I'm sorry,
+but I had to tell him.
+
+1649
+01:11:57,078 --> 01:11:59,968
+I'll get the car and be out front.
+
+1650
+01:12:01,864 --> 01:12:03,864
+Get Bug, okay?
+
+1651
+01:12:07,903 --> 01:12:09,903
+(KNOCKING ON DOOR).
+
+1652
+01:12:10,006 --> 01:12:12,006
+Bug.
+
+1653
+01:12:45,574 --> 01:12:47,574
+Leah?
+
+1654
+01:12:47,670 --> 01:12:49,670
+Ready?
+
+1655
+01:12:57,687 --> 01:12:58,834
+Fuck.
+
+1656
+01:12:58,934 --> 01:13:00,934
+(HONKING)...
+
+1657
+01:13:20,142 --> 01:13:22,267
+...(HONKING CONTINUES)...
+
+1658
+01:13:32,421 --> 01:13:34,339
+...(SIRENS WAILING IN DISTANCE).
+
+1659
+01:13:34,439 --> 01:13:35,958
+I figured you'd come.
+
+1660
+01:13:36,058 --> 01:13:38,492
+Really? Have you heard?
+
+1661
+01:13:39,628 --> 01:13:42,008
+I've heard.
+I've heard a lot.
+
+1662
+01:13:42,531 --> 01:13:43,544
+Oh?
+
+1663
+01:13:43,644 --> 01:13:46,135
+The Riverton Ripper,
+Abel Plenkov?
+
+1664
+01:13:46,235 --> 01:13:47,503
+Yeah?
+
+1665
+01:13:47,603 --> 01:13:49,603
+He was my father.
+
+1666
+01:13:49,705 --> 01:13:50,988
+(EXHALING).
+
+1667
+01:13:51,088 --> 01:13:53,906
+That I know.
+
+1668
+01:13:55,177 --> 01:13:56,712
+You do?
+
+1669
+01:13:56,812 --> 01:13:58,961
+The parents of all the seven know.
+
+1670
+01:13:59,061 --> 01:14:00,932
+I think I'm the only kid.
+
+1671
+01:14:01,032 --> 01:14:03,300
+My mother told me the day she died.
+
+1672
+01:14:03,400 --> 01:14:04,803
+Why didn't anyone tell me?
+
+1673
+01:14:04,903 --> 01:14:06,968
+Sorry, we thought you were too...
+
+1674
+01:14:07,068 --> 01:14:08,603
+I don't know.
+
+1675
+01:14:08,703 --> 01:14:10,092
+Innocent?
+
+1676
+01:14:10,192 --> 01:14:12,192
+I guess.
+
+1677
+01:14:12,291 --> 01:14:14,291
+Well, I'm not anymore.
+
+1678
+01:14:14,384 --> 01:14:16,384
+Yeah. I can see that.
+
+1679
+01:14:17,867 --> 01:14:19,867
+Who beat you up?
+
+1680
+01:14:20,336 --> 01:14:21,937
+Fang.
+
+1681
+01:14:22,037 --> 01:14:24,037
+Figures.
+
+1682
+01:14:24,306 --> 01:14:25,775
+Penelope sent me a letter.
+
+1683
+01:14:25,875 --> 01:14:27,875
+A love letter?
+No.
+
+1684
+01:14:27,977 --> 01:14:30,040
+She wrote to warn me
+that he'd be coming...
+
+1685
+01:14:30,140 --> 01:14:30,680
+...back for us.
+
+1686
+01:14:30,780 --> 01:14:32,281
+My father.
+
+1687
+01:14:32,381 --> 01:14:33,683
+She had a source.
+
+1688
+01:14:33,783 --> 01:14:36,513
+Oh, yeah.
+She say anything else?
+
+1689
+01:14:36,852 --> 01:14:39,856
+She said that there are two ways that...
+
+1690
+01:14:39,956 --> 01:14:41,956
+...he can come from.
+
+1691
+01:14:42,458 --> 01:14:44,458
+One,
+
+1692
+01:14:44,627 --> 01:14:48,666
+if he survived 16 years ago,
+then he'll come back...
+
+1693
+01:14:48,766 --> 01:14:50,766
+...as Abel Plenkov.
+
+1694
+01:14:52,168 --> 01:14:53,302
+Dad.
+
+1695
+01:14:53,402 --> 01:14:54,804
+Option two?
+
+1696
+01:14:54,904 --> 01:14:57,304
+Option two is he did die...
+
+1697
+01:15:00,142 --> 01:15:02,142
+...and his soul...
+
+1698
+01:15:04,346 --> 01:15:07,108
+...went into one of the seven
+kids who were born...
+
+1699
+01:15:07,208 --> 01:15:08,184
+...the night he died.
+
+1700
+01:15:08,284 --> 01:15:09,499
+Hopped the nearest bus.
+
+1701
+01:15:09,599 --> 01:15:11,981
+In this version,
+he's one of us...
+
+1702
+01:15:12,081 --> 01:15:13,522
+...killing all the rest.
+
+1703
+01:15:13,622 --> 01:15:16,292
+Attack from the unexpected direction.
+
+1704
+01:15:16,392 --> 01:15:17,727
+Yeah.
+
+1705
+01:15:17,827 --> 01:15:20,746
+There's not many of us left
+to be unexpected, though.
+
+1706
+01:15:20,846 --> 01:15:22,498
+You, me and Jerome.
+
+1707
+01:15:22,598 --> 01:15:24,333
+Jerome's not a very good candidate.
+
+1708
+01:15:24,433 --> 01:15:25,716
+Mmm-mmm.
+
+1709
+01:15:25,816 --> 01:15:27,036
+So, you or me.
+
+1710
+01:15:27,136 --> 01:15:28,938
+That's option two.
+
+1711
+01:15:29,038 --> 01:15:31,923
+(EXHALING) Well,
+I like option one better.
+
+1712
+01:15:32,023 --> 01:15:33,324
+Makes more sense.
+
+1713
+01:15:33,424 --> 01:15:36,901
+The Ripper who was stabbed and shot...
+
+1714
+01:15:37,146 --> 01:15:39,232
+...had a little fender-bender,
+ended up in the river,
+
+1715
+01:15:39,332 --> 01:15:39,715
+no biggie.
+
+1716
+01:15:39,815 --> 01:15:43,167
+He patched himself up
+with stuff from the ambulance.
+
+1717
+01:15:43,267 --> 01:15:46,388
+Survives on acorns
+and crawfish for 16 years.
+
+1718
+01:15:46,488 --> 01:15:47,968
+So he just crawled out of the river...
+
+1719
+01:15:48,068 --> 01:15:49,859
+...in a rotting overcoat to take his revenge.
+
+1720
+01:15:49,959 --> 01:15:51,854
+I'll just call the cops and tell them to keep...
+
+1721
+01:15:51,954 --> 01:15:52,394
+...an eye out...
+
+1722
+01:15:52,494 --> 01:15:55,299
+...for the Unabomber's evil twin.
+
+1723
+01:15:55,698 --> 01:15:57,698
+Or not.
+
+1724
+01:15:58,000 --> 01:16:00,000
+What's that?
+
+1725
+01:16:00,769 --> 01:16:03,472
+The biggest knife I could find in the kitchen.
+
+1726
+01:16:03,572 --> 01:16:05,572
+Bug...
+
+1727
+01:16:06,075 --> 01:16:08,075
+What would you say...
+
+1728
+01:16:08,444 --> 01:16:12,181
+...if I told you I was going to kill you, Alex?
+
+1729
+01:16:12,281 --> 01:16:13,849
+I'd say you weren't.
+
+1730
+01:16:13,949 --> 01:16:14,996
+Why not?
+
+1731
+01:16:15,096 --> 01:16:17,646
+Because you're my best friend.
+
+1732
+01:16:18,387 --> 01:16:20,387
+You're Bug.
+
+1733
+01:16:25,561 --> 01:16:27,561
+Now you ask me.
+
+1734
+01:16:34,303 --> 01:16:36,255
+You don't think I could kill somebody?
+
+1735
+01:16:36,355 --> 01:16:38,355
+No.
+
+1736
+01:16:38,641 --> 01:16:40,641
+You'd be wrong, Bug.
+
+1737
+01:16:41,710 --> 01:16:43,479
+Dead wrong.
+
+1738
+01:16:43,579 --> 01:16:45,548
+You killed Penelope and Jay?
+
+1739
+01:16:45,648 --> 01:16:46,749
+And the others?
+
+1740
+01:16:46,849 --> 01:16:48,849
+(ALEX GRUNTING).
+
+1741
+01:16:49,718 --> 01:16:51,718
+Of course not.
+
+1742
+01:16:54,256 --> 01:16:56,256
+I killed my stepfather.
+
+1743
+01:16:59,094 --> 01:17:00,462
+You killed Quint?
+
+1744
+01:17:00,562 --> 01:17:02,562
+He was drunk.
+
+1745
+01:17:02,661 --> 01:17:04,661
+He hit me.
+
+1746
+01:17:05,034 --> 01:17:07,818
+For the first time in my life,
+I hit him back.
+
+1747
+01:17:07,918 --> 01:17:10,439
+Fell down the steps
+and broke his stupid neck.
+
+1748
+01:17:10,539 --> 01:17:13,201
+Alex, it's okay, okay?
+
+1749
+01:17:13,375 --> 01:17:14,877
+No, it's not okay.
+
+1750
+01:17:14,977 --> 01:17:16,239
+What I did...
+It's not okay...
+
+1751
+01:17:16,339 --> 01:17:17,046
+...for everybody...
+
+1752
+01:17:17,146 --> 01:17:20,631
+...to be killing each other all the time.
+
+1753
+01:17:27,756 --> 01:17:30,646
+You don't want something to drink?
+
+1754
+01:17:31,226 --> 01:17:33,226
+You got rat poison?
+
+1755
+01:17:34,163 --> 01:17:37,053
+No, we just ran out of rat poison.
+
+1756
+01:17:37,499 --> 01:17:40,049
+I'm going to go get you water.
+
+1757
+01:17:57,086 --> 01:17:59,247
+(SIGHS).
+
+1758
+01:18:25,948 --> 01:18:27,948
+What is this?
+
+1759
+01:18:51,273 --> 01:18:53,273
+(CLATTERING).
+
+1760
+01:19:25,074 --> 01:19:27,074
+Alex, I'll be right...
+
+1761
+01:20:09,118 --> 01:20:10,198
+Ripper?
+
+1762
+01:20:10,298 --> 01:20:12,593
+(SCREAMING) Son of a bitch.
+
+1763
+01:20:16,692 --> 01:20:18,692
+Drop the knife, Bug.
+
+1764
+01:20:18,927 --> 01:20:20,927
+Now.
+
+1765
+01:20:21,930 --> 01:20:23,930
+Kick it over to me.
+
+1766
+01:20:29,805 --> 01:20:31,874
+I'm sorry, I thought
+you were somebody else.
+
+1767
+01:20:31,974 --> 01:20:33,521
+Get your hands up.
+
+1768
+01:20:33,621 --> 01:20:34,824
+Up.
+
+1769
+01:20:34,924 --> 01:20:36,924
+Walk slow.
+
+1770
+01:20:41,183 --> 01:20:42,432
+Why are you pointing that at me?
+
+1771
+01:20:42,532 --> 01:20:44,611
+That is far enough.
+
+1772
+01:20:45,354 --> 01:20:47,354
+Why?
+
+1773
+01:20:47,452 --> 01:20:48,608
+Your phone was found next to Brittany.
+
+1774
+01:20:48,708 --> 01:20:49,324
+Cunningham's body.
+
+1775
+01:20:49,424 --> 01:20:50,842
+It fell into her purse at school.
+
+1776
+01:20:50,942 --> 01:20:52,728
+That was an accident.
+You can ask my mom.
+
+1777
+01:20:52,828 --> 01:20:56,398
+Your mom is why I have to arrest you, Bug.
+
+1778
+01:21:01,203 --> 01:21:02,471
+Mom.
+
+1779
+01:21:02,571 --> 01:21:04,571
+Easy.
+
+1780
+01:21:06,308 --> 01:21:08,435
+Stay there.
+
+1781
+01:21:14,116 --> 01:21:15,451
+I was there...
+
+1782
+01:21:15,551 --> 01:21:19,376
+...when they cut you
+out of your mother, Bug.
+
+1783
+01:21:20,155 --> 01:21:22,541
+You were the one thing
+that made the whole...
+
+1784
+01:21:22,641 --> 01:21:23,859
+...bloody mess bearable.
+
+1785
+01:21:23,959 --> 01:21:25,309
+A fucking...
+Miracle?
+
+1786
+01:21:25,409 --> 01:21:27,296
+Yes.
+
+1787
+01:21:27,396 --> 01:21:29,231
+Something bright in the dark.
+
+1788
+01:21:29,331 --> 01:21:30,715
+And ever since,
+
+1789
+01:21:30,815 --> 01:21:33,020
+for all of us that were there, Bug,
+
+1790
+01:21:33,120 --> 01:21:34,736
+that's what you've been.
+
+1791
+01:21:34,836 --> 01:21:37,304
+Fuck. How could you do this?
+
+1792
+01:21:39,174 --> 01:21:41,174
+I didn't.
+
+1793
+01:21:42,411 --> 01:21:44,536
+Hold out your hands, son.
+
+1794
+01:21:46,682 --> 01:21:48,133
+Where's my sister?
+
+1795
+01:21:48,233 --> 01:21:50,233
+Why don't you tell me?
+
+1796
+01:21:54,489 --> 01:21:56,489
+(SCREAMING).
+
+1797
+01:21:59,628 --> 01:22:01,628
+RIPPER: It's time.
+
+1798
+01:22:53,348 --> 01:22:54,698
+(RIPPER YELLING)...
+
+1799
+01:22:54,798 --> 01:22:56,798
+...(RIPPER LAUGHING).
+
+1800
+01:23:00,555 --> 01:23:04,326
+RIPPER: (SOFTLY) They
+never should've cut you...
+
+1801
+01:23:04,426 --> 01:23:06,721
+...out of your dead mother.
+
+1802
+01:23:21,710 --> 01:23:23,710
+(DOOR SQUEAKING)...
+
+1803
+01:23:48,403 --> 01:23:50,403
+...(RIPPER SNARLING)...
+
+1804
+01:23:56,978 --> 01:23:58,978
+...(GUN FIRES)...
+
+1805
+01:23:59,681 --> 01:24:01,430
+...(RIPPER LAUGHS).
+
+1806
+01:24:01,530 --> 01:24:05,100
+RIPPER: What happened
+to your wings, angel?
+
+1807
+01:24:06,121 --> 01:24:07,269
+(RIPPER EXCLAIMING)...
+
+1808
+01:24:07,369 --> 01:24:09,369
+...(GUNSHOTS).
+
+1809
+01:24:14,496 --> 01:24:17,046
+RIPPER: Fucking piece of shit.
+
+1810
+01:24:21,770 --> 01:24:23,770
+Where is the knife?
+
+1811
+01:24:25,173 --> 01:24:27,553
+(SHUSHING) Shut the fuck up.
+
+1812
+01:24:27,652 --> 01:24:29,652
+Shut up.
+
+1813
+01:24:36,985 --> 01:24:40,725
+RIPPER: Come out, come out,
+wherever you are.
+
+1814
+01:24:43,091 --> 01:24:45,091
+(DOOR OPENING).
+
+1815
+01:24:46,161 --> 01:24:47,578
+Eww.
+
+1816
+01:24:47,678 --> 01:24:49,445
+It's not as bad as it looks.
+
+1817
+01:24:49,545 --> 01:24:51,078
+How did you get away?
+
+1818
+01:24:51,178 --> 01:24:53,016
+I was already in the car.
+
+1819
+01:24:53,116 --> 01:24:56,516
+I came inside just to see where May was,
+
+1820
+01:24:56,615 --> 01:24:58,615
+and I found her dead.
+
+1821
+01:24:59,141 --> 01:25:02,286
+I knew that fucker would come for us.
+
+1822
+01:25:05,380 --> 01:25:07,905
+Maybe he's gone.
+
+1823
+01:25:08,083 --> 01:25:10,083
+No, no, no.
+Let's go.
+
+1824
+01:25:10,252 --> 01:25:11,332
+(SHUSHING).
+
+1825
+01:25:11,432 --> 01:25:12,500
+I think we should...
+
+1826
+01:25:12,600 --> 01:25:14,600
+...(RIPPER YELLING)...
+
+1827
+01:25:15,490 --> 01:25:17,490
+...(BUG YELLING).
+
+1828
+01:25:21,263 --> 01:25:24,357
+Die. Die. Die.
+
+1829
+01:25:32,274 --> 01:25:34,124
+I saved you for last.
+
+1830
+01:25:34,224 --> 01:25:36,224
+(CRASHING).
+
+1831
+01:25:37,379 --> 01:25:39,379
+Fuck.
+
+1832
+01:25:44,186 --> 01:25:46,186
+Leah, call the cops.
+
+1833
+01:25:48,190 --> 01:25:50,190
+FANG: Son of a bitch.
+
+1834
+01:25:51,760 --> 01:25:53,047
+Hey.
+Leah, I need you...
+
+1835
+01:25:53,147 --> 01:25:54,329
+...to get the lights on.
+
+1836
+01:25:54,429 --> 01:25:55,780
+Get out of the house,
+get to the neighbors...
+
+1837
+01:25:55,880 --> 01:25:56,431
+...and call the cops.
+
+1838
+01:25:56,531 --> 01:25:57,645
+You think you can do that for me?
+
+1839
+01:25:57,745 --> 01:25:59,150
+What are you going to do?
+
+1840
+01:25:59,250 --> 01:26:00,747
+I'm going to give that fucker a 10.
+
+1841
+01:26:00,847 --> 01:26:02,847
+Make it a 20.
+
+1842
+01:26:10,779 --> 01:26:12,779
+(PANTING)...
+
+1843
+01:26:33,368 --> 01:26:35,368
+...(RATTLING).
+
+1844
+01:26:37,506 --> 01:26:38,721
+BUG: Ripper?
+
+1845
+01:26:38,821 --> 01:26:40,821
+(DOOR OPENING).
+
+1846
+01:26:41,409 --> 01:26:42,557
+Shit.
+
+1847
+01:26:42,657 --> 01:26:44,657
+(DOOR CLOSING)...
+
+1848
+01:27:28,156 --> 01:27:30,156
+...(EXCLAIMING).
+
+1849
+01:27:30,251 --> 01:27:32,509
+Jerome. Jerome,
+stop it. Jerome.
+
+1850
+01:27:32,609 --> 01:27:34,609
+Hey, hey. Hey.
+
+1851
+01:27:35,830 --> 01:27:37,830
+Hey.
+
+1852
+01:27:41,736 --> 01:27:43,305
+Jerome.
+
+1853
+01:27:43,405 --> 01:27:44,485
+Jerome.
+
+1854
+01:27:44,585 --> 01:27:45,720
+The Ripper's up here, Bug.
+
+1855
+01:27:45,820 --> 01:27:46,820
+Watch out.
+
+1856
+01:27:46,920 --> 01:27:48,089
+It's okay, Jerome.
+He's gone, all right?
+
+1857
+01:27:48,189 --> 01:27:49,390
+What are you doing here?
+You're supposed...
+
+1858
+01:27:49,490 --> 01:27:50,011
+...to be at the church.
+
+1859
+01:27:50,111 --> 01:27:52,592
+Alex called me.
+He said all three of us...
+
+1860
+01:27:52,692 --> 01:27:53,982
+...should be together.
+
+1861
+01:27:54,082 --> 01:27:56,207
+Watch each ether's backs.
+
+1862
+01:27:56,484 --> 01:27:57,699
+I was halfway through the window...
+
+1863
+01:27:57,799 --> 01:28:00,103
+...when the Ripper stabbed me.
+
+1864
+01:28:00,203 --> 01:28:01,167
+How did he get up here?
+
+1865
+01:28:01,267 --> 01:28:04,175
+He must have come up the rope like I did.
+
+1866
+01:28:04,275 --> 01:28:07,996
+I passed out on the roof,
+and then I came to...
+
+1867
+01:28:08,096 --> 01:28:11,241
+...and I heard fighting.
+Was that you?
+
+1868
+01:28:12,167 --> 01:28:14,884
+Him and me. Yeah, it was.
+He was kicking my ass, too.
+
+1869
+01:28:14,984 --> 01:28:18,356
+I tried calling the cops
+but I knocked over something,
+
+1870
+01:28:18,456 --> 01:28:19,919
+and then I heard him coming for me,
+
+1871
+01:28:20,019 --> 01:28:21,910
+so I ducked for the closet.
+
+1872
+01:28:22,010 --> 01:28:23,489
+You saved my life, Jerome.
+
+1873
+01:28:23,589 --> 01:28:24,861
+I did?
+
+1874
+01:28:24,961 --> 01:28:27,349
+Yeah, he was going to kill me,
+and then you distracted him.
+
+1875
+01:28:27,449 --> 01:28:28,596
+Good.
+
+1876
+01:28:28,696 --> 01:28:30,832
+Dude, it's going to be okay.
+Help is coming, all right?
+
+1877
+01:28:30,932 --> 01:28:33,227
+You fought the Ripper, Bug.
+
+1878
+01:28:34,489 --> 01:28:37,504
+You're a hero, like I told you.
+
+1879
+01:28:37,604 --> 01:28:39,604
+(BREATHING SHALLOWLY).
+
+1880
+01:28:41,496 --> 01:28:44,386
+I'm not a hero,
+Jerome. I'm just...
+
+1881
+01:28:47,736 --> 01:28:49,371
+Jerome?
+
+1882
+01:28:49,471 --> 01:28:51,471
+Jerome?
+
+1883
+01:29:17,065 --> 01:29:19,065
+(CLATTERING).
+
+1884
+01:29:20,168 --> 01:29:22,718
+What the fuck happened to you?
+
+1885
+01:29:24,172 --> 01:29:26,212
+What happened to Jerome?
+
+1886
+01:29:29,244 --> 01:29:30,512
+He's dead.
+
+1887
+01:29:30,612 --> 01:29:32,612
+The Ripper got him.
+
+1888
+01:29:33,448 --> 01:29:34,865
+A lot's happened since
+you've been gone, Alex.
+
+1889
+01:29:34,965 --> 01:29:36,151
+Where did you disappear to?
+
+1890
+01:29:36,251 --> 01:29:38,169
+I saw Paterson pulling up outside.
+
+1891
+01:29:38,269 --> 01:29:39,670
+I ran. I hid in the woods.
+
+1892
+01:29:39,770 --> 01:29:41,172
+Then I heard gunshots,
+so I came back.
+
+1893
+01:29:41,272 --> 01:29:43,258
+I was afraid he shot you or something.
+
+1894
+01:29:43,358 --> 01:29:44,573
+Where is he, anyway?
+
+1895
+01:29:44,673 --> 01:29:45,894
+Downstairs. He's dead.
+
+1896
+01:29:45,994 --> 01:29:47,007
+What?
+
+1897
+01:29:47,107 --> 01:29:49,997
+What happened?
+The Ripper happened.
+
+1898
+01:29:50,093 --> 01:29:51,600
+He killed Mom, too.
+
+1899
+01:29:51,700 --> 01:29:53,700
+(EXHALING).
+
+1900
+01:29:53,796 --> 01:29:55,796
+May?
+
+1901
+01:29:57,005 --> 01:29:58,673
+I can't believe this.
+
+1902
+01:29:58,773 --> 01:30:00,421
+You went to get me a glass of water...
+
+1903
+01:30:00,521 --> 01:30:04,771
+...and now your mom, Paterson,
+and Jerome are dead?
+
+1904
+01:30:05,814 --> 01:30:07,382
+Where were you?
+
+1905
+01:30:07,482 --> 01:30:09,284
+I ran into Penelope.
+
+1906
+01:30:09,384 --> 01:30:11,384
+Penelope is dead, Bug.
+
+1907
+01:30:12,620 --> 01:30:15,123
+I saw her in the bathroom mirror.
+
+1908
+01:30:15,223 --> 01:30:19,813
+She brought me Ripper's knife,
+and she made me take it.
+
+1909
+01:30:26,668 --> 01:30:27,714
+Then I heard something downstairs...
+
+1910
+01:30:27,814 --> 01:30:30,658
+...and I went to come check on you,
+
+1911
+01:30:30,758 --> 01:30:32,758
+and you were gone.
+
+1912
+01:30:33,041 --> 01:30:36,611
+Paterson wasn't after you.
+He was after me.
+
+1913
+01:30:36,911 --> 01:30:39,463
+He thought that I killed Brittany...
+
+1914
+01:30:39,563 --> 01:30:41,282
+...and my Mom.
+
+1915
+01:30:41,382 --> 01:30:42,884
+It was the Ripper.
+
+1916
+01:30:42,984 --> 01:30:45,364
+And where is the Ripper now?
+
+1917
+01:30:45,487 --> 01:30:47,534
+I guess he got away out my window.
+
+1918
+01:30:47,634 --> 01:30:50,779
+Or went out Leah's.
+Hers is open, too.
+
+1919
+01:30:50,874 --> 01:30:52,794
+And he tried to stab me to death with his...
+
+1920
+01:30:52,894 --> 01:30:54,062
+Stab you with what?
+
+1921
+01:30:54,162 --> 01:30:56,998
+With his knife.
+I thought you had his knife.
+
+1922
+01:30:57,098 --> 01:30:58,366
+I did, but...
+
+1923
+01:30:58,466 --> 01:31:00,466
+Did you kill them, Bug?
+
+1924
+01:31:00,568 --> 01:31:01,736
+What?
+
+1925
+01:31:01,836 --> 01:31:03,238
+No, I...
+
+1926
+01:31:03,338 --> 01:31:05,338
+I didn't kill anybody.
+
+1927
+01:31:05,432 --> 01:31:07,432
+Not that you remember.
+
+1928
+01:31:09,978 --> 01:31:12,080
+Bug, I got to tell you something.
+
+1929
+01:31:12,180 --> 01:31:13,760
+And don't get upset.
+
+1930
+01:31:13,860 --> 01:31:15,083
+What?
+
+1931
+01:31:15,183 --> 01:31:17,276
+My mom told me this.
+
+1932
+01:31:17,452 --> 01:31:18,532
+Your father...
+
+1933
+01:31:18,632 --> 01:31:21,108
+...was first diagnosed with schizophrenia...
+
+1934
+01:31:21,208 --> 01:31:22,190
+...when he was 16.
+
+1935
+01:31:22,290 --> 01:31:23,404
+Just like you are now.
+
+1936
+01:31:23,504 --> 01:31:24,740
+What are you saying?
+
+1937
+01:31:24,840 --> 01:31:26,946
+It's hereditary.
+Plus, you were in your...
+
+1938
+01:31:27,046 --> 01:31:28,096
+...dead Mom forever.
+
+1939
+01:31:28,196 --> 01:31:30,013
+Oxygen deprivation.
+
+1940
+01:31:30,113 --> 01:31:32,033
+It can make you crazy, too.
+
+1941
+01:31:32,133 --> 01:31:33,983
+Maybe all this stuff
+you've been describing...
+
+1942
+01:31:34,083 --> 01:31:37,405
+...didn't happen exactly
+the way you're saying it did.
+
+1943
+01:31:37,505 --> 01:31:38,619
+You think I'm crazy?
+
+1944
+01:31:38,719 --> 01:31:40,456
+No, I don't know what I think.
+
+1945
+01:31:40,556 --> 01:31:41,998
+But I'm not walking away.
+I've stuck by you...
+
+1946
+01:31:42,098 --> 01:31:42,744
+...through everything.
+
+1947
+01:31:42,844 --> 01:31:44,029
+Through nightmares and migraines,
+
+1948
+01:31:44,129 --> 01:31:44,779
+hell, puking vultures...
+
+1949
+01:31:44,879 --> 01:31:46,256
+...when everybody else was calling you...
+
+1950
+01:31:46,356 --> 01:31:47,048
+...a ticking time bomb.
+
+1951
+01:31:47,148 --> 01:31:50,123
+So, if you're not innocent anymore,
+
+1952
+01:31:50,223 --> 01:31:51,098
+that's okay.
+
+1953
+01:31:51,198 --> 01:31:53,144
+I mean, I killed my stepfather tonight.
+
+1954
+01:31:53,244 --> 01:31:54,255
+I'm no angel, either.
+
+1955
+01:31:54,355 --> 01:31:56,820
+(SIRENS WAILING IN DISTANCE).
+
+1956
+01:32:02,730 --> 01:32:05,365
+I'm not innocent anymore, Alex.
+
+1957
+01:32:06,501 --> 01:32:09,117
+Not with all of them inside me now.
+
+1958
+01:32:09,217 --> 01:32:11,217
+What?
+
+1959
+01:32:12,674 --> 01:32:14,075
+With who inside you?
+
+1960
+01:32:14,175 --> 01:32:16,478
+The rest of the Riverton Seven.
+
+1961
+01:32:16,578 --> 01:32:18,346
+Even Jerome.
+
+1962
+01:32:18,446 --> 01:32:21,166
+All their souls are with me now.
+
+1963
+01:32:24,752 --> 01:32:28,003
+Bug, maybe you should sit down
+and take a few deep breaths.
+
+1964
+01:32:28,103 --> 01:32:29,424
+You think I'm crazy?
+
+1965
+01:32:29,524 --> 01:32:32,026
+I'm actually a lot smarter
+than I was yesterday.
+
+1966
+01:32:32,126 --> 01:32:34,336
+Let me ask you a question.
+
+1967
+01:32:38,066 --> 01:32:39,613
+Why is there blood on your left ear?
+
+1968
+01:32:39,713 --> 01:32:41,269
+What?
+
+1969
+01:32:41,369 --> 01:32:43,238
+The top.
+
+1970
+01:32:43,338 --> 01:32:44,351
+(EXCLAIMING).
+
+1971
+01:32:44,451 --> 01:32:46,451
+Hey.
+
+1972
+01:32:47,742 --> 01:32:50,478
+Almost like you were hit
+with a vase or something.
+
+1973
+01:32:50,578 --> 01:32:51,759
+Brandon told me to look for that.
+
+1974
+01:32:51,859 --> 01:32:54,130
+Bug, you are officially bat-shit nuts.
+
+1975
+01:32:54,230 --> 01:32:55,897
+I scraped it climbing up the roof.
+
+1976
+01:32:55,997 --> 01:32:57,986
+Come on, let's get real, here.
+
+1977
+01:32:58,086 --> 01:32:59,938
+BUG: Jay says that Ripper's getup...
+
+1978
+01:33:00,038 --> 01:33:01,322
+...was a costume for sure.
+
+1979
+01:33:01,422 --> 01:33:03,324
+Oh, and Brittany has run a timeline.
+
+1980
+01:33:03,424 --> 01:33:05,207
+You would've had enough
+time to kill Mom...
+
+1981
+01:33:05,307 --> 01:33:06,941
+...and put the knife in the bathroom sink...
+
+1982
+01:33:07,041 --> 01:33:08,971
+...while I was hiding
+under the bed and Leah...
+
+1983
+01:33:09,071 --> 01:33:10,031
+...was outside in the car.
+
+1984
+01:33:10,131 --> 01:33:11,110
+And if Jerome came through the window...
+
+1985
+01:33:11,210 --> 01:33:13,246
+...when I was in the bathroom
+getting you water,
+
+1986
+01:33:13,346 --> 01:33:16,188
+you would've had time
+to stab him, and go downstairs...
+
+1987
+01:33:16,288 --> 01:33:17,172
+...and kill Paterson.
+
+1988
+01:33:17,272 --> 01:33:19,854
+You might have tried to kill me, too.
+
+1989
+01:33:19,954 --> 01:33:21,081
+Fuck.
+BUG: But if you'd heard.
+
+1990
+01:33:21,181 --> 01:33:21,810
+Jerome upstairs,
+
+1991
+01:33:21,910 --> 01:33:25,217
+you would've had to get up there before...
+
+1992
+01:33:25,317 --> 01:33:27,317
+...he called the cops.
+
+1993
+01:33:27,649 --> 01:33:30,534
+I could've killed you off earlier, remember?
+
+1994
+01:33:30,634 --> 01:33:33,089
+Bug, you've watched one too many.
+
+1995
+01:33:33,189 --> 01:33:34,756
+Law and Order reruns.
+
+1996
+01:33:34,856 --> 01:33:37,066
+Besides, I'm a little guy.
+
+1997
+01:33:37,118 --> 01:33:39,427
+You could beat me up in, like, 10 seconds.
+
+1998
+01:33:39,527 --> 01:33:42,063
+Unless you had the bad soul in you.
+
+1999
+01:33:42,163 --> 01:33:44,499
+And then you would fight
+like you were possessed.
+
+2000
+01:33:44,599 --> 01:33:46,809
+Can't fucking believe you.
+
+2001
+01:33:47,769 --> 01:33:49,930
+You're Adam Plenkov.
+
+2002
+01:33:50,638 --> 01:33:52,618
+The son of a mass murderer.
+
+2003
+01:33:52,718 --> 01:33:53,990
+Everybody in your house,
+
+2004
+01:33:54,090 --> 01:33:55,768
+and all your friends,
+except me,
+
+2005
+01:33:55,868 --> 01:33:57,011
+have been murdered.
+
+2006
+01:33:57,111 --> 01:33:59,293
+If there's a bad soul here, you have it.
+
+2007
+01:33:59,393 --> 01:34:01,449
+And you got it from your father.
+
+2008
+01:34:01,549 --> 01:34:03,231
+Maybe you have been in institutions.
+
+2009
+01:34:03,331 --> 01:34:06,321
+Maybe you have killed people,
+just in your last life.
+
+2010
+01:34:06,421 --> 01:34:10,161
+But you're too stupid and blind to see that.
+
+2011
+01:34:11,192 --> 01:34:12,739
+Maybe they'll find your Ripper costume...
+
+2012
+01:34:12,839 --> 01:34:15,645
+...buried along with your
+stupid condor outfit.
+
+2013
+01:34:15,745 --> 01:34:19,145
+And they will come for you with torches.
+
+2014
+01:34:19,334 --> 01:34:21,334
+What?
+
+2015
+01:34:21,430 --> 01:34:23,862
+I didn't bury any Ripper costume...
+
+2016
+01:34:23,962 --> 01:34:25,173
+...with my condor.
+
+2017
+01:34:25,273 --> 01:34:27,398
+(AS RIPPER) Somebody did.
+
+2018
+01:34:28,576 --> 01:34:30,576
+(EXHALING).
+
+2019
+01:34:31,846 --> 01:34:33,846
+You son of a...
+
+2020
+01:34:36,150 --> 01:34:38,799
+Evil doesn't forget betrayal, Plenkov.
+
+2021
+01:34:38,899 --> 01:34:40,771
+You and the other sick Dr. Blake got me...
+
+2022
+01:34:40,871 --> 01:34:42,402
+...and then ran away like cowards.
+
+2023
+01:34:42,502 --> 01:34:44,537
+Jumped into the first babies
+you could hide in.
+
+2024
+01:34:44,637 --> 01:34:46,394
+So I saved you for last.
+
+2025
+01:34:46,494 --> 01:34:47,574
+And I'll kill you now,
+
+2026
+01:34:47,674 --> 01:34:49,175
+or you can say yes to a deal.
+
+2027
+01:34:49,275 --> 01:34:50,632
+What deal?
+
+2028
+01:34:50,732 --> 01:34:52,341
+Same one I offered your father,
+
+2029
+01:34:52,441 --> 01:34:53,434
+16 years ago today.
+
+2030
+01:34:53,534 --> 01:34:55,719
+Say yes, and you live.
+Say no, and.
+
+2031
+01:34:55,819 --> 01:34:56,971
+I'll cut your throat.
+
+2032
+01:34:57,071 --> 01:34:58,719
+Say yes to what?
+
+2033
+01:34:58,819 --> 01:35:01,175
+To my happy ending of Riverton's fairytale.
+
+2034
+01:35:01,275 --> 01:35:02,423
+There was no Ripper.
+
+2035
+01:35:02,523 --> 01:35:03,945
+Just one of the Riverton Seven...
+
+2036
+01:35:04,045 --> 01:35:06,414
+...that was a little crazy,
+dressed up like the Ripper,
+
+2037
+01:35:06,514 --> 01:35:09,298
+killed your mom, and Paterson,
+and four of his birth-mates...
+
+2038
+01:35:09,398 --> 01:35:10,998
+...before we finally stopped him.
+
+2039
+01:35:11,098 --> 01:35:12,233
+One of the Riverton Seven?
+
+2040
+01:35:12,333 --> 01:35:15,290
+The one of the seven with the bad soul.
+
+2041
+01:35:15,390 --> 01:35:17,792
+The Ripper's soul.
+BUG: Jerome?
+
+2042
+01:35:17,892 --> 01:35:19,614
+Great twist, huh?
+Everybody will think...
+
+2043
+01:35:19,714 --> 01:35:20,528
+...you were the killer...
+
+2044
+01:35:20,628 --> 01:35:22,985
+...but it turns out the attack
+came from a totally...
+
+2045
+01:35:23,085 --> 01:35:24,165
+...unexpected direction.
+
+2046
+01:35:24,265 --> 01:35:25,778
+You'd lay all this on Jerome?
+
+2047
+01:35:25,878 --> 01:35:27,948
+He won't mind.
+He's dead.
+
+2048
+01:35:28,048 --> 01:35:30,016
+You and me will be Main-Street heroes...
+
+2049
+01:35:30,116 --> 01:35:32,253
+...helping each other
+forge a new beginning.
+
+2050
+01:35:32,353 --> 01:35:34,691
+Recovering from our tragic losses.
+
+2051
+01:35:34,791 --> 01:35:37,766
+Friends to the end.
+What do you say?
+
+2052
+01:35:37,863 --> 01:35:39,863
+Deal?
+
+2053
+01:35:40,014 --> 01:35:42,014
+You're pathetic.
+
+2054
+01:35:42,450 --> 01:35:45,085
+I don't even think you're Alex.
+
+2055
+01:35:46,254 --> 01:35:48,379
+I don't know who you are.
+
+2056
+01:35:51,492 --> 01:35:53,578
+I'm the one that's going to kill you...
+
+2057
+01:35:53,678 --> 01:35:54,896
+...if you don't say yes.
+
+2058
+01:35:54,996 --> 01:35:56,531
+And then I'll say you did it.
+
+2059
+01:35:56,631 --> 01:35:59,083
+And I'll be the hero all by myself.
+
+2060
+01:35:59,183 --> 01:36:01,017
+Leah saw the whole fight.
+She'll vouch for me.
+
+2061
+01:36:01,117 --> 01:36:02,385
+Leah doesn't live through the night.
+
+2062
+01:36:02,485 --> 01:36:04,950
+That's part of the deal, too.
+
+2063
+01:36:05,339 --> 01:36:07,055
+Whoever or whatever you are,
+
+2064
+01:36:07,155 --> 01:36:09,172
+get out of Alex.
+And go back to hell,
+
+2065
+01:36:09,272 --> 01:36:10,545
+where you came from.
+
+2066
+01:36:10,645 --> 01:36:12,645
+I mean it.
+
+2067
+01:36:13,948 --> 01:36:15,948
+Okay.
+
+2068
+01:36:16,350 --> 01:36:18,186
+But I'll take you with me.
+
+2069
+01:36:18,286 --> 01:36:20,286
+(GASPING).
+
+2070
+01:36:23,691 --> 01:36:26,836
+I thought that guy would never leave.
+
+2071
+01:36:27,261 --> 01:36:29,261
+Alex.
+
+2072
+01:36:31,999 --> 01:36:33,968
+Where is the biggest knife in the kitchen?
+
+2073
+01:36:34,068 --> 01:36:36,068
+Where it needs to be.
+
+2074
+01:36:41,909 --> 01:36:43,177
+Condor?
+
+2075
+01:36:43,277 --> 01:36:45,277
+Crow.
+
+2076
+01:36:47,715 --> 01:36:49,715
+(GRUNTING IN PAIN).
+
+2077
+01:36:54,021 --> 01:36:57,013
+It's all right, Bug.
+Feels great.
+
+2078
+01:36:58,493 --> 01:37:00,493
+Feels fucking great.
+
+2079
+01:37:02,730 --> 01:37:04,730
+Fucking great.
+
+2080
+01:37:04,966 --> 01:37:06,966
+(SIRENS APPROACHING).
+
+2081
+01:37:13,674 --> 01:37:15,674
+Fly now.
+
+2082
+01:37:21,415 --> 01:37:23,415
+I know you're up there.
+
+2083
+01:37:25,186 --> 01:37:27,481
+And I know we're down here.
+
+2084
+01:37:29,223 --> 01:37:30,236
+COP 1: Police.
+
+2085
+01:37:30,336 --> 01:37:31,926
+COP 2: Police.
+Open the door.
+
+2086
+01:37:32,026 --> 01:37:34,026
+Open up.
+Open the door.
+
+2087
+01:37:35,129 --> 01:37:37,129
+Open the door now.
+
+2088
+01:37:37,265 --> 01:37:39,265
+BUG: I am the condor.
+
+2089
+01:37:39,967 --> 01:37:42,007
+The Keeper of the Souls.
+
+2090
+01:37:43,404 --> 01:37:46,154
+I eat death for breakfast.
+
+2091
+01:37:46,254 --> 01:37:48,889
+I live in a house of blood...
+
+2092
+01:37:48,989 --> 01:37:50,989
+...and I accept that.
+
+2093
+01:37:51,212 --> 01:37:52,461
+COP 3: Break it down.
+
+2094
+01:37:52,561 --> 01:37:55,026
+BUG: That's all a man can do.
+
+2095
+01:37:57,451 --> 01:37:59,499
+I was ready to be arrested that night.
+
+2096
+01:37:59,599 --> 01:38:01,404
+I wasn't ready for what happened instead.
+
+2097
+01:38:01,504 --> 01:38:02,535
+(PEOPLE APPLAUDING).
+
+2098
+01:38:02,635 --> 01:38:03,771
+Leah had told them everything,
+
+2099
+01:38:03,871 --> 01:38:05,405
+and I was celebrated as a hero.
+
+2100
+01:38:05,505 --> 01:38:07,073
+Don't worry about it, man.
+They're on your side.
+
+2101
+01:38:07,173 --> 01:38:08,877
+BUG: Alex Dunkelman killed his stepfather,
+
+2102
+01:38:08,977 --> 01:38:10,453
+a cop, a mother and five of the.
+
+2103
+01:38:10,553 --> 01:38:11,299
+Riverton Seven.
+
+2104
+01:38:11,399 --> 01:38:12,412
+Your sister's right over there.
+
+2105
+01:38:12,512 --> 01:38:14,335
+BUG: And I alone had stopped him...
+
+2106
+01:38:14,435 --> 01:38:15,336
+...from killing more.
+
+2107
+01:38:15,436 --> 01:38:18,241
+I didn't feel like a hero at all.
+
+2108
+01:38:19,173 --> 01:38:22,510
+But if it makes Riverton feel safe at night,
+
+2109
+01:38:22,610 --> 01:38:24,995
+I'll fake that I'm their hero.
+
+2110
+01:38:25,095 --> 01:38:27,095
+And I'll fake it good.
+
+2111
+01:38:27,682 --> 01:38:30,742
+Alex wouldn't have it any other way.
+

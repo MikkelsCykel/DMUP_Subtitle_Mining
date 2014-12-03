@@ -1,0 +1,3734 @@
+1
+00:00:21,657 --> 00:00:25,252
+<i>(¶ "Star Spangled Banner" on radio)</i>
+
+2
+00:00:25,337 --> 00:00:27,407
+<i>(DJ) Whoo, yeah!</i>
+
+3
+00:00:27,497 --> 00:00:30,967
+<i>That's about</i> it <i>for this Independence Day</i>
+
+4
+00:00:31,057 --> 00:00:35,687
+<i>as the clock rocks 12,</i>
+<i>ladies and gentlemen, on July 5th,</i> 1996.
+
+5
+00:00:35,777 --> 00:00:40,692
+<i>And do you know, fellow Americans,</i>
+<i>we are now 220 years old.</i>
+
+6
+00:00:40,777 --> 00:00:44,213
+<i>We've just about, of course,</i>
+<i>wiped out the ozone layer.</i>
+
+7
+00:00:44,297 --> 00:00:48,085
+<i>We live under a continual smog alert</i>
+<i>and there's a new drug.</i>
+
+8
+00:00:48,177 --> 00:00:50,975
+<i>I don't know if you heard this.</i>
+<i>Check this out.</i>
+
+9
+00:00:51,057 --> 00:00:56,256
+<i>There's a new drug for the kids to bury</i>
+<i>themselves with called Crystal Dream.</i>
+
+10
+00:00:56,337 --> 00:00:59,852
+<i>Can you believe it?</i>
+<i>You don't drink</i> it. <i>You don't smoke</i> it.
+
+11
+00:00:59,937 --> 00:01:04,135
+<i>You don't snort</i> it. <i>You don't shoot</i> it.
+<i>What do you do, I know you're asking?</i>
+
+12
+00:01:04,217 --> 00:01:08,893
+<i>What you do is you put</i> it <i>in your eyes</i>
+<i>and apparently</i> it <i>tells you lies.</i>
+
+13
+00:01:08,977 --> 00:01:13,528
+<i>All this decadence and we still haven't</i>
+<i>nuked ourselves outta here. Amazing!</i>
+
+14
+00:01:13,617 --> 00:01:18,645
+<i>With a little luck I think maybe the human</i>
+<i>race might live to see another 220 years.</i>
+
+15
+00:01:18,737 --> 00:01:22,616
+<i>And with that in mind,</i>
+<i>happy birthday, America!</i>
+
+16
+00:01:56,817 --> 00:01:59,968
+<i>(¶ "Wanted Dead or Alive" by Bon Jovi)</i>
+
+17
+00:02:00,897 --> 00:02:02,489
+¶ <i>It's all the same</i>
+
+18
+00:02:04,177 --> 00:02:06,930
+¶ <i>Only the names will change</i>
+
+19
+00:02:07,257 --> 00:02:08,246
+¶ <i>Every day</i>
+
+20
+00:02:09,177 --> 00:02:12,613
+¶ <i>It seems we're wasting away</i>
+
+21
+00:02:13,297 --> 00:02:15,015
+¶ <i>Another place</i>
+
+22
+00:02:16,217 --> 00:02:19,209
+¶ <i>Where the faces are so cold</i>
+
+23
+00:02:19,537 --> 00:02:22,290
+¶ <i>I'd</i> drive <i>all night</i>
+
+24
+00:02:22,377 --> 00:02:25,369
+¶ <i>Just to get back home</i>
+
+25
+00:02:25,537 --> 00:02:27,289
+¶ <i>I'm a cowboy</i>
+
+26
+00:02:28,657 --> 00:02:31,649
+¶ <i>On a steel horse I ride</i>
+
+27
+00:02:31,737 --> 00:02:33,489
+¶ <i>I'm wanted</i>
+
+28
+00:02:35,297 --> 00:02:37,811
+¶ <i>Dead or alive</i>
+
+29
+00:02:38,497 --> 00:02:39,486
+¶ <i>I'm wanted</i>
+
+30
+00:02:41,497 --> 00:02:44,330
+¶ <i>Dead or alive</i>
+
+31
+00:02:56,737 --> 00:02:58,693
+¶ <i>Sometimes I sleep</i>
+
+32
+00:02:59,857 --> 00:03:02,974
+¶ <i>Sometimes it's not for days</i>
+
+33
+00:03:03,057 --> 00:03:04,649
+¶ <i>The people I meet</i>
+
+34
+00:03:05,737 --> 00:03:08,774
+¶ <i>Always go their separate ways</i>
+
+35
+00:03:09,097 --> 00:03:11,657
+¶ <i>Sometimes you tell the day</i>
+
+36
+00:03:12,097 --> 00:03:14,895
+¶ <i>By the bottle that you drink</i>
+
+37
+00:03:15,417 --> 00:03:18,250
+¶ <i>And time when you're all alone</i>
+
+38
+00:03:18,577 --> 00:03:20,374
+¶ <i>All you do is think</i>
+
+39
+00:03:21,257 --> 00:03:22,849
+¶ <i>I'm a cowboy</i>
+
+40
+00:03:24,457 --> 00:03:27,096
+¶ <i>On a steel horse I ride</i>
+
+41
+00:03:27,177 --> 00:03:28,974
+¶ <i>I'm wanted</i>
+
+42
+00:03:30,897 --> 00:03:33,206
+¶ <i>Dead or alive</i>
+
+43
+00:03:33,857 --> 00:03:35,449
+¶ <i>I'm wanted</i>
+
+44
+00:03:37,017 --> 00:03:40,612
+¶ <i>Dead or alive</i>
+
+45
+00:03:50,937 --> 00:03:54,373
+¶ <i>All right</i>
+
+46
+00:04:16,857 --> 00:04:18,370
+¶ <i>I'm a cowboy</i>
+
+47
+00:04:19,697 --> 00:04:22,495
+¶ <i>On a steel horse I ride</i>
+
+48
+00:04:22,577 --> 00:04:26,206
+¶ <i>I'm wanted</i>
+
+49
+00:04:26,337 --> 00:04:29,886
+¶ <i>Dead or alive</i>
+
+50
+00:04:30,417 --> 00:04:32,567
+¶ <i>And I walk these streets</i>
+
+51
+00:04:33,377 --> 00:04:35,937
+¶ <i>A loaded six- string on my back</i>
+
+52
+00:04:39,977 --> 00:04:44,812
+Give me the money. Open the register
+and give me the fucking money now!
+
+53
+00:04:44,897 --> 00:04:47,570
+<i>(man on floor)</i> Don't hurt her, son.
+
+54
+00:04:48,457 --> 00:04:53,656
+Can I get 10 bucks on pump two, Suzie?
+
+55
+00:04:53,737 --> 00:04:56,809
+- Hit the floor, asshole.
+- Stay down.
+
+56
+00:05:00,097 --> 00:05:03,373
+You know, this really pisses me off.
+
+57
+00:05:03,457 --> 00:05:07,894
+Your store's got such nice,
+clean, filtered fresh air and...
+
+58
+00:05:07,977 --> 00:05:11,936
+it just takes a couple
+of scumbags to stink it up.
+
+59
+00:05:12,017 --> 00:05:18,047
+I said hit the floor, asshole,
+or I'm gonna blow your fucking head off.
+
+60
+00:05:18,137 --> 00:05:22,289
+If I had a nickel for every time
+some piece of shit pointed a gun at me,
+
+61
+00:05:22,377 --> 00:05:24,049
+I'd be a rich man.
+
+62
+00:05:28,457 --> 00:05:32,530
+I'm gonna cut you long,
+wide and deep, motorhead.
+
+63
+00:05:47,137 --> 00:05:49,492
+Pump all the gas you can hold.
+
+64
+00:05:49,577 --> 00:05:52,853
+That's not good business.
+
+65
+00:05:52,937 --> 00:05:55,326
+Hey, mister, got a name?
+
+66
+00:05:57,057 --> 00:06:00,254
+Harley. Harley Davidson.
+
+67
+00:06:00,577 --> 00:06:04,490
+<i>(¶ "The Bigger They Come"</i>
+<i>by Frampton/Marriott)</i>
+
+68
+00:06:32,377 --> 00:06:37,405
+My old man used to tell me,
+before he left this shitty world,
+
+69
+00:06:37,497 --> 00:06:41,695
+there are five rules
+when shooting a game of pool for cash.
+
+70
+00:06:42,217 --> 00:06:44,447
+Lesson number one.
+
+71
+00:06:44,537 --> 00:06:48,052
+Always shoot
+with a cigarette hangin' in your mouth.
+
+72
+00:06:48,137 --> 00:06:51,015
+Can't smoke with no fire, asshole.
+
+73
+00:06:52,497 --> 00:06:54,488
+I quit.
+
+74
+00:06:56,257 --> 00:06:58,327
+Lesson two.
+
+75
+00:06:58,417 --> 00:07:02,092
+Always know the table before you shoot.
+
+76
+00:07:07,617 --> 00:07:09,687
+Lesson number three.
+
+77
+00:07:10,657 --> 00:07:15,572
+Make sure you chalk that stick real good
+before each shot.
+
+78
+00:07:21,537 --> 00:07:23,528
+Lesson four.
+
+79
+00:07:23,617 --> 00:07:29,214
+Never make a bet...
+if you can't pay the debt.
+
+80
+00:07:40,137 --> 00:07:42,128
+Lesson number five.
+
+81
+00:07:45,177 --> 00:07:47,168
+If you lose,
+
+82
+00:07:48,657 --> 00:07:51,251
+stand up straight and tall -
+
+83
+00:07:54,017 --> 00:07:57,168
+that corner - and walk like a man.
+
+84
+00:08:06,097 --> 00:08:11,410
+- <i>(woman)</i> I don't believe it.
+- <i>(man)</i> Well done, cowboy.
+
+85
+00:08:16,177 --> 00:08:17,974
+School's out, boys.
+
+86
+00:08:23,617 --> 00:08:28,566
+You better get the hell out of town,
+cowboy, before my cord snaps.
+
+87
+00:08:28,657 --> 00:08:30,648
+I'm good to go...
+
+88
+00:08:32,137 --> 00:08:37,973
+soon as I got five big bills in my pocket,
+or your woman in my bed.
+
+89
+00:08:48,257 --> 00:08:51,374
+I ain't got no $500, cowboy.
+
+90
+00:08:52,377 --> 00:08:57,007
+And there's no way in hell
+you're beddin' down my woman.
+
+91
+00:08:58,057 --> 00:09:03,654
+My old man said there'd be blue-bellied,
+chicken-shit bastards like you.
+
+92
+00:09:04,417 --> 00:09:07,773
+You jumped on the wrong horse, cowboy.
+
+93
+00:09:07,857 --> 00:09:11,975
+Just in case you didn't notice,
+you're the only cowboy in this place.
+
+94
+00:09:14,097 --> 00:09:16,327
+He ain't no cowboy.
+
+95
+00:09:16,417 --> 00:09:19,011
+He's more like a pretty boy.
+
+96
+00:09:23,177 --> 00:09:24,166
+Pretty boy.
+
+97
+00:09:32,417 --> 00:09:37,810
+Hey, if he's such a pretty boy, you should
+be able to handle him all by yourself.
+
+98
+00:09:37,897 --> 00:09:41,287
+<i>( ¶ "Let's Work Together"</i>
+<i>by The Kentucky Headhunters)</i>
+
+99
+00:09:45,377 --> 00:09:46,890
+Son of a bitch.
+
+100
+00:09:49,497 --> 00:09:50,725
+Pretty boy, huh?
+
+101
+00:10:38,497 --> 00:10:44,572
+Marlboro, when the hell are you gonna
+learn to hustle guys you can hustle?
+
+102
+00:10:45,417 --> 00:10:48,534
+You gotta think things out.
+
+103
+00:10:48,617 --> 00:10:51,689
+<i>You</i> think, Harley. I survive.
+
+104
+00:10:54,297 --> 00:10:57,175
+Where the hell you been, anyway?
+
+105
+00:10:59,377 --> 00:11:01,572
+Fixin' bikes.
+
+106
+00:11:01,657 --> 00:11:04,012
+Little shithole outside of Dallas.
+
+107
+00:11:04,897 --> 00:11:07,934
+- For two years?
+- I been thinkin'.
+
+108
+00:11:08,017 --> 00:11:10,133
+For two years?
+
+109
+00:11:10,217 --> 00:11:12,606
+I've been thinkin' about life.
+
+110
+00:11:12,697 --> 00:11:15,769
+That's the trouble with you, Harley.
+
+111
+00:11:17,497 --> 00:11:19,806
+You think too damn much.
+
+112
+00:11:20,537 --> 00:11:24,052
+<i>(Harley)</i> Man, I hate this city.
+But it's home, huh?
+
+113
+00:11:24,137 --> 00:11:28,528
+It's that time again, ain't it, Harley?
+
+114
+00:11:33,817 --> 00:11:37,093
+You're the only family I got, Marlboro.
+
+115
+00:11:38,417 --> 00:11:40,885
+Goddamn, that's a cryin' shame.
+
+116
+00:11:40,977 --> 00:11:44,253
+I could've had a family with Jenny Ann,
+
+117
+00:11:44,337 --> 00:11:47,409
+but marriage is for those other guys.
+
+118
+00:11:48,617 --> 00:11:49,606
+Amen.
+
+119
+00:11:53,777 --> 00:11:57,895
+Do you ever wonder
+if there could be something better?
+
+120
+00:12:00,257 --> 00:12:01,895
+Every day.
+
+121
+00:12:01,977 --> 00:12:05,572
+I don't mean like that. I mean somethin'...
+
+122
+00:12:07,137 --> 00:12:09,128
+Somethin' different.
+
+123
+00:12:11,297 --> 00:12:16,894
+- Talking about heaven?
+- I mean like... I mean like God.
+
+124
+00:12:17,577 --> 00:12:21,092
+You didn't go and get
+religious on me now, did you?
+
+125
+00:12:21,177 --> 00:12:23,645
+No, man, but just think about it.
+
+126
+00:12:23,737 --> 00:12:31,087
+If there is a heaven and a God,
+I'd like to meet the dude.
+
+127
+00:12:31,177 --> 00:12:33,645
+I'd like to go up there
+and hang out with him.
+
+128
+00:12:38,857 --> 00:12:41,530
+You ain't gonna meet God with me.
+
+129
+00:12:43,417 --> 00:12:48,537
+When I'm dead and done, I don't want
+no damn excuses for what I did.
+
+130
+00:12:58,977 --> 00:13:02,049
+Burbank. What happened?
+
+131
+00:13:05,297 --> 00:13:07,288
+The future.
+
+132
+00:13:10,377 --> 00:13:12,254
+Can you believe it?
+
+133
+00:13:12,337 --> 00:13:17,331
+They turned Burbank
+into a goddamn international airport.
+
+134
+00:13:23,657 --> 00:13:27,127
+<i>( ¶ "Stop The World"</i>
+<i>by The Screaming Jets)</i>
+
+135
+00:13:32,777 --> 00:13:34,813
+<i>(bike misfiring)</i>
+
+136
+00:13:34,897 --> 00:13:37,286
+Shit. Son of a bitch.
+
+137
+00:13:40,257 --> 00:13:42,771
+You're a goddamn mess, Marlboro.
+
+138
+00:13:42,857 --> 00:13:45,576
+You need a new pair of boots
+and a new bike.
+
+139
+00:13:45,657 --> 00:13:48,171
+Lay off my boots.
+
+140
+00:13:48,257 --> 00:13:51,329
+But you're right about
+this rice-grinding horse.
+
+141
+00:13:51,417 --> 00:13:53,408
+Shit. Piece of shit.
+
+142
+00:13:53,497 --> 00:13:57,775
+I oughta give it a bullet
+and put it out of its misery.
+
+143
+00:14:00,057 --> 00:14:05,654
+Goddamn, Harley. If you were shootin'
+for shit, you wouldn't even get a whiff.
+
+144
+00:14:05,737 --> 00:14:07,534
+Hey.
+
+145
+00:14:07,617 --> 00:14:09,608
+Happy birthday.
+
+146
+00:14:14,617 --> 00:14:17,131
+You son of a bitch.
+
+147
+00:14:17,217 --> 00:14:19,208
+I almost forgot.
+
+148
+00:14:23,777 --> 00:14:25,768
+44 mag Desert Eagle.
+
+149
+00:14:27,257 --> 00:14:30,055
+Eight in the clip. One in the pipe.
+
+150
+00:14:32,697 --> 00:14:36,895
+That's nice, man. Thanks.
+
+151
+00:14:36,977 --> 00:14:39,366
+How's it feel to be an old man?
+
+152
+00:14:42,217 --> 00:14:44,777
+Older the bull, the stiffer the horn.
+
+153
+00:14:54,977 --> 00:14:58,253
+You gotta squeeze the trigger, Harley.
+
+154
+00:14:59,257 --> 00:15:02,055
+Don't yank it. It's not your dick.
+
+155
+00:15:02,137 --> 00:15:03,650
+Squeeze it.
+
+156
+00:15:04,937 --> 00:15:08,054
+¶ All the tears inside
+
+157
+00:15:08,937 --> 00:15:12,646
+¶ What an ache it will bring
+
+158
+00:15:14,097 --> 00:15:16,053
+God, I love this place.
+
+159
+00:15:17,577 --> 00:15:20,694
+¶ To a telephone
+
+160
+00:15:21,177 --> 00:15:26,012
+¶ That forgot how to ring
+
+161
+00:15:26,937 --> 00:15:32,455
+¶ I could say you'll soon be back, dear
+
+162
+00:15:34,737 --> 00:15:39,731
+¶ To fool the whole town may be smart
+
+163
+00:15:41,617 --> 00:15:45,769
+¶ I'll tell them you'll soon be back, dear
+
+164
+00:15:47,217 --> 00:15:52,575
+¶ But what can I tell my heart?
+
+165
+00:15:53,497 --> 00:15:56,853
+Hey, old man, half-time's over.
+You got a restaurant to run.
+
+166
+00:15:56,937 --> 00:15:59,974
+Man alive, Harley.
+
+167
+00:16:00,057 --> 00:16:02,048
+So good to see you.
+
+168
+00:16:03,657 --> 00:16:06,535
+I'm gonna regret it. I always do.
+
+169
+00:16:08,617 --> 00:16:11,006
+Yeah. Who are the suits?
+
+170
+00:16:13,057 --> 00:16:16,493
+Go back to wherever it is you ran off to.
+
+171
+00:16:16,577 --> 00:16:21,048
+I can't do that.
+I got some unfinished business.
+
+172
+00:16:21,137 --> 00:16:24,846
+Some business is better left unfinished.
+
+173
+00:16:27,177 --> 00:16:28,496
+¶ What an ache
+
+174
+00:16:28,577 --> 00:16:31,694
+Not this business. I'll see you around.
+
+175
+00:16:32,537 --> 00:16:36,291
+¶ Then I'll wander home
+
+176
+00:16:36,377 --> 00:16:40,165
+¶ To a telephone
+
+177
+00:16:40,257 --> 00:16:45,012
+¶ Oh, that forgot how to ring
+
+178
+00:16:45,297 --> 00:16:51,372
+¶ I could say you'll soon be back, dear
+
+179
+00:16:53,657 --> 00:16:58,048
+¶ To fool the whole town may be smart
+
+180
+00:16:58,617 --> 00:17:04,806
+¶ I could say you'll soon be back, dear
+
+181
+00:17:05,217 --> 00:17:11,372
+¶ Oh, but what will I tell my heart
+
+182
+00:17:15,657 --> 00:17:18,296
+You got a death wish?
+
+183
+00:17:18,377 --> 00:17:21,130
+You better leave that one alone, Harley.
+
+184
+00:17:21,217 --> 00:17:23,651
+You don't think Jack's still pissed off?
+
+185
+00:17:23,737 --> 00:17:26,456
+Pissed off at ya? Nah.
+
+186
+00:17:28,137 --> 00:17:30,526
+He wants to kill ya.
+
+187
+00:17:31,697 --> 00:17:33,688
+<i>(applause, cheering)</i>
+
+188
+00:17:36,457 --> 00:17:38,448
+<i>(buzzer)</i>
+
+189
+00:17:42,297 --> 00:17:45,448
+Hey, what's happening, Jose?
+
+190
+00:17:45,537 --> 00:17:47,607
+Look what the cat drug in.
+
+191
+00:17:48,617 --> 00:17:50,608
+<i>Z Qué pasa, amigo?</i>
+
+192
+00:17:51,577 --> 00:17:54,045
+How you doing? Good to see you.
+
+193
+00:17:57,097 --> 00:18:01,409
+He didn't think you were comin' back.
+Chompin' at the bit for some action.
+
+194
+00:18:01,497 --> 00:18:05,172
+Me and you are gonna
+rock 'n' roll, brother.
+
+195
+00:18:05,257 --> 00:18:07,646
+Jimmy and... Jack here?
+
+196
+00:18:12,137 --> 00:18:17,211
+Said he doesn't think you should go in.
+If you do, you're dead.
+
+197
+00:18:19,657 --> 00:18:24,333
+It's better to be dead and cool
+than alive and uncool.
+
+198
+00:18:29,977 --> 00:18:32,491
+200 on Jack! Place your bets.
+
+199
+00:18:33,297 --> 00:18:35,288
+200 on Jack.
+
+200
+00:18:40,977 --> 00:18:44,526
+Well, goddamn.
+Does he look like he's gotten bigger?
+
+201
+00:18:44,617 --> 00:18:45,936
+Maybe a little.
+
+202
+00:18:46,017 --> 00:18:50,488
+The book is closed!
+It is time for the main event.
+
+203
+00:18:50,577 --> 00:18:52,647
+Get set, gentlemen.
+
+204
+00:18:54,177 --> 00:18:57,249
+Now, may I ask one thing back here?
+
+205
+00:18:57,337 --> 00:19:01,933
+And that is two things. Be fair and be cool.
+
+206
+00:19:02,017 --> 00:19:03,655
+Wrestle!
+
+207
+00:19:03,737 --> 00:19:05,489
+Come on, Jack! Come on, Jack!
+
+208
+00:19:05,977 --> 00:19:07,888
+Come on, Jack! Come on, Jack!
+
+209
+00:19:14,577 --> 00:19:16,807
+Jack! Jack?
+
+210
+00:19:17,897 --> 00:19:20,172
+Goddamn!
+
+211
+00:19:25,537 --> 00:19:27,767
+Harley, what are you doin' back here?
+
+212
+00:19:27,857 --> 00:19:31,133
+- I missed all you guys.
+- I'm gonna kill you, Harley.
+
+213
+00:19:31,217 --> 00:19:33,128
+- Told you.
+- Get ready.
+
+214
+00:19:33,217 --> 00:19:36,414
+Jack, I don't want to fight with you.
+We're friends.
+
+215
+00:19:36,497 --> 00:19:37,532
+<i>Was</i> friends.
+
+216
+00:19:37,617 --> 00:19:40,495
+- Can't we talk this out?
+- Not a chance.
+
+217
+00:19:40,577 --> 00:19:43,614
+Talk's cheap. And I'm not buyin' any.
+
+218
+00:19:47,097 --> 00:19:50,328
+Hey, Jimmy,
+you wanna help me out here a little?
+
+219
+00:19:50,417 --> 00:19:53,056
+This is your world, homes.
+I'm just livin' in it.
+
+220
+00:19:57,097 --> 00:20:01,648
+Hurry up, Harley.
+It's gonna be bloody but quick.
+
+221
+00:20:01,737 --> 00:20:03,728
+You hold on.
+
+222
+00:20:08,137 --> 00:20:12,415
+<i>(Marlboro)</i> How much do you think
+we can get for this jacket?
+
+223
+00:20:13,417 --> 00:20:15,373
+What'd he say?
+
+224
+00:20:15,457 --> 00:20:17,175
+<i>Vaya con Dios, amigo.</i>
+
+225
+00:20:18,937 --> 00:20:20,689
+What's that mean?
+
+226
+00:20:20,777 --> 00:20:22,768
+Go with God.
+
+227
+00:20:26,177 --> 00:20:31,012
+Now, Jack, you know the last time
+we did this I kicked your ass.
+
+228
+00:20:31,097 --> 00:20:35,170
+That was in high school, Harley,
+and Jack had a broken arm.
+
+229
+00:20:35,257 --> 00:20:37,896
+I'm the one that did it.
+
+230
+00:20:37,977 --> 00:20:39,968
+You remember, Jack?
+
+231
+00:20:55,737 --> 00:20:56,886
+Goddamnit!
+
+232
+00:20:58,817 --> 00:21:01,809
+He was doin' pretty good up to there.
+
+233
+00:21:06,097 --> 00:21:06,973
+Oh...
+
+234
+00:21:10,057 --> 00:21:12,093
+I can't watch this.
+
+235
+00:21:16,777 --> 00:21:18,415
+Uh-oh.
+
+236
+00:21:18,497 --> 00:21:20,488
+He's fucked.
+
+237
+00:21:23,097 --> 00:21:25,292
+I'm gonna kill you, Harley.
+
+238
+00:21:35,497 --> 00:21:38,057
+I just picked the wrong flower.
+
+239
+00:21:38,137 --> 00:21:42,574
+I'd kill for you, Harley.
+How could you do that to me?
+
+240
+00:21:42,657 --> 00:21:46,775
+I've always been bad company with
+a good-looking woman in the room.
+
+241
+00:21:46,857 --> 00:21:49,087
+Stay away from her, Harley.
+
+242
+00:21:49,177 --> 00:21:51,691
+I love her. We're married.
+
+243
+00:21:54,297 --> 00:21:57,255
+It's always only been you, Jack.
+
+244
+00:21:57,337 --> 00:21:59,612
+She loves you.
+
+245
+00:21:59,697 --> 00:22:02,131
+- She does?
+- Just you.
+
+246
+00:22:02,217 --> 00:22:04,685
+- Never you?
+- No. Just you.
+
+247
+00:22:06,137 --> 00:22:08,605
+Sorry, buddy. Sorry.
+
+248
+00:22:08,937 --> 00:22:12,771
+I should've never let you
+in the door, Harley.
+
+249
+00:22:12,857 --> 00:22:14,006
+Thanks, man.
+
+250
+00:22:14,177 --> 00:22:15,656
+Never. Never.
+
+251
+00:22:16,577 --> 00:22:18,568
+- Never.
+- Sorry.
+
+252
+00:22:20,097 --> 00:22:22,531
+Goddamnit, Jack!
+
+253
+00:22:22,617 --> 00:22:25,006
+You're my brother-in-law and I love you,
+
+254
+00:22:25,097 --> 00:22:28,772
+but that don't get back
+the couple of grand we lost tonight.
+
+255
+00:22:28,857 --> 00:22:31,690
+The deal is you lose,
+
+256
+00:22:31,777 --> 00:22:34,655
+and don't tear his fuckin' arm off.
+
+257
+00:22:34,737 --> 00:22:37,012
+The old man and I have enough problems.
+
+258
+00:22:37,097 --> 00:22:40,851
+We're tryin' to make as much money
+as we can before we lose this place.
+
+259
+00:22:40,937 --> 00:22:45,408
+What do you mean, lose this place?
+You ain't gonna lose this place.
+
+260
+00:22:45,497 --> 00:22:48,569
+- It's a landmark.
+- That don't mean shit, homes.
+
+261
+00:22:48,657 --> 00:22:51,376
+If money talks
+and bullshit walks, we walkin'.
+
+262
+00:22:51,457 --> 00:22:53,891
+And it ain't gonna be down easy street.
+
+263
+00:22:53,977 --> 00:22:55,535
+What's the story, old man?
+
+264
+00:22:55,617 --> 00:23:02,648
+In '56 I leased this property when nobody
+wanted to be seen on this side of the hill.
+
+265
+00:23:02,737 --> 00:23:08,175
+And in '66 I renewed my lease
+on my own terms.
+
+266
+00:23:09,537 --> 00:23:12,256
+350 a month for 30 years.
+
+267
+00:23:13,537 --> 00:23:16,927
+In 21 days those 30 years have run out.
+
+268
+00:23:17,017 --> 00:23:19,975
+Now with the whole world
+flyin' into Burbank,
+
+269
+00:23:20,057 --> 00:23:26,053
+they're tryin' to strong-arm us
+for $2.5 million for a five-year lease.
+
+270
+00:23:27,177 --> 00:23:30,647
+They're gonna put up another skyscraper.
+
+271
+00:23:34,737 --> 00:23:38,412
+- Who's tryin' to strong-arm you?
+- The bank.
+
+272
+00:23:40,297 --> 00:23:43,653
+- What bank?
+- Great Trust.
+
+273
+00:23:47,297 --> 00:23:50,892
+- The suits?
+- Hm-hmm.
+
+274
+00:23:53,097 --> 00:23:54,894
+Well...
+
+275
+00:23:54,977 --> 00:23:59,687
+there's only one place
+to get that kind of money so fast.
+
+276
+00:23:59,777 --> 00:24:03,895
+- No suit's gonna loan us $2.5 million.
+<i>- (old man)</i> That's for sure.
+
+277
+00:24:03,977 --> 00:24:06,855
+Man, I ain't talkin' about no loan.
+
+278
+00:24:09,977 --> 00:24:13,367
+- I don't wanna hear it, Harley.
+- Hear what?
+
+279
+00:24:13,457 --> 00:24:16,574
+- You don't wanna know.
+- Know what?
+
+280
+00:24:16,657 --> 00:24:19,376
+He's gonna say we should rob the bank.
+
+281
+00:24:19,457 --> 00:24:23,735
+We ain't gonna rob any damn bank.
+We ain't bank robbers.
+
+282
+00:24:23,817 --> 00:24:27,332
+We owe it to the old man.
+We grew up in this place.
+
+283
+00:24:27,417 --> 00:24:29,772
+You boys don't owe me anything.
+
+284
+00:24:30,417 --> 00:24:32,214
+<i>(Harley)</i> Sure, we do.
+
+285
+00:24:32,297 --> 00:24:36,415
+Hell, if it wasn't for you,
+we'd all be face-down in the gutter
+
+286
+00:24:36,497 --> 00:24:40,251
+with a cigarette for company and a...
+
+287
+00:24:40,337 --> 00:24:42,726
+a needle for good times.
+
+288
+00:24:46,297 --> 00:24:48,686
+I'm ready to go.
+
+289
+00:24:48,777 --> 00:24:51,211
+- OK, baby. In a minute.
+- Now!
+
+290
+00:24:56,817 --> 00:25:01,527
+Count me out of this one.
+I made a promise to Lulu.
+
+291
+00:25:03,577 --> 00:25:05,772
+You made me a lot of promises, Jack.
+
+292
+00:25:05,857 --> 00:25:08,974
+We were gonna have a baby someday.
+
+293
+00:25:09,057 --> 00:25:12,254
+Can't start a family from behind bars.
+
+294
+00:25:16,417 --> 00:25:20,615
+You know... I really love this place.
+
+295
+00:25:21,417 --> 00:25:24,489
+It's a home. Makes me feel good.
+
+296
+00:25:24,577 --> 00:25:28,934
+And if we gotta rob a bank to save it,
+
+297
+00:25:30,097 --> 00:25:32,486
+I'll do that.
+
+298
+00:25:32,577 --> 00:25:34,533
+But I can't do it alone.
+
+299
+00:25:34,617 --> 00:25:38,326
+You guys are gonna have to get it up too.
+
+300
+00:26:44,817 --> 00:26:48,605
+<i>(radio) 12 minutes Pacific and California.</i>
+<i>We'll check with you then.</i> Over.
+
+301
+00:26:48,697 --> 00:26:49,766
+<i>Roger, Dispatch.</i>
+
+302
+00:26:54,577 --> 00:26:55,976
+<i>We copy.</i>
+
+303
+00:27:00,457 --> 00:27:01,526
+Shit!
+
+304
+00:27:44,417 --> 00:27:49,093
+<i>Car 3, this is Dispatch. Give me</i>
+<i>your 10-20 and security code,</i> over.
+
+305
+00:27:49,177 --> 00:27:51,975
+<i>Dispatch, we're at the shipyard.</i>
+
+306
+00:27:54,817 --> 00:27:57,206
+What's with this hard-hat?
+
+307
+00:27:57,777 --> 00:27:59,688
+<i>(horn)</i>
+
+308
+00:28:09,217 --> 00:28:12,812
+You'll have to move your equipment.
+I got a delivery to make.
+
+309
+00:28:12,897 --> 00:28:16,333
+Are you deaf?
+I said you'll have to move your...
+
+310
+00:28:16,417 --> 00:28:18,294
+I heard what you said.
+
+311
+00:28:19,897 --> 00:28:22,047
+Drop your gun.
+
+312
+00:28:22,137 --> 00:28:24,287
+You won't like what you're getting into.
+
+313
+00:28:24,377 --> 00:28:27,926
+<i>(Harley)</i> From 15 feet away
+there's a chance you could miss me.
+
+314
+00:28:28,017 --> 00:28:31,293
+I could be blind and
+still blow your head off, so drop it.
+
+315
+00:28:31,377 --> 00:28:33,368
+No, you drop it, asshole.
+
+316
+00:28:35,857 --> 00:28:37,848
+- Shit!
+- Think fast.
+
+317
+00:28:43,177 --> 00:28:44,292
+Shit!
+
+318
+00:28:45,657 --> 00:28:48,410
+Come on. Get over here. Sit down.
+
+319
+00:28:50,817 --> 00:28:53,775
+Guns are made to be shot, Harley,
+not thrown.
+
+320
+00:28:54,617 --> 00:28:57,085
+<i>(Harley)</i> Go do it, Jose.
+
+321
+00:28:57,177 --> 00:29:00,613
+You're the deadest shot I've ever seen.
+Where'd you learn to do that?
+
+322
+00:29:00,697 --> 00:29:03,052
+Read a book. Came with the gun.
+
+323
+00:29:03,137 --> 00:29:04,934
+Who are you guys?
+
+324
+00:29:05,017 --> 00:29:09,295
+He's Harley Davidson
+and I'm the Marlboro man.
+
+325
+00:29:09,377 --> 00:29:12,972
+You look like a bunch
+of two-bit hoods to me.
+
+326
+00:29:18,617 --> 00:29:21,336
+Does that look like the work
+of two-bit hoods?
+
+327
+00:29:21,417 --> 00:29:24,409
+Yeah. Pros would have used my keys.
+
+328
+00:29:26,057 --> 00:29:28,173
+He likes to blow things up.
+
+329
+00:29:29,137 --> 00:29:30,729
+Hot stuff. Watch it.
+
+330
+00:29:30,817 --> 00:29:35,607
+- Nice day for work, huh, Jimmy?
+- None better ever, homes.
+
+331
+00:29:43,177 --> 00:29:45,372
+Nice doing business with you boys.
+
+332
+00:29:45,457 --> 00:29:49,336
+Your business isn't with us. It's with them.
+
+333
+00:30:07,657 --> 00:30:10,774
+Whatever they've got to say,
+I don't wanna hear it.
+
+334
+00:30:12,737 --> 00:30:15,092
+- Let's rock it! We got company.
+- Shit, no.
+
+335
+00:30:17,417 --> 00:30:18,327
+Shit!
+
+336
+00:30:23,857 --> 00:30:26,132
+What the fuck is all this about?
+
+337
+00:30:33,417 --> 00:30:37,376
+Harley, throw that shotgun at 'em.
+Maybe you'll hit somethin'.
+
+338
+00:30:44,777 --> 00:30:47,610
+- I thought you was a dead shot.
+- So did I.
+
+339
+00:30:47,697 --> 00:30:51,292
+- Then why ain't they droppin'?
+- Beats the shit outta me.
+
+340
+00:30:56,857 --> 00:30:58,734
+<i>(yelling)</i>
+
+341
+00:31:15,377 --> 00:31:16,571
+Come on, guys.
+
+342
+00:31:26,857 --> 00:31:29,849
+- Come on, Harley!
+- Let's go, Jimmy!
+
+343
+00:32:03,697 --> 00:32:07,736
+<i>(Jimmy)</i> All right, you're a big fuckin'
+hero, big man! A big fuckin' hero!
+
+344
+00:32:07,817 --> 00:32:11,253
+You guys needed backup. I had
+nothing to do and no one to do it with.
+
+345
+00:32:11,337 --> 00:32:15,728
+Backup, hell. Harley's thinking
+damn near had us on the ropes.
+
+346
+00:32:15,817 --> 00:32:17,614
+Saved our lives, big boy.
+
+347
+00:32:17,697 --> 00:32:20,894
+You guys owe me a bike.
+I gotta get a new bike.
+
+348
+00:32:20,977 --> 00:32:22,888
+Hey, man, you'll get a new bike.
+
+349
+00:32:22,977 --> 00:32:27,334
+Promise you won't tell Lulu. I don't want
+her mad. She's mean when she's mad.
+
+350
+00:32:27,417 --> 00:32:31,205
+I can take care of the bike,
+but I can't take care of the bitch.
+
+351
+00:32:31,297 --> 00:32:35,449
+- Why not? You did once.
+- You might wanna take a look at this shit.
+
+352
+00:32:41,337 --> 00:32:43,931
+- What is it?
+- Unmelted, pure Crystal Dream.
+
+353
+00:32:44,017 --> 00:32:46,975
+What the fuck is that
+and what is it doin' here?
+
+354
+00:32:47,057 --> 00:32:51,528
+It's a drug. And I don't know
+what the fuck it's doin' here.
+
+355
+00:32:51,617 --> 00:32:55,326
+I'm a son of a bitch.
+We jumped the wrong train.
+
+356
+00:32:55,417 --> 00:32:57,248
+Fuck! Shit, man!
+
+357
+00:32:58,497 --> 00:33:01,807
+His little brother OD'd using this shit.
+
+358
+00:33:01,897 --> 00:33:05,014
+Don't worry, Jose, we ain't drug dealers.
+
+359
+00:33:08,417 --> 00:33:12,251
+This is not a walk in the park, Harley.
+This is way out there on the edge.
+
+360
+00:33:12,337 --> 00:33:16,216
+These guys are killers. They killed
+their own men tryin' to waste us.
+
+361
+00:33:16,297 --> 00:33:18,606
+That's enough, Jimmy.
+
+362
+00:33:18,697 --> 00:33:21,814
+I never liked this plan from the start.
+
+363
+00:33:21,897 --> 00:33:24,172
+But you needed help and you took it.
+
+364
+00:33:24,257 --> 00:33:27,374
+So don't whine about it now.
+
+365
+00:33:27,457 --> 00:33:30,051
+What's done is done.
+There's no turnin' back.
+
+366
+00:33:32,977 --> 00:33:34,615
+Who are these men?
+
+367
+00:33:34,697 --> 00:33:38,246
+Judging from the data we gathered,
+they're dilettantes.
+
+368
+00:33:38,337 --> 00:33:44,606
+Details would suggest that they were
+not aware of the cargo they've stolen.
+
+369
+00:33:51,777 --> 00:33:56,646
+If they're amateurs,
+how'd they destroy two vehicles
+
+370
+00:33:56,737 --> 00:34:00,571
+and then manage to get away
+with the goods?
+
+371
+00:34:02,137 --> 00:34:04,526
+They were extremely lucky.
+
+372
+00:34:08,137 --> 00:34:12,653
+I don't have time for luck, now, do I?
+
+373
+00:34:13,297 --> 00:34:15,606
+Get back what's mine.
+
+374
+00:34:16,497 --> 00:34:19,807
+And kill these men, Alexander, OK?
+
+375
+00:34:26,017 --> 00:34:27,416
+¶ Yeah, yeah, yeah
+
+376
+00:34:35,457 --> 00:34:37,846
+Man, we really fucked up big.
+
+377
+00:34:40,897 --> 00:34:46,654
+How was I supposed to know somebody's
+using a bank as a front to run drugs?
+
+378
+00:34:47,577 --> 00:34:50,489
+Harley, I'm tired and I'm pissed.
+
+379
+00:34:52,017 --> 00:34:54,406
+And I'd just like to unwind.
+
+380
+00:34:55,737 --> 00:34:57,773
+So stop thinkin'.
+
+381
+00:34:57,857 --> 00:35:01,293
+Now I gotta think of some way
+to make things right.
+
+382
+00:35:05,217 --> 00:35:07,208
+Hi.
+
+383
+00:35:07,297 --> 00:35:10,653
+I know you don't know me,
+but I don't have a way home
+
+384
+00:35:10,737 --> 00:35:14,013
+and Jimmy said that you'd give me a ride.
+
+385
+00:35:15,337 --> 00:35:17,931
+Sure, I'll give you a ride, Sally.
+
+386
+00:35:18,017 --> 00:35:20,087
+The name tag's wrong.
+
+387
+00:35:20,177 --> 00:35:22,168
+My real name's Honey.
+
+388
+00:35:23,577 --> 00:35:27,252
+Pure gold... and sweet.
+
+389
+00:35:29,337 --> 00:35:31,328
+I'm off at ten.
+
+390
+00:35:32,977 --> 00:35:37,812
+My old man used to tell me,
+before he left this shitty world,
+
+391
+00:35:37,897 --> 00:35:41,287
+the right woman can make you
+and the wrong one can break you.
+
+392
+00:35:41,377 --> 00:35:43,766
+I woke up one mornin'...
+
+393
+00:35:46,137 --> 00:35:48,128
+and she was gone.
+
+394
+00:35:50,257 --> 00:35:53,055
+No note. No kiss goodbye. No nothin'.
+
+395
+00:35:53,137 --> 00:35:56,925
+And I still have feelings
+for her deep inside.
+
+396
+00:35:58,057 --> 00:36:04,451
+Partner, I only know of two cures
+for that particular ailment.
+
+397
+00:36:05,217 --> 00:36:09,688
+And since you don't drink any more,
+you're down to one.
+
+398
+00:36:11,537 --> 00:36:13,846
+Let me borrow your bike.
+
+399
+00:36:13,937 --> 00:36:15,928
+I gotta take Sally home.
+
+400
+00:36:16,017 --> 00:36:17,575
+Get a cab.
+
+401
+00:36:33,737 --> 00:36:34,726
+<i>(siren)</i>
+
+402
+00:37:29,257 --> 00:37:32,932
+Stand up and put your hands
+behind your head.
+
+403
+00:37:34,697 --> 00:37:37,086
+I was just blowin' off a little steam.
+
+404
+00:37:37,177 --> 00:37:41,853
+You blew in the wrong place.
+Kiss the wall and spread 'em.
+
+405
+00:38:00,697 --> 00:38:03,609
+OK, cowboy, let's blow off some steam.
+
+406
+00:38:09,017 --> 00:38:11,008
+What's wrong tonight?
+
+407
+00:38:12,817 --> 00:38:14,808
+I'm getting married.
+
+408
+00:38:16,937 --> 00:38:19,497
+Goddamn you, Robert,
+I'm tired of waiting
+
+409
+00:38:19,577 --> 00:38:22,216
+for you to come by
+when you feel the need.
+
+410
+00:38:22,297 --> 00:38:26,973
+I get lonely. I like to share my bed
+with someone at night.
+
+411
+00:38:32,737 --> 00:38:35,615
+Hell, isn't that what we're doin'?
+
+412
+00:38:36,457 --> 00:38:39,096
+One, maybe two nights a month,
+if I'm lucky.
+
+413
+00:38:40,457 --> 00:38:42,732
+Well, I am what I am, Virginia.
+
+414
+00:38:42,817 --> 00:38:47,447
+I've accepted that, even loved it.
+But I don't have to like it.
+
+415
+00:38:50,097 --> 00:38:52,816
+I get scared for you. I worry.
+
+416
+00:38:52,897 --> 00:38:57,687
+You could spend the rest of your life
+looking for what it is you're looking for,
+
+417
+00:38:57,777 --> 00:39:00,496
+but someday you'll have to find yourself.
+
+418
+00:39:00,577 --> 00:39:04,047
+I just can't wait for you to do it any more.
+
+419
+00:39:07,377 --> 00:39:09,368
+I love you, Robert.
+
+420
+00:39:11,177 --> 00:39:15,568
+But after tonight,
+you're not welcome here any more.
+
+421
+00:39:32,617 --> 00:39:34,209
+<i>(rock music on radio)</i>
+
+422
+00:39:55,977 --> 00:39:57,569
+Oh, fuck!
+
+423
+00:39:59,817 --> 00:40:04,493
+That's for Marlboro. Me and you'll
+go out and have somethin' to eat.
+
+424
+00:40:04,577 --> 00:40:06,329
+You're a bad man, Harley.
+
+425
+00:40:09,857 --> 00:40:12,655
+<i>(Virginia)</i>
+What are you two up to this time?
+
+426
+00:40:15,577 --> 00:40:19,934
+Do you know anything
+about this new drug, Crystal Dream?
+
+427
+00:40:25,097 --> 00:40:26,291
+Don't mess with it.
+
+428
+00:40:26,377 --> 00:40:30,165
+I don't mess with drugs no more,
+you know that.
+
+429
+00:40:32,537 --> 00:40:37,327
+It's a liquid-based blue crystalline
+substance with a neurotoxin RAH,
+
+430
+00:40:37,417 --> 00:40:40,614
+retina-activating hallucinogen.
+
+431
+00:40:40,697 --> 00:40:45,407
+So, it sort of numbs the senses
+and makes the world look better?
+
+432
+00:40:45,497 --> 00:40:46,612
+That's the high.
+
+433
+00:40:46,697 --> 00:40:50,895
+The low is it damages the central nervous
+system, causes insanity, then death.
+
+434
+00:40:50,977 --> 00:40:53,127
+On the street it's called the dream.
+
+435
+00:40:53,217 --> 00:40:55,208
+Thank you.
+
+436
+00:41:01,937 --> 00:41:03,928
+I'm broke.
+
+437
+00:41:18,137 --> 00:41:23,530
+You know something, Harley?
+In a weird way I'm jealous of you two.
+
+438
+00:41:25,177 --> 00:41:27,213
+Why's that?
+
+439
+00:41:27,297 --> 00:41:32,735
+The rest of us work so damn hard at life
+and you guys just live it one day at a time.
+
+440
+00:41:32,817 --> 00:41:33,932
+Yeah.
+
+441
+00:41:37,777 --> 00:41:39,768
+See ya.
+
+442
+00:41:59,777 --> 00:42:02,450
+What's with you and the old boots?
+
+443
+00:42:02,537 --> 00:42:06,530
+Lay off my boots, Harley.
+I'm in no fuckin' mood.
+
+444
+00:42:08,097 --> 00:42:10,975
+Did you have a rough night?
+
+445
+00:42:11,057 --> 00:42:14,094
+I woke up smellin' the coffee.
+Give me a light.
+
+446
+00:42:14,177 --> 00:42:17,487
+- I thought you quit?
+- Just give me a light.
+
+447
+00:42:27,777 --> 00:42:30,132
+- Whose bike?
+- Probably hers.
+
+448
+00:42:31,417 --> 00:42:33,408
+She ain't got no Harley.
+
+449
+00:42:39,097 --> 00:42:40,530
+What are you doin'?
+
+450
+00:42:40,617 --> 00:42:44,292
+It ain't hers,
+but I'll bet I know whose it is.
+
+451
+00:42:45,097 --> 00:42:47,565
+- Whose?
+- It's his.
+
+452
+00:42:49,297 --> 00:42:52,050
+You gotta cross and cut
+the red and the green wire.
+
+453
+00:42:52,137 --> 00:42:58,212
+I know how to hot-wire a bike. Don't
+tell me how to hot-wire a goddamn bike.
+
+454
+00:43:00,297 --> 00:43:02,891
+You gotta turn on the gas.
+
+455
+00:43:06,697 --> 00:43:08,096
+<i>(bike starts)</i>
+
+456
+00:43:09,817 --> 00:43:13,856
+If he's gonna take my girl,
+I'm gonna take his bike.
+
+457
+00:43:32,177 --> 00:43:35,806
+- You sure this is the right bank?
+- Yeah, I'm sure.
+
+458
+00:43:35,897 --> 00:43:39,572
+- How sure?
+- Hey, man, I'm real sure.
+
+459
+00:43:39,657 --> 00:43:43,969
+You were real sure there was gonna be
+money on that armoured truck.
+
+460
+00:43:44,057 --> 00:43:47,254
+And you were real sure
+this plan was gonna work.
+
+461
+00:43:47,337 --> 00:43:52,172
+You better be right about this or I'll break
+your head so you can't think no more.
+
+462
+00:43:52,257 --> 00:43:56,216
+Lighten up and tell me
+about that guy that's workin' Virginia.
+
+463
+00:43:56,297 --> 00:43:57,969
+Don't care. Didn't ask.
+
+464
+00:44:00,497 --> 00:44:04,934
+- You're gonna let her go just like that?
+- From where I stand, she let me go.
+
+465
+00:44:05,017 --> 00:44:08,373
+<i>(Harley)</i> If she wants you to chase her,
+that's the game.
+
+466
+00:44:08,457 --> 00:44:11,733
+My old man used to tell me,
+before he left this shitty world,
+
+467
+00:44:11,817 --> 00:44:13,933
+never chase buses or women.
+
+468
+00:44:14,017 --> 00:44:16,406
+You always get left behind.
+
+469
+00:44:31,657 --> 00:44:34,569
+I assume you're here to do business?
+
+470
+00:44:34,657 --> 00:44:37,808
+I'd like to do some business with you
+some other time.
+
+471
+00:44:37,897 --> 00:44:40,775
+But right now we got to talk
+to the man upstairs.
+
+472
+00:44:40,857 --> 00:44:42,848
+Stay on my tail.
+
+473
+00:44:47,177 --> 00:44:49,452
+No problem.
+
+474
+00:45:01,537 --> 00:45:05,610
+Looks like we really
+rattled the cage, Marlboro.
+
+475
+00:45:11,937 --> 00:45:15,725
+- This ain't gonna fly.
+- I'll bet you it flies.
+
+476
+00:45:18,417 --> 00:45:21,056
+- How much?
+- I'll bet you a dollar.
+
+477
+00:45:22,017 --> 00:45:28,286
+If you win you'll have to give me credit
+cos that cab fare last night broke me.
+
+478
+00:45:30,057 --> 00:45:32,048
+If I win, we're dead.
+
+479
+00:45:33,977 --> 00:45:35,126
+<i>(phone rings)</i>
+
+480
+00:45:35,217 --> 00:45:38,812
+Strap on your seat belt
+and get ready to fly.
+
+481
+00:45:40,657 --> 00:45:42,056
+American Airlines.
+
+482
+00:45:42,137 --> 00:45:45,971
+You've got something of mine
+and I want it back.
+
+483
+00:45:46,057 --> 00:45:48,776
+Really? What is that?
+
+484
+00:45:49,257 --> 00:45:54,206
+You know something,
+you've got balls. Big ones.
+
+485
+00:45:55,097 --> 00:45:57,736
+But they're not as big as you might think.
+
+486
+00:45:57,817 --> 00:46:02,811
+Well, mister, my balls are big enough
+to get your attention.
+
+487
+00:46:11,897 --> 00:46:16,015
+- What do you want?
+- How's about $2.5 million?
+
+488
+00:46:17,257 --> 00:46:20,533
+Wait a minute. Check that.
+I got a little side bet goin'.
+
+489
+00:46:20,617 --> 00:46:24,053
+Make that $2.5 million plus a buck.
+
+490
+00:46:24,577 --> 00:46:26,374
+When?
+
+491
+00:46:26,457 --> 00:46:27,606
+Where?
+
+492
+00:46:28,417 --> 00:46:30,851
+Airplane graveyard,
+
+493
+00:46:31,897 --> 00:46:34,286
+late, tonight.
+
+494
+00:46:35,737 --> 00:46:40,367
+You better call your boys off
+or you ain't gonna get nothin'.
+
+495
+00:46:40,457 --> 00:46:43,449
+Talk to you on the rebound... asshole.
+
+496
+00:46:51,057 --> 00:46:52,012
+Yes, sir?
+
+497
+00:46:52,097 --> 00:46:54,565
+Let 'em go, Alexander.
+
+498
+00:46:55,537 --> 00:46:57,528
+Let 'em go.
+
+499
+00:46:58,817 --> 00:47:01,331
+<i>(helicopter overhead)</i>
+
+500
+00:47:17,097 --> 00:47:19,088
+OK, let's do it.
+
+501
+00:47:40,737 --> 00:47:44,013
+You boys are good... for dilettantes.
+
+502
+00:47:44,097 --> 00:47:47,134
+They're not my boys, they're my friends.
+
+503
+00:47:47,217 --> 00:47:49,811
+Yeah. Let's see the crystals.
+
+504
+00:47:50,457 --> 00:47:53,096
+Let's see the cash.
+
+505
+00:47:53,177 --> 00:47:53,814
+Hey.
+
+506
+00:47:53,897 --> 00:47:55,888
+Open it real slow.
+
+507
+00:48:06,177 --> 00:48:09,487
+- Why the extra dollar?
+- We had a bet.
+
+508
+00:48:12,817 --> 00:48:13,408
+OK.
+
+509
+00:48:33,657 --> 00:48:38,048
+Well, it wasn't a walk in the park,
+but the job's done.
+
+510
+00:48:43,857 --> 00:48:47,406
+You did it. You did it, man.
+
+511
+00:48:47,497 --> 00:48:49,488
+Check this out, old man.
+
+512
+00:48:52,257 --> 00:48:55,294
+Besides Jimmy and Lulu
+and the rest of you,
+
+513
+00:48:55,377 --> 00:48:58,847
+this place is what keeps me
+comin' back day after day.
+
+514
+00:48:59,417 --> 00:49:03,251
+Thank you for givin' that back to me.
+
+515
+00:49:03,337 --> 00:49:05,168
+I've got things to do.
+
+516
+00:49:05,257 --> 00:49:10,126
+- Tomorrow we open for good.
+- All right. All right, Pops.
+
+517
+00:49:10,217 --> 00:49:11,696
+Whoo!
+
+518
+00:49:11,777 --> 00:49:14,610
+Man, I am thankful for this.
+
+519
+00:49:14,697 --> 00:49:17,689
+But you boys are whacked out,
+you know that?
+
+520
+00:49:17,777 --> 00:49:20,371
+I'm talkin' about you, Harley.
+
+521
+00:49:21,977 --> 00:49:25,253
+- That's what friendship's about.
+- It's done and it's done good.
+
+522
+00:49:25,337 --> 00:49:29,296
+So let's take the edge off.
+Come here, Marlboro, get in this.
+
+523
+00:49:30,217 --> 00:49:32,856
+To Lulu, who'd kill me
+if she knew what I helped do.
+
+524
+00:49:32,937 --> 00:49:35,576
+But because I did it, she still has a job.
+
+525
+00:49:35,657 --> 00:49:37,648
+To Lulu.
+
+526
+00:49:49,177 --> 00:49:51,168
+What's wrong? We done good tonight.
+
+527
+00:49:51,257 --> 00:49:55,136
+Shit, Harley,
+we're way out of our league, man.
+
+528
+00:49:56,457 --> 00:49:58,891
+It was too easy.
+
+529
+00:49:58,977 --> 00:50:02,970
+I think we oughta get out of Dodge,
+let things cool off for a while.
+
+530
+00:50:03,057 --> 00:50:05,525
+<i>(Marlboro)</i> Look at this shit.
+
+531
+00:50:13,217 --> 00:50:17,210
+- How the fuck did they find us?
+- I don't know.
+
+532
+00:50:17,297 --> 00:50:19,765
+And I damn sure don't wanna find out.
+
+533
+00:50:23,897 --> 00:50:28,015
+Not this again.
+I can't deal with this again, Harley.
+
+534
+00:50:28,097 --> 00:50:30,975
+The old man's got it under control.
+
+535
+00:50:32,857 --> 00:50:35,929
+Yeah, tell them we were in but we left.
+
+536
+00:50:38,377 --> 00:50:43,690
+That's right, boy, take your pussy friends
+and get the hell out of here.
+
+537
+00:50:43,777 --> 00:50:45,927
+Oops. I don't think he liked that.
+
+538
+00:50:46,017 --> 00:50:48,736
+I don't give a flying fuck what he likes.
+
+539
+00:51:25,257 --> 00:51:29,136
+- We gotta get the hell outta here.
+- No kidding!
+
+540
+00:51:50,697 --> 00:51:54,007
+I'm gonna fuckin' die today, Harley,
+and I blame you.
+
+541
+00:51:54,857 --> 00:51:59,692
+No, we're gonna live, and we're gonna
+go through that window to do it.
+
+542
+00:52:00,697 --> 00:52:02,574
+Jack, cover me.
+
+543
+00:52:16,257 --> 00:52:17,246
+Jack, come on!
+
+544
+00:52:21,417 --> 00:52:23,328
+<i>(Jack)</i> I'm right behind you.
+
+545
+00:52:29,857 --> 00:52:31,609
+Jack?
+
+546
+00:52:32,937 --> 00:52:34,052
+Jack?
+
+547
+00:54:00,457 --> 00:54:02,095
+Uh-oh. Uh-oh.
+
+548
+00:54:06,777 --> 00:54:08,051
+Sh, sh, sh.
+
+549
+00:54:08,137 --> 00:54:10,128
+Lady? Lady, hey, hey, hey.
+
+550
+00:54:10,217 --> 00:54:12,731
+Take it easy. We don't wanna hurt you.
+
+551
+00:54:17,057 --> 00:54:19,366
+Take her.
+
+552
+00:54:26,857 --> 00:54:28,848
+"Take her" he says!
+
+553
+00:54:30,697 --> 00:54:31,607
+Jesus, lady.
+
+554
+00:54:37,577 --> 00:54:40,410
+Hey! This is a restricted area, man.
+
+555
+00:54:40,497 --> 00:54:41,009
+Sh, sh.
+
+556
+00:54:41,097 --> 00:54:44,612
+You're gonna have to scoot,
+and I mean fast.
+
+557
+00:54:45,897 --> 00:54:51,017
+Hey, chump, in case you don't hear
+so good, I said get the fuck outta here.
+
+558
+00:55:38,657 --> 00:55:41,251
+<i>(Marlboro)</i> I hate this fuckin' town.
+
+559
+00:55:41,337 --> 00:55:44,886
+Hey, man, you don't know
+anything about this city.
+
+560
+00:55:44,977 --> 00:55:47,650
+I grew up here, you dumb bastard.
+
+561
+00:55:49,137 --> 00:55:53,210
+- I didn't know that.
+- What you don't know is a lot.
+
+562
+00:55:55,777 --> 00:55:58,735
+You mean to tell me that real cowboys,
+
+563
+00:55:58,817 --> 00:56:03,527
+I mean, shit-kickin' rodeo cowboys,
+come from Vegas?
+
+564
+00:56:05,257 --> 00:56:07,248
+Some of the best.
+
+565
+00:56:08,617 --> 00:56:11,006
+Maybe even <i>one</i> of the best.
+
+566
+00:56:19,657 --> 00:56:22,376
+Man, I know you don't wanna be here.
+
+567
+00:56:22,457 --> 00:56:26,735
+We're just gonna stay long enough
+to clean up and get some sleep.
+
+568
+00:56:26,817 --> 00:56:29,206
+Yeah, OK.
+
+569
+00:56:29,297 --> 00:56:35,088
+Did I ever tell you the time I lost my cherry
+to a fat girl in a room just like this?
+
+570
+00:56:35,177 --> 00:56:38,931
+It was in Mesquite, Texas.
+Her name was Annie.
+
+571
+00:56:39,737 --> 00:56:42,649
+Wasn't too good puttin' us
+up on this top floor.
+
+572
+00:56:42,737 --> 00:56:47,367
+There was a convention in town.
+It was all we could get.
+
+573
+00:56:47,457 --> 00:56:50,574
+Makes for a tough getaway.
+
+574
+00:56:50,657 --> 00:56:53,569
+They're not gonna find us here.
+They can't.
+
+575
+00:56:53,657 --> 00:56:56,046
+I wouldn't bet on that.
+
+576
+00:56:59,257 --> 00:57:04,650
+Why don't you stop whinin'?
+You're startin' to sound like Jimmy.
+
+577
+00:57:13,497 --> 00:57:16,933
+Jimmy's dead, you heartless piece of shit.
+
+578
+00:57:23,657 --> 00:57:27,491
+Four of our friends got killed tonight.
+
+579
+00:57:27,577 --> 00:57:31,536
+They're gone.
+Fuckin' tagged-on-the-toe dead.
+
+580
+00:57:32,657 --> 00:57:35,012
+Does that matter to you?
+
+581
+00:57:35,097 --> 00:57:37,247
+Do you fuckin' care?
+
+582
+00:57:38,897 --> 00:57:42,651
+Marlboro, I didn't force anyone to do it.
+
+583
+00:57:42,737 --> 00:57:46,332
+They took the chance
+and they knew the risk.
+
+584
+00:57:48,417 --> 00:57:51,011
+All right, look, it's my fault.
+
+585
+00:57:51,097 --> 00:57:53,930
+And I gotta live with it.
+
+586
+00:57:54,017 --> 00:57:59,808
+But right now me and you gotta
+pull it together if we're gonna survive.
+
+587
+00:58:14,417 --> 00:58:16,408
+<i>(phone rings)</i>
+
+588
+00:58:17,737 --> 00:58:19,216
+Hello.
+
+589
+00:58:19,297 --> 00:58:20,525
+<i>(Marlboro) Hello.</i>
+
+590
+00:58:20,617 --> 00:58:22,608
+Hey.
+
+591
+00:58:22,697 --> 00:58:24,688
+Where are you? Are you all right?
+
+592
+00:58:24,777 --> 00:58:27,530
+Las Vegas.
+
+593
+00:58:27,617 --> 00:58:31,405
+I called because I'm drunk and I'm tired.
+
+594
+00:58:31,497 --> 00:58:33,533
+I just wanted to hear your voice.
+
+595
+00:58:34,137 --> 00:58:39,530
+Tell me exactly where you are
+and what you've done, and I can help.
+
+596
+00:58:40,097 --> 00:58:42,088
+No. Can't do that.
+
+597
+00:58:46,377 --> 00:58:50,370
+I've already dug too many graves.
+None of them my own.
+
+598
+00:58:50,457 --> 00:58:52,573
+Robert.
+
+599
+00:58:52,657 --> 00:58:56,172
+You keep running and sooner or later
+you'll end up like your dad.
+
+600
+00:58:56,257 --> 00:58:59,613
+<i>Drunk, dead and alone.</i>
+<i>And all you can do is hold on and</i> wait.
+
+601
+00:59:08,977 --> 00:59:10,774
+<i>Robert?</i>
+
+602
+00:59:10,857 --> 00:59:12,210
+<i>Hello?</i>
+
+603
+00:59:12,297 --> 00:59:13,366
+<i>Are you there?</i>
+
+604
+00:59:15,377 --> 00:59:18,210
+Harley, let's go. We got company.
+
+605
+00:59:18,297 --> 00:59:22,085
+- Hey, I know how they found us.
+- Tell me later.
+
+606
+00:59:27,777 --> 00:59:30,086
+Please, God, let us get out of this one.
+
+607
+00:59:30,177 --> 00:59:32,213
+I promise I'll change.
+
+608
+00:59:32,297 --> 00:59:35,812
+- That's bullshit, Harley.
+- I'll fuckin' try.
+
+609
+00:59:35,897 --> 00:59:36,852
+<i>(lift bell)</i>
+
+610
+00:59:39,417 --> 00:59:40,133
+Shit!
+
+611
+00:59:44,897 --> 00:59:46,888
+Up! They're going up!
+
+612
+01:00:13,577 --> 01:00:15,568
+Holy shit!
+
+613
+01:00:16,657 --> 01:00:17,646
+Come on!
+
+614
+01:00:32,577 --> 01:00:36,286
+We're at death's door, Harley,
+and the devil's a-knockin'.
+
+615
+01:00:36,377 --> 01:00:41,292
+You better think up of somethin' fast
+or start your ass prayin' for real.
+
+616
+01:00:53,097 --> 01:00:55,850
+Put your gun away. We're gonna jump.
+
+617
+01:01:08,057 --> 01:01:10,730
+Are you out of your fuckin' mind?
+
+618
+01:01:11,977 --> 01:01:13,968
+You got a better idea?
+
+619
+01:01:25,457 --> 01:01:30,611
+Whatever the hell they're wearing's
+made outta die-hard blue steel, Harley.
+
+620
+01:01:30,697 --> 01:01:32,892
+All right, take my hand, man.
+
+621
+01:01:32,977 --> 01:01:33,727
+No!
+
+622
+01:01:33,817 --> 01:01:35,648
+- It's the only way.
+- I don't care.
+
+623
+01:01:35,737 --> 01:01:38,729
+- I'm gonna do it.
+- Do it!
+
+624
+01:01:38,817 --> 01:01:41,934
+- You'll get shot up here.
+- You'll get smashed down there.
+
+625
+01:01:42,017 --> 01:01:44,406
+- I'd rather be smashed than shot.
+- Not me.
+
+626
+01:01:46,337 --> 01:01:50,250
+All right. Fuck you! You stay up here
+and you get shot and die!
+
+627
+01:01:50,337 --> 01:01:51,975
+I owe you that.
+
+628
+01:02:05,617 --> 01:02:10,088
+I hate you for this, Harley.
+I fuckin' hate you for this.
+
+629
+01:02:11,097 --> 01:02:14,885
+I hate you, Harley.
+
+630
+01:02:14,977 --> 01:02:16,968
+Shit!
+
+631
+01:02:20,857 --> 01:02:22,848
+Was that intense or what?
+
+632
+01:02:49,617 --> 01:02:52,006
+We gotta go back, Harley.
+
+633
+01:02:53,377 --> 01:02:56,175
+What the fuck you talkin' about?
+
+634
+01:02:57,457 --> 01:03:00,051
+We survived. It's over.
+
+635
+01:03:02,857 --> 01:03:04,973
+It ain't over.
+
+636
+01:03:05,057 --> 01:03:08,174
+Hey, man, it's definitely over. See this?
+
+637
+01:03:11,257 --> 01:03:13,054
+It's out of commission.
+
+638
+01:03:13,137 --> 01:03:17,927
+That means that them fuckers can't keep
+comin' out of nowhere any more.
+
+639
+01:03:18,017 --> 01:03:22,886
+We still got a bunch of money
+we didn't get for ourselves,
+
+640
+01:03:22,977 --> 01:03:25,207
+and a bar full of dead friends in LA.
+
+641
+01:03:27,417 --> 01:03:29,408
+It ain't over.
+
+642
+01:03:30,697 --> 01:03:33,086
+This ain't right.
+
+643
+01:03:33,177 --> 01:03:35,816
+And we owe it to our friends
+to make it right.
+
+644
+01:03:35,897 --> 01:03:39,685
+Hey, man, I ain't makin' any plans
+for you and me for a long time.
+
+645
+01:03:39,777 --> 01:03:45,056
+We came out alive,
+we came out ahead, and I ain't doin' it.
+
+646
+01:03:45,137 --> 01:03:49,210
+Goddamnit, Harley. We ain't ahead.
+
+647
+01:03:49,297 --> 01:03:54,166
+And if bein' alive means
+living on the run, then I don't want it.
+
+648
+01:03:55,097 --> 01:03:59,090
+Marlboro, you do
+what you think is right, right?
+
+649
+01:03:59,177 --> 01:04:01,771
+I'm gonna stay alive.
+
+650
+01:04:09,697 --> 01:04:13,690
+Better to be dead and cool
+than alive and uncool.
+
+651
+01:04:38,137 --> 01:04:40,253
+<i>( ¶ "Hardline" by Waylon Jennings)</i>
+
+652
+01:04:40,337 --> 01:04:42,248
+<i>(banging on door)</i>
+
+653
+01:04:53,377 --> 01:04:56,130
+What do you want?
+
+654
+01:04:56,217 --> 01:04:57,536
+Virginia.
+
+655
+01:04:57,617 --> 01:05:00,529
+- She's asleep.
+- Wake her up.
+
+656
+01:05:00,617 --> 01:05:02,608
+<i>(arguing)</i>
+
+657
+01:05:19,377 --> 01:05:24,895
+You've got until we reach the sidewalk
+to say what you've got to say.
+
+658
+01:05:24,977 --> 01:05:28,014
+Mr Trigger-happy a cop too?
+
+659
+01:05:28,097 --> 01:05:30,486
+He just made lieutenant.
+
+660
+01:05:34,097 --> 01:05:36,406
+He the guy?
+
+661
+01:05:36,497 --> 01:05:39,250
+What do you want, Robert?
+
+662
+01:05:39,337 --> 01:05:43,455
+You want my help? My sympathy?
+My hand in marriage? What?
+
+663
+01:05:46,577 --> 01:05:48,374
+I don't...
+
+664
+01:05:50,177 --> 01:05:52,771
+I don't know what I want.
+
+665
+01:05:53,657 --> 01:05:56,933
+But I know what I don't want.
+
+666
+01:05:59,217 --> 01:06:03,005
+I don't want
+whatever there was between us...
+
+667
+01:06:05,817 --> 01:06:08,615
+to end without telling you...
+
+668
+01:06:11,017 --> 01:06:16,216
+you've been the better part of my life,
+the best part of my life.
+
+669
+01:06:23,537 --> 01:06:25,255
+Goodbye, Virginia.
+
+670
+01:06:28,337 --> 01:06:29,565
+Robert?
+
+671
+01:06:34,857 --> 01:06:38,133
+¶ <i>Fightin' on the front line</i>
+
+672
+01:06:38,937 --> 01:06:42,247
+¶ <i>Victim of a heart crime</i>
+
+673
+01:06:43,177 --> 01:06:49,366
+¶ <i>Can't just let you steal my heart away</i>
+
+674
+01:06:50,017 --> 01:06:53,407
+Sorry I'm late. I had a layover in Denver.
+
+675
+01:06:57,817 --> 01:07:01,526
+- <i>(Harley)</i> Are you and me friends?
+- Sure, we're friends.
+
+676
+01:07:02,217 --> 01:07:06,847
+Then how come, with all this shit
+that me and you have been through,
+
+677
+01:07:06,937 --> 01:07:09,895
+I've asked you the same question
+a thousand times
+
+678
+01:07:09,977 --> 01:07:12,650
+and you ain't never answered me?
+
+679
+01:07:15,537 --> 01:07:17,448
+What question?
+
+680
+01:07:17,537 --> 01:07:21,450
+What's with you and those fuckin' boots?
+
+681
+01:07:21,537 --> 01:07:25,007
+My old man gave me these boots.
+
+682
+01:07:25,097 --> 01:07:29,215
+First time I rode in a professional rodeo.
+
+683
+01:07:29,297 --> 01:07:32,334
+It was the first and last thing
+he ever gave me.
+
+684
+01:07:32,417 --> 01:07:35,568
+Marlboro, you could've told me that.
+
+685
+01:07:37,257 --> 01:07:40,010
+I kinda figured
+it was between him and me.
+
+686
+01:07:41,737 --> 01:07:45,252
+I got thrown
+and busted my arm in four places.
+
+687
+01:07:45,337 --> 01:07:48,568
+Hey, I think you should do it again.
+
+688
+01:07:50,737 --> 01:07:53,649
+Someday. Maybe.
+
+689
+01:08:02,777 --> 01:08:07,168
+- Where the hell did you get that hog leg?
+- In Denver.
+
+690
+01:08:07,257 --> 01:08:10,567
+This is a Ruger Super Blackhawk.
+
+691
+01:08:11,977 --> 01:08:13,808
+454 conversion.
+
+692
+01:08:16,817 --> 01:08:21,254
+- Goddamn, that's too much gun for you.
+- It's what I learned with.
+
+693
+01:08:22,497 --> 01:08:25,648
+Nobody learns with a converted 454.
+
+694
+01:08:26,377 --> 01:08:27,366
+I did.
+
+695
+01:08:30,457 --> 01:08:32,448
+That explains it.
+
+696
+01:08:34,217 --> 01:08:37,527
+I've been through a lot of shit in my life.
+
+697
+01:08:37,617 --> 01:08:41,053
+But up until about three weeks ago,
+
+698
+01:08:41,137 --> 01:08:44,254
+the only goddamn thing
+I ever shot at was tin cans.
+
+699
+01:08:46,337 --> 01:08:49,727
+I never wanted
+to shoot at nobody in anger.
+
+700
+01:08:49,817 --> 01:08:54,368
+And I sure as shit ain't never
+wanted to kill nobody.
+
+701
+01:08:55,457 --> 01:08:57,448
+Me, neither.
+
+702
+01:09:14,737 --> 01:09:16,728
+<i>(beeping)</i>
+
+703
+01:09:17,737 --> 01:09:22,174
+Take up a heading of zero one zero.
+They're seven clicks northeast of here.
+
+704
+01:09:22,257 --> 01:09:27,615
+The same heading my co-pilot shouted
+out the day we choppered into Khe Sanh.
+
+705
+01:09:27,697 --> 01:09:32,725
+- Last thing the ugly bastard ever said.
+- Shut the fuck up and fly, Tom.
+
+706
+01:09:32,817 --> 01:09:34,648
+OK. OK.
+
+707
+01:11:43,497 --> 01:11:47,968
+God, if you do exist
+and you're up there watchin'
+
+708
+01:11:48,057 --> 01:11:53,256
+from wherever it is you're watchin' from,
+just look away for a minute.
+
+709
+01:11:54,017 --> 01:11:56,975
+<i>(Marlboro)</i> Remember,
+these bastards are bulletproof.
+
+710
+01:11:57,057 --> 01:12:00,129
+So aim for their heads. Dead centre.
+
+711
+01:12:01,217 --> 01:12:04,732
+You might wanna hold onto
+that cannon with both hands.
+
+712
+01:12:04,817 --> 01:12:07,934
+Don't yank. Don't pull.
+
+713
+01:12:08,857 --> 01:12:11,974
+Squeeze. You ready?
+
+714
+01:12:12,057 --> 01:12:16,369
+- Let's rock 'n' roll these motherfuckers.
+- Let's make things right.
+
+715
+01:12:37,857 --> 01:12:41,736
+That gun costs about two bucks
+every time you fire it.
+
+716
+01:12:41,817 --> 01:12:44,206
+That's two bucks a bullet.
+
+717
+01:12:45,297 --> 01:12:48,016
+How many did I hit?
+
+718
+01:12:48,097 --> 01:12:51,169
+You spent 12 bucks
+and didn't hit a goddamn thing.
+
+719
+01:12:51,257 --> 01:12:53,646
+I nailed one and it cost four and a quarter.
+
+720
+01:12:53,737 --> 01:12:55,216
+Where'd they go?
+
+721
+01:12:56,657 --> 01:12:59,171
+Right there and they're spendin' a fortune.
+
+722
+01:13:08,697 --> 01:13:10,892
+We really pissed them off this time.
+
+723
+01:13:10,977 --> 01:13:13,366
+No shit. Come on, let's go.
+
+724
+01:13:47,617 --> 01:13:48,970
+<i>(clang)</i>
+
+725
+01:14:08,537 --> 01:14:09,526
+Harley?
+
+726
+01:14:11,057 --> 01:14:13,048
+Are you shootin'?
+
+727
+01:14:15,137 --> 01:14:17,128
+- Harley?
+- What?
+
+728
+01:15:22,777 --> 01:15:26,247
+That's two for me.
+You better get off your ass, Harley.
+
+729
+01:15:26,337 --> 01:15:29,295
+Give me a break. God knows I'm tryin'.
+
+730
+01:15:29,377 --> 01:15:33,575
+You better ask God for some help.
+We ain't done yet.
+
+731
+01:16:13,777 --> 01:16:15,415
+Fuck! Shit! Piss!
+
+732
+01:16:15,497 --> 01:16:17,249
+Horseshit in a bear's ass!
+
+733
+01:16:26,257 --> 01:16:27,406
+Two bucks.
+
+734
+01:16:29,897 --> 01:16:31,888
+That's four.
+
+735
+01:16:33,097 --> 01:16:33,893
+Six.
+
+736
+01:16:45,577 --> 01:16:47,568
+Twelve.
+
+737
+01:17:33,337 --> 01:17:35,612
+You're gonna die today.
+
+738
+01:17:35,697 --> 01:17:38,609
+If you wanna make it fast,
+tell me where the money is.
+
+739
+01:17:38,697 --> 01:17:41,416
+If you wanna make it slow, don't.
+
+740
+01:17:41,497 --> 01:17:43,488
+It's your choice.
+
+741
+01:17:45,377 --> 01:17:50,167
+It's a good day for dyin'. I'll do it slow.
+
+742
+01:17:55,617 --> 01:17:58,768
+Hey, slick. Cut him loose.
+
+743
+01:17:58,857 --> 01:18:01,815
+Shit. I'm a dead man.
+
+744
+01:18:01,897 --> 01:18:03,888
+Where is the money?
+
+745
+01:18:05,657 --> 01:18:07,648
+Where is the money?
+
+746
+01:18:11,457 --> 01:18:15,450
+Squeeze it, Harley. Just squeeze it.
+
+747
+01:18:22,817 --> 01:18:24,808
+- Shit.
+- Shit!
+
+748
+01:18:27,097 --> 01:18:29,895
+That hurt, Harley. That hurt bad.
+
+749
+01:18:32,377 --> 01:18:34,937
+Looks like your luck just ran out.
+
+750
+01:18:35,017 --> 01:18:37,850
+Now, where is the money?
+
+751
+01:18:37,937 --> 01:18:39,928
+Shoot him, goddamnit!
+
+752
+01:18:41,017 --> 01:18:44,453
+Keep shooting. You'll make my job easier.
+
+753
+01:18:45,177 --> 01:18:48,852
+Shoot the bastard!
+Don't think, just shoot him!
+
+754
+01:18:48,937 --> 01:18:49,813
+Shoot him!
+
+755
+01:19:19,257 --> 01:19:22,215
+That one's for you. How'd it feel?
+
+756
+01:19:22,297 --> 01:19:24,891
+Best twelve bucks I ever spent.
+
+757
+01:19:27,417 --> 01:19:29,328
+Son of a bitch!
+
+758
+01:19:29,417 --> 01:19:31,692
+How are you feelin'?
+
+759
+01:19:33,377 --> 01:19:37,086
+Like I've been rode hard and put up wet.
+
+760
+01:19:37,177 --> 01:19:39,896
+Shake it off. We got one more.
+
+761
+01:19:39,977 --> 01:19:41,968
+Let's go.
+
+762
+01:19:51,097 --> 01:19:54,772
+I can't believe
+you fuckin' shot me, Harley.
+
+763
+01:19:56,937 --> 01:19:59,531
+Dickhead, you fuckin' shot me.
+
+764
+01:20:01,377 --> 01:20:04,847
+I can't believe you shot me, you shit bird.
+
+765
+01:20:10,937 --> 01:20:14,293
+<i>(pilot)</i> I find it hard to believe
+you greased those cue balls.
+
+766
+01:20:14,377 --> 01:20:16,572
+But it's a good thing somebody did.
+
+767
+01:20:16,657 --> 01:20:19,967
+- Yeah? Why's that?
+- They were pussies.
+
+768
+01:20:20,977 --> 01:20:25,653
+Their clothes were made outta
+that lightweight Japanese Kevlar.
+
+769
+01:20:25,737 --> 01:20:27,568
+<i>(speaks Japanese)</i>
+
+770
+01:20:46,017 --> 01:20:51,535
+All right, pal, this is your last paycheck.
+You work for us now.
+
+771
+01:21:03,057 --> 01:21:05,048
+<i>(speaks Japanese)</i>
+
+772
+01:21:09,377 --> 01:21:11,129
+Here's what we'll do.
+
+773
+01:21:11,217 --> 01:21:17,816
+As soon as I ask him to change the lease
+and he says no, just shoot his ass dead.
+
+774
+01:21:17,897 --> 01:21:21,936
+- Why me?
+- I'm all out of bullets.
+
+775
+01:21:28,137 --> 01:21:34,167
+Howard, it's good to hear from you too.
+What do you want from me? Spit it out.
+
+776
+01:21:36,977 --> 01:21:40,287
+Listen, Howard,
+I'm not interested in the Third World.
+
+777
+01:21:40,377 --> 01:21:43,255
+Too much can go the wrong way
+and not much can go our way.
+
+778
+01:21:43,337 --> 01:21:46,488
+We've had this discussion.
+I don't ever want to have it again.
+
+779
+01:21:46,577 --> 01:21:50,855
+Say hello to your wife.
+You're married, aren't you?
+
+780
+01:21:54,577 --> 01:21:58,252
+Lookin' for Chance Wilder. You him?
+
+781
+01:22:01,577 --> 01:22:02,646
+That's right.
+
+782
+01:22:03,697 --> 01:22:05,972
+Deal away, Harley.
+
+783
+01:22:06,057 --> 01:22:08,048
+Well, here.
+
+784
+01:22:09,137 --> 01:22:12,573
+This is yours. We took it.
+It wasn't right of us.
+
+785
+01:22:12,657 --> 01:22:17,333
+So now you can change the lease back
+to the Rock 'N' Roll Bar and Grille.
+
+786
+01:22:17,417 --> 01:22:20,489
+No handouts. No breaks.
+
+787
+01:22:20,577 --> 01:22:23,216
+Just a fair deal, that's all we're asking.
+
+788
+01:22:23,297 --> 01:22:28,291
+You guys must be charmed
+to have made it this far.
+
+789
+01:22:28,377 --> 01:22:31,369
+Four of our friends are dead.
+
+790
+01:22:31,457 --> 01:22:35,052
+No, we're not charmed.
+We're just pissed off.
+
+791
+01:22:35,137 --> 01:22:37,128
+That's too bad.
+
+792
+01:22:38,657 --> 01:22:41,251
+That's too bad.
+
+793
+01:22:41,337 --> 01:22:44,090
+Sorry I pissed you off.
+
+794
+01:22:44,177 --> 01:22:49,729
+Listen, the lease stands, OK?
+So that's the end of that story.
+
+795
+01:22:50,417 --> 01:22:56,367
+So if you came here to kill me, do it now.
+If not, get the fuck outta here.
+
+796
+01:22:56,457 --> 01:23:01,690
+I don't have the time to play with
+guys like you, OK? I'm very busy.
+
+797
+01:23:02,737 --> 01:23:03,931
+This ain't a game.
+
+798
+01:23:04,017 --> 01:23:07,009
+All business is a game
+one way or another.
+
+799
+01:23:07,097 --> 01:23:10,726
+- Sellin' drugs ain't no game.
+- It's not your average game.
+
+800
+01:23:10,817 --> 01:23:15,572
+I make $500,000 a year to sit
+in this office and run this bank, OK?
+
+801
+01:23:15,657 --> 01:23:21,368
+I make another $50 million a year to sit
+in the same office and run those drugs.
+
+802
+01:23:21,457 --> 01:23:24,255
+Now, that's a big game and it's big time.
+
+803
+01:23:24,337 --> 01:23:28,250
+The game's over.
+Go ahead and do it, Marlboro.
+
+804
+01:23:43,057 --> 01:23:46,732
+What are you waitin' for?
+Kill him and let's get outta here.
+
+805
+01:23:50,897 --> 01:23:52,888
+I can't do it.
+
+806
+01:23:56,097 --> 01:23:57,769
+It's not right.
+
+807
+01:23:57,857 --> 01:24:02,328
+Hey, this scumbag killed
+four of our friends just for laughs.
+
+808
+01:24:02,417 --> 01:24:04,408
+Still doesn't make it right.
+
+809
+01:24:04,497 --> 01:24:06,772
+What are you talkin' about?
+
+810
+01:24:08,017 --> 01:24:11,771
+My old man used to tell me,
+before he left this shitty world,
+
+811
+01:24:11,857 --> 01:24:13,848
+never shoot an unarmed man.
+
+812
+01:24:13,937 --> 01:24:15,893
+Fuck your old man. He's dead.
+
+813
+01:24:15,977 --> 01:24:18,810
+Leave my old man out of this, all right?
+
+814
+01:24:20,497 --> 01:24:24,172
+- Now he's armed.
+- That gun's empty, Harley.
+
+815
+01:24:25,297 --> 01:24:29,734
+So what? This piece of shit
+gives drugs to kids.
+
+816
+01:24:29,817 --> 01:24:31,808
+Drop it!
+
+817
+01:24:41,897 --> 01:24:46,368
+You guys, did you really think you were
+just gonna walk in here and shoot me?
+
+818
+01:24:46,457 --> 01:24:50,655
+- You thought that, didn't you?
+- That was the plan.
+
+819
+01:24:51,817 --> 01:24:53,808
+Yeah, that was the plan.
+
+820
+01:24:53,897 --> 01:24:57,606
+You guys, you guys are a piece of work.
+
+821
+01:24:57,697 --> 01:25:01,167
+You got an edge.
+And I like that. I do. I like that.
+
+822
+01:25:01,257 --> 01:25:07,253
+It almost makes me sorry that I have to
+kill you. But I do. I do right now.
+
+823
+01:26:06,297 --> 01:26:08,686
+What'd you do? You pay him?
+
+824
+01:26:09,777 --> 01:26:15,374
+No, man, that was your money.
+You paid him. He did that for free.
+
+825
+01:26:17,457 --> 01:26:21,814
+You guys. Like your buddy said,
+fuck your old man.
+
+826
+01:26:21,897 --> 01:26:26,687
+He's dead, right? Fuck him.
+Let's see what you're made of.
+
+827
+01:26:34,457 --> 01:26:36,448
+Think fast!
+
+828
+01:27:06,177 --> 01:27:07,405
+Harley!
+
+829
+01:27:13,417 --> 01:27:16,534
+- Good timing.
+- I told you to shoot the fuck.
+
+830
+01:27:35,337 --> 01:27:38,727
+Hey, guns are made to be shot,
+not thrown.
+
+831
+01:27:41,977 --> 01:27:44,775
+I was just tryin' to even the odds.
+
+832
+01:27:53,657 --> 01:27:56,569
+Where're you goin' this time?
+
+833
+01:27:56,657 --> 01:27:59,012
+Who says I'm goin'?
+
+834
+01:27:59,097 --> 01:28:02,612
+You always do, Harley. It's that time.
+
+835
+01:28:04,377 --> 01:28:06,766
+You wanna come with me?
+
+836
+01:28:09,817 --> 01:28:10,932
+I can't.
+
+837
+01:28:12,777 --> 01:28:16,247
+I shouldn't have asked. You never say yes.
+
+838
+01:28:27,257 --> 01:28:29,168
+Get the hell outta here.
+
+839
+01:28:54,457 --> 01:28:56,448
+<i>Vaya con Dios, amigo.</i>
+
+840
+01:28:58,657 --> 01:29:03,777
+<i>Robert Lee Edison, a third- generation</i>
+<i>cowboy with his own brand of misery.</i>
+
+841
+01:29:03,857 --> 01:29:07,532
+<i>He hails from Las Vegas,</i>
+<i>and hasn't seen the back of a bull's neck</i>
+
+842
+01:29:07,617 --> 01:29:12,088
+<i>since he got off real hard in the</i>
+<i>National Finals Rodeo seven years ago.</i>
+
+843
+01:29:12,177 --> 01:29:14,771
+<i>Let's see what he gets done</i>
+<i>on a bull called Hondo,</i>
+
+844
+01:29:14,857 --> 01:29:17,735
+<i>the top bull</i>
+<i>of the Diamond S rodeo company.</i>
+
+845
+01:29:17,817 --> 01:29:20,809
+OK, big boy, let's make it a good one.
+
+846
+01:29:23,257 --> 01:29:24,246
+Outside!
+
+847
+01:29:25,257 --> 01:29:27,248
+<i>OK, cowboy.</i>
+
+848
+01:29:50,657 --> 01:29:52,648
+Hey.
+
+849
+01:29:53,297 --> 01:29:55,811
+Where you headin'?
+
+850
+01:29:55,897 --> 01:29:59,128
+- Nowhere special.
+- Come on, I'll take you there.
+
+851
+01:30:01,697 --> 01:30:04,655
+<i>(¶ "Ride With Me" by BlackEyed Susan)</i>
+
+852
+01:32:09,497 --> 01:32:13,456
+<i>( ¶ "C'mon" by The Screaming Jets)</i>
+
+853
+01:34:09,417 --> 01:34:12,409
+Visiontext Subtitles: Sue Voas
+
+854
+01:34:14,137 --> 01:34:16,128
+ENHOH
+

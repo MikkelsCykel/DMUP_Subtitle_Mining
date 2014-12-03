@@ -1,0 +1,926 @@
+{1296}{1341}[Airplane approaching]
+{1750}{1785}MAN: Better hurry.
+{2059}{2095}MAN: Here you go, my friend.
+{2097}{2158}Make sure you get us as close as you can!
+{2160}{2238}I'll give you something extra|if you make it a good trip.
+{2248}{2326}I'm going to get you close,|but not too close.
+{2331}{2376}You don't want to be eaten.
+{2398}{2459}-Ready, amigo?|-Ready!
+{2576}{2650}One, two, three!
+{2677}{2722}[Screaming]
+{2864}{2903}Eric, heave!
+{2932}{2989}[Uplifting instrumental music]
+{3228}{3258}Scared?
+{3278}{3313}This is great.
+{3616}{3655}ERIC: See anything yet?
+{3660}{3701}No, not yet.
+{3765}{3802}[Loud splash]
+{3827}{3874}[Talking in island dialect]
+{4423}{4470}-What was that?|-I don't know.
+{4540}{4558}[Distant growl]
+{4560}{4578}BEN: Hold on!
+{4580}{4639}ERIC: What's happening?|BEN: Just hold on!
+{4676}{4715}Make it stop!
+{4836}{4872}What happened to them?
+{4874}{4971}BEN: I don't know. Oh, my God.
+{4979}{5034}ERIC: We're going to crash!|BEN: No, we're not.
+{5072}{5113}I'm going to take this loose!
+{5115}{5162}-Let go of the rope!|-We're gonna crash!
+{5207}{5246}BEN: Move your hands!
+{5263}{5293}Come onl
+{5359}{5396}Here we go!
+{5648}{5685}It's going be okay, bud.
+{6172}{6262}Charlie, those are herbivores.|They wouldn't fight each other.
+{6265}{6347}But these are carnivores,|and they really like fighting each other.
+{6350}{6442}They use their teeth and their claws|to rip each other's throats out.
+{6459}{6533}Alan, he's three. Let's wait till he's five.
+{6559}{6600}Right. Sorry, Charlie.
+{6604}{6632}WOMAN: Ellie?|ELLIE: Yeah?
+{6634}{6712}It's Tom. He says he has to talk to you|about the last chapter.
+{6715}{6822}Tell him I won't lose the Horner quote.|My editor thinks he's a paleontologist.
+{6843}{6875}ELLIE: Hey, Mark!
+{6877}{6938}Hey, babe, look who's here.
+{6978}{7014}This is Alan.
+{7021}{7080}Nice to meet you, Alan.
+{7083}{7171}Daddy, this is a herbivore|and that's the dinosaur man.
+{7174}{7215}Dinosaur man?
+{7229}{7303}Jack, say my name. Is my name Alan?
+{7321}{7360}Is my name Alan?
+{7375}{7410}[Ellie laughs]
+{7431}{7474}ALAN: He used to know me.
+{7530}{7581}ELLIE: It's sad, huh?|MARK: Here you go.
+{7596}{7672}Thanks. Mark's been working|for the State Department now.
+{7675}{7728}What do they do, Mark?
+{7734}{7808}International relations,|mostly treaty law, things like that.
+{7810}{7851}[Baby crying]
+{7855}{7900}ELLIE: Call of the wild one.|MARK: I'll go.
+{7902}{7984}You guys catch up.
+{7989}{8025}Thanks, babe.
+{8078}{8117}He's a great guy.
+{8151}{8223}-So, what are you working on now?|-Raptors, mostly.
+{8243}{8279}My favourite.
+{8281}{8334}Do you remember the sounds they made?
+{8363}{8400}I try not to.
+{8402}{8461}All our theories about Raptor intelligence...
+{8463}{8534}...what they were capable of,|we weren't even close.
+{8536}{8602}-Tell me.|-We did cranial scans of a fossil skull...
+{8604}{8690}...and found what looks to be|a very sophisticated resonating chamber.
+{8693}{8740}Wait a second. So we were right.
+{8742}{8830}-They'd the ability to vocalise.|-It's the key to their social intelligence.
+{8833}{8884}Which explains|why they could work as a team.
+{8887}{8973}They'd coordinate attacks so their prey|wouldn't know what was going on.
+{8976}{9056}-They could talk to each other.|-To a degree we never imagined.
+{9064}{9084}[Sighs]
+{9086}{9123}Ellie, they were smart.
+{9125}{9194}They were smarter|than dolphins or whales.
+{9210}{9267}They were smarter than primates.
+{9404}{9507}I just wanted to say, if you ever need help,|sometimes you forget to ask.
+{9531}{9611}So you can call me. Anything, anytime.
+{9630}{9660}Sure.
+{9662}{9692}[Car starts]
+{9768}{9809}You're still the best.
+{9829}{9863}I mean that.
+{9897}{9942}The last of my breed.
+{10137}{10239}ALAN: ltis through the study of the|anterior chamberin multiple specimens...
+{10241}{10360}...that we can determine the correlation|between the upperpalate and the larynx.
+{10362}{10431}This lets us theorise, theorise, mind you...
+{10433}{10527}...that the Raptor was capable|ofsophisticated vocalizations...
+{10531}{10613}...which would have been|a tremendous evolutionary advantage.
+{10619}{10682}Raptors were fierce, intelligent...
+{10684}{10725}...and socially sophisticated.
+{10728}{10816}They were able to huntin numbers|and coordinate their efforts.
+{10846}{10920}Were it not for the cataclysmic events|which overtook them...
+{10922}{10996}...it's entirely possible|that Raptors rather than humans...
+{10998}{11080}...would have become|the dominantspecies on this planet.
+{11095}{11148}I hope this has been ofinterest.
+{11150}{11226}It certainly excites us as paleontologists.
+{11240}{11299}There is much more to discover.
+{11302}{11407}Thatis why we continue to need,|and ask for, yoursupport.
+{11520}{11554}Thank you.
+{11602}{11647}[Applause]
+{11790}{11843}Thank you very much, Dr. Grant.
+{11847}{11906}Now, does anyone have a question?
+{11974}{12081}Fine. Does anyone have a question|that does not relate to Jurassic Park?
+{12136}{12201}Or the incidentin San Diego...
+{12211}{12266}...which I did not witness?
+{12334}{12362}Yes, sir?
+{12377}{12488}STUDENT: Your theory on Raptors is good,|butisn't all this conjecture kind of moot?
+{12491}{12596}Once the U.N. and Costa Rica and everyone|decide how to handle thatsecond island...
+{12598}{12665}...scientists willjust go in|and look for themselves.
+{12667}{12753}Dinosaurs lived 65 million years ago.
+{12755}{12829}Whatis left of them is fossilised...
+{12833}{12892}...in the rocks. And itis in the rock...
+{12895}{12958}...that real scientists make real discoveries.
+{12960}{13044}What John Hammond and lngen|did at Jurassic Park...
+{13056}{13136}...is create genetically engineered|theme park monsters.
+{13138}{13203}Nothing more and nothing less.
+{13210}{13276}Are you saying|you wouldn't want to visit lsla Sorna...
+{13278}{13339}...and study them if you had the chance?
+{13352}{13407}No force on Earth or Heaven...
+{13419}{13466}...could get me on thatisland.
+{13755}{13800}What we got here, Nashy?
+{13803}{13871}Einhorn 20-millimetre,|gas-operated semi-automatic.
+{13873}{13951}10-shot, magazine fed,|rotating bolt recoil-reducing muzzle brake.
+{13953}{13975}[Cell phone ringing]
+{13978}{14002}High explosive--
+{14195}{14221}Udesky.
+{14224}{14304}-It's Paul Kirby. Just checking--|-Yes, sir.
+{14307}{14350}We're good to go here.
+{14363}{14470}Matter of fact, I can lock things down|just as soon as you drop me that payment.
+{14533}{14576}Well, that's right...
+{14579}{14649}...two of the very best men|I could possibly find.
+{14698}{14751}No, I haven't worked|with them personally...
+{14754}{14856}...but believe me, sir, both of these men|come very highly recommended.
+{15042}{15122}PAUL: Are you all right?|UDESKY: Nothing to worry about, sir.
+{15133}{15186}It's gonna be a walk in the park.
+{15407}{15470}GIRL: Billy, I don't think|I'm doing this right.
+{15672}{15723}Let's try the toothbrush.
+{15777}{15818}You've got to go slowly.
+{15858}{15907}Just take a little bit at a time.
+{15910}{15982}I can never tell what's rock|and what's bone.
+{15991}{16030}Technically, it's all rock.
+{16033}{16111}The calcium in the bones|is replaced during fossilization.
+{16124}{16181}But you can feel the difference. See?
+{16197}{16233}Rough...
+{16253}{16287}...smooth.
+{16306}{16355}Rough, smooth.
+{16518}{16553}Dr. Grant.
+{16577}{16605}Mr. Brennan.
+{16615}{16660}So, how did it go?
+{16676}{16750}Well, it's not too late|to change your major, Billy.
+{16765}{16814}BILLY: That good, huh?|ALAN: Worse.
+{16817}{16860}We'll to have to pack up in four weeks.
+{16863}{16896}BILLY: Three.
+{16899}{16946}I had to rent some equipment.
+{16949}{17000}Come here. I got to show you something.
+{17002}{17082}BILLY: You like computers, right?|ALAN: I like the abacus, Billy.
+{17092}{17145}BILLY: Meet the future of paleontology.
+{17147}{17200}It's a rapid prototyper.
+{17217}{17272}I enter the scanned data|from the Raptor skull.
+{17275}{17342}The computer breaks it down|into thousands of slices.
+{17344}{17436}And this thing sculpts it,|one layer at a time.
+{17461}{17489}It's done.
+{17737}{17813}I give you the resonating chamber|of a Velociraptor.
+{17827}{17863}Listen to this.
+{17898}{17947}[Screeching howl]
+{18141}{18174}Wow.
+{18184}{18248}This is brilliant, Billy. Really, it is.
+{18252}{18305}Sad to say, it's just a little bit late.
+{18319}{18401}Dr. Grant? Paul Kirby, Kirby Enterprises.
+{18420}{18475}My card. How you doing, Billy?
+{18529}{18580}ALAN: What can I do for you, Mr. Kirby?
+{18615}{18670}First thing, I'm a great admirer of yours.
+{18673}{18744}And I have a proposition|I'd like to discuss with you.
+{18746}{18811}Would you have dinner|with my wife and me this evening?
+{18813}{18882}-It'll be our treat.|-That'd be great but...
+{18884}{18958}...l'm tired, I've been travelling.|Maybe some other time.
+{18960}{19015}Believe me, this will be worth your while.
+{19017}{19101}-We'd love to.|-Oh, terrific! That's the spirit. Good.
+{19108}{19146}PAUL: This evening then.
+{19148}{19216}[Country music plays on jukebox]
+{19359}{19429}PAUL: Billy, thank you for coming.|Dr. Grant, how are you?
+{19431}{19498}Amanda, this is Billy and Dr. Grant.
+{19500}{19536}BILLY: Mrs. Kirby, how are you?
+{19538}{19579}What are you boys drinking?
+{19606}{19669}-Ice Pick, Catfish.|-Two, please, Cat.
+{19673}{19763}-We've admired your work for years.|-Really. Truly inspiring.
+{19766}{19819}Amanda and I just love the outdoors.
+{19821}{19905}We've been on nearly every adventure tour|they can come up with:
+{19908}{19977}The Nile, Galapagos, K2.
+{19979}{20076}We even have two seats reserved|on the first commercial flight to the moon.
+{20078}{20172}For our wedding anniversary this year,|we wanted to do something really special.
+{20175}{20232}-Something--|-Once in a lifetime.
+{20249}{20327}I've chartered an airplane|to fly us over lsla Sorna.
+{20330}{20381}PAUL: And we'd like you to be our guide.
+{20427}{20474}CAT: There you go, guys.
+{20517}{20607}That's a very kind offer, Mr. Kirby,|but I'm a very, very busy man.
+{20609}{20689}I can recommend a couple of guys|who are really highly qualified--
+{20691}{20760}No, no. You're the best.
+{20765}{20864}You've seen these animals in the flesh.|There's no one who comes close to you.
+{20866}{20956}You wouldn't be able to fly low enough|to see anything of any real interest.
+{20959}{21062}That's the interesting part,|because we have permission to fly low.
+{21070}{21098}BILLY: How low?
+{21113}{21209}I'm no aviation expert, but a heck|of a lot lower than anybody else.
+{21211}{21299}From what I understand,|it's pretty much whatever we want.
+{21326}{21359}That's hard to believe.
+{21361}{21447}Through my business dealings,|import-export, emerging markets...
+{21449}{21504}...l've made a lot of friends in high places.
+{21507}{21573}In this case, the Costa Rican government.
+{21589}{21638}AMANDA: Dr. Grant, you have no idea...
+{21640}{21730}...how important it is that you come along.|It would make all the difference.
+{21733}{21761}Mrs. Kirby, l--
+{21763}{21862}And, of course, we'd love to make|a contribution to your research here.
+{21875}{21903}So...
+{21947}{22029}...l could write all kinds of numbers|on this cheque, Dr. Grant.
+{22047}{22080}Tell me...
+{22129}{22180}...what's it gonna take?
+{22517}{22589}Even with what I pay you,|couldn't you afford a better bag?
+{22591}{22624}No way.
+{22635}{22674}This one's lucky.
+{22680}{22766}Couple of years ago,|some buddies and I went hang gliding...
+{22768}{22813}...off these cliffs in New Zealand.
+{22816}{22931}And this big updraft came and swept me|right against the side. Wham!
+{22937}{22988}That does sound lucky.
+{22993}{23067}It was this strap alone that saved my life.
+{23075}{23126}Got hooked on a rock as I was falling.
+{23128}{23216}Reverse Darwinism.|Survival of the most idiotic.
+{23270}{23356}Alan, I want to thank you|for bringing me along.
+{23365}{23418}The bones will still be there|when we get back.
+{23420}{23496}That's the great thing about bones.|They never run away.
+{23508}{23590}And truth is, you got me into this.
+{23625}{23707}And I have no intention|of being on my own with these people.
+{23797}{23835}ALAN: Don't get too excited.
+{23837}{23898}Chances are, we won't see a thing.
+{23910}{23953}Your turn to be nice.
+{23961}{24008}Wake me when we get there.
+{24173}{24226}So how do you know the Kirbys?
+{24255}{24302}Through our church.
+{24515}{24564}[Engine sputtering]
+{24779}{24803}BILLY: Alan.
+{24816}{24853}Alanl
+{24884}{24943}Wake up. We're almost there.
+{25273}{25345}MAN ON RADIO: Unidentified aircraft|approaching lsla Sorna...
+{25347}{25425}...this is San Juan Approach.|You're flying in restricted airspace.
+{25428}{25469}Immediately turn to coordinates two--
+{25471}{25509}[Turns radio off]
+{25562}{25630}[Uplifting instrumental music]
+{26688}{26733}My God, I had forgotten.
+{27038}{27091}We did it, honey. We're here.
+{27109}{27177}UDESKY:|Cooper! if you see anything, yell up!
+{27179}{27234}No, I thought I'd keep it to myself.
+{27237}{27298}Everyone, if you look out the left|of the plane...
+{27301}{27362}...you can see|a whole herd of Brachiosaurus.
+{27364}{27452}In fact, you can see at the front|of the group the alpha male grazing there.
+{27455}{27524}Udesky? Nash? How about up front?|You guys see anything?
+{27526}{27569}UDESKY: Nothing yet, Mr. Kirby.
+{27578}{27615}Mrs. Kirby, look!
+{27617}{27658}Out here, you'll see a group of....
+{27661}{27735}Mr. Kirby, we have a landing strip.|You want me to put her down?
+{27738}{27814}No! I told you,|I want to circle first, see the whole island.
+{27817}{27860}What do you mean? You can't land!
+{27863}{27906}Hold on. I can explain--
+{27909}{27958}You cannot land on this island!
+{27960}{28017}AMANDA: It will be fine.|PAUL: Don't worry, please.
+{28029}{28070}ALAN: Are you crazy?|PAUL: Sit down!
+{28096}{28149}Will you please sit down?
+{28383}{28415}Billy...
+{28427}{28474}...tell me we didn't land.
+{28485}{28524}AMANDA: [Over megaphone] Ericl
+{28580}{28604}Benl
+{28607}{28660}I think they're looking for someone.
+{28707}{28737}AMANDA: Benl
+{28917}{28968}PAUL: Dr. Grant, are you all right?
+{28970}{29050}PAUL: I'm sorry we had to be so rough.|ALAN: Who hit me? Who hit me?
+{29057}{29106}That would be Cooper.
+{29122}{29150}What are they doing?
+{29153}{29208}PAUL: Setting up a perimeter|to make the place safe.
+{29210}{29284}Trust me, on this island,|there's no such thing as safe!
+{29286}{29331}We have to get back on that plane!
+{29333}{29423}Tell your wife to stop making that noise!|That is a very, very bad idea!
+{29426}{29477}-Amanda!|-Benl
+{29482}{29564}PAUL: Honey, Dr. Grant said|that's a bad idea!
+{29577}{29605}AMANDA: What?
+{29607}{29672}He says it's a bad idea!
+{29684}{29714}What's a bad idea?
+{29717}{29747}[Loud growl]
+{29777}{29815}What was that?
+{29821}{29847}That's a Tyrannosaurus.
+{29850}{29872}[Distant gunfire]
+{29874}{29944}I don't think so. It sounds bigger.
+{30033}{30104}We have to leave! We have to leave now!
+{30113}{30162}NASH: Get on the plane!
+{30178}{30221}Get on the plane!
+{30305}{30358}-What about the other guy?|-Cooper's a professional.
+{30361}{30385}He can handle himself.
+{30388}{30412}[Loud growling]
+{30415}{30443}[Rifle firing]
+{30445}{30473}Get on the plane!
+{30481}{30524}PAUL: It's all right.
+{30595}{30644}[Dramatic instrumental music]
+{30795}{30842}-Paul, we can't--|-It's all right.
+{30844}{30872}We'll circle the island.
+{30879}{30917}Give me a hand, Udesky!
+{31365}{31383}Stop!
+{31386}{31412}What are you doing?
+{31423}{31441}That's Cooper!
+{31481}{31515}Stop.
+{31517}{31560}Come on, get out of the way!
+{31583}{31619}You know I can't stop this plane.
+{31686}{31710}Oh, my God!
+{31758}{31827}UDESKY: Fuel cut-off!|NASH: We're going down!
+{32116}{32171}[Slow instrumental music]
+{32433}{32465}You okay?
+{32484}{32529}UDESKY: We're okay up here.
+{32540}{32589}Everyone, juststay put.
+{32599}{32648}San Juan Approach. Mayday, maydayl
+{32651}{32696}Who has the satellite phone?
+{32699}{32762}PAUL: I do. I got it right here.
+{32765}{32829}UDESKY: We're not getting anything.|The radio's gone.
+{33037}{33074}We haven't landed yet.
+{33153}{33221}WOMAN: All circuits are busy.|NASH: Damn it! Oh, man.
+{33229}{33257}[Rumbling]
+{33279}{33305}What was that?
+{33349}{33381}[Amanda screams]
+{33383}{33415}ALAN: Keep still! Keep still!
+{33417}{33486}PAUL: Relax. What is it? What?
+{33522}{33571}UDESKY: What is it?|NASH: Hold it!
+{33615}{33660}Hang on, everyonel
+{33665}{33736}[Fast-paced, dramatic instrumental music]
+{33743}{33794}[Screaming]
+{33934}{33973}[Roaring]
+{34013}{34056}[Nash screaming]
+{34140}{34175}NASH: Help me!
+{34350}{34397}[Footsteps pounding]
+{34557}{34612}[Roaring]
+{34809}{34862}[Screaming]
+{35630}{35669}ALAN: Mrs. Kirby, come back!
+{35731}{35755}Amanda!
+{35768}{35805}[Roaring]
+{36855}{36910}ALAN: Follow me! This way!
+{37105}{37135}In here!
+{37160}{37201}[Roaring]
+{37647}{37692}[Loud panting]
+{37972}{38010}I think we lost him.
+{38086}{38125}[Insects buzzing]
+{38131}{38170}It's okay, it's dead.
+{38182}{38220}[Growling]
+{38223}{38282}Nobody move a muscle.
+{38549}{38584}[Screaming]
+{38643}{38704}[Snarling and roaring]
+{39692}{39733}[Cracking]
+{39735}{39840}No, no! Please, don't! Stop, please.
+{39872}{39935}It's time you did some explaining,|Mr. Kirby.
+{39953}{40010}PAUL: We called everyone.|We did everything we could.
+{40013}{40107}No one would help us. The Costa Rican|government said this is a no-fly zone.
+{40110}{40186}The U.S. Embassy,|that's our U.S. Embassy...
+{40189}{40265}...told us we should accept the inevitable.|Can you believe that?
+{40267}{40320}BILLY: You let a 12-year-old|go parasailing alone?
+{40322}{40387}PAUL: No!|AMANDA: He was with a friend.
+{40390}{40433}PAUL: Ben Hildebrand.
+{40435}{40490}Paul and I divorced over a year ago.
+{40494}{40528}All right, why me?
+{40530}{40599}He said we needed someone|who'd been on the island before.
+{40601}{40677}Yes, but I did not tell you|to kidnap somebody.
+{40688}{40749}I have never been on this island.
+{40756}{40809}Sure you have. You wrote that book.
+{40811}{40909}That was lsla Nublar.|This is lsla Sorna, Site B.
+{40911}{40970}You mean there are two islands|with dinosaurs?
+{40972}{41048}PAUL: Stay out of this.|ALAN: How long have they been missing?
+{41051}{41110}-Eight weeks.|-Almost eight weeks now.
+{41171}{41242}Billy. We'll go back to the plane,|salvage what we can.
+{41244}{41283}Then we make for the coast.
+{41286}{41372}Dr. Grant, we're not leaving this island|without our son.
+{41383}{41432}Then you can go and look for him.
+{41435}{41503}Oryou can stick with us,|as long as you don't hold us up.
+{41505}{41535}Either way...
+{41554}{41623}...you probably won't get off|this island alive.
+{41893}{41942}So? What do we do?
+{41977}{42024}We search for your son...
+{42068}{42125}...in the direction that they're going.
+{42156}{42190}PAUL: Excellent.
+{42810}{42842}PAUL: Sorry.
+{42864}{42927}It's nothing you haven't seen before, Paul.
+{42968}{43029}AMANDA: How much weight|did you say you lost?
+{43031}{43101}About 25 pounds. I've been swimming.
+{43114}{43198}Swimming? You hate to swim.|You don't even know how to swim.
+{43200}{43243}I know. I learned.
+{43267}{43322}-You look good.|-So do you.
+{43363}{43404}[Camera shutter clicks]
+{43426}{43490}ALAN: How would you classify it, Billy?|BILLY: Well...
+{43507}{43558}...it's a super-predator.
+{43616}{43655}A Suchomimus.
+{43670}{43725}-That snout.|-No, think bigger.
+{43732}{43787}-Baryonyx?|-Not with that sail.
+{43826}{43877}Spinosaurus aegypticus.
+{43949}{44035}-I don't remember that on lngen's list.|-Because it wasn't on their list.
+{44037}{44107}And it makes you wonder|what else they were up to.
+{44393}{44465}So, Mr. Kirby, tell me.|When you climbed K2...
+{44467}{44549}...did you base camp|at 25,000 or 30,000 feet?
+{44595}{44661}30,000 feet.|We were pretty close to the top.
+{44663}{44728}You were about 1,000 feet above it,|actually.
+{44764}{44817}No, that's a common mistake.
+{44835}{44917}There's no such thing|as Kirby Enterprises, is there?
+{44954}{45053}It's Kirby Paint and Tile Plus.|The "Plus" stands for bathroom fixtures.
+{45055}{45120}We're in the Westgate Shopping Centre,|Enid, Oklahoma--
+{45122}{45194}BILLY: I don't suppose that cheque|you wrote us is any good.
+{45198}{45276}PAUL: I will pay you the money I owe you.|ALAN: This is good.
+{45304}{45392}Here we are, in the worst place|in the world, and we're not being paid!
+{45395}{45442}PAUL: Wait, fellas. Hold on!
+{45445}{45484}I'll make this up to you.
+{45487}{45557}If you ever do a bathroom or a kitchen....
+{45586}{45664}PAUL: You're not a mercenary, are you?|UDESKY: I never said I was.
+{45666}{45719}That's true. What are you?
+{45739}{45842}I'm like a booking agent. One of the guys|got sick and couldn't come.
+{45857}{45896}UDESKY: Excuse me. Here.
+{45918}{45986}-So you run a hardware store?|-Paint and tile, yeah.
+{46002}{46078}-You never can tell about people, can you?|-Ain't that the truth?
+{46105}{46148}AMANDA: Eric!|ALAN: Quiet.
+{46151}{46181}PAUL: Would you stop that?
+{46184}{46247}Dr. Grant says|this is very dangerous territory.
+{46249}{46288}Maybe we should split up.
+{46291}{46367}-We could cover twice as much.|-Dr. Grant says that's a bad idea.
+{46369}{46399}Dr. Grant says this--
+{46402}{46471}Why hire an expert|if we don't use his advice?
+{46473}{46530}Except Dr. Grant isn't looking for Eric.
+{46533}{46594}-He's looking for the coast.|-Go ahead and scream.
+{46597}{46675}When that "Tricycloplots" attacks you,|don't come crying to me.
+{46677}{46759}-Don't worry about that.|-What? What did you say?
+{46761}{46835}PAUL: What did you say?|AMANDA: Never mind! Paul, just drop it!
+{46838}{46914}If we split up, I'm going with you guys.
+{47188}{47227}-Eric!|-Eric!
+{47230}{47287}ALAN: Mrs. Kirby! Mrs. Kirby!|AMANDA: Eric!
+{47327}{47415}Mrs. Kirby, the chances are remote|they're still in the vicinity.
+{47567}{47600}Young adult.
+{47655}{47688}UDESKY: Hey, guys!
+{47839}{47882}That's my camera.
+{47989}{48025}The battery's dead.
+{48027}{48072}I've got an idea.
+{48089}{48136}Let me have the camera.
+{48192}{48256}ERIC: Where were you on that one, Ma?
+{48282}{48343}BEN: Okay, dive. Dive.
+{48397}{48427}Come on, Ma.
+{48429}{48493}AMANDA: Eric.|ERIC: Ma, you were supposed to catch itl
+{48505}{48566}I shot this the morning they disappeared.
+{48569}{48633}PAUL: I want that. Let me take that.
+{48635}{48688}Come on, give me that. Come on, baby.
+{48697}{48736}ERIC: See anything yet?
+{48739}{48788}BEN: No, notyetl
+{48814}{48851}ERIC: What was that?
+{48891}{48924}BEN: Unclip us.
+{48926}{49014}BEN: There's a big clipl|ERIC: I can'tsee. I can't do itl
+{49079}{49124}BEN: I'm going to unhook you, all right?
+{49126}{49193}One, two, threel
+{49225}{49303}Are you okay, buddy?|I'm gonna drop myself down now.
+{49329}{49372}The camera's still on.
+{49441}{49508}He's alive. I know he's alive.
+{49515}{49556}We're gonna find him.
+{49617}{49666}Can you fly one of those?
+{49670}{49707}Maybe.
+{49709}{49758}As long as the sail is not torn.
+{49761}{49804}Well, let's take it.
+{49810}{49892}If we spot a plane,|it might be a good way to get attention.
+{49896}{49941}Pull it over this way.
+{49994}{50037}[Screaming]
+{50046}{50120}[Fast-paced, dramatic instrumental music]
+{50151}{50217}PAUL: I got it, hold on! Okay. Okay.
+{50219}{50255}My God!
+{50413}{50468}Okay, you're free.
+{50530}{50579}Get her back, Mr. Kirby!
+{50581}{50619}PAUL: Amanda!
+{50632}{50658}Waitl
+{50660}{50707}[Insects buzzing]
+{50930}{50969}Amanda!
+{51163}{51212}Amanda, stop.
+{51240}{51320}I'm sorry. I'm sorry. I'm sorry about Ben.
+{51392}{51447}It's not Ben, Paul.
+{51475}{51549}It's Eric. He's out there all by himself.
+{51581}{51624}PAUL: I know, I know.
+{51627}{51705}Our baby is out here all by himself.
+{51712}{51771}PAUL: Listen to me. We'll find him.
+{51777}{51805}I promise.
+{52001}{52031}Paul.
+{52116}{52157}PAUL: Dr. Grant!
+{52176}{52231}You should come look at thisl
+{52376}{52421}[Suspenseful instrumental music]
+{52984}{53029}[Whispers] Raptor.
+{53305}{53343}PAUL: We're going to find him.
+{53345}{53406}Are you listening to me?|We're going to find him.
+{53408}{53449}Kid's got resources.
+{53452}{53519}Remember what it was like|to try to ground him?
+{53566}{53609}Where's Billy?
+{53752}{53795}ALAN: What are you doing?
+{53800}{53847}I was photographing the nest.
+{53852}{53895}Don't do that again.
+{53913}{53943}I'm sorry.
+{53968}{54040}If I lose you,|it's just me and the damn tourists.
+{54257}{54296}PAUL: I bet you Eric is in there.
+{54298}{54359}Don't you think? I'd bet my bottom dollar!
+{54402}{54441}BILLY: What do you think it is?
+{54444}{54524}UDESKY: As far as I'm concerned,|it's the Four Seasons.
+{55396}{55465}-Eric!|-[Whispers] Paul! Don't.
+{55693}{55736}What the hell.
+{55813}{55852}[No dial tone heard]
+{56119}{56199}Who's got some change?|It only takes quarters.
+{56202}{56261}I've got $1.10.
+{56671}{56707}[Groans]
+{56865}{56914}[Eerie instrumental music]
+{57578}{57627}This is how you make dinosaurs?
+{57640}{57670}No.
+{57695}{57746}This is how you play God.
+{57924}{57975}[Slow instrumental music]
+{58646}{58689}[Roaring]
+{59097}{59125}PAUL: This way!
+{59243}{59275}It's locked!
+{59365}{59422}PAUL: This way, this way!|UDESKY: Go! Go!
+{59527}{59574}[Grunting]
+{59739}{59788}UDESKY: Hey, over here!
+{59791}{59830}[Yelling]
+{60038}{60077}Push, push!
+{60193}{60230}[Squawking]
+{60309}{60342}My God.
+{60375}{60416}He's calling for help.
+{60429}{60464}Come on!
+{60792}{60831}[Barking]
+{60861}{60904}[Barking continues]
+{60915}{60954}[Chattering]
+{61017}{61056}Into the herd!
+{61058}{61107}[Dinosaurs grunting]
+{61226}{61281}[Rumbling and trumpeting]
+{61729}{61766}Head for the trees!
+{62299}{62340}[Hissing]
+{62401}{62427}[Udesky screams]
+{62436}{62454}Udesky.
+{62543}{62580}[Screaming]
+{62762}{62795}[Squawking]
+{62925}{62962}BILLY: Mr. Kirby!
+{62998}{63051}-Billy?|-Is Alan with you?
+{63232}{63270}PAUL: Oh, my God.
+{63274}{63307}AMANDA: Mr. Udesky!
+{63392}{63418}He's dead.
+{63467}{63503}Oh, my God. No, he's not.
+{63505}{63544}BILLY: No, wait. Something's not right.
+{63547}{63586}PAUL: We've got to help him.
+{63594}{63622}Amandal
+{63696}{63724}[Growling]
+{63756}{63788}Hold on!
+{63790}{63822}[Amanda screams]
+{63965}{63997}BILLY: They set a trap.
+{64017}{64056}They actually set a trap.
+{64102}{64130}[Calling]
+{64202}{64238}What are you saying?
+{64259}{64294}What are you looking for?
+{64296}{64324}[Calling]
+{64431}{64459}[Hissing]
+{65612}{65640}[Coughing]
+{66033}{66055}ALAN: Wait!
+{66058}{66086}[Coughing]
+{66443}{66467}Thanks.
+{66488}{66524}Thanks a lot, Eric.
+{66605}{66643}You know who I am?
+{66645}{66667}ALAN: Yeah.
+{66683}{66749}Your parents are here.|They're looking for you.
+{66773}{66799}Together?
+{66812}{66838}Together.
+{66883}{66916}That's not good.
+{66922}{66969}They don't do so well together.
+{66979}{67038}You'd be surprised what people can do...
+{67044}{67082}...when they have to.
+{67452}{67487}You're Alan Grant.
+{67522}{67563}What are you doing here?
+{67614}{67646}Your parents...
+{67685}{67722}...invited me along.
+{68290}{68331}I read both of your books.
+{68367}{68410}I liked the first one more.
+{68418}{68465}Before you were on the island.
+{68486}{68533}You liked dinosaurs back then.
+{68549}{68610}Back then, they hadn't tried to eat me yet.
+{68696}{68760}ERIC: When lngen cleared out,|they left a lot of stuff behind.
+{68762}{68788}Any weapons?
+{68790}{68859}No, and I just used the last|of the gas grenades.
+{68868}{68902}And I appreciate that.
+{68904}{68932}[Coughing]
+{68994}{69047}ERIC: Be careful with that. T-Rex.
+{69059}{69100}It scares the smaller ones away...
+{69102}{69168}...but it attracts one really big one|with a fin.
+{69183}{69228}This is T-Rex pee?
+{69313}{69347}How did you get it?
+{69349}{69390}You don't want to know.
+{69524}{69567}ERIC: Dessert?|ALAN: Sure.
+{69688}{69786}I have to tell you, I'm astonished|you've lasted eight weeks on this island.
+{69838}{69877}Is that all it's been?
+{69908}{69971}You're alive and that's the important thing.
+{69982}{70052}ALAN: Thanks to you,|that's one thing we have in common.
+{70117}{70162}Did you read Malcolm's book?
+{70190}{70212}Yeah.
+{70253}{70273}So?
+{70285}{70326}I don't know. I mean....
+{70339}{70380}It was kind of preachy.
+{70394}{70453}And too much chaos. Everything is chaos.
+{70463}{70520}Seemed like he was high on himself.
+{70574}{70642}That's two things that we have in common.
+{70732}{70762}[Chattering]
+{70797}{70819}Listen.
+{70842}{70866}ERIC: Compys!
+{71163}{71200}BILLY: Alan!
+{71246}{71270}Alanl
+{71475}{71501}Alan!
+{71883}{71928}PAUL: No matter how this turns out...
+{71930}{71971}...it wasn't your fault.
+{71997}{72054}Eric's always been a strong-willed kid.
+{72059}{72083}Always.
+{72089}{72165}Then you throw someone|like Ben Hildebrand into the mix...
+{72168}{72194}...and...
+{72217}{72243}...well.
+{72268}{72296}Well, what?
+{72319}{72376}All I'm saying is, it's not your fault.
+{72485}{72505}No.
+{72514}{72580}If he'd been with you,|he'd be completely safe.
+{72603}{72673}You drive five miles under the speed limit.
+{72707}{72770}And I've totalled three cars in three years.
+{72791}{72824}Well, not three.
+{72826}{72875}The Buick wasn't really totalled.
+{72912}{72986}I just said it was,|because I wanted to get the S.U.V.
+{73104}{73161}I am so sorry that you have to be here.
+{73240}{73264}I'm not.
+{75115}{75185}ALAN:|There's a boat, right alongside the bank.
+{75190}{75243}-Looks in good shape.|-A rescue boat?
+{75254}{75278}No, no.
+{75305}{75348}Just something left behind.
+{75358}{75388}But it floats.
+{75672}{75710}BILLY: We stick to the plan.
+{75730}{75764}Head for the coast.
+{75766}{75809}You're not gonna look for Dr. Grant?
+{75812}{75896}The coast was Alan's idea.|If he's alive, that's where he's headed.
+{75898}{75922}PAUL: I agree.
+{75925}{75958}What about Eric?
+{75972}{76007}Eric's a smart kid.
+{76009}{76070}He probably knows|his best chance is by the coast.
+{76072}{76144}He figures the big dinosaurs|are in the centre of the island.
+{76147}{76175}Right?
+{76217}{76239}Sure.
+{76404}{76443}ERIC: You know what this is?
+{76456}{76507}ALAN: It's a Raptor claw.|I used to have one.
+{76528}{76554}A fossil.
+{76588}{76616}Mine is new.
+{76653}{76710}How much of the island did you explore?
+{76723}{76776}I stayed pretty close to the compound.
+{76778}{76868}I figured if anyone came looking for me,|that's where they'd start.
+{76878}{76939}ALAN: We need to get to the coast.|That was the plan.
+{76942}{76966}ERIC: Are you sure?
+{76968}{77033}The closeryou get to water,|the bigger things get.
+{77035}{77096}ALAN: lf we can find our way|down into the canyon...
+{77099}{77163}...we can follow that river out to the coast.
+{77189}{77232}After we find your parents.
+{77239}{77265}ERIC: Then what?
+{77281}{77326}-One step at a time.|-Listen.
+{77370}{77392}What?
+{77400}{77436}[Musical beeping]
+{77438}{77475}That's my dad's satellite phone!
+{77560}{77609}Wait a minute. How do you know?
+{77616}{77685}[Sings]|"Kirby Paint and Tile Plus, in Westgate!"
+{77706}{77739}Dad!
+{77747}{77775}Muml
+{77793}{77840}Muml Dadl
+{78209}{78270}[Eric shouting in distance]
+{78297}{78338}-Eric!|-Eric!
+{78342}{78383}PAUL: Eric! This way!
+{78439}{78490}Mum! Dad!
+{78520}{78542}Eric!
+{78604}{78649}[Uplifting instrumental music]
+{78668}{78727}Mum, Dad! Mum, Dad!
+{78895}{78946}I knew it. My God.
+{78968}{78994}PAUL: I knew it.
+{79020}{79044}Oh, God.
+{79091}{79134}BILLY: Boy, am I glad to see you.
+{79143}{79180}Hey, you got my bag.
+{79191}{79248}Yeah. Lucky strap.
+{79293}{79330}Want me to carry it?
+{79365}{79408}We need to find a gap here.
+{79459}{79512}-How did you know we were here?|-The phone.
+{79514}{79569}That stupid jingle from the store.|I heard it.
+{79571}{79618}PAUL: My phone?|ERIC: Your satellite phone.
+{79620}{79661}-Where is it?|-I don't have it.
+{79664}{79748}AMANDA: When did you use it last?|PAUL: On the plane.
+{79762}{79813}I got a call on the plane and....
+{79842}{79911}-What?|-I loaned it to Nash.
+{79936}{79972}He must have had it when he--
+{79974}{80010}[Musical beeping]
+{80236}{80256}Run.
+{80290}{80325}[Roaring]
+{80403}{80477}[Fast-paced, dramatic instrumental music]
+{81225}{81276}[Pounding]
+{81397}{81479}[Roaring]
+{81808}{81865}Alan, you want to give me the bag back?
+{81877}{81914}It's okay, I got it.
+{81937}{81978}Please, give me the bag.
+{82073}{82103}It's not safe.
+{82240}{82278}[Unzipping sound]
+{82381}{82409}ALAN: Raptor eggs.
+{82467}{82524}Did you steal Raptor eggs?
+{82696}{82737}Now it all makes sense.
+{82743}{82825}BILLY: I swear, if I'd known|you were going to end up with them....
+{82871}{82939}It was an impulse,|I thought they'd be worth a fortune.
+{82941}{83015}Enough to fund the dig site|another 10 more years.
+{83017}{83051}You have to believe me.
+{83053}{83139}This was a stupid decision,|but I did it with the best intentions.
+{83142}{83183}"With the best intentions."
+{83235}{83352}Some of the worst things imaginable|have been done with the best intentions.
+{83385}{83423}You know what, Billy?
+{83428}{83471}As far as I'm concerned...
+{83474}{83554}...you're no better than the people|that built this place.
+{83959}{84035}What are you doing?|Those things are after us because of those.
+{84038}{84122}Those things know we have the eggs.
+{84133}{84230}If I drop them in the river,|they'll still be after us.
+{84245}{84339}-What if they catch us with them?|-What if they catch us without them?
+{84431}{84490}ALAN: There's a boat at the bottom,|just downriver.
+{84493}{84558}We can try and make it to the coast,|atleast.
+{84993}{85054}[Suspenseful instrumental music]
+{85646}{85703}[Grunting]
+{85810}{85842}[Loud splash]
+{85859}{85887}[Whistles]
+{85893}{85929}-You okay?|-Yeah.
+{86150}{86184}[Metal rattles]
+{86206}{86263}Let's do this one at a time, shall we?
+{86723}{86762}[Metal creaking]
+{86846}{86893}[Gravel spilling]
+{87183}{87221}Okay, come on over!
+{87243}{87277}One at a time!
+{87286}{87319}All right, Eric.
+{87327}{87425}I'm going to leave you just for a minute.|And then you'll be right behind me, okay?
+{87427}{87447}Mum!
+{87467}{87528}I've been alone in a water truck|for eight weeks.
+{87530}{87604}I think I can manage|the next two minutes without you.
+{87682}{87729}Right, we're all together now.
+{87978}{88043}[Metal creaking]
+{88363}{88391}Okay, Eric.
+{88393}{88432}PAUL: Okay.|AMANDA: Come on, honey!
+{88435}{88463}Over you go.
+{88662}{88697}[Suspenseful drum music]
+{89277}{89307}Mum?
+{89366}{89396}Oh, my God.
+{89407}{89485}AMANDA: What is it?|ALAN: It's a birdcage.
+{89509}{89535}For what?
+{89544}{89581}[Metal rattling]
+{89663}{89691}[Screaming]
+{89693}{89721}Dadl
+{89724}{89746}AMANDA: Eric!
+{89762}{89784}PAUL: Eric!
+{89845}{89867}Ericl
+{90161}{90200}I can't see him!
+{90308}{90328}Eric!
+{90359}{90397}[Chattering]
+{90413}{90437}No!
+{90641}{90661}This way!
+{90972}{91015}Billy? Billy!
+{91094}{91151}Billy, stopl Don't, Billyl
+{91184}{91206}Billyl
+{91624}{91661}BILLY: Eric, hold on!
+{91787}{91807}Eric!
+{92132}{92154}Jump!
+{92802}{92824}Billy!
+{92836}{92862}[Cawing]
+{92908}{92936}[Ripping]
+{93003}{93031}[Roaring]
+{93136}{93164}Let go now!
+{93749}{93825}[Fast-paced, dramatic instrumental music]
+{94161}{94216}[Grunting]
+{94271}{94306}AMANDA: Eric!|PAUL: He's there.
+{94539}{94561}Eric!
+{94612}{94675}There he is! He's across the river!
+{94687}{94724}Get him out of here!
+{94784}{94823}ERIC: No!|AMANDA: Go, Eric!
+{94834}{94868}ERIC: What about Billy?
+{95228}{95258}Hang on, Billy!
+{95466}{95486}PAUL: Wait.
+{95586}{95612}Get away!
+{97524}{97569}[Motor starts]
+{97656}{97699}There's plenty of gasoline.
+{97705}{97775}Now we've just got to make our way|to the coast.
+{97786}{97845}Work out some sort of a signal.
+{97860}{97946}Build a fire or something.|Something they can see from the air.
+{98091}{98117}ERIC: Dr. Grant?
+{98161}{98208}Hey, Eric, how are you doing?
+{98447}{98486}I'm sorry about Billy.
+{98582}{98648}You know what the last thing|I said to him was?
+{98658}{98682}I said:
+{98699}{98771}"You're as bad as the people|that built this place."
+{98779}{98814}Which wasn't true.
+{98822}{98900}Billy was just young. That's all.
+{98952}{99015}I have a theory|that there are two kinds of boys.
+{99017}{99076}There are those|who want to be astronomers...
+{99078}{99135}...and those who want to be astronauts.
+{99150}{99218}The astronomer, or the paleontologist...
+{99259}{99353}...gets to study these amazing things|from a place of complete safety.
+{99374}{99452}-But then you never get to go into space.|-Exactly.
+{99469}{99538}It's the difference|between imagining and seeing.
+{99540}{99597}To be able to touch them.
+{99619}{99697}And that's all Billy wanted.
+{99889}{99915}Dr. Grant.
+{100615}{100662}You know something, Dr. Grant?
+{100706}{100739}Billy was right.
+{100985}{101015}[Roaring]
+{101363}{101385}Listen.
+{101388}{101441}[Satellite phone ringing musically]
+{101831}{101866}[Ringing continues]
+{101894}{101932}ALAN: Find it before it stops!
+{101934}{101979}AMANDA: Eric, you stay on that boat.
+{101999}{102037}[Ringing continues]
+{102051}{102104}PAUL: It's here. It's here.
+{102143}{102165}God.
+{102338}{102364}AMANDA: I got it.
+{102563}{102597}Hello? Hello?
+{102599}{102652}VOICE ON PHONE:|You too can own a timeshare...
+{102655}{102694}...in beautiful Guadalajara.
+{102696}{102755}Enjoy a meal in one|of our four-star restaurants.
+{102757}{102783}Look out!
+{102859}{102898}[Sniffing]
+{103055}{103094}[Groaning]
+{103179}{103205}[Thunder claps]
+{103264}{103305}PAUL: Turn off the power.
+{103311}{103356}You've got juice for maybe one call.
+{103359}{103412}Whateveryou do,|don't call the U.S. Embassy.
+{103415}{103458}They won't do a damn thing.
+{103465}{103526}ERIC: Hey, guys, come here! Look at this!
+{103687}{103761}-Bonitos.|-Something must have spooked them!
+{103779}{103828}Get the engine going, Mr. Kirby.
+{104006}{104041}PAUL: Open the throttle!
+{104075}{104124}[Dialling]
+{104201}{104225}Pick up.
+{104240}{104289}[Telephone ringing]
+{104365}{104387}Hello?
+{104390}{104414}Ellie?
+{104431}{104453}Hello?
+{104463}{104487}Charlie!
+{104511}{104550}ALAN: Charlie!|CHARLIE: Hello?
+{104571}{104642}Charlie, take the phone to Mummy now!
+{104663}{104704}ALAN: Take the phone to Mummyl
+{104707}{104758}It's the dinosaur man!
+{104777}{104830}CHARLIE: Okay.|ALAN: Listen to me, Charlie.
+{104859}{104883}Charliel
+{104910}{104959}Are you taking the phone to Mum?
+{104965}{104989}Charliel
+{105024}{105096}[Fast-paced, dramatic instrumental music]
+{105620}{105644}[Singing on TV]
+{105663}{105714}BARNEY: Oh, ho-hol Hi, everybodyl
+{105767}{105801}[Screaming]
+{105953}{105992}BARNEY: It's great to be herel
+{105995}{106052}Hi, therel How are you?
+{106282}{106325}BARNEY: This is going to be great.
+{106626}{106685}ELLIE: Who's on the phone?|CHARLIE: The dinosaur man.
+{106687}{106728}ELLIE: He is? Alan?
+{106736}{106797}ALAN: Look in the boxes! Find a weapon!
+{106969}{106993}[Telephone ringing]
+{106996}{107022}Where's the phone?
+{107024}{107063}PAUL: There!|ALAN: Get the phone!
+{107298}{107333}ALAN: Ellie, listen to me!
+{107341}{107396}Are you on a cell phone? I can't hear you.
+{107398}{107447}The river! Site B!
+{107449}{107471}The riverl
+{107542}{107566}Hello?
+{107568}{107592}[Beeping]
+{107603}{107654}[Charlie growling]
+{108796}{108832}[Screaming]
+{109069}{109099}[Shouts] Hey!
+{109121}{109154}[Roaring]
+{110597}{110668}ERIC: Dad! Dad!
+{110816}{110842}AMANDA: Paul!
+{111105}{111137}ERIC: Dad!
+{111241}{111290}Paul, you jerk!
+{111351}{111398}You can't leave me like this!
+{111461}{111502}I'm not going anywhere!
+{111579}{111618}[Sobbing]
+{111897}{111971}Remember when we went fishing|a couple of summers ago?
+{111992}{112070}I was putting the boat in the water|and the trailer sank?
+{112094}{112178}The tow truck tried to pull us out|and it got dragged in, too.
+{112201}{112267}The truck driver wanted|to knock my lights out.
+{112402}{112432}I miss fishing.
+{112574}{112600}ALAN: Mr. Kirby?
+{112722}{112785}ERIC: That lady you called. Who is she?
+{112808}{112857}How do you know that she can help us?
+{112860}{112940}She's the one person|I could always count on. I owe her a lot.
+{112966}{113035}-I don't think I ever told her that.|-You should.
+{113111}{113141}You hear that?
+{113182}{113208}The ocean.
+{113612}{113648}They want the eggs.
+{113675}{113724}Otherwise, we'd be dead already.
+{113850}{113928}ALAN: Everybody get down.|She's challenging us.
+{114394}{114441}She thinks you stole the eggs.
+{114447}{114471}PAUL: Get behind me.
+{114473}{114497}[Hissing]
+{114958}{115029}Give me the eggs.
+{115107}{115156}[Yelping]
+{115532}{115560}Do it, Mum.
+{115828}{115871}[Screeching noise]
+{116009}{116052}No. Call for help.
+{116361}{116400}[Rumble approaching]
+{116411}{116446}[Fluttering]
+{117177}{117214}PAUL: That's a helicopter.
+{117448}{117487}MAN: Dr. Grant?
+{117489}{117544}MAN: Dr. Alan Grant?|AMANDA: Stop!
+{117559}{117620}ALL: That's a very bad idea!
+{117826}{117871}MAN: Second squad, move!|ERIC: Wow!
+{117891}{117977}You have to thank her now.|She sent the Navy and the Marines.
+{118026}{118067}God bless you, Ellie.
+{118356}{118417}-Dr. Grant, is this man with you?|-What?
+{118660}{118688}You made it.
+{118730}{118750}Yeah.
+{118779}{118817}I rescued your hat.
+{118841}{118907}MAN: Dr. Grant, we need to go now!|ALAN: Oh, yeah.
+{118975}{119026}Well, that's the important thing.
+{119037}{119063}MAN: Dr. Grant!
+{119125}{119189}Can I getyou to sit here|and buckle up, sir?
+{119355}{119439}MAN ON RADIO: Sea Shadow|to Dust Storm, six souls on board.
+{119482}{119531}Dust Storm to Sea Shadow, roger.
+{119644}{119683}PILOT: What the hell is that?
+{119714}{119752}ERIC: Dr. Grant, look!
+{119989}{120040}Where do you think they're going?
+{120051}{120131}I don't know. Maybe just looking|for new nesting grounds.
+{120134}{120181}It's a whole new world for them.
+{120184}{120241}I dare them to nest in Enid, Oklahoma.
+{120402}{120432}Let's go home.
+{121401}{121450}Subtitles by SOFTITLER
+
+
+0
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.moviesubtitles.org</font>

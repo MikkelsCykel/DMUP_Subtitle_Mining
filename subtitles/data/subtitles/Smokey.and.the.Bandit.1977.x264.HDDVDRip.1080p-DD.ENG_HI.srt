@@ -1,0 +1,5141 @@
+1
+00:00:21,188 --> 00:00:23,565
+(IGNITION STARTS)
+
+2
+00:00:28,070 --> 00:00:30,697
+(ENGINE IDLING)
+
+3
+00:00:41,166 --> 00:00:44,419
+(AIR BRAKES HISS)
+
+4
+00:00:54,972 --> 00:00:58,183
+<i># You heard 'bout the legend
+of Jesse James</i>
+
+5
+00:00:58,350 --> 00:01:00,811
+<i># And John Henry
+just to mention some names</i>
+
+6
+00:01:00,978 --> 00:01:04,356
+<i># Well, there's a truck-drivin' legend
+in the South today</i>
+
+7
+00:01:04,523 --> 00:01:07,985
+<i># A man called Bandit
+from Atlanta, Ga.</i>
+
+8
+00:01:08,151 --> 00:01:10,779
+<i># Every gearjammer
+knows his name</i>
+
+9
+00:01:10,946 --> 00:01:14,157
+<i># They swear he got asphalt
+a-runnin' in his veins</i>
+
+10
+00:01:14,324 --> 00:01:17,119
+<i># A foot like lead
+and nerves like steel</i>
+
+11
+00:01:17,286 --> 00:01:20,914
+<i># He's gonna go to glory
+ridin' 18 wheels</i>
+
+12
+00:01:21,081 --> 00:01:22,749
+<i># Oh, boy</i>
+
+13
+00:01:22,916 --> 00:01:26,211
+<i># He left Atlanta back in '63</i>
+
+14
+00:01:26,378 --> 00:01:29,089
+<i># Haulin' him a load
+up to Tennessee</i>
+
+15
+00:01:29,256 --> 00:01:32,259
+<i># He hit Mount Eagle
+in a drivin' rain</i>
+
+16
+00:01:32,426 --> 00:01:35,220
+<i># So hard he couldn't even see
+the passin' lane</i>
+
+17
+00:01:35,387 --> 00:01:38,515
+<i># Well, he started down the grade
+when he lost a gear</i>
+
+18
+00:01:38,682 --> 00:01:42,060
+<i># He hit them brakes,
+found he had no air</i>
+
+19
+00:01:42,227 --> 00:01:44,938
+<i># The Mount Eagle grade
+is steep and long</i>
+
+20
+00:01:45,105 --> 00:01:48,817
+<i># And everybody that seen it
+thought the Bandit was gone</i>
+
+21
+00:01:48,984 --> 00:01:50,402
+<i># All gone</i>
+
+22
+00:01:50,569 --> 00:01:53,947
+<i># Well, his truck jack-knifed
+turned completely around</i>
+
+23
+00:01:54,114 --> 00:01:57,034
+<i># He was comin' down backwards
+'bout the speed of sound</i>
+
+24
+00:01:57,201 --> 00:02:00,078
+<i># A lot of folks seen him
+and they all say</i>
+
+25
+00:02:00,245 --> 00:02:03,290
+<i># He had his head out the window
+yellin', "Clear the way!"</i>
+
+26
+00:02:03,457 --> 00:02:06,335
+<i># Well, he got to the bottom
+safe and sound</i>
+
+27
+00:02:06,502 --> 00:02:09,338
+<i># Everybody asked Bandit
+how he made it down</i>
+
+28
+00:02:09,505 --> 00:02:12,466
+<i># He said, "Folks, when the truck
+picked up too much speed</i>
+
+29
+00:02:12,633 --> 00:02:16,428
+<i># "I just run along beside it
+and drug my feet"</i>
+
+30
+00:02:16,595 --> 00:02:19,681
+<i># Ya heard the legend
+of Jesse James</i>
+
+31
+00:02:19,848 --> 00:02:22,017
+<i># And John Henry
+just to mention some names</i>
+
+32
+00:02:22,184 --> 00:02:25,646
+<i># Well, there's a truck-drivin' legend
+in the South today</i>
+
+33
+00:02:25,812 --> 00:02:29,358
+<i># A man called Bandit
+from Atlanta, Ga.</i>
+
+34
+00:02:29,525 --> 00:02:32,027
+<i># Every gearjammer
+knows his name</i>
+
+35
+00:02:32,194 --> 00:02:35,155
+<i># They swear he's got asphalt
+a-runnin' in his veins</i>
+
+36
+00:02:35,322 --> 00:02:38,534
+<i># A foot like lead
+and nerves like steel</i>
+
+37
+00:02:38,700 --> 00:02:41,870
+<i># He's goin' up to glory
+ridin' 18 wheels</i>
+
+38
+00:02:42,037 --> 00:02:44,873
+<i># Ah, tell me, boy</i>
+
+39
+00:02:48,126 --> 00:02:50,045
+<i># Talk to me, guitar #</i>
+
+40
+00:03:02,891 --> 00:03:04,726
+Hey, Kirk. How ya doin'?
+
+41
+00:03:04,893 --> 00:03:07,145
+Tod Engels. How are ya?
+
+42
+00:03:09,898 --> 00:03:13,861
+- This your rig, son?
+- Yeah.
+
+43
+00:03:14,027 --> 00:03:16,446
+Open it up. Let's see the manifest.
+
+44
+00:03:25,122 --> 00:03:29,751
+Well, placin' you under arrest
+for transportin' alcoholic beverages
+
+45
+00:03:29,918 --> 00:03:32,337
+across state lines
+without the proper permits.
+
+46
+00:03:32,504 --> 00:03:34,840
+And that means you,
+you dumb cowboy.
+
+47
+00:03:35,007 --> 00:03:38,677
+You know truckin' Coors beer
+east of Texas is bootleggin'.
+
+48
+00:03:38,844 --> 00:03:42,514
+- This here's Georgia, son.
+- Just a friendly bet.
+
+49
+00:03:42,681 --> 00:03:45,184
+These two old boys put me up to it.
+
+50
+00:03:45,350 --> 00:03:47,394
+Now, when ya gonna learn?
+
+51
+00:03:47,561 --> 00:03:52,149
+Big and Little Enos Burdette make that
+same bet with every gearjammer they can.
+
+52
+00:03:52,316 --> 00:03:54,276
+I say he ain't gonna go
+for your game.
+
+53
+00:03:54,443 --> 00:03:59,031
+Son, from what I've heard, the biggest
+thing about the Bandit is his ego,
+
+54
+00:03:59,198 --> 00:04:04,620
+and I figure that, plus a lot of my dollars,
+and he'll try anything, legal or not.
+
+55
+00:04:04,786 --> 00:04:09,374
+<i>(ANNOUNCER) They've put on quite a show
+for us today, haven't they, friends?</i>
+
+56
+00:04:09,541 --> 00:04:15,005
+<i>Yes, sir, you have seen some of
+the finest gearjammin' in all of this country.</i>
+
+57
+00:04:15,172 --> 00:04:20,302
+<i>Remember, these are the boys that take
+the long hauls. They really did it today.</i>
+
+58
+00:04:23,013 --> 00:04:27,059
+- Hoss... Where might I find the Bandit?
+- I ain't seen him.
+
+59
+00:04:27,226 --> 00:04:29,353
+- Over there behind his rig.
+- Who wants to see him?
+
+60
+00:04:29,520 --> 00:04:31,355
+- Who's askin'?
+- I'm askin'.
+
+61
+00:04:31,522 --> 00:04:35,692
+'Cause I'm the guy payin' him $25 a day
+so all his loyal fans can look at him.
+
+62
+00:04:35,859 --> 00:04:38,612
+Do it.
+
+63
+00:04:38,779 --> 00:04:43,659
+I'm buyin' your attraction
+for a half an hour.
+
+64
+00:04:50,499 --> 00:04:52,459
+Egotistical son of a bitch.
+
+65
+00:04:52,626 --> 00:04:58,006
+A guy that paints his truck like this would go
+to a minister's funeral dressed in feathers.
+
+66
+00:04:58,173 --> 00:05:03,387
+(BIG ENOS) See, son? Old legends
+never die. They just lose weight.
+
+67
+00:05:03,554 --> 00:05:07,683
+Seems like a legend and an out-of-work
+bum look a lot alike, Daddy.
+
+68
+00:05:07,850 --> 00:05:11,895
+(BIG ENOS)
+Bandit, me and my son are here.
+
+69
+00:05:17,359 --> 00:05:19,027
+Oh, I love your suits.
+
+70
+00:05:19,194 --> 00:05:23,866
+It must be a bitch gettin' a size
+68 extra-fat and a 12 dwarf.
+
+71
+00:05:24,032 --> 00:05:29,037
+I came to make a deal. What's he get
+if he wins this truck rodeo thing?
+
+72
+00:05:29,204 --> 00:05:32,166
+- (BANDIT) lf?!
+- $5,000, Daddy.
+
+73
+00:05:32,332 --> 00:05:35,878
+- Chicken-shit money.
+- Just what the hell you want, anyway?
+
+74
+00:05:36,044 --> 00:05:40,591
+You to get out of this dumb-ass rodeo
+and accept a real challenge.
+
+75
+00:05:45,804 --> 00:05:51,059
+(BANDIT) Gettin' to Texarkana and back
+in 28 hours, that's no problem.
+
+76
+00:05:51,226 --> 00:05:55,606
+- It ain't never been done before, hotshit.
+- Watch your language, little lady.
+
+77
+00:05:55,772 --> 00:05:58,150
+The problem is that Coors beer.
+
+78
+00:05:58,317 --> 00:06:02,821
+You take that east of Texas
+and that's, uh... that's bootleggin'.
+
+79
+00:06:02,988 --> 00:06:05,699
+I believe you're just a little bit scared.
+
+80
+00:06:05,866 --> 00:06:08,952
+Great psychology. Why don't you say
+somethin' bad about my mother?
+
+81
+00:06:09,119 --> 00:06:12,372
+- Your mama is so ugly...
+- Look, you make this run for me.
+
+82
+00:06:12,539 --> 00:06:15,125
+These Peterbilts are worth $80,000.
+
+83
+00:06:15,292 --> 00:06:20,756
+That comes to about three grand
+an hour if you make it in 28 hours.
+
+84
+00:06:20,923 --> 00:06:23,258
+How about that for a challenge?
+
+85
+00:06:23,425 --> 00:06:25,969
+- Dad, I don't believe that that's necess...
+- Never mind.
+
+86
+00:06:26,136 --> 00:06:28,680
+Wait a minute. Why do you
+want that beer so bad?
+
+87
+00:06:28,847 --> 00:06:31,517
+Because he's thirsty, dummy.
+
+88
+00:06:31,683 --> 00:06:35,270
+You see, I got a boy runnin' tomorrow
+in the Southern Classic.
+
+89
+00:06:35,437 --> 00:06:38,649
+When he wins,
+I wanna celebrate in style.
+
+90
+00:06:38,815 --> 00:06:43,070
+- How much style?
+- Well, I got a few friends and me.
+
+91
+00:06:43,237 --> 00:06:44,947
+400 cases.
+
+92
+00:06:45,113 --> 00:06:49,159
+- 400 cases...?
+- Well?
+
+93
+00:06:49,326 --> 00:06:53,288
+- Well, let me see your cash.
+- Big Enos's word is gold.
+
+94
+00:06:54,790 --> 00:06:57,626
+All right, show him the cash.
+
+95
+00:06:57,793 --> 00:07:00,087
+- Go ahead, Little.
+- Shit.
+
+96
+00:07:02,297 --> 00:07:05,801
+Let's see. There's 400 cases of beer,
+I'll need the cash for that.
+
+97
+00:07:05,968 --> 00:07:08,971
+No problem. Go ahead, boy.
+
+98
+00:07:09,137 --> 00:07:12,266
+New car. Gotta have a new car
+to block for the truck.
+
+99
+00:07:12,432 --> 00:07:18,730
+- OK. Go ahead, boy.
+- I'd like to kick his ass just once.
+
+100
+00:07:18,981 --> 00:07:20,858
+Speedy car.
+
+101
+00:07:22,776 --> 00:07:25,487
+Speedier than that.
+
+102
+00:07:25,654 --> 00:07:27,489
+Go ahead.
+
+103
+00:07:48,552 --> 00:07:50,596
+- Hello, darlin'.
+- Hi, Uncle Bandit.
+
+104
+00:07:50,762 --> 00:07:52,848
+- Which one of the house apes are you?
+- Kate.
+
+105
+00:07:53,015 --> 00:07:55,309
+He's droppin' 'em like flies, isn't he?
+
+106
+00:07:55,475 --> 00:07:58,520
+Well, well, well. Hello, beautiful.
+
+107
+00:07:58,687 --> 00:08:01,356
+- How about 'gorgeous'?
+- You can't have him.
+
+108
+00:08:01,523 --> 00:08:04,401
+Obviously you can. What are you
+tryin' to do, start another race?
+
+109
+00:08:04,568 --> 00:08:08,030
+Look, you got Cledus in jail once.
+Leave us alone!
+
+110
+00:08:08,197 --> 00:08:10,490
+- Hi, Uncle Bandit!
+- He ain't your damn uncle!
+
+111
+00:08:10,657 --> 00:08:15,871
+I always recognise you! You know why?
+You always kick me in the balls!
+
+112
+00:08:16,038 --> 00:08:18,832
+Damn it, Bandit! Look at me!
+
+113
+00:08:18,999 --> 00:08:23,545
+I find it hard to look at you, Waynette,
+especially with those things in your hair.
+
+114
+00:08:23,712 --> 00:08:26,131
+Makes me think you're listening
+to a radio station in Savannah.
+
+115
+00:08:26,298 --> 00:08:30,052
+You can't go in there and bother Cledus.
+Hey! This is my home!
+
+116
+00:08:30,219 --> 00:08:32,513
+- Cledus.
+- No!
+
+117
+00:08:32,679 --> 00:08:36,391
+I know in the past
+I may have done you wrong.
+
+118
+00:08:37,434 --> 00:08:39,603
+- Right?
+- Right.
+
+119
+00:08:39,770 --> 00:08:44,900
+However, in the future, Cledus,
+I will never, ever do you wrong again.
+
+120
+00:08:45,067 --> 00:08:47,528
+- Right?
+- Right.
+
+121
+00:08:48,445 --> 00:08:54,660
+We have a big chance, a big chance
+to make a run for some big bucks.
+
+122
+00:08:55,327 --> 00:08:59,790
+- 80,000 of them.
+- Really?
+
+123
+00:08:59,957 --> 00:09:04,169
+- Are we gonna kidnap the Pope or somethin'?
+- How'd you guess?
+
+124
+00:09:04,336 --> 00:09:09,132
+No. We're just gonna run over to Texarkana
+and pick up 400 cases of Coors
+
+125
+00:09:09,299 --> 00:09:12,010
+and bring it back in 28 hours.
+
+126
+00:09:12,177 --> 00:09:14,638
+Whoa! I got a flash for you.
+
+127
+00:09:14,805 --> 00:09:17,599
+That's called bootleggin',
+and that's against the law.
+
+128
+00:09:17,766 --> 00:09:21,395
+Who gives a turkey when the Snowman
+and the Bandit are runnin' the booze?
+
+129
+00:09:21,562 --> 00:09:24,147
+- No one can stop us.
+- Hold it right there.
+
+130
+00:09:24,314 --> 00:09:27,234
+There ain't gonna be no more
+Snowman and Bandit.
+
+131
+00:09:27,401 --> 00:09:32,614
+Because I've got to go in the morning
+to Conyers and pick up a load of manure.
+
+132
+00:09:32,781 --> 00:09:35,701
+- Shitty job.
+- Can I ask you a question?
+
+133
+00:09:35,868 --> 00:09:37,536
+Sure. Ask me.
+
+134
+00:09:37,703 --> 00:09:40,747
+What the hell do we wanna go to
+Texas for and haul beer back here?
+
+135
+00:09:40,914 --> 00:09:43,000
+For the good old American life.
+
+136
+00:09:43,167 --> 00:09:46,628
+For the money, for the glory
+and for the fun.
+
+137
+00:09:46,795 --> 00:09:50,090
+Mostly for the money. You know
+what we're gonna do with the money?
+
+138
+00:09:50,257 --> 00:09:52,885
+- What?
+- We're gonna buy a new rig.
+
+139
+00:09:53,051 --> 00:09:56,471
+- You're crazy, you know that.
+- Yeah.
+
+140
+00:09:56,638 --> 00:10:00,309
+- How much money did you say it was?
+- $80,000.
+
+141
+00:10:00,475 --> 00:10:02,686
+$80,000?
+
+142
+00:10:02,853 --> 00:10:04,730
+- Hm.
+- Waynette!
+
+143
+00:10:04,938 --> 00:10:09,193
+Now, Bo, I'm tellin' ya,
+Fred here ain't gonna be no problem.
+
+144
+00:10:09,359 --> 00:10:13,572
+- I can see he'll be a major asset.
+- Besides, he's one hellacious watchdog.
+
+145
+00:10:13,739 --> 00:10:17,117
+- Well, let's get goin'.
+- Whoa. Hold it a minute.
+
+146
+00:10:17,284 --> 00:10:20,662
+I got to ask you a question.
+Sit right there, Fred.
+
+147
+00:10:20,829 --> 00:10:23,999
+You mean to tell me
+we're gonna drive from here
+
+148
+00:10:24,166 --> 00:10:27,503
+to Texarkana, Texas,
+and back to here in 28 hours?
+
+149
+00:10:27,669 --> 00:10:30,255
+It's only 900 miles there
+and 900 miles back.
+
+150
+00:10:30,422 --> 00:10:34,009
+Well, for your information,
+that ain't never been done, not in no rig.
+
+151
+00:10:34,176 --> 00:10:38,347
+'Cause you and I never done it in no rig.
+You gotta stop thinkin' so negative.
+
+152
+00:10:38,514 --> 00:10:41,433
+'Course we can make it.
+We ain't never not made it yet, have we?
+
+153
+00:10:41,600 --> 00:10:44,353
+- Well, no.
+- You see? There you are.
+
+154
+00:10:44,520 --> 00:10:47,689
+Yeah. Yeah, I see. I see all right.
+
+155
+00:10:47,856 --> 00:10:52,194
+I see our asses in a sling
+if we get caught, that's what I see.
+
+156
+00:10:55,739 --> 00:10:58,700
+Hey! Ho-ho-ho!
+
+157
+00:10:58,867 --> 00:11:02,454
+Well, God Almighty,
+would you look at that!
+
+158
+00:11:02,621 --> 00:11:05,541
+- It's beautiful, huh?
+- Honey, hush.
+
+159
+00:11:07,167 --> 00:11:10,671
+I don't guess we're gonna be ridin'
+in the truck together this time?
+
+160
+00:11:10,838 --> 00:11:13,465
+No, son. I'll be drivin' this one
+and blockin'.
+
+161
+00:11:13,632 --> 00:11:16,301
+You'll be drivin' the truck.
+This is Bandit One and that is...
+
+162
+00:11:16,468 --> 00:11:18,762
+...Bandit Two. Together again.
+
+163
+00:11:18,929 --> 00:11:23,350
+- Like Fred and Ginger and Lester and Earl.
+- That's right. But we got a problem.
+
+164
+00:11:24,226 --> 00:11:27,312
+You know them Smokeys
+got them CBs in the car now.
+
+165
+00:11:27,479 --> 00:11:31,358
+I haven't worked that out yet,
+but I'm thinkin' about it.
+
+166
+00:11:31,525 --> 00:11:33,819
+I got an idea.
+Why don't we do this?
+
+167
+00:11:33,986 --> 00:11:38,073
+If I say go to channel 21, forget it.
+We ain't goin' to 21, we're goin' to 19.
+
+168
+00:11:38,240 --> 00:11:41,994
+- 21 is 19?
+- If I say go to channel six, forget it.
+
+169
+00:11:42,160 --> 00:11:44,913
+- We go to three.
+- I go to three. Perfect.
+
+170
+00:11:45,080 --> 00:11:48,083
+- If I say go to channel two, we go to one.
+- Two is one.
+
+171
+00:11:48,250 --> 00:11:50,502
+- That'll confuse everybody.
+- That'll confuse 'em.
+
+172
+00:11:50,669 --> 00:11:54,047
+On the other hand,
+if we stayed on the odd channels,
+
+173
+00:11:54,214 --> 00:11:57,134
+switched every time and started
+in the basement, that'd work, too.
+
+174
+00:11:57,301 --> 00:12:01,847
+- That'd do it, too, wouldn't it?
+- Well, yeah, that'd work too, I guess.
+
+175
+00:12:02,014 --> 00:12:05,142
+- Let's haul ass.
+- OK.
+
+176
+00:12:19,239 --> 00:12:21,825
+(FRED BARKS)
+
+177
+00:12:26,955 --> 00:12:30,918
+Breaker One. This is the Bandit.
+Is the Snowman out there?
+
+178
+00:12:31,084 --> 00:12:33,587
+<i>- Am I hittin'ya, son?
+- Mercy sakes.</i>
+
+179
+00:12:33,754 --> 00:12:36,798
+You put about eight and a half on me,
+blowin' my windows out. Bring it on.
+
+180
+00:12:36,965 --> 00:12:41,553
+I'll be within earshot.
+You keep it wound up to around 90.
+
+181
+00:12:41,720 --> 00:12:45,307
+<i>- Hey, Bandit. Me and Fred's got a question.
+- What do you and Fred want?</i>
+
+182
+00:12:45,474 --> 00:12:48,977
+How come we're doing this?
+They said it couldn't be done.
+
+183
+00:12:49,144 --> 00:12:52,189
+- That's the reason.
+- That's good with Fred!
+
+184
+00:12:53,106 --> 00:12:54,525
+10-4.
+
+185
+00:12:54,816 --> 00:12:58,445
+<i># Westbound and down
+18 wheels a-rollin'</i>
+
+186
+00:12:58,612 --> 00:13:01,532
+<i># We gonna do what they say
+can't be done</i>
+
+187
+00:13:01,698 --> 00:13:06,161
+<i># We've got a long way to go
+and a short time to get there</i>
+
+188
+00:13:06,328 --> 00:13:09,915
+<i># I'm westbound
+Just watch ol' Bandit run</i>
+
+189
+00:13:10,082 --> 00:13:14,002
+<i># Keep your foot hard on the pedal,
+son, never mind them brakes</i>
+
+190
+00:13:14,169 --> 00:13:17,673
+<i># Let it all hang out
+'cause we got a run to make</i>
+
+191
+00:13:17,840 --> 00:13:21,718
+<i># The boys are thirsty in Atlanta
+and there's beer in Texarkana</i>
+
+192
+00:13:21,885 --> 00:13:26,139
+<i># And we'll bring it back
+no matter what it takes</i>
+
+193
+00:13:26,306 --> 00:13:30,102
+<i># Westbound and down
+18 wheels a-rollin'</i>
+
+194
+00:13:30,269 --> 00:13:33,355
+<i># We gonna do what they say
+can't be done</i>
+
+195
+00:13:33,522 --> 00:13:37,693
+<i># We've got a long way to go
+and a short time to get there</i>
+
+196
+00:13:37,860 --> 00:13:41,530
+<i># I'm westbound
+Just watch ol' Bandit run</i>
+
+197
+00:14:04,761 --> 00:14:07,055
+<i># Old Smokey's
+got them ears on</i>
+
+198
+00:14:07,222 --> 00:14:09,224
+<i># He's hot on your trail</i>
+
+199
+00:14:09,391 --> 00:14:12,436
+<i># And he ain't gonna rest
+till you're in jail</i>
+
+200
+00:14:12,603 --> 00:14:14,813
+<i># So you've got to dodge him
+you've got to duck him</i>
+
+201
+00:14:14,980 --> 00:14:16,940
+<i># You've got to keep
+that diesel truckin'</i>
+
+202
+00:14:17,107 --> 00:14:20,444
+<i># Just put that hammer down
+and give it hell</i>
+
+203
+00:14:20,611 --> 00:14:22,946
+(SIREN)
+Well, hello there, Smokey.
+
+204
+00:14:28,785 --> 00:14:32,498
+<i># Westbound and down
+18 wheels a-rollin'</i>
+
+205
+00:14:32,664 --> 00:14:35,792
+<i># We gonna do what they say
+can't be done</i>
+
+206
+00:14:35,959 --> 00:14:40,464
+<i># We've got a long way to go
+and a short time to get there</i>
+
+207
+00:14:40,631 --> 00:14:44,134
+<i># I'm westbound
+Just watch ol' Bandit run</i>
+
+208
+00:14:44,301 --> 00:14:48,388
+<i># Keep your foot hard on the pedal,
+son, never mind them brakes</i>
+
+209
+00:14:48,555 --> 00:14:51,975
+<i># Let it all hang out
+'cause we got a run to make</i>
+
+210
+00:14:52,142 --> 00:14:55,896
+<i># The boys are thirsty in Atlanta
+and there's beer in Texarkana</i>
+
+211
+00:14:56,063 --> 00:15:00,275
+<i># And we'll bring it back
+no matter what it takes</i>
+
+212
+00:15:00,442 --> 00:15:04,321
+<i># Westbound and down
+18 wheels a-rollin'</i>
+
+213
+00:15:04,488 --> 00:15:07,491
+<i># We gonna do what they say
+can't be done</i>
+
+214
+00:15:07,658 --> 00:15:11,995
+<i># We've got a long way to go
+and a short time to get there</i>
+
+215
+00:15:12,162 --> 00:15:16,124
+<i># I'm westbound
+Just watch ol' Bandit run</i>
+
+216
+00:15:21,463 --> 00:15:24,800
+Fred, I hope me and you
+ain't lettin' Bandit
+
+217
+00:15:24,967 --> 00:15:28,095
+talk us into somethin'
+we gonna be sorry for, son,
+
+218
+00:15:28,262 --> 00:15:30,764
+'cause he's about as crazy
+as you are ugly.
+
+219
+00:15:47,698 --> 00:15:51,201
+<i># Westbound and down
+18 wheels a-rollin'</i>
+
+220
+00:15:51,368 --> 00:15:54,371
+<i># We gonna do what they say
+can't be done</i>
+
+221
+00:15:54,538 --> 00:15:59,001
+<i># We've got a long way to go
+and a short time to get there</i>
+
+222
+00:15:59,168 --> 00:16:03,297
+<i># I'm westbound
+Just watch ol' Bandit run #</i>
+
+223
+00:16:33,660 --> 00:16:36,538
+- Big town, ain't it?
+- I wonder what they do for excitement.
+
+224
+00:16:36,705 --> 00:16:39,041
+They probably sit around
+and watch the cars rust.
+
+225
+00:16:39,208 --> 00:16:42,503
+- Damn it, it's locked.
+- We're about an hour ahead of schedule.
+
+226
+00:16:42,669 --> 00:16:45,714
+- Let's keep it that way.
+- All right.
+
+227
+00:16:56,058 --> 00:16:58,352
+Hey, want a beer?
+
+228
+00:16:58,519 --> 00:17:01,396
+- Well, son!
+- Redneck heaven.
+
+229
+00:17:01,563 --> 00:17:04,233
+- How we gonna load all this stuff, though?
+- I'll load it with this.
+
+230
+00:17:04,399 --> 00:17:08,153
+- You can't drive no forklift.
+- I can drive any forkin' thing around.
+
+231
+00:17:08,320 --> 00:17:11,031
+- Get serious! Can you drive this thing?
+- I am serious.
+
+232
+00:17:11,198 --> 00:17:13,784
+- Crank it up. Now back it up.
+- Oh, shut up!
+
+233
+00:17:13,951 --> 00:17:18,914
+- I said back it up, not raise it up!
+- I am backin' up, ya big dumbbell!
+
+234
+00:17:19,081 --> 00:17:21,834
+Hold it! The beer! Watch the beer!
+
+235
+00:17:24,586 --> 00:17:28,257
+- (LAUGHS) You all right?
+- Very funny (!) Very funny (!)
+
+236
+00:17:28,423 --> 00:17:29,800
+I thought it was funny.
+
+237
+00:17:30,342 --> 00:17:34,388
+Hey, we really oughta pay somebody
+for that mess we made in there.
+
+238
+00:17:34,555 --> 00:17:37,474
+- All right, have you...
+- I got that all worked out.
+
+239
+00:17:37,641 --> 00:17:41,645
+You just leave a note. Tell the folks
+to send the bill to Big Enos Burdette.
+
+240
+00:17:45,941 --> 00:17:53,782
+"Send... bill... to... Big... Enos... Burdette."
+
+241
+00:17:53,949 --> 00:17:55,534
+(BANDIT'S CAR LEAVES)
+
+242
+00:17:55,701 --> 00:17:58,745
+Burdette. B...
+
+243
+00:17:58,912 --> 00:18:03,000
+B-e-r... B-u-r... B...
+Hell, I got to go.
+
+244
+00:18:07,004 --> 00:18:11,216
+<i>(MAN ON CB) Hey, Spiderman,
+are you out there? Come back.</i>
+
+245
+00:18:11,383 --> 00:18:15,304
+Snowman! How we doin', son?
+Come on back.
+
+246
+00:18:15,470 --> 00:18:17,681
+Hang on just a minute,
+and I'll tell ya.
+
+247
+00:18:20,601 --> 00:18:23,020
+We're about 28 minutes ahead of schedule.
+
+248
+00:18:23,187 --> 00:18:25,480
+<i>- Come back.
+- I hate to say I told you so.</i>
+
+249
+00:18:25,647 --> 00:18:29,151
+Don't lose your head, son.
+We still got a lot of boogiein' to do.
+
+250
+00:18:29,318 --> 00:18:32,613
+Put the pedal to the metal.
+I'm 10-10 on the side.
+
+251
+00:18:32,779 --> 00:18:36,533
+For sure. Me and Fred,
+we got your back door, ain't we, Fred?
+
+252
+00:18:46,710 --> 00:18:51,465
+- Sorry. I don't want to get married.
+- Terrific. That makes two of us.
+
+253
+00:18:52,132 --> 00:18:56,303
+- Will you unzip me?
+- Sure.
+
+254
+00:18:57,554 --> 00:18:59,890
+- Does this thing move?
+- Oh, yeah.
+
+255
+00:19:12,986 --> 00:19:14,905
+(BLARES HORN)
+
+256
+00:19:38,887 --> 00:19:41,890
+Where are we going?
+No, don't tell me. Let me guess.
+
+257
+00:19:42,057 --> 00:19:46,103
+- We are a bride in search of a wedding.
+- No.
+
+258
+00:19:46,270 --> 00:19:51,775
+There is a wedding in search of a bride.
+Let me put it another way.
+
+259
+00:19:51,942 --> 00:19:55,988
+Think of it as a wedding posse
+in search of a bride.
+
+260
+00:19:56,154 --> 00:20:00,367
+- You understand that, cowboy?
+- Yeah.
+
+261
+00:20:01,952 --> 00:20:04,288
+What are ya doin'?
+
+262
+00:20:05,789 --> 00:20:08,000
+- These are my shoes.
+- Oh, yeah.
+
+263
+00:20:08,167 --> 00:20:10,794
+- And these are my legs.
+- Yeah.
+
+264
+00:20:10,961 --> 00:20:16,008
+- What are you gonna do with them?
+- With the shoes or the legs?
+
+265
+00:20:16,175 --> 00:20:19,761
+Last time I saw legs like that,
+they had a message tied to 'em.
+
+266
+00:20:19,928 --> 00:20:24,725
+What do you mean? These are
+great little legs. I'm a professional.
+
+267
+00:20:25,893 --> 00:20:30,397
+Well, in that case,
+you shouldn't be dressed in white.
+
+268
+00:20:30,564 --> 00:20:33,525
+- Dancer.
+- Oh.
+
+269
+00:20:35,277 --> 00:20:38,197
+Well, cowboys love fat calves.
+
+270
+00:20:39,281 --> 00:20:42,743
+- They're not fat.
+- They're bigger than mine.
+
+271
+00:20:42,910 --> 00:20:46,705
+- Do we really wanna talk about legs?
+- One of us does.
+
+272
+00:20:46,872 --> 00:20:52,836
+Otherwise we wouldn't have gone...
+What are we doing now?
+
+273
+00:20:53,003 --> 00:20:56,632
+Well, I am getting my clothes, you fool.
+
+274
+00:20:57,466 --> 00:21:00,636
+Good idea. Why don't you
+slip into somethin' comfortable?
+
+275
+00:21:03,889 --> 00:21:07,684
+Are we really going 110?
+We're going 110!
+
+276
+00:21:07,851 --> 00:21:11,897
+Why do you wear that cowboy hat?
+Because you think it looks dazzling on you.
+
+277
+00:21:13,148 --> 00:21:15,692
+I'd no idea this dress
+would be so hard to get out of.
+
+278
+00:22:05,450 --> 00:22:07,536
+Hold up on that car wash, gentlemen.
+
+279
+00:22:11,039 --> 00:22:13,500
+Come here, son.
+
+280
+00:22:15,878 --> 00:22:17,796
+Whoops!
+
+281
+00:22:19,923 --> 00:22:23,218
+You look tired, boy. Rest yourself.
+
+282
+00:22:25,804 --> 00:22:29,850
+You punks look tuckered out, too.
+
+283
+00:22:35,230 --> 00:22:37,941
+That's an attention-getter.
+
+284
+00:22:38,775 --> 00:22:42,863
+- Now, a lady in a weddin' gown.
+- Yes, sir.
+
+285
+00:22:43,864 --> 00:22:46,617
+- Get in a car?
+- Yes, sir.
+
+286
+00:22:46,783 --> 00:22:49,912
+- See who was drivin'?
+- N-no, sir.
+
+287
+00:22:52,289 --> 00:22:56,710
+- Licence plate?
+- Y-yes, sir. Georgia plates.
+
+288
+00:22:56,877 --> 00:22:58,670
+"Ban-one."
+
+289
+00:22:58,837 --> 00:23:03,342
+B-A-N dash O-N-E.
+
+290
+00:23:03,509 --> 00:23:07,596
+All right. Now, you boys
+just stay here and watch the car.
+
+291
+00:23:07,763 --> 00:23:11,016
+There might be some vandals around
+who wanna steal somethin',
+
+292
+00:23:11,183 --> 00:23:14,394
+so you boys just stay here
+and keep your hands on the car
+
+293
+00:23:14,561 --> 00:23:18,273
+until one of my associates arrive.
+
+294
+00:23:18,440 --> 00:23:25,155
+And don't go home, don't go to eat,
+and don't play with yourself.
+
+295
+00:23:25,322 --> 00:23:28,492
+It wouldn't look nice on my highway.
+
+296
+00:23:28,659 --> 00:23:34,915
+Oh, you can think about it,
+but don't do it.
+
+297
+00:23:49,930 --> 00:23:52,599
+Hey, man, he's gone.
+Let's get outta here.
+
+298
+00:23:52,766 --> 00:23:56,812
+Shit! You do what you want.
+I'm stayin' right here.
+
+299
+00:24:00,899 --> 00:24:05,070
+28 years old and... Oh, goodness,
+what's this? I'll tuck it right in.
+
+300
+00:24:05,237 --> 00:24:08,699
+I was down here dancing
+in a home appliance show.
+
+301
+00:24:08,866 --> 00:24:11,952
+<i>- I danced around three trash mashers.
+- Talk to me, my boy.</i>
+
+302
+00:24:12,119 --> 00:24:16,165
+I had this costume that lit up.
+I only short-circuited once.
+
+303
+00:24:16,331 --> 00:24:20,919
+- Where did you get that seat cover, son?
+- This ain't no seat cover.
+
+304
+00:24:21,086 --> 00:24:24,756
+- I was standing in the parking lot...
+- I'm sitting next to Lawrence of Arabia.
+
+305
+00:24:24,923 --> 00:24:29,636
+I met this guy... These can't be my pants.
+God, he was good-looking.
+
+306
+00:24:29,803 --> 00:24:32,181
+- And he had this hat on...
+- Funny, ain't she?
+
+307
+00:24:32,347 --> 00:24:37,436
+I think he was from Texas or something,
+and I thought, "Why not marry the guy?"
+
+308
+00:24:41,064 --> 00:24:44,610
+Nobody walks out
+on a pretty weddin' I set up.
+
+309
+00:24:44,776 --> 00:24:47,404
+I'm gonna get that girl
+and set everything straight.
+
+310
+00:24:47,571 --> 00:24:53,160
+She insulted my town.
+She insulted my son.
+
+311
+00:24:55,287 --> 00:24:59,500
+- Look, what if we...
+- Shut up! She insulted my authority.
+
+312
+00:25:00,876 --> 00:25:06,465
+And that's nothin' but pure and simple
+old-fashioned Communism.
+
+313
+00:25:06,632 --> 00:25:10,177
+It happens every time one of those
+dancers starts poontangin' around...
+
+314
+00:25:10,344 --> 00:25:12,429
+with those show-folk fags.
+
+315
+00:25:12,596 --> 00:25:15,349
+Halfway down the aisle I said to myself,
+
+316
+00:25:15,516 --> 00:25:18,101
+"Jesus Christ, what are you doing?
+His mother doesn't even have any teeth!"
+
+317
+00:25:18,268 --> 00:25:21,396
+I jumped in this car, and it blew up
+on the side of the road,
+
+318
+00:25:21,563 --> 00:25:24,733
+and I ended up in this goddamn airplane.
+What do you do?
+
+319
+00:25:25,400 --> 00:25:28,028
+I don't remember.
+
+320
+00:25:28,195 --> 00:25:32,699
+- Oh, are we on the air?
+- Sort of, yeah.
+
+321
+00:25:34,201 --> 00:25:37,830
+You think I'm... nuts, don't you?
+
+322
+00:25:37,996 --> 00:25:40,415
+No, I don't think you're crazy.
+
+323
+00:25:40,582 --> 00:25:45,128
+I picked up three brides yesterday,
+just like you, very subdued.
+
+324
+00:25:45,295 --> 00:25:48,590
+Hey, what... what's goin' on up there?
+
+325
+00:25:49,007 --> 00:25:51,677
+<i>- Come back, Bandit.
+- Bandit?</i>
+
+326
+00:25:51,844 --> 00:25:57,850
+- Is that your name or your profession?
+- That's my handle. Bo's my real name.
+
+327
+00:25:58,016 --> 00:26:00,519
+- What's your name?
+- Carrie.
+
+328
+00:26:00,686 --> 00:26:04,356
+Is she wearing a wedding dress?
+
+329
+00:26:07,025 --> 00:26:08,402
+She was.
+
+330
+00:26:08,569 --> 00:26:12,155
+What's she wearin' now?
+Come back.
+
+331
+00:26:12,322 --> 00:26:15,242
+Hey, you got peanut butter
+or somethin' in your ears?
+
+332
+00:26:15,409 --> 00:26:19,705
+Tell me what that woman's got on...
+her mind!
+
+333
+00:26:20,539 --> 00:26:21,915
+10-4!
+
+334
+00:26:22,082 --> 00:26:26,003
+No coozie's gonna leave me
+at no church.
+
+335
+00:26:26,170 --> 00:26:29,840
+Decoratin' up a whole town
+at a cost of $40.
+
+336
+00:26:30,007 --> 00:26:32,551
+Right.
+
+337
+00:26:33,760 --> 00:26:39,558
+I can see her now,
+runnin' back up that aisle...
+
+338
+00:26:39,725 --> 00:26:43,020
+No, she was dancin'
+back up the aisle,
+
+339
+00:26:43,187 --> 00:26:46,148
+her knockers bouncin'
+all over the joint.
+
+340
+00:26:47,024 --> 00:26:49,443
+Let go of that wheel.
+
+341
+00:26:50,652 --> 00:26:53,488
+Why, her ass was wigglin', too.
+
+342
+00:26:58,160 --> 00:27:01,830
+Why so fast?
+You're late for a big bowling date?
+
+343
+00:27:01,997 --> 00:27:03,540
+Cute.
+
+344
+00:27:06,210 --> 00:27:11,131
+- So, tell me about yourself.
+- What do you wanna know, my sign?
+
+345
+00:27:11,298 --> 00:27:15,344
+- What do you do besides drive fast?
+- Have fun.
+
+346
+00:27:15,511 --> 00:27:18,889
+- Is this fun?
+- Drivin'?
+
+347
+00:27:19,056 --> 00:27:23,936
+- Driving, talking to me.
+- They're both a challenge.
+
+348
+00:27:25,646 --> 00:27:30,442
+- You've got a great profile.
+- Yeah, don't I? Especially from the side.
+
+349
+00:27:31,109 --> 00:27:33,487
+At least we finally agree on something.
+
+350
+00:27:33,654 --> 00:27:37,074
+Yeah. We both like half my face.
+
+351
+00:27:42,996 --> 00:27:46,583
+Hey, would a cop taking a leak
+on the side of the road interest you?
+
+352
+00:27:48,043 --> 00:27:50,420
+Yes, it would.
+
+353
+00:27:50,587 --> 00:27:56,385
+- He's taking a 10-100.
+- At least it's better than a 10-200.
+
+354
+00:27:56,552 --> 00:27:57,928
+(SIREN)
+
+355
+00:28:00,597 --> 00:28:02,516
+- Smokey.
+- Smokey.
+
+356
+00:28:28,000 --> 00:28:31,879
+- Is this fun?
+- I forgot to tell ya:
+
+357
+00:28:32,045 --> 00:28:35,424
+I'm runnin' blocker for 400 cases
+of illegal Coors.
+
+358
+00:28:52,024 --> 00:28:53,859
+Holy shit!
+
+359
+00:28:56,153 --> 00:29:00,032
+I don't believe this.
+Funny, I don't remember that turn.
+
+360
+00:29:00,199 --> 00:29:04,495
+<i>- Bandit, where the hell are you?
+- I'll be back on the highway in a second.</i>
+
+361
+00:29:04,661 --> 00:29:06,914
+<i>All right, good buddy.
+I'll keep my eyes peeled.</i>
+
+362
+00:29:20,802 --> 00:29:24,681
+- Them things are fabulous.
+- I think I just went 10-100.
+
+363
+00:29:24,848 --> 00:29:29,061
+- Well, it's better than 10-200.
+- That's true.
+
+364
+00:29:36,193 --> 00:29:40,239
+<i># Well, the more wheels I got
+the better I like it.</i>
+
+365
+00:29:40,405 --> 00:29:44,660
+<i># I'm the brother of a truck-driving mother
+boogity, boogity, boogity, boogity. #</i>
+
+366
+00:29:48,914 --> 00:29:52,376
+- Snowman, you got your ears on?
+- You lucky devil, you got him.
+
+367
+00:29:52,543 --> 00:29:55,963
+- Where the hell are you?
+- I'm on a two-lane blacktop.
+
+368
+00:29:56,129 --> 00:30:00,676
+Highway marker number 71.
+How's our time doin'?
+
+369
+00:30:01,677 --> 00:30:06,974
+Oh, how are we doin' on time?
+About 25 minutes ahead of schedule.
+
+370
+00:30:07,140 --> 00:30:11,144
+- What's your 20?
+- I'm about four miles ahead of you, turkey.
+
+371
+00:30:11,311 --> 00:30:12,813
+Not for long.
+
+372
+00:30:12,980 --> 00:30:18,151
+<i>- (SHERIFF) Breaker to the Bandit.
+- Come on back, breaker.</i>
+
+373
+00:30:18,694 --> 00:30:22,239
+<i>Bandit, I've got a smokey report
+for you. Come on.</i>
+
+374
+00:30:22,406 --> 00:30:26,243
+<i>- Well, talk to me, good buddy.
+- You've got trouble comin'.</i>
+
+375
+00:30:26,410 --> 00:30:29,955
+Well, what's your handle, son,
+and, uh, what's your 20?
+
+376
+00:30:30,122 --> 00:30:36,128
+<i>My handle's Smokey Bear,
+and I'm tail-grabbin'your ass right now.</i>
+
+377
+00:30:38,630 --> 00:30:43,135
+Goddamn. That's a Texas mountie.
+What the hell's he doin' in Arkansas?
+
+378
+00:30:43,302 --> 00:30:47,014
+Well, let's just see what
+he's got under the hood.
+
+379
+00:30:47,181 --> 00:30:48,891
+Bye-bye, baby!
+
+380
+00:31:02,362 --> 00:31:04,740
+You smoke much?
+
+381
+00:31:04,907 --> 00:31:07,326
+I just started.
+
+382
+00:31:10,787 --> 00:31:15,167
+<i>- Cledus, you got your ears on, son?
+- Oh, bring it on, you lucky devil.</i>
+
+383
+00:31:15,334 --> 00:31:17,503
+- Comin' around you.
+- Be careful.
+
+384
+00:31:17,669 --> 00:31:21,340
+You're gonna have to make your own lane,
+'cause you definitely got oncoming traffic.
+
+385
+00:31:21,507 --> 00:31:22,883
+Be careful. Be careful.
+
+386
+00:31:30,265 --> 00:31:32,893
+Oh, my... Oh, my God!
+
+387
+00:31:33,060 --> 00:31:36,939
+I'm about to be killed in this...
+in this moving CB radio show,
+
+388
+00:31:37,105 --> 00:31:40,734
+and I... I don't even have a handle!
+
+389
+00:31:41,360 --> 00:31:45,614
+You want a handle?
+OK, I'll think one up for ya. Let's see.
+
+390
+00:31:45,781 --> 00:31:48,075
+- Oh, I got one for ya!
+- What?
+
+391
+00:31:50,577 --> 00:31:52,663
+Just give me a minute here.
+
+392
+00:31:54,373 --> 00:31:56,416
+He done good, didn't he, Fred?
+
+393
+00:32:02,047 --> 00:32:03,882
+What?
+
+394
+00:32:04,049 --> 00:32:05,759
+Frog.
+
+395
+00:32:06,969 --> 00:32:10,097
+- Why?
+- 'Cause you're always hoppin' around.
+
+396
+00:32:10,264 --> 00:32:14,726
+And you're kinda cute like a frog,
+and... I'd like to jump ya.
+
+397
+00:32:17,896 --> 00:32:19,857
+Nobody...
+
+398
+00:32:20,023 --> 00:32:25,237
+Nobody makes Sheriff Buford T. Justice
+look like a possum's pecker.
+
+399
+00:32:25,404 --> 00:32:28,532
+- Except for that...
+- Shut your ass.
+
+400
+00:32:28,699 --> 00:32:31,451
+(HORNS BLARE)
+
+401
+00:32:32,619 --> 00:32:36,373
+- Break for that, Bandit One.
+- Yeah, Snowman, come on back.
+
+402
+00:32:36,540 --> 00:32:38,876
+That was a Texas bubblegum machine
+on your back door.
+
+403
+00:32:39,042 --> 00:32:42,629
+- A Texas bubblegum machine?
+- Yeah, I saw him.
+
+404
+00:32:54,933 --> 00:32:59,605
+You ain't gonna believe this, but that crazy
+sombitch tried to drive up under my truck.
+
+405
+00:32:59,771 --> 00:33:02,733
+What's a Texas county mountie
+doing in Arkansas?
+
+406
+00:33:02,900 --> 00:33:05,569
+<i>- I don't know.
+- I don't know.</i>
+
+407
+00:33:05,736 --> 00:33:08,030
+I don't know!
+
+408
+00:33:08,197 --> 00:33:12,034
+- Well, who the hell knows?
+- I really don't know.
+
+409
+00:33:14,411 --> 00:33:20,918
+What we're dealin' with here is
+a complete lack of respect for the law.
+
+410
+00:33:21,752 --> 00:33:25,506
+<i>(USTICE ON RADIO)
+This is Sheriff Buford T. Justice.</i>
+
+411
+00:33:25,672 --> 00:33:29,009
+<i>I'm in pursuit of a black TransAm.</i>
+
+412
+00:33:29,176 --> 00:33:33,722
+<i>He's all mine, so stay outta the way.</i>
+
+413
+00:33:42,105 --> 00:33:45,317
+This is Sheriff George Branford
+of Deeson County, Arkansas.
+
+414
+00:33:45,484 --> 00:33:48,737
+We are apprised of the situation
+and are taking appropriate measures.
+
+415
+00:33:48,904 --> 00:33:50,489
+Did you say you are a sheriff?
+
+416
+00:33:50,656 --> 00:33:54,034
+That's a big 10-4!
+
+417
+00:33:54,201 --> 00:33:58,080
+This is Sheriff Buford T. Justice
+of Texas!
+
+418
+00:33:58,247 --> 00:34:01,834
+Texas? You know, of course,
+that you're out of your jurisdiction.
+
+419
+00:34:02,000 --> 00:34:04,419
+I suggest that you let my department
+handle the situation.
+
+420
+00:34:04,586 --> 00:34:09,383
+That's very comfortin',
+but I'm in a high-speed pursuit.
+
+421
+00:34:09,550 --> 00:34:12,386
+- Don't you hear good?
+- I hear perfectly.
+
+422
+00:34:12,553 --> 00:34:15,222
+The fact that you are a sheriff
+is not germane to the situation.
+
+423
+00:34:15,389 --> 00:34:19,101
+The goddamn Germans
+got nothin' to do with it!
+
+424
+00:34:19,268 --> 00:34:21,311
+- What?
+- Shut up! One shit at a time!
+
+425
+00:34:27,609 --> 00:34:31,989
+- What do ya see?
+- We lost him.
+
+426
+00:34:39,913 --> 00:34:43,083
+This is Sheriff Buford T. Justice again.
+
+427
+00:34:43,250 --> 00:34:46,712
+I lost that TransAm.
+Set up a roadblock.
+
+428
+00:34:46,879 --> 00:34:49,590
+- Good idea!
+- What the hell you know?
+
+429
+00:34:49,756 --> 00:34:52,801
+I believe we have the situation
+well under control, Sheriff.
+
+430
+00:34:57,014 --> 00:34:59,725
+<i>Breaker, breaker, lookin' for the Bandit.</i>
+
+431
+00:34:59,892 --> 00:35:02,811
+<i>- You out there, son?
+- You got the Bandit. Come on back.</i>
+
+432
+00:35:02,978 --> 00:35:08,317
+My handle's Silver-Tongued Devil. Your fellow
+CBers are mighty proud of ya out there.
+
+433
+00:35:08,483 --> 00:35:10,486
+Thank ya, son. I appreciate it.
+
+434
+00:35:10,652 --> 00:35:14,072
+Tell me, you comin' up
+on Fayetteville and Interstate 82?
+
+435
+00:35:14,239 --> 00:35:18,619
+- We're almost on top of it.
+- I got a big bad bear story for you there.
+
+436
+00:35:18,785 --> 00:35:21,455
+I just rolled past
+a county mountie roadblock.
+
+437
+00:35:21,622 --> 00:35:26,543
+- You ARE a silver-tongued devil.
+- That's a big 10-4, good buddy.
+
+438
+00:35:26,710 --> 00:35:31,548
+Well, you keep your wheels spinnin'
+and the beavers grinnin', then. I'm out.
+
+439
+00:35:31,715 --> 00:35:34,259
+Why, thank you, Officer.
+
+440
+00:35:34,426 --> 00:35:36,887
+- Classy guy.
+- Classy guy.
+
+441
+00:36:00,577 --> 00:36:03,580
+Did you see that? They went
+right through our roadblock.
+
+442
+00:36:03,747 --> 00:36:06,375
+You sombitches couldn't
+close an umbrella.
+
+443
+00:36:36,321 --> 00:36:40,826
+You know somethin', Sheriff? If J.W.
+Don't get out of my way, I'll pass him.
+
+444
+00:36:40,993 --> 00:36:43,579
+Where? In the woods?
+
+445
+00:36:43,745 --> 00:36:48,500
+I don't care if your daddy is the mayor.
+You wreck this car, it'll come outta your pay.
+
+446
+00:36:49,251 --> 00:36:52,754
+- Yeah, but he's gettin' away.
+- Son, he's not goin' anywhere.
+
+447
+00:36:52,921 --> 00:36:56,300
+The Mulberry Bridge has been dismantled
+for the past six months.
+
+448
+00:37:02,472 --> 00:37:04,725
+(BANDIT)That's not good.
+
+449
+00:37:09,688 --> 00:37:12,065
+It would be better with a whole bridge.
+
+450
+00:37:13,233 --> 00:37:15,652
+(BANDIT) And that's worse.
+
+451
+00:37:18,989 --> 00:37:23,035
+- Why don't you drop me off? I'll catch a cab.
+- Too late now.
+
+452
+00:37:35,339 --> 00:37:37,216
+We did it! We did it!
+
+453
+00:37:48,268 --> 00:37:50,354
+See? I didn't wreck it, Sheriff.
+
+454
+00:37:53,524 --> 00:37:55,359
+We jumped over that bridge!
+
+455
+00:37:55,526 --> 00:37:58,362
+- Did you see what we did?
+- Yes, I did.
+
+456
+00:37:58,529 --> 00:38:02,449
+I wanna jump something else! I wanna
+jump a house! I wanna jump something!
+
+457
+00:38:02,616 --> 00:38:04,618
+Well, jump me.
+
+458
+00:38:06,912 --> 00:38:11,625
+- Honest to God, it wasn't my fault! I stopped!
+- Yeah, right.
+
+459
+00:38:11,792 --> 00:38:15,379
+Hey, boy, where's Sheriff Branford?
+
+460
+00:38:16,296 --> 00:38:19,550
+<i>I am Sheriff Branford.</i>
+
+461
+00:38:20,843 --> 00:38:25,097
+Oh, hey...
+For some reason or another,
+
+462
+00:38:25,264 --> 00:38:29,685
+you sounded a little taller on radio.
+
+463
+00:38:34,439 --> 00:38:38,735
+What the hell is
+the world comin' to?
+
+464
+00:38:46,910 --> 00:38:50,330
+<i>(MAN ON CB) Sounds good to me,
+Tower of Power. Listen, buddy...</i>
+
+465
+00:38:50,497 --> 00:38:52,958
+- What channel we on?
+- What?
+
+466
+00:38:53,125 --> 00:38:57,129
+- What channel are we on?
+- 11.
+
+467
+00:38:58,130 --> 00:38:59,756
+Snowman, are you out there?
+
+468
+00:38:59,923 --> 00:39:04,344
+I'm doin' what I'm supposed to be doin'.
+What are y'all doing, he'n' and she'n'?
+
+469
+00:39:04,511 --> 00:39:07,264
+- Come back.
+- Oh, we were playin' a little bridge.
+
+470
+00:39:07,431 --> 00:39:12,394
+- How we been doin'?
+- We're losin' minutes, son.
+
+471
+00:39:12,561 --> 00:39:18,025
+If you don't get up here and run me some
+interference, we ain't never gonna make it.
+
+472
+00:39:18,192 --> 00:39:23,030
+I'll drop the dolly off at a choke-and-puke,
+and then I'll get right back on the job.
+
+473
+00:39:23,197 --> 00:39:26,200
+All right.
+10-4 on that choke-and-puke.
+
+474
+00:39:26,366 --> 00:39:29,203
+<i>- Oh, by the way, Bandit...
+- Yeah, guy?</i>
+
+475
+00:39:29,369 --> 00:39:32,998
+How 'bout bringin' me a hamburger for Fred?
+I'm beginnin' to worry about him.
+
+476
+00:39:33,165 --> 00:39:36,084
+<i>- He's lookin' a little thin in the skin.
+- You got 'em.</i>
+
+477
+00:39:36,251 --> 00:39:39,922
+- Choke-and-puke.
+- Choke-and-puke.
+
+478
+00:39:40,088 --> 00:39:43,759
+- That's where I'll get off?
+- Right.
+
+479
+00:39:46,845 --> 00:39:49,348
+You oughta give up smokin'.
+That's bad for your health.
+
+480
+00:39:49,515 --> 00:39:52,601
+But I enjoy it so much.
+
+481
+00:40:09,117 --> 00:40:13,539
+I guess you can get
+your ticket over there.
+
+482
+00:40:13,956 --> 00:40:16,083
+- You got enough money?
+- Yeah.
+
+483
+00:40:16,250 --> 00:40:20,254
+I have enough to get to Jersey,
+walk the rest of the way.
+
+484
+00:40:22,422 --> 00:40:27,386
+- Hey, thanks.
+- Oh, it was nothing.
+
+485
+00:40:28,762 --> 00:40:31,765
+- I'll see you around.
+- Yeah.
+
+486
+00:40:34,935 --> 00:40:37,229
+Frog?
+
+487
+00:40:39,314 --> 00:40:41,066
+You gonna be all right?
+
+488
+00:40:46,655 --> 00:40:50,659
+Yeah... I'm always all right.
+
+489
+00:41:03,213 --> 00:41:07,259
+Can I have a couple of cheeseburgers
+to go and a glass of iced tea?
+
+490
+00:41:15,601 --> 00:41:18,312
+How much I owe ya, ma'am?
+
+491
+00:41:18,478 --> 00:41:20,939
+- A dollar and a half.
+- Keep the change.
+
+492
+00:41:21,106 --> 00:41:25,486
+(USTICE) Just keep your eye out
+for that Mr Bandit bastard!
+
+493
+00:41:27,863 --> 00:41:33,994
+Let me have a diablo sandwich, a Dr Pepper.
+Make it fast. I'm in a goddamn hurry.
+
+494
+00:41:34,161 --> 00:41:36,872
+- You want somethin'?
+- A hush puppy, Daddy.
+
+495
+00:41:37,039 --> 00:41:42,336
+We got no time for that crap!
+Dumb sombitch!
+
+496
+00:41:43,337 --> 00:41:46,590
+- Diablo and Doc.
+- Thank you, nice lady.
+
+497
+00:41:46,757 --> 00:41:50,886
+- You must be in a hell of a hurry, Sheriff?
+- You bet your ass on that, boy.
+
+498
+00:41:51,053 --> 00:41:56,141
+Oh, you got a little mess there.
+Let me help you get that off there...
+
+499
+00:41:56,308 --> 00:41:59,686
+- Yeah, yeah. Much obliged.
+- Yeah.
+
+500
+00:41:59,853 --> 00:42:02,773
+Who ya chasin'?
+Somebody chasin' you?
+
+501
+00:42:02,940 --> 00:42:04,650
+Nobody chasin' me, boy.
+
+502
+00:42:04,817 --> 00:42:10,280
+I been chasin' a goddamn maniac
+all the way from Texarkana, Texas.
+
+503
+00:42:10,447 --> 00:42:13,575
+Really?
+What is he, a bank robber?
+
+504
+00:42:13,742 --> 00:42:16,370
+Bank robber?
+
+505
+00:42:16,537 --> 00:42:21,583
+Bank robbin' is baby shit
+alongside of what this dude is doin'.
+
+506
+00:42:22,751 --> 00:42:24,920
+Almost killed 20 law officers.
+
+507
+00:42:25,087 --> 00:42:28,966
+Drivin' through people's backyards,
+knockin' down mailboxes.
+
+508
+00:42:29,132 --> 00:42:32,594
+He's got a broad in the car,
+took her across the state line.
+
+509
+00:42:32,761 --> 00:42:35,055
+That's the Mann Act.
+
+510
+00:42:35,222 --> 00:42:38,559
+I don't think he's got her permission,
+and that's kidnapping.
+
+511
+00:42:38,725 --> 00:42:41,562
+- How's that for high jinks?
+- Yeah.
+
+512
+00:42:41,728 --> 00:42:43,772
+(BURPS)
+
+513
+00:42:43,939 --> 00:42:46,400
+- What I owe?
+- Oh, let me pay for it.
+
+514
+00:42:46,567 --> 00:42:49,987
+- You're an officer of the law. I'd be honoured.
+- Much obliged.
+
+515
+00:42:50,154 --> 00:42:53,657
+- Where's the can? I gotta take a squirt.
+- Right back there. Just used it.
+
+516
+00:42:56,952 --> 00:42:58,996
+(ENGINE REVVING)
+
+517
+00:42:59,163 --> 00:43:02,332
+Hey! Hey!
+What are you doin' in my car?
+
+518
+00:43:02,499 --> 00:43:05,127
+- You're goin' the wrong way!
+- Oh.
+
+519
+00:43:05,711 --> 00:43:07,588
+- Hang on!
+- What the hell are ya doin'?
+
+520
+00:43:07,754 --> 00:43:10,841
+- Sheriff Justice is in there!
+- I know! I know!
+
+521
+00:43:18,724 --> 00:43:21,351
+- Thank you, nice lady.
+- Sure thing.
+
+522
+00:43:27,065 --> 00:43:29,067
+Yoo-hoo! Sheriff!
+
+523
+00:43:33,780 --> 00:43:35,574
+Oh, boy.
+
+524
+00:43:37,784 --> 00:43:40,204
+Nice ass.
+
+525
+00:43:47,461 --> 00:43:50,088
+I didn't want to be dumped
+at any old truck stop.
+
+526
+00:43:50,255 --> 00:43:54,343
+- I wanted to stay with you.
+- Well, why didn't you ask?
+
+527
+00:43:54,510 --> 00:43:58,514
+You might've said no, and I have
+a hard time handling rejections.
+
+528
+00:44:14,363 --> 00:44:17,908
+(TYRES SCREECH)
+
+529
+00:44:27,709 --> 00:44:29,795
+(GARAGE BELL RINGS)
+
+530
+00:44:33,715 --> 00:44:35,968
+(GARAGE BELL RINGS)
+
+531
+00:44:41,473 --> 00:44:44,518
+We're gainin' on 'em.
+
+532
+00:44:44,685 --> 00:44:48,313
+I think it'd be a good idea
+if we changed places, don't you?
+
+533
+00:44:48,480 --> 00:44:52,317
+You be a passenger for a while now.
+Up, up... I'll just slide right...
+
+534
+00:44:52,484 --> 00:44:55,487
+- Oh, you got my hair.
+- Sorry. I'll slide right under.
+
+535
+00:44:55,654 --> 00:44:58,824
+- Ooh, I don't know. Wait. Wait. Wait!
+- I got it. I got it!
+
+536
+00:44:58,991 --> 00:45:00,367
+- Wait a minute!
+- Wait a minute!
+
+537
+00:45:00,534 --> 00:45:02,995
+Hold it! I'm stuck here.
+This is not workin'.
+
+538
+00:45:03,162 --> 00:45:07,291
+- I got my foot on the...
+- Goddamn it! I seen it in the movies!
+
+539
+00:45:17,342 --> 00:45:19,970
+Oh, my God!
+
+540
+00:45:20,596 --> 00:45:24,474
+(USTICE) Duck, or you're gonna
+be talkin' outta your ass!
+
+541
+00:45:31,231 --> 00:45:35,819
+- Daddy, the top came off.
+- No shit (?)
+
+542
+00:45:43,327 --> 00:45:45,871
+Snowman! How are your vocal cords?
+
+543
+00:45:46,038 --> 00:45:50,709
+Well, my vocal cords are fine.
+I'm a little worried about Fred now.
+
+544
+00:45:50,876 --> 00:45:56,256
+He's been gnawing everything, barkin' and
+screamin'. He's turned into a stalk of bananas.
+
+545
+00:45:56,423 --> 00:46:00,344
+- What's your 20?
+- About 16 miles this side of Mississippi.
+
+546
+00:46:00,511 --> 00:46:04,515
+Whoa, hold it. I just passed
+another Kojak with a Kodak.
+
+547
+00:46:04,681 --> 00:46:08,769
+This place is crawlin' with bears.
+Where the hell are you? Come back.
+
+548
+00:46:08,936 --> 00:46:14,149
+I'm still tryin' to get rid of that Texas County
+mountie. I don't know what the hell he wants.
+
+549
+00:46:14,316 --> 00:46:19,196
+You know what he wants. How would you like
+to be the dude that handcuffs a legend?
+
+550
+00:46:19,363 --> 00:46:24,576
+Give me five minutes, we'll put some moves
+on that mother. I'll meet ya at Old Miss.
+
+551
+00:46:24,743 --> 00:46:27,996
+You'd better hurry, or we can just kiss
+that money goodbye. Understand?
+
+552
+00:46:28,163 --> 00:46:30,499
+I read you loud and clear. 10-4.
+
+553
+00:46:30,666 --> 00:46:34,628
+You got the one Snowman.
+I'm eastbound and down.
+
+554
+00:46:34,795 --> 00:46:37,589
+We gone, killer.
+
+555
+00:46:48,225 --> 00:46:51,520
+That's the way I wanna go out.
+Hey, man, watch it!
+
+556
+00:46:51,687 --> 00:46:53,772
+(HORN BLARES)
+
+557
+00:46:54,940 --> 00:46:58,152
+- What the hell was that?
+- A left, or half a 'u'.
+
+558
+00:46:58,318 --> 00:47:00,946
+Well, please don't do it anymore.
+
+559
+00:47:03,407 --> 00:47:07,452
+Hey, you know who that was?
+Check this out.
+
+560
+00:47:07,619 --> 00:47:10,164
+Bandit, this here's the Grave Robber.
+
+561
+00:47:10,330 --> 00:47:15,294
+Put the pedal to the metal, and we'll hold
+this county mountie as long as we can.
+
+562
+00:47:15,460 --> 00:47:18,046
+- Well, go, girl, go!
+- I'm goin'! I'm goin'!
+
+563
+00:47:18,213 --> 00:47:21,258
+I've got the metal to the pedal,
+and the thing to the floor...
+
+564
+00:47:49,369 --> 00:47:51,705
+Damn, he had a lot of friends, didn't he?
+
+565
+00:47:51,872 --> 00:47:54,583
+If they had cremated the son of a bitch,
+
+566
+00:47:54,750 --> 00:47:59,963
+I could've been kickin' that Mr Bandit's
+ass around the moon by now.
+
+567
+00:48:15,479 --> 00:48:17,731
+Hold my hat!
+
+568
+00:48:17,898 --> 00:48:21,276
+- My hat blew off, Daddy.
+- I hope your goddamn head was in it.
+
+569
+00:48:24,655 --> 00:48:27,241
+- OK. We're gonna switch.
+- OK.
+
+570
+00:48:27,407 --> 00:48:31,411
+I'm comin' over underneath you.
+You just slide right on over.
+
+571
+00:48:31,662 --> 00:48:34,164
+I think I'm in love with your belt buckle.
+
+572
+00:48:38,836 --> 00:48:41,588
+Close. Colourful, but close.
+
+573
+00:48:51,849 --> 00:48:54,935
+I like this seat better anyway.
+
+574
+00:48:55,102 --> 00:48:57,688
+Yes, have a smoke. It seems to help.
+
+575
+00:48:58,605 --> 00:49:00,524
+Come on, defence!
+
+576
+00:49:02,109 --> 00:49:03,777
+Come on, Billy Ray, get tough!
+
+577
+00:49:03,944 --> 00:49:07,281
+You know, I wanted to be
+a high-fashion model once.
+
+578
+00:49:07,447 --> 00:49:12,578
+But, hell, how long can you
+model clothes for 8-year-olds? Boys.
+
+579
+00:49:12,744 --> 00:49:16,832
+Besides that, my cheeks were too fat.
+These cheeks, these.
+
+580
+00:49:18,584 --> 00:49:21,086
+Aarghhh!
+
+581
+00:49:22,004 --> 00:49:25,382
+- Oh, my goodness, we're airborne here.
+- Jesus Christ!
+
+582
+00:49:25,549 --> 00:49:30,179
+- Oh, look, a football game!
+- There's kids! For Christ's sake, watch out!
+
+583
+00:49:30,345 --> 00:49:34,057
+- Don't hit the kids!
+- Get your hands off my wheel!
+
+584
+00:49:34,224 --> 00:49:36,768
+Lean to the left, lean to the right...
+
+585
+00:49:47,696 --> 00:49:52,367
+Stand up there and see if you can see
+where the hell they went.
+
+586
+00:49:53,035 --> 00:49:57,498
+- Can you see anything?
+- It's a football game. Can we watch, Daddy?
+
+587
+00:49:57,664 --> 00:50:01,168
+- You stay and watch. I'm goin' back!
+- But, Daddy...
+
+588
+00:50:07,591 --> 00:50:11,553
+<i># Bandit, you're reckless
+and you live much too hard #</i>
+
+589
+00:50:11,720 --> 00:50:14,473
+Oughta be in Nashville.
+
+590
+00:50:14,640 --> 00:50:18,185
+<i>(BANDIT) Snowman, are ya out there, son?
+What's your 20? Where are you?</i>
+
+591
+00:50:19,311 --> 00:50:23,440
+I'm at mile marker 85. Come back.
+
+592
+00:50:23,607 --> 00:50:26,527
+<i>Son-of-a-gun! So am I!</i>
+
+593
+00:50:29,863 --> 00:50:34,284
+Well, damned if ya ain't.
+Damned if ya ain't.
+
+594
+00:50:54,179 --> 00:50:56,390
+Cledus... This is Frog.
+
+595
+00:50:56,557 --> 00:50:59,309
+Hello, Frog. I want you
+to meet Fred, Frog.
+
+596
+00:50:59,476 --> 00:51:02,980
+- This is for Fred.
+- Frog, feed Fred.
+
+597
+00:51:03,147 --> 00:51:05,691
+What's wrong with you? You were gonna
+dump the chick at the truck stop.
+
+598
+00:51:05,858 --> 00:51:09,987
+- I ran into complications.
+- You always run into complications.
+
+599
+00:51:10,154 --> 00:51:13,323
+Always the same, some chick.
+We ain't doin' good time.
+
+600
+00:51:13,490 --> 00:51:17,035
+- What are we yappin' for?
+- It's the chick.
+
+601
+00:51:19,746 --> 00:51:22,916
+- Switch down to the next channel, right?
+- Yeah.
+
+602
+00:51:24,084 --> 00:51:27,171
+(WHISPERING)
+Hey, Bandit? Nice ass.
+
+603
+00:51:27,337 --> 00:51:29,756
+- Thanks a lot.
+- Thanks a lot.
+
+604
+00:51:39,308 --> 00:51:43,979
+All right, Fred. Come on.
+Let's go, boy. Come on.
+
+605
+00:51:44,146 --> 00:51:46,482
+Fred, I'm tired of pickin' you up... Fred!
+
+606
+00:51:50,235 --> 00:51:54,156
+- Did Cledus call you a legend?
+- Uh-huh.
+
+607
+00:51:54,990 --> 00:52:00,078
+- Why?
+- Well, I used to do some crazy things.
+
+608
+00:52:00,245 --> 00:52:02,206
+- I used to.
+- Oh.
+
+609
+00:52:06,001 --> 00:52:07,461
+So did I.
+
+610
+00:52:07,628 --> 00:52:12,674
+One, two, three, four,
+five, six, seven, eight.
+
+611
+00:52:12,841 --> 00:52:15,427
+One, two... I'm a gypsy... four.
+
+612
+00:52:15,594 --> 00:52:20,182
+That's someone who goes from chorus line
+to chorus line... six, seven, eight.
+
+613
+00:52:22,226 --> 00:52:26,980
+- You know, I was on Broadway once.
+- Really?
+
+614
+00:52:27,147 --> 00:52:29,858
+- For almost 12 minutes.
+- Oh.
+
+615
+00:52:30,025 --> 00:52:32,569
+The show closed the first night.
+
+616
+00:52:32,736 --> 00:52:38,617
+But, God, I was so good. You shoulda
+seen me. You'd have loved me.
+
+617
+00:52:44,832 --> 00:52:48,794
+What do you do? Straight.
+
+618
+00:52:52,673 --> 00:52:58,220
+I just go from place to place
+and... do what I do best.
+
+619
+00:52:59,012 --> 00:53:02,182
+- What's that?
+- Show off.
+
+620
+00:53:06,228 --> 00:53:09,481
+Yeah. You do do that well.
+
+621
+00:53:12,776 --> 00:53:14,778
+You do.
+
+622
+00:53:15,988 --> 00:53:18,949
+So do I.
+Five, six, seven, eight.
+
+623
+00:53:19,116 --> 00:53:22,995
+- For almost 12 minutes.
+- Oh, shut up!
+
+624
+00:53:25,581 --> 00:53:30,127
+Come here, Fred. Come here, boy.
+Fred, don't you make me come after you.
+
+625
+00:53:30,878 --> 00:53:34,590
+Get over here, Fred! Come here.
+
+626
+00:53:34,756 --> 00:53:39,636
+I'm in a hurry, and you want to swim.
+You're drivin' me crazy, Fred.
+
+627
+00:53:41,680 --> 00:53:43,515
+(FRED WHIMPERS)
+
+628
+00:53:43,682 --> 00:53:49,771
+What is the matter with you, Fred?
+That's it for you and the truck drivin'!
+
+629
+00:53:58,238 --> 00:54:01,658
+Look, I've got to go 10-100.
+Could I have a dime?
+
+630
+00:54:01,825 --> 00:54:05,537
+- Crawl under.
+- Terrific.
+
+631
+00:54:05,704 --> 00:54:08,165
+"Crawl under."
+
+632
+00:54:15,005 --> 00:54:18,967
+- TransAm! What's your pleasure?
+- Fill it up, my man.
+
+633
+00:54:20,302 --> 00:54:22,638
+Gimme that talker.
+
+634
+00:54:25,390 --> 00:54:28,227
+Hello? Mr Bandit?
+
+635
+00:54:29,269 --> 00:54:32,189
+<i>Would you just happen
+to be listenin' out there?</i>
+
+636
+00:54:32,356 --> 00:54:34,107
+Can you hear me, boy?
+
+637
+00:54:36,443 --> 00:54:38,904
+This is the Bandit.
+Who've I got at that end?
+
+638
+00:54:39,655 --> 00:54:42,991
+This is Sheriff Buford T. Justice
+of Texas.
+
+639
+00:54:43,158 --> 00:54:46,578
+Well, hot damn.
+Welcome to Mississippi, Sheriff.
+
+640
+00:54:46,745 --> 00:54:48,372
+Thank you, Mr Bandit.
+
+641
+00:54:48,539 --> 00:54:53,210
+And I got a big welcome waitin' for you
+when I get you back home,
+
+642
+00:54:53,377 --> 00:54:55,170
+you sombitch!
+
+643
+00:54:55,337 --> 00:54:57,381
+Don't you cuss
+on this here radio.
+
+644
+00:54:57,548 --> 00:55:02,261
+I apologise to all the friendly folk
+who are listenin'.
+
+645
+00:55:02,427 --> 00:55:06,974
+Now hear this, you tick turd:
+I'm gonna get you.
+
+646
+00:55:07,140 --> 00:55:12,020
+I didn't come all the way this far
+to go home with empty pockets.
+
+647
+00:55:12,187 --> 00:55:15,649
+I been meanin' to ask you that.
+How come you're followin' me?
+
+648
+00:55:15,816 --> 00:55:19,444
+I'd be delighted to tell you, Mr Bandit.
+
+649
+00:55:19,611 --> 00:55:24,116
+You see, when I get you back home,
+
+650
+00:55:24,283 --> 00:55:28,162
+I'm gonna find the tallest tree
+in the country,
+
+651
+00:55:28,328 --> 00:55:33,041
+<i>and then I'm gonna hang you from it.</i>
+
+652
+00:55:33,208 --> 00:55:35,752
+- Sheriff?
+- I'm listenin'.
+
+653
+00:55:35,919 --> 00:55:38,714
+Do the letters F.O.
+Mean anything to you?
+
+654
+00:55:42,593 --> 00:55:45,012
+Smart aleck.
+
+655
+00:55:47,097 --> 00:55:49,433
+You keep this one for yourself.
+
+656
+00:55:49,600 --> 00:55:54,396
+- Have a smooth ride, Mr Bandit.
+- Thank you, partner.
+
+657
+00:55:58,901 --> 00:56:00,652
+Oof!
+
+658
+00:56:05,407 --> 00:56:07,117
+<i>Snowman, I'm right beside you.</i>
+
+659
+00:56:07,284 --> 00:56:10,329
+<i>Looks like we got a clear shot
+all the way to the 'Bama state line.</i>
+
+660
+00:56:10,496 --> 00:56:15,209
+<i>(CLEDUS) Oh, a clear shot?
+I'm gonna believe that when I see it.</i>
+
+661
+00:56:15,375 --> 00:56:20,214
+This is Sheriff Buford T. Justice
+puttin' out an all-point advisory.
+
+662
+00:56:20,380 --> 00:56:25,427
+<i>That black TransAm is now
+headed toward Alabama.</i>
+
+663
+00:56:26,261 --> 00:56:28,889
+What happened, Daddy?
+
+664
+00:56:29,056 --> 00:56:32,142
+Get back in the goddamn car.
+
+665
+00:56:36,188 --> 00:56:40,275
+You know who I feel has revolutionised
+the American musical theatre?
+
+666
+00:56:40,442 --> 00:56:43,403
+- Stephen Sondheim.
+- Yeah?
+
+667
+00:56:43,570 --> 00:56:46,240
+- Who's that?
+- Stephen Sondheim?
+
+668
+00:56:46,406 --> 00:56:49,326
+- Does he do a lot of musicals and stuff?
+- Yeah.
+
+669
+00:56:49,493 --> 00:56:52,663
+- He ever do anything with Brenda Lee?
+- Does she dance?
+
+670
+00:56:52,830 --> 00:56:56,667
+- She spins. She's a little spinner.
+- Oh, they were a good group.
+
+671
+00:56:56,834 --> 00:56:58,836
+- The Spinners were good. Yeah.
+- Yeah.
+
+672
+00:56:59,002 --> 00:57:01,213
+(FROG)
+Have you ever been in any plays?
+
+673
+00:57:01,380 --> 00:57:05,175
+Holy shit. We got
+a lot of company up there.
+
+674
+00:57:05,342 --> 00:57:07,386
+A lot of company.
+
+675
+00:57:07,553 --> 00:57:10,889
+- Sarge, here he comes.
+- Yeah, I got eyes.
+
+676
+00:57:11,056 --> 00:57:12,724
+(BRAKES SQUEAL)
+
+677
+00:57:16,103 --> 00:57:18,564
+(ENGINE IDLES)
+
+678
+00:57:23,026 --> 00:57:26,905
+- Are you ready, Roy?
+- I was born ready.
+
+679
+00:57:27,072 --> 00:57:29,158
+Don't just stand there. Go get him!
+
+680
+00:57:29,324 --> 00:57:33,871
+- Drives pretty good, don't he, Sarge?
+- We'll see about that.
+
+681
+00:57:48,051 --> 00:57:50,220
+(SIREN WAILS)
+
+682
+00:57:51,972 --> 00:57:55,851
+- Sarge, you OK?
+- You see me movin', don't ya?
+
+683
+00:58:16,288 --> 00:58:20,792
+- Wanna do a little pond hopping, Frog?
+- Uh... Swell.
+
+684
+00:58:44,107 --> 00:58:47,528
+(SIREN CONTINUES)
+
+685
+00:58:50,739 --> 00:58:53,116
+(SIREN STOPS)
+
+686
+00:59:30,821 --> 00:59:33,740
+Now, I know you're
+in a little distress here,
+
+687
+00:59:33,907 --> 00:59:36,869
+but did you see
+a black TransAm go by?
+
+688
+00:59:37,035 --> 00:59:40,122
+He caused all of this, the Bandit.
+Ain't he somethin'?
+
+689
+00:59:41,748 --> 00:59:44,918
+The Bandit ain't nothin'.
+He's a mental case.
+
+690
+00:59:50,215 --> 00:59:52,342
+Good shit!
+
+691
+00:59:53,427 --> 00:59:56,096
+Banzai!
+
+692
+00:59:59,933 --> 01:00:02,644
+I saw that, you sombitch!
+
+693
+01:00:02,811 --> 01:00:04,897
+You did that on purpose!
+
+694
+01:00:05,063 --> 01:00:07,441
+You're goin' away till you're grey!
+
+695
+01:00:07,608 --> 01:00:10,152
+I got the evidence!
+Put the evidence in the car.
+
+696
+01:00:10,319 --> 01:00:14,114
+- But, Daddy...
+- Put the evidence in the car!
+
+697
+01:00:14,281 --> 01:00:19,369
+I'm gonna barbecue
+your ass in molasses!
+
+698
+01:00:25,792 --> 01:00:28,504
+Put the evidence in the back.
+
+699
+01:00:36,136 --> 01:00:39,890
+There's no way, no way...
+
+700
+01:00:40,057 --> 01:00:43,811
+that you could come from my loins.
+
+701
+01:00:45,103 --> 01:00:50,526
+When I get home, the first thing I'm gonna
+do is punch your mama in the mouth.
+
+702
+01:01:00,202 --> 01:01:03,956
+I-I'll be with you
+in a moment, young man.
+
+703
+01:01:04,122 --> 01:01:08,460
+Bandit, honey, this is the Good
+Witch of the North speakin'.
+
+704
+01:01:08,627 --> 01:01:11,171
+You'd better not come this way.
+
+705
+01:01:11,338 --> 01:01:15,759
+There's been a little
+fender bender here on 64.
+
+706
+01:01:15,926 --> 01:01:19,471
+- Snowman, you copy that?
+- Yeah, I got a four on that.
+
+707
+01:01:19,638 --> 01:01:22,349
+That'll work for me, 'cause I need to pull off,
+
+708
+01:01:22,516 --> 01:01:25,144
+suck up a little go-go juice
+and put some groceries down my neck.
+
+709
+01:01:25,310 --> 01:01:26,937
+Y'all be careful
+and I'll catch ya later.
+
+710
+01:01:27,104 --> 01:01:31,358
+- One Snowman. I'm playin' on the side.
+- We'll be 10-10 on the side.
+
+711
+01:01:31,525 --> 01:01:35,195
+Lady, don't you know
+you're supposed to signal?
+
+712
+01:01:35,362 --> 01:01:37,197
+Oh? Really?
+
+713
+01:01:47,791 --> 01:01:52,588
+<i># They call you the Bandit</i>
+
+714
+01:01:52,754 --> 01:01:57,467
+<i># An outlaw untamed</i>
+
+715
+01:01:57,634 --> 01:02:02,306
+<i># Shackled only by freedom</i>
+
+716
+01:02:02,681 --> 01:02:05,350
+<i># You wear no man's chain</i>
+
+717
+01:02:05,517 --> 01:02:09,855
+We got some time.
+You wanna stretch your legs, Frog?
+
+718
+01:02:10,022 --> 01:02:12,483
+<i># Some say they despise you</i>
+
+719
+01:02:13,484 --> 01:02:18,447
+<i># Well, maybe they do</i>
+
+720
+01:02:18,614 --> 01:02:23,118
+<i># But deep down inside them</i>
+
+721
+01:02:23,285 --> 01:02:29,666
+<i># I bet they wish they were you</i>
+
+722
+01:02:45,265 --> 01:02:46,725
+Fill her up, hoss.
+
+723
+01:02:46,892 --> 01:02:50,687
+Come on, Frederick.
+Come on, boy, my boy.
+
+724
+01:02:50,854 --> 01:02:54,191
+Let's go get some
+of Lamar's greasy spoon.
+
+725
+01:02:54,358 --> 01:02:58,278
+I'm gonna put you
+on a diet, Fred. Mercy.
+
+726
+01:03:00,280 --> 01:03:05,327
+Come on, Fred. Come on, boy.
+
+727
+01:03:05,494 --> 01:03:07,704
+Inside.
+
+728
+01:03:07,871 --> 01:03:10,040
+Come on, boy.
+
+729
+01:03:10,207 --> 01:03:13,043
+Lamar, surprise.
+Look who's here.
+
+730
+01:03:13,210 --> 01:03:15,170
+- I knew you was comin'.
+- Hi, Snowman.
+
+731
+01:03:15,337 --> 01:03:18,340
+What do you mean,
+you knew I was comin'?
+
+732
+01:03:18,507 --> 01:03:23,470
+(COUNTRY AND WESTERN MUSIC
+PLAYING)
+
+733
+01:03:25,264 --> 01:03:27,599
+Lamar, you're rotten
+to the core, you know that.
+
+734
+01:03:27,766 --> 01:03:30,519
+About as rotten as that food
+you've been poisonin' me with...
+
+735
+01:03:30,686 --> 01:03:34,106
+- How many do you want?
+- I don't know. Fix the same thing.
+
+736
+01:03:34,273 --> 01:03:36,525
+Just cook the onions this time.
+
+737
+01:03:37,442 --> 01:03:41,029
+- How have you been, Sugar Bear?
+- Pretty good. You, Snowman?
+
+738
+01:03:41,196 --> 01:03:44,074
+Oh, pretty good,
+considering the shape I'm in.
+
+739
+01:03:44,241 --> 01:03:48,912
+Say hello to Waynette.
+Looks like old Fred's gettin' fat.
+
+740
+01:03:49,079 --> 01:03:52,666
+Yeah, tell me about it. It damn sure
+ain't from eatin' the food at this joint.
+
+741
+01:03:52,833 --> 01:03:56,003
+- Tell me about that.
+- I know it.
+
+742
+01:03:56,170 --> 01:04:00,340
+By the way, where did you get
+all them warthogs back there?
+
+743
+01:04:00,507 --> 01:04:03,177
+Damn if I know. They slid
+in here a little while ago.
+
+744
+01:04:03,343 --> 01:04:06,096
+I'm gonna slide on out.
+Catch you later, Snowman.
+
+745
+01:04:06,263 --> 01:04:09,433
+Yeah, why don't you just leave me?
+
+746
+01:04:09,600 --> 01:04:10,976
+Yes, operator?
+
+747
+01:04:11,143 --> 01:04:15,063
+This is a collect call
+from Cledus Snow.
+
+748
+01:04:16,064 --> 01:04:19,610
+No, I am not Hank Snow's brother. No.
+
+749
+01:04:22,738 --> 01:04:24,656
+Hey, sugarbabe, how you doin'?
+
+750
+01:04:28,494 --> 01:04:31,330
+- Could I ask you something?
+- Sure.
+
+751
+01:04:33,624 --> 01:04:37,544
+Do you think we have
+anything in common?
+
+752
+01:04:37,711 --> 01:04:41,715
+<i>Besides being chased around
+the country in that feckuckteh car?</i>
+
+753
+01:04:41,882 --> 01:04:44,384
+Yeah.
+
+754
+01:04:45,093 --> 01:04:47,137
+Like what?
+
+755
+01:04:47,304 --> 01:04:50,599
+<i>Have you ever seen
+the Broadway show Chorus Line?</i>
+
+756
+01:04:50,766 --> 01:04:53,268
+No.
+
+757
+01:04:53,435 --> 01:04:56,730
+You like Elton John?
+
+758
+01:04:57,189 --> 01:04:58,941
+No.
+
+759
+01:05:00,484 --> 01:05:03,862
+- Do you know who Casey Tibbs is?
+- Baseball player.
+
+760
+01:05:04,029 --> 01:05:08,450
+- Close. Richard Petty?
+- No.
+
+761
+01:05:08,784 --> 01:05:12,454
+- Waylon Jennings? No.
+- No.
+
+762
+01:05:14,456 --> 01:05:16,333
+When you tell somebody somethin',
+
+763
+01:05:16,500 --> 01:05:19,044
+it depends on what part of
+the United States you're standin' in...
+
+764
+01:05:19,211 --> 01:05:21,839
+as to just how dumb you are.
+
+765
+01:05:26,301 --> 01:05:29,888
+Mr Bandit, you have a lyrical way
+of cutting through the bullshit.
+
+766
+01:05:30,055 --> 01:05:34,601
+And you have a unique way with
+the English language, Miss Frog.
+
+767
+01:05:38,021 --> 01:05:42,818
+<i># Bandit steals a lady's heart</i>
+
+768
+01:05:42,985 --> 01:05:46,238
+<i># With only a smile</i>
+
+769
+01:05:46,864 --> 01:05:50,492
+- Don't you take that hat off for anything?
+- Sure.
+
+770
+01:05:50,659 --> 01:05:53,829
+I take it off for one thing,
+and one thing only.
+
+771
+01:05:53,996 --> 01:05:58,750
+<i># And you live much too hard</i>
+
+772
+01:05:58,917 --> 01:06:00,794
+<i># Bandit, you're the joker</i>
+
+773
+01:06:00,961 --> 01:06:05,299
+- If we were lost on a desert island together...
+- Yes?
+
+774
+01:06:05,465 --> 01:06:12,264
+Do you think we'd get along
+and talk and... things?
+
+775
+01:06:13,182 --> 01:06:15,350
+Sure.
+
+776
+01:06:15,517 --> 01:06:17,436
+Yeah, we'd get along.
+
+777
+01:06:17,603 --> 01:06:23,192
+It'd never be boring, I can tell you that.
+It would never be boring.
+
+778
+01:06:24,526 --> 01:06:27,946
+Take your hat off.
+
+779
+01:06:29,114 --> 01:06:31,909
+If you want to.
+
+780
+01:06:32,075 --> 01:06:37,372
+<i># They call you the Bandit</i>
+
+781
+01:06:37,539 --> 01:06:40,000
+I want to.
+
+782
+01:06:43,212 --> 01:06:48,091
+<i># They call you the Bandit</i>
+
+783
+01:06:48,258 --> 01:06:52,596
+<i># They call you the Bandit... #</i>
+
+784
+01:07:03,524 --> 01:07:07,569
+- No. Honey, we'll be home in a little while.
+- Hey!
+
+785
+01:07:08,070 --> 01:07:11,031
+Is this your goddamn mutt?
+
+786
+01:07:12,574 --> 01:07:16,245
+Honey, I got... I gotta go.
+Yeah, I gotta go... Bye.
+
+787
+01:07:17,162 --> 01:07:21,583
+- Yeah, that's my dog. Yeah.
+- Well, he just bit me.
+
+788
+01:07:21,750 --> 01:07:25,128
+- Fred! Come here, Fred.
+- I said... He just bit me.
+
+789
+01:07:25,295 --> 01:07:27,840
+- Put the son of a bitch out of his misery.
+- Let's roast him.
+
+790
+01:07:28,006 --> 01:07:30,801
+- That's not a bad idea.
+- Eat him.
+
+791
+01:07:30,968 --> 01:07:35,848
+I don't think Fred bit you, mister.
+Fred absolutely don't like grease.
+
+792
+01:07:41,895 --> 01:07:45,858
+Gearjammer, huh?
+King of the road, huh?
+
+793
+01:07:51,572 --> 01:07:54,867
+- It's time to get out.
+- That's a big 10-4.
+
+794
+01:08:45,542 --> 01:08:48,670
+How much do I owe you, Billy?
+
+795
+01:08:48,837 --> 01:08:52,758
+- 73... 84.
+- Never mind, just keep the change.
+
+796
+01:08:52,925 --> 01:08:56,678
+Sorry what happened, Snowman.
+
+797
+01:08:57,179 --> 01:09:00,182
+It's OK, Lamar.
+
+798
+01:09:06,730 --> 01:09:09,483
+(STARTS ENGINE)
+
+799
+01:09:27,167 --> 01:09:28,961
+Far out.
+
+800
+01:09:34,216 --> 01:09:36,760
+What the hell is this,
+a drive-in movie?
+
+801
+01:09:36,927 --> 01:09:38,428
+(HORN BLARES)
+
+802
+01:09:38,595 --> 01:09:40,764
+(HORN CONTINUES... )
+
+803
+01:09:40,931 --> 01:09:44,226
+Get off of there, you schnauzer's tit!
+
+804
+01:09:44,393 --> 01:09:46,979
+(HORN CONTINUES)
+
+805
+01:09:49,231 --> 01:09:52,359
+(AND CONTINUES... )
+
+806
+01:09:57,739 --> 01:10:00,784
+(AND CONTINUES... )
+
+807
+01:10:03,036 --> 01:10:04,413
+(HORN STOPS)
+
+808
+01:10:04,580 --> 01:10:09,543
+- How do, Officer. My name's...
+- I don't care if it's Broderick Crawford.
+
+809
+01:10:09,710 --> 01:10:13,839
+Don't you know you can't drive
+a piece of shit like that on the highway?
+
+810
+01:10:14,006 --> 01:10:17,676
+I'll thank you not to use
+that kind of language in my presence.
+
+811
+01:10:17,843 --> 01:10:21,722
+Never mind that crap.
+What the hell is this?
+
+812
+01:10:22,764 --> 01:10:25,684
+- This is evidence.
+- Evidence?
+
+813
+01:10:25,851 --> 01:10:30,981
+I don't care what it is. You can't drive
+this piece of shit on my highway.
+
+814
+01:10:31,148 --> 01:10:33,901
+I'm tellin' you for the last time.
+
+815
+01:10:34,067 --> 01:10:38,864
+I have my young son in the car,
+and I don't wanna hear that kinda language.
+
+816
+01:10:39,031 --> 01:10:44,119
+- Look! I'm askin' you one single, goddamn...
+- Hold it!
+
+817
+01:10:44,495 --> 01:10:46,872
+Hold it!
+
+818
+01:10:47,039 --> 01:10:50,959
+Don't you ever, ever
+raise your voice to me!
+
+819
+01:10:51,126 --> 01:10:53,128
+Do you know who you're talkin' to?
+
+820
+01:10:53,295 --> 01:10:56,423
+I happen to be Buford T. Justice,
+
+821
+01:10:56,590 --> 01:11:00,427
+a distinguished officer
+of over 30 years' seniority!
+
+822
+01:11:00,594 --> 01:11:03,972
+One of the most highly respected
+law-enforcement agents...
+
+823
+01:11:04,139 --> 01:11:07,559
+in the United States of America.
+
+824
+01:11:07,726 --> 01:11:12,815
+That vehicle happens to be
+evidence, valuable evidence,
+
+825
+01:11:12,981 --> 01:11:18,278
+that's going to convict a maniac
+that I've been tryin' to apprehend
+
+826
+01:11:18,445 --> 01:11:22,491
+and that I have been
+in high-speed pursuit of
+
+827
+01:11:22,658 --> 01:11:24,743
+for 700 miles.
+
+828
+01:11:26,662 --> 01:11:30,833
+He is wanted for the Mann Act,
+kidnappin'
+
+829
+01:11:30,999 --> 01:11:36,213
+and the attempted murder
+of over 20 brother officers.
+
+830
+01:11:41,927 --> 01:11:46,807
+Sir, I'm sorry. I had no idea.
+
+831
+01:11:47,933 --> 01:11:53,230
+It never occurred to me... Well, please, sir,
+you proceed immediately, and...
+
+832
+01:11:53,397 --> 01:11:56,150
+I hope you'll accept my apologies
+for my profanity.
+
+833
+01:11:57,484 --> 01:12:03,365
+Apology accepted.
+Now... (HORN DROWNS WORDS)
+
+834
+01:12:11,415 --> 01:12:14,626
+How about you, Bandit?
+You copy this Snowman? Come on.
+
+835
+01:12:14,793 --> 01:12:16,920
+I got ya, son. Come on back.
+
+836
+01:12:17,087 --> 01:12:21,592
+You ain't gonna believe this,
+but I just did my imitation of Joe Palooka.
+
+837
+01:12:21,758 --> 01:12:24,928
+I went a few rounds with some dudes
+at this eat-'em-up joint.
+
+838
+01:12:25,095 --> 01:12:29,683
+<i>Oh, I believe anything you tell me.
+How'd ya do, same as always?</i>
+
+839
+01:12:29,850 --> 01:12:33,353
+Yeah, about normal. I lost.
+
+840
+01:12:33,520 --> 01:12:39,485
+We also lost a lot of valuable time.
+We gonna really have to cook.
+
+841
+01:12:39,651 --> 01:12:43,947
+<i>- Is that a 10-4?
+- That's a big 10-4.</i>
+
+842
+01:12:54,291 --> 01:12:58,504
+Actually, my heaviest relationship
+was with an acid-rock singer...
+
+843
+01:12:58,670 --> 01:13:00,339
+named Robert Crumly.
+
+844
+01:13:00,506 --> 01:13:06,178
+We were together... eight and a half days.
+God, I really thought that was it.
+
+845
+01:13:06,345 --> 01:13:07,805
+And?
+
+846
+01:13:07,971 --> 01:13:11,266
+One day I came home
+and found him in the shower...
+
+847
+01:13:11,433 --> 01:13:14,353
+...with a girl...
+and her mother!
+
+848
+01:13:14,520 --> 01:13:18,190
+Well, at least
+he kept it in the family.
+
+849
+01:13:26,114 --> 01:13:28,992
+You have a wonderful way
+of putting things.
+
+850
+01:13:29,159 --> 01:13:32,246
+- So did he.
+- Oh, yes.
+
+851
+01:13:36,458 --> 01:13:39,711
+<i>Breaker one-nine.
+This is the Bandit.</i>
+
+852
+01:13:39,878 --> 01:13:43,173
+<i>I'm lookin' for a west-bounder
+on highway 85.</i>
+
+853
+01:13:43,340 --> 01:13:45,634
+<i>I need a smokey report,
+and I need it bad, son.</i>
+
+854
+01:13:45,801 --> 01:13:49,680
+This is Foxy Lady, Bandit.
+We heard you were comin' by,
+
+855
+01:13:49,847 --> 01:13:52,558
+and we decided we'd take care
+of those bears for you.
+
+856
+01:13:52,724 --> 01:13:57,813
+- You know, a little "personalised service".
+- Send me the bill, Foxy Lady.
+
+857
+01:13:57,980 --> 01:14:01,316
+Better yet, why don't you
+come by and pay up in person?
+
+858
+01:14:02,276 --> 01:14:06,446
+I'll catch you on the flip side, darlin'.
+I'm too pooped to pop.
+
+859
+01:14:06,613 --> 01:14:08,323
+- Daddy, listen.
+- Shut up!
+
+860
+01:14:08,490 --> 01:14:10,492
+<i>But I'm just ahead of you.</i>
+
+861
+01:14:10,701 --> 01:14:13,495
+I'm at mile marker 86.
+Come on by, Bandit.
+
+862
+01:14:13,662 --> 01:14:15,664
+All right, you talked me into it.
+
+863
+01:14:15,831 --> 01:14:20,210
+Now I got that sombitch,
+and I got him with his fly open.
+
+864
+01:14:22,296 --> 01:14:26,758
+- What do we do when we get home?
+- Go to bed. For a week.
+
+865
+01:14:26,925 --> 01:14:29,136
+Good idea.
+
+866
+01:14:29,303 --> 01:14:33,557
+- And sleep.
+- Wanna bet?
+
+867
+01:14:34,766 --> 01:14:37,936
+Orville, you seen that new waitress
+at the diner, Arlene?
+
+868
+01:14:38,103 --> 01:14:41,899
+- She's got some nice legs.
+- I'd like to take a run on her.
+
+869
+01:14:42,065 --> 01:14:44,610
+- Oh, man, what are you talkin' about?
+- I'm tellin' ya.
+
+870
+01:14:44,776 --> 01:14:49,198
+Let me tell you somethin' about that.
+She makes herself...
+
+871
+01:14:50,616 --> 01:14:54,119
+- Feel lucky?
+- Let's get him.
+
+872
+01:14:57,664 --> 01:15:00,876
+<i>This is car four.
+We're in pursuit of the black TransAm.</i>
+
+873
+01:15:01,043 --> 01:15:03,670
+<i>It's the Bandit.</i>
+
+874
+01:15:11,804 --> 01:15:15,641
+<i># Eastbound and down
+loaded up and truckin'</i>
+
+875
+01:15:15,808 --> 01:15:19,102
+<i># We gonna do
+what they say can't be done</i>
+
+876
+01:15:19,269 --> 01:15:23,232
+<i># We've got a long way to go
+and a short time to get there</i>
+
+877
+01:15:23,398 --> 01:15:27,027
+<i># I'm eastbound
+Just watch ol' Bandit run #</i>
+
+878
+01:15:27,194 --> 01:15:28,946
+Oh, shit.
+
+879
+01:15:34,660 --> 01:15:36,787
+Breaker one-nine.
+Breaker one-nine.
+
+880
+01:15:37,663 --> 01:15:40,541
+I see a portable gas station
+ahead of me. Do you copy?
+
+881
+01:15:40,707 --> 01:15:45,838
+Is this Bandit? This is Mr B., gearjammin'
+this rollin' refinery. You got a smokey?
+
+882
+01:15:46,004 --> 01:15:50,467
+This is the Bandit, son. Can we
+slide right into your convoy there?
+
+883
+01:15:50,634 --> 01:15:56,056
+Come ahead, Bandit. We'll slip you into
+the rockin' chair, play a little hide-and-seek.
+
+884
+01:15:56,223 --> 01:15:59,810
+The welcome mat is out,
+and you're comin' home.
+
+885
+01:15:59,977 --> 01:16:01,979
+10-4.
+
+886
+01:16:03,188 --> 01:16:05,607
+- We're going in the rocking chair, honey.
+- Good.
+
+887
+01:16:10,737 --> 01:16:15,033
+Trucks, I love 'em. I love 'em.
+
+888
+01:16:18,954 --> 01:16:22,708
+This is not a convoy.
+This is a dream.
+
+889
+01:16:31,675 --> 01:16:34,803
+- They can see right down into this car!
+- Well, so what?
+
+890
+01:16:34,970 --> 01:16:38,682
+That's why I used to love to drive
+those trucks, darlin'. Spot those beavers.
+
+891
+01:16:43,228 --> 01:16:46,940
+- Safe as in your mother's womb, darlin'.
+- Is that right?
+
+892
+01:16:47,107 --> 01:16:48,984
+<i># Son, never mind them brakes</i>
+
+893
+01:16:49,151 --> 01:16:52,905
+<i># Let it all hang out
+'cause we got a run to make</i>
+
+894
+01:16:53,071 --> 01:16:56,742
+<i># The boys are thirsty in Atlanta
+and there's beer in Texarkana</i>
+
+895
+01:16:56,909 --> 01:17:01,079
+<i># And we'll bring it back
+no matter what it takes</i>
+
+896
+01:17:01,246 --> 01:17:05,000
+<i># Eastbound and down
+loaded up and truckin'</i>
+
+897
+01:17:05,167 --> 01:17:08,378
+<i># We gonna do
+what they say can't be done</i>
+
+898
+01:17:08,545 --> 01:17:12,799
+<i># We've got a long way to go
+and a short time to get there</i>
+
+899
+01:17:12,966 --> 01:17:17,054
+<i># I'm eastbound
+Just watch ol' Bandit run</i>
+
+900
+01:17:32,736 --> 01:17:36,990
+<i># Old Smokey's got them ears on
+he's hot on your trail</i>
+
+901
+01:17:37,157 --> 01:17:40,285
+<i># He ain't gonna rest
+till you're in jail</i>
+
+902
+01:17:40,452 --> 01:17:42,287
+<i># So you gotta dodge him
+you gotta duck him</i>
+
+903
+01:17:42,454 --> 01:17:44,581
+<i># You gotta keep
+that diesel truckin'</i>
+
+904
+01:17:44,748 --> 01:17:49,711
+<i># Just put that hammer down
+and give it hell #</i>
+
+905
+01:17:52,214 --> 01:17:54,842
+Thank you, Mr B.
+I don't know how to thank ya.
+
+906
+01:17:55,008 --> 01:17:57,636
+You can thank me
+by not gettin' caught.
+
+907
+01:17:57,803 --> 01:18:00,806
+Have a good day and a better one
+tomorrow, good buddy.
+
+908
+01:18:00,973 --> 01:18:03,809
+Hey, Bandit,
+this is Little Beaver.
+
+909
+01:18:03,976 --> 01:18:07,771
+Put your foot on the floor.
+We got your back door, and I'm clear.
+
+910
+01:18:07,938 --> 01:18:12,234
+That's a 10-4.
+Snowman, you got your ears on, son?
+
+911
+01:18:13,443 --> 01:18:15,571
+You've got him, you lucky devil.
+
+912
+01:18:15,737 --> 01:18:17,656
+<i>You're about to come up on a convoy.</i>
+
+913
+01:18:17,823 --> 01:18:20,492
+Keep your rubber band
+stretched real tight.
+
+914
+01:18:20,659 --> 01:18:25,289
+10-4, 10-4.
+I'm bringin' it, son. I'm clear.
+
+915
+01:18:26,874 --> 01:18:30,460
+<i># Eastbound and down
+loaded up and truckin'</i>
+
+916
+01:18:30,627 --> 01:18:34,256
+<i># We gonna do
+what they say can't be done</i>
+
+917
+01:18:34,423 --> 01:18:38,510
+<i># We've got a long way to go
+and a short time to get there</i>
+
+918
+01:18:38,677 --> 01:18:42,347
+<i># I'm eastbound
+Just watch ol' Bandit run</i>
+
+919
+01:18:42,514 --> 01:18:46,185
+<i># Keep your foot hard on the pedal,
+son, never mind them brakes</i>
+
+920
+01:18:46,351 --> 01:18:49,980
+<i># Let it all hang out
+'cause we got a run to make</i>
+
+921
+01:18:50,147 --> 01:18:54,193
+<i># The boys are thirsty in Atlanta
+and there's beer in Texarkana</i>
+
+922
+01:18:54,359 --> 01:18:58,489
+<i># And we'll bring it back
+no matter what it takes</i>
+
+923
+01:18:58,655 --> 01:19:02,493
+<i># Eastbound and down
+loaded up and truckin'</i>
+
+924
+01:19:02,659 --> 01:19:05,746
+<i># We gonna do
+what they say can't be done</i>
+
+925
+01:19:05,913 --> 01:19:10,167
+<i># We've got a long way to go
+and a short time to get there</i>
+
+926
+01:19:10,334 --> 01:19:13,170
+<i># I'm eastbound
+Just watch ol' Bandit run #</i>
+
+927
+01:19:13,337 --> 01:19:18,425
+I don't care if you're the Governor of Texas.
+You're makin' a big mistake.
+
+928
+01:19:22,596 --> 01:19:25,682
+Read him his rights, Junior.
+
+929
+01:19:25,849 --> 01:19:27,643
+You have the right to remain silent.
+
+930
+01:19:27,810 --> 01:19:31,855
+Anything you say may be held
+against you in a court of law. And...
+
+931
+01:19:32,022 --> 01:19:34,441
+What's all this about?
+
+932
+01:19:34,691 --> 01:19:38,862
+Oh, hello, Officer!
+Glad you're here to assist me.
+
+933
+01:19:39,029 --> 01:19:41,698
+My name is Sheriff Buford T. Justice.
+
+934
+01:19:41,865 --> 01:19:44,952
+I have just apprehended the Bandit.
+
+935
+01:19:45,118 --> 01:19:48,539
+No, sir. You just apprehended my captain.
+
+936
+01:19:52,251 --> 01:19:55,003
+- Take the cuffs off, Junior.
+- But, Daddy, we just...
+
+937
+01:19:55,170 --> 01:19:58,841
+Take the cuffs off, you moose twit.
+
+938
+01:20:04,138 --> 01:20:10,102
+May I express my feelings
+about inconveniencing you...
+
+939
+01:20:10,269 --> 01:20:13,522
+But if you gonna hang out
+in these kinda joints...
+
+940
+01:20:13,689 --> 01:20:16,692
+wear a badge on your didie.
+
+941
+01:20:28,871 --> 01:20:31,123
+(SIREN WAILS)
+
+942
+01:20:31,290 --> 01:20:33,000
+(WHISTLES TUNE)
+
+943
+01:20:37,087 --> 01:20:39,548
+Oh, no.
+
+944
+01:20:39,715 --> 01:20:42,009
+Hey, Bandit. Listen to this.
+
+945
+01:20:42,176 --> 01:20:43,427
+(SIREN)
+
+946
+01:20:43,594 --> 01:20:46,513
+<i>You know who that is?
+That's Mr Evel Knievel.</i>
+
+947
+01:20:46,680 --> 01:20:49,141
+He snuck in my back door
+when I wasn't lookin'.
+
+948
+01:20:49,308 --> 01:20:52,311
+Give me a hand, or we gonna be
+in a heap of trouble.
+
+949
+01:20:52,478 --> 01:20:56,773
+<i>- Please roger that transmission.
+- Hold on to Fred. Here comes the cavalry.</i>
+
+950
+01:21:08,952 --> 01:21:10,913
+- Howdy, Officer.
+- How ya doin'?
+
+951
+01:21:11,079 --> 01:21:17,044
+Give me your licence and manifest, boy.
+You know you was goin' 96 miles an hour?
+
+952
+01:21:17,211 --> 01:21:19,505
+- I was doin' 96...
+- You're damn right, you was.
+
+953
+01:21:19,671 --> 01:21:21,798
+I didn't know this truck could do 96.
+
+954
+01:21:21,965 --> 01:21:25,761
+The judge gets to you, he's gonna
+turn you every way but loose.
+
+955
+01:21:25,928 --> 01:21:29,556
+It's time you truckers learn
+these roads don't belong to you.
+
+956
+01:21:33,477 --> 01:21:34,853
+(WHISTLES)
+
+957
+01:21:37,648 --> 01:21:40,984
+You be careful, you hear?
+
+958
+01:21:44,780 --> 01:21:47,157
+(SIREN)
+
+959
+01:21:51,537 --> 01:21:53,539
+(SIREN)
+
+960
+01:22:00,712 --> 01:22:05,342
+<i>- Whoa. Want a little piece of advice, Bandit?
+- Yeah. Lay it on me, son.</i>
+
+961
+01:22:05,509 --> 01:22:10,764
+Don't take your foot off of that hammer.
+Them bears'll pour over you like maple syrup.
+
+962
+01:22:46,842 --> 01:22:48,635
+- You all right?
+- Yeah.
+
+963
+01:22:48,802 --> 01:22:53,265
+- Don't you know this ain't Saturday?
+- Thanks a lot.
+
+964
+01:23:27,591 --> 01:23:30,803
+We don't need assistance.
+I've got him in my sights.
+
+965
+01:23:37,392 --> 01:23:40,813
+Headquarters, disregard
+my last transmission.
+
+966
+01:24:04,711 --> 01:24:08,173
+(SIREN SLOWS... AND STOPS)
+
+967
+01:24:10,134 --> 01:24:14,471
+Son... you reckon you can
+let me off at the next exit?
+
+968
+01:24:15,389 --> 01:24:17,641
+- Go get your daddy a beer.
+- OK.
+
+969
+01:24:17,808 --> 01:24:20,227
+<i>... I understand every cop
+in the state's after him.</i>
+
+970
+01:24:20,394 --> 01:24:24,273
+- Stay 10-10. I'll let you know.
+- That's a big 10-4.
+
+971
+01:24:24,439 --> 01:24:27,192
+Damn, he's been stirring up some trouble.
+
+972
+01:24:27,359 --> 01:24:30,195
+(SIREN)
+
+973
+01:24:36,118 --> 01:24:38,829
+Ooh, it's the Bandit!
+
+974
+01:24:54,803 --> 01:24:59,766
+<i>(WOMAN) I'm Hot To Trot. Just tell me how
+I can help and I'm with ya, body and soul.</i>
+
+975
+01:24:59,933 --> 01:25:03,228
+<i>- Channel clear.
+- Breaker one-nine, breaker one-nine.</i>
+
+976
+01:25:03,395 --> 01:25:05,647
+Is that Hot Pants Hilliard
+yakkin' out there?
+
+977
+01:25:05,814 --> 01:25:08,817
+<i>- And who wants to know?
+- This is the Bandit, darling.</i>
+
+978
+01:25:08,984 --> 01:25:12,654
+Well, where are you,
+you bodied-up, smooth-talkin' thing?
+
+979
+01:25:12,821 --> 01:25:15,032
+And how can I help?
+Bring it back.
+
+980
+01:25:15,199 --> 01:25:18,118
+You still workin' at that
+choke-and-puke on West 85?
+
+981
+01:25:18,285 --> 01:25:21,830
+Affirmative, affirmative.
+I'm still dishin' it out.
+
+982
+01:25:22,372 --> 01:25:27,044
+We'll come screamin' by in five minutes
+with a herd of smokeys on our ass.
+
+983
+01:25:27,669 --> 01:25:30,297
+<i>How 'bout gettin' those pallies
+of yours out there, block 'em off?</i>
+
+984
+01:25:30,464 --> 01:25:33,467
+Love to! But hey,
+you're gonna owe me one.
+
+985
+01:25:33,634 --> 01:25:37,346
+- I owe you a big one.
+- That's a big 10-4.
+
+986
+01:25:37,513 --> 01:25:39,181
+10-4.
+
+987
+01:25:41,016 --> 01:25:45,229
+All right, gang, we're gonna go
+for a big smokey red 22. Wahoo!
+
+988
+01:25:45,395 --> 01:25:47,189
+- Ride with me?
+- Yeah.
+
+989
+01:25:52,986 --> 01:25:58,158
+- You sure we ain't gonna get in trouble?
+- Nah. I've done it before.
+
+990
+01:26:07,876 --> 01:26:10,629
+(SIRENS WAILING)
+
+991
+01:26:12,881 --> 01:26:16,844
+- We're comin' at you, darlin'. Are you ready?
+- Ready, willin' and able.
+
+992
+01:26:17,010 --> 01:26:21,098
+"Ready and willing." Ha.
+She always was.
+
+993
+01:26:24,351 --> 01:26:27,938
+<i>(HOT PANTS) OK, gang, be alert,
+'cause here he comes.</i>
+
+994
+01:26:28,105 --> 01:26:32,693
+<i>- Well, go ahead and answer.
+- 10-4, Hot Pants. We copy.</i>
+
+995
+01:26:32,860 --> 01:26:34,820
+Let go of the button.
+
+996
+01:26:34,987 --> 01:26:38,323
+(TYRES SCREECHING,
+SIRENS WAILING)
+
+997
+01:26:49,501 --> 01:26:52,504
+(HORNS BLARING)
+
+998
+01:27:17,321 --> 01:27:21,533
+Paydirt. I just picked up
+the Bandit eastbound on 95.
+
+999
+01:27:21,700 --> 01:27:23,285
+All units converge.
+
+1000
+01:27:23,452 --> 01:27:26,914
+<i>I copy, Chopper One.
+I'm on my way.</i>
+
+1001
+01:27:39,968 --> 01:27:41,178
+<i>Heading for the fairgrounds!</i>
+
+1002
+01:27:55,734 --> 01:27:59,446
+(SIRENS CONTINUE)
+
+1003
+01:28:05,244 --> 01:28:09,248
+<i>This is car 12, Bobby Lee,
+and I have him westbound on 75.</i>
+
+1004
+01:28:12,167 --> 01:28:15,504
+(RATTLING)
+
+1005
+01:28:21,343 --> 01:28:26,473
+<i>- Cledus, where the hell are we?
+- Four miles to go, good buddy.</i>
+
+1006
+01:28:27,975 --> 01:28:31,895
+- Four miles. Goddamn it!
+- Four miles...
+
+1007
+01:28:38,026 --> 01:28:41,572
+Bo, did you count on this?
+
+1008
+01:28:41,738 --> 01:28:44,449
+I mean, all of this?
+
+1009
+01:28:49,454 --> 01:28:52,374
+No, I didn't, honey.
+
+1010
+01:28:56,545 --> 01:28:59,965
+<i>- Cledus?
+- Talk to me, my boy.</i>
+
+1011
+01:29:00,132 --> 01:29:03,677
+Goddamn it, son,
+we gave it our best shot.
+
+1012
+01:29:03,844 --> 01:29:07,890
+I don't like this any more
+than you do, but...
+
+1013
+01:29:08,056 --> 01:29:11,185
+We ain't gonna make it, son.
+We're gonna hang it up.
+
+1014
+01:29:11,351 --> 01:29:13,937
+Whoa, negatory, negatory!
+You crazy or somethin'?
+
+1015
+01:29:14,104 --> 01:29:18,650
+We come this far, ain't we? When we say
+we gonna do a job, we do a job!
+
+1016
+01:29:18,817 --> 01:29:21,820
+It's me they're after. They don't
+even know Cledus Snow exists.
+
+1017
+01:29:21,987 --> 01:29:26,950
+Oh, they don't?
+Well, I'll tell you what we gonna do.
+
+1018
+01:29:27,784 --> 01:29:31,121
+We gonna introduce 'em to the boy.
+So move over, good buddy,
+
+1019
+01:29:31,288 --> 01:29:36,210
+'cause the Snowman is comin' through.
+Hold on to your ass, Fred.
+
+1020
+01:29:42,049 --> 01:29:44,885
+(TRUCK HORN BLARES)
+
+1021
+01:29:45,761 --> 01:29:47,721
+Hot damn, we're gonna make it.
+
+1022
+01:29:56,188 --> 01:29:58,106
+(TRUCK HORN)
+
+1023
+01:30:03,987 --> 01:30:06,198
+(SIRENS STOP)
+
+1024
+01:30:06,365 --> 01:30:09,201
+Move them vehicles.
+We gotta get through!
+
+1025
+01:30:09,368 --> 01:30:11,787
+Here they come!
+
+1026
+01:30:17,501 --> 01:30:20,003
+(HORN BLARES)
+
+1027
+01:30:24,007 --> 01:30:25,801
+(BARKING)
+
+1028
+01:30:27,928 --> 01:30:31,223
+(HORNS BLARING)
+
+1029
+01:30:42,442 --> 01:30:46,864
+(HORN BLARES, CROWD CHEERS)
+
+1030
+01:30:49,116 --> 01:30:52,828
+Daddy, you're about to have
+your evenin' ruined for you.
+
+1031
+01:30:55,706 --> 01:30:59,751
+(HORN BLARING)
+
+1032
+01:31:07,634 --> 01:31:09,678
+- OK.
+- All right.
+
+1033
+01:31:09,845 --> 01:31:12,681
+- We're in trouble.
+- I know we're in trouble.
+
+1034
+01:31:12,848 --> 01:31:14,850
+- What time is it?
+- (ENOS) One minute after.
+
+1035
+01:31:15,017 --> 01:31:17,936
+- Goddamn, we're 10 minutes early.
+- We're in trouble!
+
+1036
+01:31:18,103 --> 01:31:20,731
+We need a way out of here.
+We need the money.
+
+1037
+01:31:20,898 --> 01:31:24,276
+Here's my Cadillac. That'll leave me
+with an even dozen. Good luck, son.
+
+1038
+01:31:24,443 --> 01:31:26,320
+- Cledus, get the money.
+- How 'bout the money?
+
+1039
+01:31:26,487 --> 01:31:28,864
+- How 'bout double or nothin'?
+- How 'bout forgettin' it?
+
+1040
+01:31:29,031 --> 01:31:30,574
+What about double or nothin'?
+
+1041
+01:31:30,741 --> 01:31:34,119
+You run up to Boston,
+bring back some clam chowder.
+
+1042
+01:31:35,454 --> 01:31:37,206
+- You're on.
+- Uh, you're on.
+
+1043
+01:31:37,372 --> 01:31:41,168
+- In 18 hours?
+- You're still on.
+
+1044
+01:31:41,335 --> 01:31:45,088
+Y-y-you're crazy!
+And I'm divorced!
+
+1045
+01:31:45,255 --> 01:31:48,759
+And you... Ain't half bad, is it?
+
+1046
+01:31:48,926 --> 01:31:51,887
+(SIRENS APPROACH)
+
+1047
+01:32:06,568 --> 01:32:10,697
+20 to one
+I break the son of a bitch this time.
+
+1048
+01:32:11,281 --> 01:32:14,201
+(BRAKES SQUEALING)
+
+1049
+01:32:16,036 --> 01:32:18,121
+Gimme 500 on the Bandit.
+
+1050
+01:32:25,045 --> 01:32:28,382
+Apprehend that horse ass
+for reckless drivin'!
+
+1051
+01:32:28,549 --> 01:32:33,470
+- But, Daddy, he's...
+- Do what I tell you, you pile of monkey nuts!
+
+1052
+01:32:39,268 --> 01:32:43,730
+<i>(BANDIT)
+Sheriff Buford T. Justice, please.</i>
+
+1053
+01:32:43,897 --> 01:32:46,775
+- Who there?
+- This is Bandit Darville talkin'.
+
+1054
+01:32:47,526 --> 01:32:49,736
+Where are you, you sombitch?
+
+1055
+01:32:49,945 --> 01:32:53,949
+Before I tell you where I am, Sheriff,
+there's just one thing I wanna say.
+
+1056
+01:32:54,116 --> 01:32:58,370
+You must be part coon dog,
+'cause I been chased by the best of 'em,
+
+1057
+01:32:58,537 --> 01:33:02,291
+and son, you make 'em look
+like they're all runnin' in slow motion.
+
+1058
+01:33:02,457 --> 01:33:06,879
+- I just wanna say that.
+- Well, thank you, Mr Bandit.
+
+1059
+01:33:07,045 --> 01:33:13,594
+And as the pursuer, may I say you're
+the goddamnedest pursuee I ever pursued.
+
+1060
+01:33:15,012 --> 01:33:17,681
+<i>Now that the mutual bullshit is over,</i>
+
+1061
+01:33:17,848 --> 01:33:20,058
+where are you, you sombitch?
+
+1062
+01:33:20,225 --> 01:33:25,105
+I'm right down at the bottom of the hill.
+I'm six-foot-eight, in a cowboy outfit.
+
+1063
+01:33:25,272 --> 01:33:28,859
+I got a little pygmy standing beside me
+dressed like me. You can't miss me.
+
+1064
+01:33:29,026 --> 01:33:31,111
+<i>10-4.</i>
+
+1065
+01:33:33,864 --> 01:33:36,408
+Wait a minute.
+Scratch that. Hold it.
+
+1066
+01:33:36,575 --> 01:33:41,163
+I can't lie to you, Sheriff. You're too good
+a man. Look over your left shoulder.
+
+1067
+01:33:45,501 --> 01:33:47,127
+Oof.
+
+1068
+01:33:47,294 --> 01:33:51,965
+We're on our way to Boston
+to get some clam chowder. Bye-bye.
+
+1069
+01:33:52,800 --> 01:33:56,553
+- No hard feelings, Junior!
+- I'm not givin' up!
+
+1070
+01:34:01,558 --> 01:34:03,977
+I'm never gonna give up!
+I'll get you, you sombitch!
+
+1071
+01:34:04,144 --> 01:34:08,649
+Daddy, wait for me! Don't leave me!
+Who's gonna hold your hat?
+
+1072
+01:34:08,816 --> 01:34:12,277
+<i># Eastbound and down
+loaded up and truckin'</i>
+
+1073
+01:34:12,444 --> 01:34:15,697
+<i># We gonna do
+what they say can't be done</i>
+
+1074
+01:34:15,864 --> 01:34:20,077
+<i># We've got a long way to go
+And a short time to get there</i>
+
+1075
+01:34:20,244 --> 01:34:24,039
+<i># I'm eastbound
+Just watch ol' Bandit run</i>
+
+1076
+01:34:24,206 --> 01:34:28,168
+<i># Keep your foot hard on the pedal,
+son, never mind them brakes</i>
+
+1077
+01:34:28,335 --> 01:34:31,755
+<i># Let it all hang out
+'cause we got a run to make</i>
+
+1078
+01:34:31,922 --> 01:34:35,926
+<i># Those boys are thirsty in Atlanta
+and there's beer in Texarkana</i>
+
+1079
+01:34:36,093 --> 01:34:40,013
+<i># And we'll bring it back
+no matter what it takes</i>
+
+1080
+01:34:40,180 --> 01:34:44,143
+<i># Eastbound and down
+loaded up and truckin'</i>
+
+1081
+01:34:44,309 --> 01:34:47,646
+<i># We gonna do
+what they say can't be done</i>
+
+1082
+01:34:47,813 --> 01:34:51,859
+<i># We've got a long way to go
+and a short time to get there</i>
+
+1083
+01:34:52,025 --> 01:34:56,238
+<i># I'm eastbound
+Just watch ol' Bandit run</i>
+
+1084
+01:35:11,920 --> 01:35:15,924
+<i># Old Smokey's got them ears on
+he's hot on your trail</i>
+
+1085
+01:35:16,091 --> 01:35:19,261
+<i># He ain't gonna rest
+till you're in jail</i>
+
+1086
+01:35:19,428 --> 01:35:21,638
+<i># So you got to dodge him
+you got to duck him</i>
+
+1087
+01:35:21,805 --> 01:35:23,682
+<i># You've got to keep
+that diesel truckin'</i>
+
+1088
+01:35:23,849 --> 01:35:27,895
+<i># Just put that hammer down
+and give it hell</i>
+
+1089
+01:35:28,061 --> 01:35:32,065
+<i># Eastbound and down
+loaded up and truckin'</i>
+
+1090
+01:35:32,232 --> 01:35:35,277
+<i># We gonna do
+what they say can't be done</i>
+
+1091
+01:35:35,444 --> 01:35:39,823
+<i># We've got a long way to go
+and a short time to get there</i>
+
+1092
+01:35:39,990 --> 01:35:43,952
+<i># I'm eastbound
+Just watch ol' Bandit run #</i>
+

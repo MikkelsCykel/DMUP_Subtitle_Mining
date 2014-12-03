@@ -1,0 +1,6759 @@
+1
+00:00:29,616 --> 00:00:31,988
+<i># Sad are the eyes</i>
+
+2
+00:00:31,989 --> 00:00:34,626
+<i># Yet no tears,</i>
+
+3
+00:00:34,753 --> 00:00:37,577
+<i># The flight of the wild geese</i>
+
+4
+00:00:37,805 --> 00:00:40,535
+<i># Brings a new hope</i>
+
+5
+00:00:40,536 --> 00:00:43,169
+<i># Rescued from all this...</i>
+
+6
+00:00:43,170 --> 00:00:45,803
+<i># old friends</i>
+
+7
+00:00:46,045 --> 00:00:49,114
+<i># And those newly found,</i>
+
+8
+00:00:49,115 --> 00:00:54,580
+<i># What chance to make it last?</i>
+
+9
+00:00:54,581 --> 00:00:57,968
+<i># When there's danger all around</i>
+
+10
+00:00:57,969 --> 00:01:03,142
+<i># And reason just ups and disappears</i>
+
+11
+00:01:03,692 --> 00:01:06,645
+<i># Time is running out</i>
+
+12
+00:01:06,646 --> 00:01:09,598
+<i># So much to be done</i>
+
+13
+00:01:09,599 --> 00:01:12,372
+<i># Tell me what more...</i>
+
+14
+00:01:12,407 --> 00:01:15,053
+<i># tell me what more</i>
+
+15
+00:01:15,054 --> 00:01:20,236
+<i># What more can we do?</i>
+
+16
+00:01:20,614 --> 00:01:23,643
+<i># There were promises made</i>
+
+17
+00:01:23,644 --> 00:01:26,672
+<i># Plans firmly laid</i>
+
+18
+00:01:26,673 --> 00:01:29,586
+<i># Now madness prevails</i>
+
+19
+00:01:29,587 --> 00:01:32,500
+<i># And lies fill the air</i>
+
+20
+00:01:32,501 --> 00:01:37,165
+<i># What more... what more</i>
+
+21
+00:01:37,166 --> 00:01:41,831
+<i># What more can we do?</i>
+
+22
+00:02:01,315 --> 00:02:07,254
+<i># What chance to make it last?</i>
+
+23
+00:02:08,955 --> 00:02:10,997
+<i># What more...</i>
+
+24
+00:02:10,998 --> 00:02:16,680
+<i># What more can we do?</i>
+
+25
+00:02:50,582 --> 00:02:51,571
+Colonel Faulkner
+
+26
+00:02:52,222 --> 00:02:54,213
+- You're late
+- Sorry
+
+27
+00:02:55,062 --> 00:02:56,925
+We thought it better for you to come
+
+28
+00:02:56,926 --> 00:02:59,021
+into the country without
+going through immigration
+
+29
+00:02:59,182 --> 00:03:00,695
+Took a bit of doing
+
+30
+00:03:01,062 --> 00:03:02,177
+I assume you're keen
+
+31
+00:03:02,382 --> 00:03:06,341
+I am. I'm also cold and tired.
+Could we move rather rapidly on?
+
+32
+00:03:30,301 --> 00:03:31,416
+This way, sir
+
+33
+00:03:42,061 --> 00:03:43,335
+Colonel Faulkner,
+
+34
+00:03:44,301 --> 00:03:45,780
+I'm Thomas Balfour
+
+35
+00:03:45,941 --> 00:03:46,851
+How do you do
+
+36
+00:03:47,021 --> 00:03:48,852
+You'll be meeting Sir Edward Matherson
+
+37
+00:03:49,021 --> 00:03:50,693
+Matherson the merchant banker?
+
+38
+00:03:50,861 --> 00:03:52,294
+That's correct
+
+39
+00:03:59,171 --> 00:04:00,205
+Faulkner...
+
+40
+00:04:02,301 --> 00:04:04,098
+What do I call you? "SIR Edward"?
+
+41
+00:04:04,821 --> 00:04:05,970
+You do
+
+42
+00:04:06,621 --> 00:04:08,612
+You drink whiskey, I take it,
+soda or water?
+
+43
+00:04:08,781 --> 00:04:10,533
+Large and straight, thank you
+
+44
+00:04:10,901 --> 00:04:12,380
+Good of you to come at such short notice
+
+45
+00:04:12,581 --> 00:04:14,970
+That depends on your definition of good
+
+46
+00:04:15,461 --> 00:04:19,089
+A first-class air ticket and an unsigned
+cheque for £2,000
+
+47
+00:04:19,300 --> 00:04:20,369
+are persuasive
+
+48
+00:04:20,580 --> 00:04:22,719
+I assume that's for
+my time and my trouble
+
+49
+00:04:22,720 --> 00:04:24,858
+And a rather rough meal on the plane
+
+50
+00:04:25,060 --> 00:04:27,858
+Would you be good enough to sign?
+
+51
+00:04:28,940 --> 00:04:29,929
+Thank you
+
+52
+00:04:33,620 --> 00:04:34,814
+Another, please
+
+53
+00:04:35,420 --> 00:04:37,456
+Please, feel free with my whisky
+
+54
+00:04:37,980 --> 00:04:38,935
+I will
+
+55
+00:04:42,460 --> 00:04:45,179
+Thanks I'm dry when I work
+
+56
+00:04:45,820 --> 00:04:46,969
+So I've heard
+
+57
+00:04:47,180 --> 00:04:49,216
+There's a special clause in my contracts
+
+58
+00:04:49,217 --> 00:04:51,253
+that says that my liver is to be
+buried separately, with honors
+
+59
+00:04:52,260 --> 00:04:53,898
+I'm not a very humorous man
+
+60
+00:04:54,460 --> 00:04:55,336
+So I've noticed
+
+61
+00:04:56,140 --> 00:05:00,531
+Tell me what happened with your contract
+with Julius Limbani
+
+62
+00:05:00,700 --> 00:05:01,610
+You know very well what happened
+
+63
+00:05:01,820 --> 00:05:03,253
+You didn't pick my name out of a hat
+
+64
+00:05:03,460 --> 00:05:05,018
+It was a disastrous failure
+
+65
+00:05:05,220 --> 00:05:07,939
+But not my failure. He didn't arrive
+
+66
+00:05:15,859 --> 00:05:16,769
+Don't move
+
+67
+00:05:22,219 --> 00:05:24,574
+Mr. Limbani, sorry to interrupt your nap
+
+68
+00:05:24,739 --> 00:05:29,051
+We are going to divert the plane. An old
+friend of yours is waiting for you
+
+69
+00:05:29,219 --> 00:05:30,777
+Just sit quietly
+
+70
+00:05:32,459 --> 00:05:33,892
+That was two years ago
+
+71
+00:05:34,099 --> 00:05:37,296
+I've got your autograph Sir Edward. Why?
+
+72
+00:05:39,739 --> 00:05:41,616
+- Copper.
+- Copper?
+
+73
+00:05:43,339 --> 00:05:47,491
+Now let's see if I can put all of the
+pieces together
+
+74
+00:05:48,219 --> 00:05:50,255
+just for the exercise
+
+75
+00:05:50,819 --> 00:05:53,891
+General Ndofa was the most corrupt
+dictator in Africa,
+
+76
+00:05:54,059 --> 00:05:56,015
+deposing Limbani as head of state
+
+77
+00:05:56,539 --> 00:05:57,938
+Do you mind if I cut through all of this?
+
+78
+00:05:58,339 --> 00:05:59,374
+Uganda agreed
+
+79
+00:05:59,579 --> 00:06:01,570
+to hold Limbani for them
+
+80
+00:06:01,779 --> 00:06:03,849
+then they refused to give him back
+
+81
+00:06:04,019 --> 00:06:07,853
+They announced that he died of a heart
+attack, then they set him free
+
+82
+00:06:08,259 --> 00:06:09,293
+The dogs
+
+83
+00:06:09,458 --> 00:06:13,736
+Ndofa can't stand the chance of Limbani
+reincarnated taking over his country
+
+84
+00:06:13,938 --> 00:06:17,248
+So he's offered some of our copper
+concessions
+
+85
+00:06:17,418 --> 00:06:20,535
+in return for the secret delivery
+of Limbani into his hands
+
+86
+00:06:20,938 --> 00:06:24,294
+And you want me to intercept him
+and deliver him to you
+
+87
+00:06:24,458 --> 00:06:25,288
+Correct
+
+88
+00:06:26,258 --> 00:06:27,213
+Where do I find him?
+
+89
+00:06:27,738 --> 00:06:31,651
+He'll be moved across the border and
+taken to an army barracks at Zembala
+
+90
+00:06:31,818 --> 00:06:33,809
+Now Ndofa leaves Gurundi the same day
+
+91
+00:06:33,978 --> 00:06:37,050
+and personally execute Limbani and
+scatter his ashes
+
+92
+00:06:37,938 --> 00:06:39,132
+Any questions?
+
+93
+00:06:40,698 --> 00:06:42,256
+For the moment, just two
+
+94
+00:06:42,858 --> 00:06:47,534
+First when can we confirm the exact
+date of arrival of Limbani at Zembala?
+
+95
+00:06:47,698 --> 00:06:48,494
+7 days in advance
+
+96
+00:06:48,698 --> 00:06:50,256
+- guaranteed
+- Good
+
+97
+00:06:50,418 --> 00:06:52,613
+And two, can you hold General Ndofa in
+Gurundi
+
+98
+00:06:52,818 --> 00:06:54,968
+while I'm grabbing Limbani?
+
+99
+00:06:55,498 --> 00:06:56,692
+That can be done
+
+100
+00:06:57,698 --> 00:07:00,451
+Excellent. That's all for now
+
+101
+00:07:00,618 --> 00:07:02,290
+Don't you wish to discuss
+
+102
+00:07:02,498 --> 00:07:03,408
+your fees and expenses?
+
+103
+00:07:04,298 --> 00:07:06,970
+Well first of all I have to determine
+if the project is feasible
+
+104
+00:07:07,137 --> 00:07:08,934
+If it is, I'll send you my account
+
+105
+00:07:09,137 --> 00:07:10,206
+I don't discuss fees, I get what I want
+
+106
+00:07:10,417 --> 00:07:12,328
+I realize you get paid for
+risking your life
+
+107
+00:07:12,497 --> 00:07:16,206
+I do hope it's not going to be
+too valuable. Goodbye Faulkner
+
+108
+00:07:16,377 --> 00:07:19,494
+We shan't be seeing each other again,
+it's been a great pleasure
+
+109
+00:07:26,337 --> 00:07:27,326
+Here we are
+
+110
+00:07:27,857 --> 00:07:28,846
+Here?
+
+111
+00:07:31,137 --> 00:07:32,092
+This is it?
+
+112
+00:07:32,257 --> 00:07:34,713
+You're too well known to stay
+in a first class hotel
+
+113
+00:07:34,714 --> 00:07:36,569
+Now in here is a passport,
+driving license
+
+114
+00:07:36,737 --> 00:07:40,127
+all the usual papers and a 'phone number
+where I can always be reached
+
+115
+00:07:40,297 --> 00:07:42,208
+You're to deal directly with me
+
+116
+00:07:42,377 --> 00:07:44,686
+It's my job to provide you with
+everything you need
+
+117
+00:07:44,857 --> 00:07:46,256
+I've got some jobs for you immediately
+
+118
+00:07:46,457 --> 00:07:48,527
+I want a detailed map of the area around
+Zembala,
+
+119
+00:07:48,737 --> 00:07:50,932
+a scale model of the barracks
+
+120
+00:07:51,137 --> 00:07:52,934
+plus all the details you can get
+me on the garrison strength
+
+121
+00:07:54,177 --> 00:07:55,895
+- It will be delivered by hand.
+- Good
+
+122
+00:07:56,097 --> 00:07:57,410
+Now I want you to find me two men
+
+123
+00:07:57,411 --> 00:08:00,648
+First Rafer Janders. If he's
+alive, he's here in London
+
+124
+00:08:01,497 --> 00:08:03,566
+Rafer Janders...
+
+125
+00:08:03,736 --> 00:08:05,454
+Fair-haired, cigarette-holder,
+wears glasses?
+
+126
+00:08:05,656 --> 00:08:08,170
+That's the man. This is going to be a
+tough assignment
+
+127
+00:08:08,336 --> 00:08:09,815
+No Rafer Janders, no contract
+
+128
+00:08:10,656 --> 00:08:12,965
+I'll call you about him within an hour.
+And the other one?
+
+129
+00:08:13,176 --> 00:08:14,086
+Shawn Fynn
+
+130
+00:08:14,296 --> 00:08:15,729
+Very good looking
+
+131
+00:08:15,896 --> 00:08:18,205
+I know the name Shawn Fynn
+
+132
+00:08:18,856 --> 00:08:20,084
+I'll do my best but he's a problem
+
+133
+00:08:20,496 --> 00:08:22,061
+Find him - same goes for him
+
+134
+00:08:22,062 --> 00:08:23,966
+No Shawn - no deal
+
+135
+00:09:15,135 --> 00:09:16,124
+Sit down
+
+136
+00:09:26,015 --> 00:09:27,084
+Randy, you don't come in here!
+
+137
+00:09:27,775 --> 00:09:29,766
+We got a problem, Mr. Martinelli
+
+138
+00:09:33,415 --> 00:09:35,326
+I'm really sorry
+
+139
+00:09:37,135 --> 00:09:38,250
+Go
+
+140
+00:09:38,455 --> 00:09:40,286
+Go on. Go on. I'll be out in a minute
+
+141
+00:09:41,055 --> 00:09:42,454
+Close the door
+
+142
+00:09:44,255 --> 00:09:47,292
+So? Go ahead. What is it?
+
+143
+00:09:47,975 --> 00:09:49,727
+You should've told me I was carrying
+heroin
+
+144
+00:09:50,455 --> 00:09:51,968
+I said: "No drugs"
+
+145
+00:09:52,135 --> 00:09:54,171
+What did you think the delivery was for?
+Hershey bars?
+
+146
+00:09:55,894 --> 00:09:57,452
+I thought it was cash?
+
+147
+00:09:58,214 --> 00:10:01,092
+I don't push drugs, ever.
+It's against my religion
+
+148
+00:10:01,294 --> 00:10:03,410
+You're telling me what you do
+or don't do for me?
+
+149
+00:10:04,934 --> 00:10:05,730
+More or less
+
+150
+00:10:07,533 --> 00:10:11,483
+Randy, break any two items
+you like on this man and throw him out
+
+151
+00:10:11,694 --> 00:10:12,843
+If I ever see your face again,
+
+152
+00:10:13,054 --> 00:10:14,612
+you're dead
+
+153
+00:10:16,534 --> 00:10:19,287
+Put your hands on your head.
+You, move over with him!
+
+154
+00:10:19,694 --> 00:10:20,524
+On your head
+
+155
+00:10:21,974 --> 00:10:24,852
+Shawn, take it easy,
+he's just a snot-nosed kid
+
+156
+00:10:25,014 --> 00:10:26,413
+His old man is something very special
+
+157
+00:10:26,614 --> 00:10:28,605
+- back in the States
+- Have you finished?
+
+158
+00:10:29,134 --> 00:10:30,089
+Here
+
+159
+00:10:32,734 --> 00:10:33,849
+Open it
+
+160
+00:10:34,854 --> 00:10:35,650
+Open it!
+
+161
+00:10:41,454 --> 00:10:44,969
+I poured all the envelopes into one bag,
+it's more convenient
+
+162
+00:10:46,494 --> 00:10:51,124
+Here I am just starting to work
+for you two "beauties"
+
+163
+00:10:51,294 --> 00:10:53,443
+And I make my first contact
+
+164
+00:10:54,133 --> 00:10:55,930
+It was a young girl
+
+165
+00:10:56,333 --> 00:10:58,563
+She was alone on a bed,
+
+166
+00:10:58,733 --> 00:10:59,882
+dying
+
+167
+00:11:00,573 --> 00:11:01,767
+And that's when I opened the package
+
+168
+00:11:02,853 --> 00:11:04,127
+You boys are pushing bad stuff
+
+169
+00:11:05,533 --> 00:11:08,923
+So what I'd like you to do is
+each eat half of it
+
+170
+00:11:09,533 --> 00:11:10,329
+You're crazy!
+
+171
+00:11:10,733 --> 00:11:13,486
+She was barely 19.
+Now on your knees and eat!
+
+172
+00:11:14,973 --> 00:11:15,689
+You too
+
+173
+00:11:24,773 --> 00:11:25,762
+Oh God Please...
+
+174
+00:11:26,373 --> 00:11:30,002
+I hope you've got a big appetite son.
+Because it's all yours
+
+175
+00:11:31,013 --> 00:11:32,002
+Please
+
+176
+00:11:32,733 --> 00:11:34,564
+Her words exactly
+
+177
+00:11:34,733 --> 00:11:35,722
+Now, eat it
+
+178
+00:11:36,333 --> 00:11:37,561
+Now do it!
+
+179
+00:11:43,573 --> 00:11:44,572
+All of it!
+
+180
+00:11:47,573 --> 00:11:48,483
+Pour it down
+
+181
+00:12:02,132 --> 00:12:04,692
+You look like you need a good
+stomach pump
+
+182
+00:12:05,132 --> 00:12:06,406
+That had strychnine in it
+
+183
+00:12:08,932 --> 00:12:12,561
+But still, a little suffering
+is good for the soul
+
+184
+00:12:14,292 --> 00:12:16,328
+You have another 20 minutes
+
+185
+00:12:16,492 --> 00:12:17,811
+Have fun
+
+186
+00:12:25,972 --> 00:12:27,963
+Corner of Riverdale and Hampstead
+
+187
+00:12:32,172 --> 00:12:35,562
+Emile, why don't we leave the
+dishes until later?
+
+188
+00:12:35,732 --> 00:12:36,721
+Great!
+
+189
+00:12:39,412 --> 00:12:41,004
+That was pretty good
+
+190
+00:12:41,172 --> 00:12:41,968
+What do you mean Emile?
+
+191
+00:12:42,172 --> 00:12:43,730
+That was one of the best meals
+I've ever cooked
+
+192
+00:12:43,932 --> 00:12:45,206
+Cold lobster?
+
+193
+00:12:45,411 --> 00:12:47,561
+I had to unwrap it didn't I? Come here
+
+194
+00:12:53,091 --> 00:12:55,480
+You promised me you would
+right after dinner
+
+195
+00:12:55,651 --> 00:12:56,766
+I haven't had my coffee yet
+
+196
+00:12:56,931 --> 00:12:58,444
+You don't drink coffee
+
+197
+00:12:58,611 --> 00:13:00,124
+That's true
+
+198
+00:13:00,291 --> 00:13:01,326
+Are you ready?
+
+199
+00:13:01,491 --> 00:13:02,970
+Sure? OK
+
+200
+00:13:03,451 --> 00:13:07,364
+- Now when do the school Xmas holidays
+start? - 12th December, you know that
+
+201
+00:13:07,531 --> 00:13:10,841
+- And when do you go back?
+- 9th January,
+
+202
+00:13:11,011 --> 00:13:12,330
+come on, Dad!
+
+203
+00:13:12,491 --> 00:13:14,288
+Now isn't that a fantastic coincidence!
+
+204
+00:13:14,931 --> 00:13:16,762
+You know, this isn't a bad little
+wine really
+
+205
+00:13:16,931 --> 00:13:19,650
+Why? Dad, please!
+
+206
+00:13:20,851 --> 00:13:23,240
+OK. This is how it goes
+
+207
+00:13:23,411 --> 00:13:27,086
+December 13th you, me and some suitcases,
+are jumping on board an airplane
+
+208
+00:13:27,291 --> 00:13:29,441
+- Where are we going?
+- Wait a minute
+
+209
+00:13:29,611 --> 00:13:31,806
+That same plane brings us back January 3rd
+
+210
+00:13:31,971 --> 00:13:33,006
+Skiing!
+
+211
+00:13:33,171 --> 00:13:34,570
+- You got it!
+- In Switzerland?
+
+212
+00:13:34,731 --> 00:13:35,720
+The very same!
+
+213
+00:13:35,891 --> 00:13:37,768
+Oh boy, that's fantastic!
+
+214
+00:13:37,931 --> 00:13:39,125
+Oh yes...
+
+215
+00:13:41,931 --> 00:13:42,885
+Just the two of us?
+
+216
+00:13:43,090 --> 00:13:45,888
+Who else? We'll be staying in a
+beautiful little inn
+
+217
+00:13:46,090 --> 00:13:48,046
+I'm so excited, I don't know what to do
+
+218
+00:13:48,250 --> 00:13:51,606
+Why don't you try screaming?
+The neighbors are deaf anyway
+
+219
+00:14:01,050 --> 00:14:03,086
+Oh! Not all of the neighbors are deaf
+
+220
+00:14:11,490 --> 00:14:12,479
+Allen!
+
+221
+00:14:14,610 --> 00:14:16,965
+Hey stop it, you're breaking my wallet
+
+222
+00:14:17,570 --> 00:14:18,639
+Come on in
+
+223
+00:14:20,410 --> 00:14:22,321
+- It's good to see you.
+- Good to see you too
+
+224
+00:14:22,490 --> 00:14:23,639
+What was all that screaming about?
+
+225
+00:14:23,810 --> 00:14:27,200
+Emile was expressing mild satisfaction.
+Emile, come here. This is Mr. Faulkner
+
+226
+00:14:27,370 --> 00:14:29,486
+- This is my son, Emile.
+- How are you?
+
+227
+00:14:29,690 --> 00:14:31,203
+Pleased to meet you, sir
+
+228
+00:14:31,490 --> 00:14:33,640
+A by-product of an expensive education
+
+229
+00:14:33,850 --> 00:14:35,442
+What a pity they don't export it
+
+230
+00:14:35,650 --> 00:14:37,083
+Excuse me, sir
+
+231
+00:14:39,049 --> 00:14:42,007
+- I hope to see you later, sir
+- So do I
+
+232
+00:14:43,809 --> 00:14:45,037
+What a pleasant child
+
+233
+00:14:45,209 --> 00:14:46,483
+I'll tell you about him later
+
+234
+00:14:46,649 --> 00:14:49,641
+Now pour me a drink,
+sit down, let's talk
+
+235
+00:14:50,289 --> 00:14:51,278
+It's been 9 years
+
+236
+00:14:52,129 --> 00:14:54,882
+Ten, in fact. Where did they all go?
+
+237
+00:14:55,449 --> 00:14:57,724
+We'll drink to something
+
+238
+00:14:57,929 --> 00:14:58,918
+Right?
+
+239
+00:14:59,489 --> 00:15:01,798
+Let's drink to...
+
+240
+00:15:02,009 --> 00:15:04,398
+the years that came before the 10
+
+241
+00:15:07,689 --> 00:15:09,281
+To the next ten weeks
+
+242
+00:15:10,209 --> 00:15:11,085
+What does that mean?
+
+243
+00:15:11,289 --> 00:15:13,166
+To you, Rafer, my old friend
+
+244
+00:15:13,729 --> 00:15:15,367
+OK. To me
+
+245
+00:15:21,449 --> 00:15:23,485
+- Disgusting
+- Yes, isn't it?
+
+246
+00:15:23,649 --> 00:15:27,039
+What do you mean, "the next 10 weeks"?
+
+247
+00:15:28,209 --> 00:15:29,881
+Come on, Rafer, let's talk
+
+248
+00:15:31,909 --> 00:15:34,582
+No, Allen I'm not available
+
+249
+00:15:34,889 --> 00:15:36,719
+I'm trying to go old and grey
+
+250
+00:15:36,928 --> 00:15:39,442
+I'm searching to see if I can
+find my God
+
+251
+00:15:39,608 --> 00:15:42,105
+I'm trying to learn
+how to appreciate life
+
+252
+00:15:42,106 --> 00:15:44,602
+And practice the art of inner peace
+
+253
+00:15:44,768 --> 00:15:47,282
+Now you believe all that
+is a crock of shit
+
+254
+00:15:47,888 --> 00:15:49,003
+- I do.
+- You're right
+
+255
+00:15:49,728 --> 00:15:52,879
+All except the "I'm not available".
+I'm not
+
+256
+00:15:54,488 --> 00:15:56,080
+Alright, I guess I can understand that
+
+257
+00:15:56,608 --> 00:15:58,087
+Well now, tell me, how did you find me?
+
+258
+00:15:58,248 --> 00:15:59,397
+I asked
+
+259
+00:16:00,208 --> 00:16:02,676
+Tell me, how's that 19 year old
+French beauty?
+
+260
+00:16:02,848 --> 00:16:06,124
+That 19 year old beauty is 29
+and she lives in Paris
+
+261
+00:16:06,528 --> 00:16:08,086
+- She left you?
+- Yes
+
+262
+00:16:08,288 --> 00:16:10,563
+She's Emile's mother She sees him
+once or twice a year
+
+263
+00:16:10,728 --> 00:16:12,320
+I haven't see her since he was two
+
+264
+00:16:12,488 --> 00:16:14,046
+He goes to boarding school in Kent
+
+265
+00:16:14,928 --> 00:16:17,761
+What would I do with him full-time?
+
+266
+00:16:17,928 --> 00:16:20,078
+I love him. He's a wonderful boy
+
+267
+00:16:20,248 --> 00:16:23,320
+Weekends and holidays are my greatest
+moments of my life
+
+268
+00:16:23,488 --> 00:16:26,719
+I'm taking him skiing for Christmas
+3 weeks, leaving December 13th
+
+269
+00:16:27,368 --> 00:16:30,440
+- December 13th...
+- I can't wait
+
+270
+00:16:30,648 --> 00:16:32,558
+Anyway, enough about me!
+
+271
+00:16:32,727 --> 00:16:34,046
+How's Jenny?
+
+272
+00:16:35,367 --> 00:16:36,595
+She died
+
+273
+00:16:36,807 --> 00:16:39,002
+- 3 years ago.
+- How?
+
+274
+00:16:39,207 --> 00:16:42,005
+Some kind of bone cancer,
+in a month she was dead
+
+275
+00:16:42,647 --> 00:16:44,683
+- I'm sorry.
+- So am I. She was a good woman
+
+276
+00:16:44,847 --> 00:16:47,839
+- She was great Allen...
+- The subject is closed
+
+277
+00:16:48,607 --> 00:16:49,801
+OK
+
+278
+00:16:49,967 --> 00:16:51,400
+What's done is done
+
+279
+00:16:51,887 --> 00:16:53,923
+Come on, tell me, how are the kids?
+
+280
+00:16:54,727 --> 00:16:57,525
+They're alright. Grown up
+
+281
+00:16:58,207 --> 00:17:00,004
+Don't see them much any more
+
+282
+00:17:00,727 --> 00:17:03,036
+I think they're not too happy with me
+
+283
+00:17:03,207 --> 00:17:04,481
+These are beautiful
+
+284
+00:17:05,047 --> 00:17:06,799
+Yes, they are, aren't they?
+
+285
+00:17:06,967 --> 00:17:09,606
+I buy them, sell them...
+I'm getting pretty good at it
+
+286
+00:17:09,767 --> 00:17:12,076
+They earn about 15,000 a year
+
+287
+00:17:14,727 --> 00:17:17,685
+- Julius Limbani is alive.
+- I don't care
+
+288
+00:17:17,887 --> 00:17:19,218
+Yes you do
+
+289
+00:17:19,219 --> 00:17:21,880
+If there's one African leader you
+do care about, it's Julius Limbani
+
+290
+00:17:22,087 --> 00:17:24,601
+Now I'm telling you, Allen I'm
+finished with all of that
+
+291
+00:17:24,767 --> 00:17:26,519
+I'm getting too old.
+By the way, so are you
+
+292
+00:17:28,527 --> 00:17:31,802
+You know, apart from your
+charming personality
+
+293
+00:17:31,966 --> 00:17:35,038
+and the fact that you're the
+finest planner I've ever known
+
+294
+00:17:35,206 --> 00:17:39,484
+What I've always admired about you,
+Rafer, is your idealism
+
+295
+00:17:39,646 --> 00:17:40,442
+Bollocks
+
+296
+00:17:40,646 --> 00:17:42,443
+The money wasn't important to you
+
+297
+00:17:42,606 --> 00:17:45,120
+It was the bad guys
+against the good guys
+
+298
+00:17:45,286 --> 00:17:47,038
+And you were never with the bad guys
+
+299
+00:17:47,206 --> 00:17:50,039
+Now me, I'd work for anybody,
+as long as they paid me
+
+300
+00:17:50,206 --> 00:17:52,322
+It's an ineradicable flaw in my life
+
+301
+00:17:53,126 --> 00:17:55,515
+And that's why you've always
+impressed me, Rafer, always
+
+302
+00:17:56,406 --> 00:17:58,203
+I'm glad to hear you say that
+
+303
+00:17:58,366 --> 00:18:00,482
+Do you know how many times
+I've been wrong?
+
+304
+00:18:00,646 --> 00:18:02,301
+Out there somewhere
+singing "Hallelujah!"
+
+305
+00:18:02,302 --> 00:18:03,956
+fighting and killing for
+some god-damn savior
+
+306
+00:18:04,126 --> 00:18:07,038
+who as soon as he's got in power
+gets to steal his own treasure?
+
+307
+00:18:07,206 --> 00:18:09,276
+I don't know who the
+good guys are any more
+
+308
+00:18:10,206 --> 00:18:11,639
+You know Limbani
+
+309
+00:18:12,486 --> 00:18:14,283
+You know he's the best there is
+
+310
+00:18:16,286 --> 00:18:21,155
+I have a contract to steal Limbani from
+General Ndofa
+
+311
+00:18:21,326 --> 00:18:23,476
+If I don't do it, he dies
+
+312
+00:18:23,646 --> 00:18:26,682
+If I do, well, perhaps he's running
+the country again
+
+313
+00:18:28,205 --> 00:18:29,320
+I need you, Rafer
+
+314
+00:18:29,485 --> 00:18:30,679
+The answer's still no
+
+315
+00:18:32,205 --> 00:18:36,596
+Now, we don't start training in
+Africa until January 15th
+
+316
+00:18:36,765 --> 00:18:38,960
+So I can spare you your holiday with
+your child
+
+317
+00:18:39,805 --> 00:18:42,399
+There's a very big pay-cheque, tax-free
+
+318
+00:18:44,045 --> 00:18:46,434
+It's really been great seeing you again,
+
+319
+00:18:47,925 --> 00:18:48,914
+don't spoil it
+
+320
+00:18:50,805 --> 00:18:51,601
+Alright
+
+321
+00:18:53,485 --> 00:18:54,713
+Can you do me a favor?
+
+322
+00:18:54,885 --> 00:18:56,034
+Alright
+
+323
+00:18:57,765 --> 00:19:00,233
+Show me... clear that stuff away
+
+324
+00:19:00,845 --> 00:19:03,837
+Show me how you'd get in and
+out of this place
+
+325
+00:19:15,365 --> 00:19:19,358
+Limbani will be here,
+somewhere in that barracks
+
+326
+00:19:28,684 --> 00:19:31,073
+- I've got Rafer Janders.
+- Good
+
+327
+00:19:31,724 --> 00:19:33,203
+You haven't got Shawn Fynn
+
+328
+00:19:34,284 --> 00:19:35,319
+What do you mean?
+
+329
+00:19:35,484 --> 00:19:38,681
+He's either dead by now, or he will be
+the second he shows his face in London
+
+330
+00:19:38,884 --> 00:19:40,237
+What happened?
+
+331
+00:19:40,404 --> 00:19:41,883
+It boils down...
+
+332
+00:19:42,044 --> 00:19:44,717
+He removed two of the family's
+men earlier this evening
+
+333
+00:19:44,884 --> 00:19:47,921
+one of whom happened to be
+the nephew of the local godfather
+
+334
+00:19:48,484 --> 00:19:52,716
+There's already a contract out on Fynn.
+The biggest London's ever seen
+
+335
+00:19:53,364 --> 00:19:55,400
+- Get it cancelled.
+- Impossible
+
+336
+00:19:56,004 --> 00:19:59,440
+Edward Matherson and his banks have more
+power than the Mafia
+
+337
+00:19:59,964 --> 00:20:01,602
+That's not even a question
+
+338
+00:20:02,164 --> 00:20:03,233
+You want Limbani?
+
+339
+00:20:03,444 --> 00:20:04,797
+Cancel the contract
+
+340
+00:20:05,204 --> 00:20:07,081
+What's so special about him?
+
+341
+00:20:07,244 --> 00:20:10,919
+This afternoon, he was a courier
+for a 25 year old hoodlum
+
+342
+00:20:11,324 --> 00:20:15,112
+If you'd ever seen him operate, you'd
+know what was so special about him
+
+343
+00:20:15,284 --> 00:20:17,400
+Also he can fly any plane
+you'd care to name
+
+344
+00:20:17,564 --> 00:20:19,519
+and he's my friend.
+I don't have too many left
+
+345
+00:20:20,123 --> 00:20:23,035
+He's no. 3 on this deal
+or there's no deal
+
+346
+00:20:23,243 --> 00:20:27,031
+It would be a real moral crisis
+for kindly Sir Edward
+
+347
+00:20:27,323 --> 00:20:28,961
+He would have to have
+me and Rafer killed
+
+348
+00:20:29,163 --> 00:20:30,562
+Don't you think?
+
+349
+00:20:30,763 --> 00:20:33,152
+You get the details of
+Shawn's last year over
+
+350
+00:20:33,323 --> 00:20:35,757
+to my unspeakable hotel
+as soon as you can
+
+351
+00:20:35,923 --> 00:20:37,038
+Rafer and I are going after him
+
+352
+00:20:37,243 --> 00:20:40,474
+Now wait a minute, this isn't your
+territory. You stay out
+
+353
+00:20:40,643 --> 00:20:42,554
+You're not even meant to be in
+this country, remember?
+
+354
+00:20:43,163 --> 00:20:45,199
+Ask for a doggy bag after
+you've paid the bill
+
+355
+00:20:45,363 --> 00:20:47,160
+I'll be waiting for you in my room
+
+356
+00:20:55,643 --> 00:20:56,439
+Number 23a
+
+357
+00:20:56,643 --> 00:20:57,792
+There it is
+
+358
+00:20:59,963 --> 00:21:01,032
+Keep driving, keep driving!
+
+359
+00:21:04,643 --> 00:21:06,474
+- How many is that?
+- Five
+
+360
+00:21:06,643 --> 00:21:09,237
+With a welcoming committee in each one.
+Boy, what efficiency
+
+361
+00:21:09,403 --> 00:21:11,473
+- How many are left?
+- Four
+
+362
+00:21:11,643 --> 00:21:12,712
+Good old Shawn!
+
+363
+00:21:12,883 --> 00:21:15,794
+Living with nine women in the same
+year... possibly at the same time
+
+364
+00:21:15,962 --> 00:21:19,716
+Quite a feat but not beyond him...
+Heather Courtney...
+
+365
+00:21:19,882 --> 00:21:21,873
+Baronet Club, Denby Road
+
+366
+00:21:22,362 --> 00:21:25,911
+No home address, probably sleeps on the
+craps tables. We can but try
+
+367
+00:21:30,962 --> 00:21:32,520
+You buy the chips here, Charlie
+
+368
+00:21:33,002 --> 00:21:34,037
+OK
+
+369
+00:21:34,202 --> 00:21:35,191
+In two stacks
+
+370
+00:21:39,042 --> 00:21:41,033
+Thank you very much
+
+371
+00:21:47,682 --> 00:21:50,799
+I'm going to get me some chips, and I'm
+going to break the bank
+
+372
+00:21:50,962 --> 00:21:52,190
+- Heather?
+- Black 20
+
+373
+00:21:52,362 --> 00:21:54,398
+Heather's at the first
+Blackjack table over there
+
+374
+00:21:54,562 --> 00:21:57,634
+Oh yes, I can see her now.
+How comes you're wearing her breasts?
+
+375
+00:21:57,802 --> 00:22:00,270
+- What did you say? - I said
+she's got Heather's chest!
+
+376
+00:22:03,122 --> 00:22:05,477
+Hey brother!
+How you doing is this table hot?
+
+377
+00:22:06,362 --> 00:22:07,715
+How are you?
+
+378
+00:22:11,522 --> 00:22:13,989
+Now you just tell me how much
+you got there in genuine money?
+
+379
+00:22:14,161 --> 00:22:15,674
+What's the limit?
+
+380
+00:22:16,401 --> 00:22:18,869
+- Twenty.
+- Then give us some, Heather, baby!
+
+381
+00:22:19,081 --> 00:22:20,963
+If you don't behave you'll have to leave
+
+382
+00:22:21,471 --> 00:22:23,100
+<i>OOOOOOOOH!</i>
+
+383
+00:22:23,561 --> 00:22:25,438
+How do you know my name?
+
+384
+00:22:25,641 --> 00:22:27,040
+How do we know your name, little Heather?
+
+385
+00:22:27,201 --> 00:22:29,351
+Don't stop, keep dealing and
+listen very carefully
+
+386
+00:22:29,561 --> 00:22:31,392
+We need your help
+
+387
+00:22:32,121 --> 00:22:33,600
+Where's Shawn Fynn?
+
+388
+00:22:34,321 --> 00:22:36,551
+Who? I don't know any Shawn Fynn
+
+389
+00:22:36,721 --> 00:22:37,870
+Yes, you do
+
+390
+00:22:38,361 --> 00:22:39,714
+Hey, I got a genuine Blackjack!
+
+391
+00:22:39,881 --> 00:22:41,997
+I got a genuine Blackjack,
+hotter than a fox!
+
+392
+00:22:42,201 --> 00:22:44,840
+He's in great trouble,
+if you know where he is, tell us
+
+393
+00:22:45,001 --> 00:22:47,959
+The Mafia have a contract out on him, if
+they get him before us, they'll kill him
+
+394
+00:22:49,601 --> 00:22:50,829
+We're down to the last minute
+
+395
+00:22:51,401 --> 00:22:52,390
+We are his close friends
+
+396
+00:22:52,601 --> 00:22:56,150
+Check with him and tell him that Rafer
+Janders and Allen Faulkner are here
+
+397
+00:22:56,321 --> 00:23:00,030
+Describe us, and be sure,
+and do it now or he's a dead man
+
+398
+00:23:02,361 --> 00:23:05,637
+OK, I believe you.
+He's right here in this building
+
+399
+00:23:05,801 --> 00:23:07,598
+Behind the men's loo, there's a stairway
+
+400
+00:23:07,761 --> 00:23:10,479
+Top floor, first room on the left
+
+401
+00:23:19,800 --> 00:23:21,279
+Shawn, it's Allen
+
+402
+00:23:29,880 --> 00:23:33,156
+Not even a hearty hand-shake
+or a "Shawn, my boy
+
+403
+00:23:33,360 --> 00:23:34,952
+how are you?"
+- Clown
+
+404
+00:23:35,160 --> 00:23:37,754
+"Clown"? At least that's a start
+
+405
+00:23:37,920 --> 00:23:39,797
+Do you mind telling me
+what you're doing here, thank God?
+
+406
+00:23:40,280 --> 00:23:43,078
+If we live, I'll tell you why. Idiot
+
+407
+00:23:43,280 --> 00:23:45,999
+Clown and idiot... you always were a
+flatterer
+
+408
+00:23:46,560 --> 00:23:47,743
+You never change, do you Shawn?
+
+409
+00:23:47,744 --> 00:23:50,109
+A whole army out there and
+you're still making jokes
+
+410
+00:23:50,280 --> 00:23:52,714
+- Let's get out of here.
+- Now you're making jokes. Where to?
+
+411
+00:23:52,880 --> 00:23:53,676
+Don't worry
+
+412
+00:23:55,720 --> 00:23:56,596
+Allen, open up
+
+413
+00:23:58,480 --> 00:24:00,118
+A car just pulled up at the back door
+
+414
+00:24:01,880 --> 00:24:04,155
+- Rafer, what are you doing here?
+- Cycling a bike!
+
+415
+00:24:05,040 --> 00:24:07,792
+- Maniac.
+- Everybody's calling me names
+
+416
+00:24:08,879 --> 00:24:12,110
+Another car in front.
+We'd better do a little praying
+
+417
+00:24:12,279 --> 00:24:15,828
+- Somebody's trying to lift this
+contract. - What contract?
+
+418
+00:24:16,759 --> 00:24:20,149
+- Who? Would somebody tell me what's
+going on? - Rafer, what you carrying?
+
+419
+00:24:21,759 --> 00:24:23,477
+This... and this
+
+420
+00:24:23,679 --> 00:24:25,271
+Sort of balances me up
+
+421
+00:24:47,319 --> 00:24:51,517
+Mr. Martin, I do appreciate you coming at
+such short notice
+
+422
+00:24:51,679 --> 00:24:55,592
+It's 4 o'clock in the morning, I should
+imagine you would
+
+423
+00:24:55,759 --> 00:24:58,956
+And I want to get home to bed
+and go to sleep
+
+424
+00:24:59,119 --> 00:25:00,711
+What do you want?
+
+425
+00:25:00,879 --> 00:25:03,631
+I want you to lift
+the contract on Shawn Fynn
+
+426
+00:25:04,198 --> 00:25:05,677
+He killed my brother's son
+
+427
+00:25:06,078 --> 00:25:08,672
+From what I've learned, your brother's
+better off without that son
+
+428
+00:25:08,878 --> 00:25:12,188
+You tell him that. He's grieving
+
+429
+00:25:12,398 --> 00:25:14,354
+He'll get over it.
+Let's get down to facts
+
+430
+00:25:14,558 --> 00:25:18,471
+Now, I control a number of newspapers
+
+431
+00:25:18,638 --> 00:25:22,233
+I guarantee you, the day
+after Shawn Fynn dies,
+
+432
+00:25:22,398 --> 00:25:25,947
+you and your family will be
+amongst the most written-about
+
+433
+00:25:26,158 --> 00:25:27,955
+and photographed men in England
+
+434
+00:25:41,558 --> 00:25:42,354
+Wrong room
+
+435
+00:25:55,638 --> 00:25:56,593
+Frankie!
+
+436
+00:25:59,117 --> 00:26:00,755
+Get out, the contract's lifted
+
+437
+00:26:01,517 --> 00:26:02,506
+I'll be damned!
+
+438
+00:26:08,997 --> 00:26:10,749
+These gents should've waited 3 minutes
+
+439
+00:26:10,957 --> 00:26:12,868
+Let's get out of here,
+before the police arrive
+
+440
+00:26:13,037 --> 00:26:14,311
+You're right
+
+441
+00:26:22,437 --> 00:26:25,713
+- Very gentle, the circles you move in.
+- Heather, I'm sorry
+
+442
+00:26:27,117 --> 00:26:29,153
+She's the one who
+told them the wrong room
+
+443
+00:26:29,357 --> 00:26:31,712
+Get a doctor
+
+444
+00:26:31,917 --> 00:26:33,635
+You know nothing, right?
+
+445
+00:26:33,797 --> 00:26:35,515
+I will pay you back, I swear
+
+446
+00:26:35,677 --> 00:26:36,792
+You run along, love
+
+447
+00:26:36,957 --> 00:26:41,155
+It was a pleasure helping you out, if I
+still have my teeth
+
+448
+00:26:41,557 --> 00:26:43,513
+Thanks. Well thank her, you clowns
+
+449
+00:26:44,237 --> 00:26:47,149
+- Thanks, you're a good girl.
+- Kiss her and come on
+
+450
+00:26:54,717 --> 00:26:56,513
+Isn't he a love?
+
+451
+00:27:02,276 --> 00:27:05,712
+I don't wish to appear rude, Thomas,
+but exactly who the devil is he?
+
+452
+00:27:05,876 --> 00:27:07,832
+Let's just say he's a military adviser
+
+453
+00:27:07,996 --> 00:27:08,951
+Where's he from?
+
+454
+00:27:09,116 --> 00:27:12,631
+A government dept. who has as much
+interest in Limbani as we...
+
+455
+00:27:12,796 --> 00:27:15,026
+- Which dept.?
+- And that is all you get to know
+
+456
+00:27:15,196 --> 00:27:17,426
+Now he's going to say "yea"
+or "nay" to your plan
+
+457
+00:27:17,596 --> 00:27:20,394
+His decision is final, so you
+might as well start your briefing
+
+458
+00:27:20,556 --> 00:27:23,389
+There's no need to be hostile,
+Colonel Faulkner
+
+459
+00:27:23,556 --> 00:27:24,955
+We'd very much like this to succeed
+
+460
+00:27:25,356 --> 00:27:26,914
+So do we Rafer...
+
+461
+00:27:27,796 --> 00:27:29,707
+Alright, from the top... we use 50 men
+
+462
+00:27:29,876 --> 00:27:32,549
+4 officers, 4 NCO's, 40 enlisted men,
+1 medic
+
+463
+00:27:32,716 --> 00:27:35,355
+and one sergeant major who'll be in
+charge of training and discipline
+
+464
+00:27:35,556 --> 00:27:36,955
+Who's the fourth officer?
+
+465
+00:27:37,516 --> 00:27:40,314
+- Mr. Fynn has someone in mind
+Pieter... - Coetzee
+
+466
+00:27:40,516 --> 00:27:42,188
+He's a South African
+
+467
+00:27:42,356 --> 00:27:45,348
+He served on border security
+and knows the bush as good as anyone
+
+468
+00:27:46,076 --> 00:27:47,145
+He'll be good, I can guarantee it
+
+469
+00:27:47,356 --> 00:27:49,267
+And we're interviewing him
+when you proceed to sign
+
+470
+00:27:49,876 --> 00:27:51,275
+We'll recruit in London,
+
+471
+00:27:51,476 --> 00:27:54,194
+group and train in Swaziland.
+I assume you can arrange that
+
+472
+00:27:55,515 --> 00:27:57,267
+We fly from Swaziland here
+
+473
+00:27:57,435 --> 00:28:00,825
+and we drop from a Hercules cargo 'plane
+that's on a scheduled flight to Rwanda
+
+474
+00:28:01,035 --> 00:28:02,354
+You're going to parachute in?
+
+475
+00:28:03,875 --> 00:28:06,264
+No, we will be free-falling
+from 25,000 feet
+
+476
+00:28:06,875 --> 00:28:07,990
+You'll be using oxygen?
+
+477
+00:28:08,195 --> 00:28:09,423
+Could you allow him to pause?
+
+478
+00:28:10,955 --> 00:28:11,751
+Thanks, Allen
+
+479
+00:28:12,275 --> 00:28:13,352
+Oxygen, no
+
+480
+00:28:13,353 --> 00:28:15,506
+The cabin will be pressurized and then
+de-pressurized 3 minutes before the jump
+
+481
+00:28:16,835 --> 00:28:20,191
+Parachutes open at 1,500ft. They
+won't hear the plane or see us land
+
+482
+00:28:20,355 --> 00:28:22,869
+The plane will continue, re-fuel, come back,
+pick us up
+
+483
+00:28:23,035 --> 00:28:26,027
+We'll be on the ground
+for exactly 3 hours
+
+484
+00:28:27,235 --> 00:28:28,748
+You're doing beautifully, continue
+
+485
+00:28:31,275 --> 00:28:35,951
+There's a plateau, here, 7 miles from
+Zembala, here
+
+486
+00:28:36,155 --> 00:28:39,306
+We drop and split into two groups.
+The first group,
+
+487
+00:28:39,515 --> 00:28:41,312
+led by Allen, will take the barracks,
+
+488
+00:28:41,515 --> 00:28:44,427
+which will be 4 miles from the drop zone
+here. The second group,
+
+489
+00:28:44,635 --> 00:28:45,863
+led by Shawn,
+
+490
+00:28:46,075 --> 00:28:48,713
+will take the airport here,
+which is 3 miles from the barracks
+
+491
+00:28:48,874 --> 00:28:52,230
+The first group will take Limbani out
+and go to the airport
+
+492
+00:28:52,394 --> 00:28:54,231
+With proper timing, the plane should
+
+493
+00:28:54,232 --> 00:28:56,069
+land 10-15 minutes
+later, and pick us up
+
+494
+00:28:57,314 --> 00:28:58,986
+And your plan of the barracks?
+
+495
+00:29:02,434 --> 00:29:06,712
+These barracks were designed to hold 200
+men, if my information is correct
+
+496
+00:29:06,914 --> 00:29:08,393
+It is, I corroborate
+
+497
+00:29:08,554 --> 00:29:12,342
+25 of you are going to take Limbani
+out from 200 men, how?
+
+498
+00:29:12,874 --> 00:29:15,672
+While they're asleep.
+We'll dispose of the guards,
+
+499
+00:29:15,874 --> 00:29:17,227
+here... here... here
+
+500
+00:29:17,394 --> 00:29:20,113
+Cut the wires, enter here, proceed
+to the barracks here, here and here
+
+501
+00:29:20,314 --> 00:29:24,023
+With gas masks + cyanide gas canisters,
+they really won't know what hit them
+
+502
+00:29:24,794 --> 00:29:27,308
+My God, you mean to say that
+you intend to kill them all
+
+503
+00:29:27,474 --> 00:29:28,748
+Can you think of a better way?
+
+504
+00:29:29,874 --> 00:29:31,193
+The UN will go mad
+
+505
+00:29:31,594 --> 00:29:33,471
+Not if we get Limbani out
+
+506
+00:29:33,634 --> 00:29:35,257
+General Ndofa won't say a word,
+
+507
+00:29:35,258 --> 00:29:37,149
+otherwise he'll have too
+much explaining to do
+
+508
+00:29:37,354 --> 00:29:40,869
+to his own people.
+You see he's told them that Limbani is dead
+
+509
+00:29:41,074 --> 00:29:43,383
+And our objective is to get Limbani out
+
+510
+00:29:43,594 --> 00:29:44,947
+Quite right
+
+511
+00:29:46,713 --> 00:29:47,987
+Your plan is approved, gentlemen
+
+512
+00:29:49,793 --> 00:29:51,272
+- Well done, Rafer
+- Thank you
+
+513
+00:29:53,713 --> 00:29:56,946
+Oh, there's one small change.
+We received some updated info this morning
+
+514
+00:29:56,947 --> 00:29:59,455
+The operation's been moved
+forward 3 weeks
+
+515
+00:30:01,673 --> 00:30:03,231
+I assume you can handle that
+
+516
+00:30:06,233 --> 00:30:07,791
+Excellent. Goodbye gentlemen
+
+517
+00:30:10,833 --> 00:30:13,142
+If his back was any straighter his spine
+would snap
+
+518
+00:30:15,433 --> 00:30:17,344
+Here's the signed contract
+
+519
+00:30:17,513 --> 00:30:18,662
+Read it
+
+520
+00:30:20,353 --> 00:30:24,665
+"Open-ended check-in account on a Swiss
+bank. All expenses for weapons,
+
+521
+00:30:24,873 --> 00:30:26,591
+and equipment etc. to be itemized
+
+522
+00:30:27,513 --> 00:30:30,983
+One third of all wages
+to be paid in advance
+
+523
+00:30:31,153 --> 00:30:32,552
+Fair enough
+
+524
+00:30:33,833 --> 00:30:36,631
+£100,000 for you?
+
+525
+00:30:37,393 --> 00:30:39,190
+£50,000 for Janders
+
+526
+00:30:39,353 --> 00:30:41,150
+£30,000 for each of the other officers
+
+527
+00:30:41,553 --> 00:30:44,430
+20,000 for NCO's and the RSM
+
+528
+00:30:44,632 --> 00:30:47,146
+£10,000 for the enlisted men
+
+529
+00:30:47,632 --> 00:30:50,100
+And one half of all amounts
+if the mission fails
+
+530
+00:30:50,272 --> 00:30:51,671
+That's absolutely outrageous!
+
+531
+00:30:51,832 --> 00:30:53,550
+My sentiments exactly
+
+532
+00:30:53,712 --> 00:30:56,101
+Sign here
+
+533
+00:30:59,992 --> 00:31:00,981
+And here
+
+534
+00:31:03,112 --> 00:31:06,229
+Here's your copy.
+You can go and scream in the corridor
+
+535
+00:31:06,392 --> 00:31:07,950
+Shawn, would you be good enough
+to show Mr. Balfour out?
+
+536
+00:31:08,472 --> 00:31:09,382
+Yes of course
+
+537
+00:31:19,472 --> 00:31:21,747
+- I had no idea.
+- I know
+
+538
+00:31:22,272 --> 00:31:23,546
+There'll be other holidays
+
+539
+00:31:28,192 --> 00:31:31,309
+Allen, I'd like your approval
+on this equipment request
+
+540
+00:31:34,792 --> 00:31:38,023
+Excuse me, would you know
+of someone called Sandy Young?
+
+541
+00:31:40,031 --> 00:31:41,430
+Colonel Faulkner, sir!
+
+542
+00:31:42,991 --> 00:31:43,946
+How are you, Sandy?
+
+543
+00:31:44,471 --> 00:31:45,824
+Couldn't be better, sir! Yourself?
+
+544
+00:31:46,031 --> 00:31:47,066
+Not bad
+
+545
+00:31:47,271 --> 00:31:49,944
+I can't say what a pleasure
+it is to see you sir
+
+546
+00:31:50,391 --> 00:31:52,586
+It brings back memories
+I never thought I'd hidden
+
+547
+00:31:52,791 --> 00:31:54,702
+Let me invite you in, sir
+
+548
+00:31:54,871 --> 00:31:56,748
+- Is your wife at home?
+- Yes, she'll be delighted
+
+549
+00:31:56,951 --> 00:32:00,102
+I don't think so.
+I think we'd better talk out here
+
+550
+00:32:01,031 --> 00:32:03,022
+How's your retirement?
+
+551
+00:32:03,751 --> 00:32:04,979
+It has its points, sir
+
+552
+00:32:05,151 --> 00:32:06,300
+Such as?
+
+553
+00:32:08,031 --> 00:32:12,070
+The fucking rose bushes are whipping
+into shape sir, and that's about it
+
+554
+00:32:13,191 --> 00:32:14,226
+How do you fancy
+
+555
+00:32:14,431 --> 00:32:16,865
+whipping 50 men into shape for me?
+- You're serious?
+
+556
+00:32:17,071 --> 00:32:21,030
+I need a sergeant-major
+and you're the best
+
+557
+00:32:22,271 --> 00:32:24,660
+- I'm not too old?
+- What do you think?
+
+558
+00:32:24,831 --> 00:32:26,901
+Sir, where do I report and when?
+
+559
+00:32:27,111 --> 00:32:28,988
+- Tea's ready
+- Look who's here, love
+
+560
+00:32:29,191 --> 00:32:30,306
+Good afternoon
+
+561
+00:32:30,511 --> 00:32:31,910
+Yes, I see
+
+562
+00:32:32,551 --> 00:32:34,382
+I hoped I'd never see him again
+
+563
+00:32:34,551 --> 00:32:36,347
+That's no way to treat an
+old friend, Marjorie
+
+564
+00:32:36,510 --> 00:32:37,625
+He's not my friend
+
+565
+00:32:38,110 --> 00:32:39,623
+Tea's on the table
+
+566
+00:32:39,790 --> 00:32:41,826
+You're not welcome here, Mr. Faulkner
+
+567
+00:32:43,310 --> 00:32:44,265
+My apologies, sir
+
+568
+00:32:44,670 --> 00:32:45,819
+I understand
+
+569
+00:32:47,190 --> 00:32:48,259
+She'll be crying now, won't she?
+
+570
+00:32:48,750 --> 00:32:52,629
+A good deal of it, but
+she'll get over it. She's a lovely girl
+
+571
+00:32:52,830 --> 00:32:54,388
+Yes, she is
+
+572
+00:32:54,790 --> 00:32:57,020
+Well, you go in...
+
+573
+00:32:57,790 --> 00:32:59,940
+and call me at this number tonight
+
+574
+00:33:01,270 --> 00:33:02,669
+- Sandy.
+- Sir
+
+575
+00:33:08,310 --> 00:33:09,299
+Excuse me
+
+576
+00:33:11,430 --> 00:33:12,704
+Can I get you another one?
+
+577
+00:33:15,494 --> 00:33:17,224
+- Shawn...
+- Shawn Fynn
+
+578
+00:33:17,350 --> 00:33:18,339
+How's it going, Pieter?
+
+579
+00:33:18,550 --> 00:33:21,701
+That's a good question
+if you have a few hours
+
+580
+00:33:21,870 --> 00:33:24,065
+- What are you doing round here?
+- Looking for you
+
+581
+00:33:24,230 --> 00:33:25,026
+Yes sir?
+
+582
+00:33:25,710 --> 00:33:26,859
+2 of these please
+
+583
+00:33:27,470 --> 00:33:28,949
+How did you find me?
+
+584
+00:33:29,110 --> 00:33:30,589
+Your landlady
+
+585
+00:33:30,750 --> 00:33:35,186
+By the way, she asked me to tell you
+should pack and get out by the morning
+
+586
+00:33:35,349 --> 00:33:37,909
+Rent? That's a joke
+
+587
+00:33:38,709 --> 00:33:41,781
+I haven't even got the money
+to buy you one back
+
+588
+00:33:43,189 --> 00:33:45,578
+Why would you be looking for me?
+
+589
+00:33:46,309 --> 00:33:49,506
+I might have a job for you
+
+590
+00:33:49,669 --> 00:33:51,660
+Thanks, I've been in jail once,
+I didn't like it
+
+591
+00:33:52,189 --> 00:33:54,020
+Thank you
+
+592
+00:33:55,109 --> 00:33:58,181
+I now have to prove to you that crime is
+only a hobby of mine
+
+593
+00:33:58,349 --> 00:34:01,022
+- It's not that kind of job.
+- No?
+
+594
+00:34:01,789 --> 00:34:05,941
+All I want out of life right now
+is to get back to South Africa
+
+595
+00:34:06,109 --> 00:34:08,179
+I don't know why I came here
+in the first place
+
+596
+00:34:08,389 --> 00:34:10,823
+One more week and I'll explode
+
+597
+00:34:12,869 --> 00:34:15,542
+It's funny you should
+talk about explosives
+
+598
+00:34:15,709 --> 00:34:18,348
+Because explosives could very
+we’ll be a part of this job
+
+599
+00:34:18,989 --> 00:34:19,785
+What does that mean?
+
+600
+00:34:20,429 --> 00:34:21,987
+It's also in Africa
+
+601
+00:34:23,429 --> 00:34:24,987
+You must be joking
+
+602
+00:34:25,589 --> 00:34:26,385
+You're serious?
+
+603
+00:34:27,349 --> 00:34:30,579
+£30,000 how's that for serious
+
+604
+00:34:33,788 --> 00:34:35,506
+- Right, Tosh.
+- Sir
+
+605
+00:34:37,908 --> 00:34:38,704
+Come in
+
+606
+00:34:43,108 --> 00:34:47,738
+State clearly your name, age, previous
+military experience and rank
+
+607
+00:34:48,148 --> 00:34:51,345
+Donaldson, sir. Born 1932.
+12 years with the paras,
+
+608
+00:34:51,508 --> 00:34:53,578
+3 tours with you. Rank of Sergeant, sir
+
+609
+00:34:54,828 --> 00:34:57,820
+- How have the years treated you?
+- Not so good, sir
+
+610
+00:34:57,988 --> 00:34:59,899
+I'm a plumber now, it's not my line
+
+611
+00:35:00,068 --> 00:35:01,183
+- Married?
+- Yes sir
+
+612
+00:35:01,388 --> 00:35:04,858
+- Your wife know you're here?
+- No sir, she'd do her nut
+
+613
+00:35:05,028 --> 00:35:07,701
+If I'm accepted, sir,
+I'll leave her a note
+
+614
+00:35:09,668 --> 00:35:11,226
+Sir, you won't regret it
+
+615
+00:35:11,748 --> 00:35:13,784
+I'm as good a man as I was at 20, sir
+
+616
+00:35:14,988 --> 00:35:15,977
+Why do you want to come with us?
+
+617
+00:35:17,588 --> 00:35:19,783
+It's what I do best, sir
+
+618
+00:35:19,948 --> 00:35:21,097
+I love it
+
+619
+00:35:22,868 --> 00:35:25,176
+Blake, Jesse, Colonel Faulkner, sir
+
+620
+00:35:25,347 --> 00:35:28,862
+Age: within the acceptable range.
+Experience: you name it, I've had it
+
+621
+00:35:29,347 --> 00:35:30,939
+Financial status: wipe-out
+
+622
+00:35:31,147 --> 00:35:32,546
+Cannot afford a haircut, sir
+
+623
+00:35:32,747 --> 00:35:34,624
+Jesse, I'm glad you got my wire
+
+624
+00:35:34,787 --> 00:35:36,106
+So am I, sir... it was my breakfast
+
+625
+00:35:37,347 --> 00:35:39,463
+How do you feel about working in Africa?
+
+626
+00:35:39,464 --> 00:35:41,579
+- I don't care where it
+is, sir, except Switzerland
+
+627
+00:35:41,747 --> 00:35:45,663
+Neatness scares the shit out of me.
+And since I see Mr. Janders sitting there
+
+628
+00:35:45,664 --> 00:35:48,696
+I know we're not going up against
+any sweet and kindly group
+
+629
+00:35:48,867 --> 00:35:49,663
+Thank you
+
+630
+00:35:49,867 --> 00:35:52,939
+So I'm ready, available and hungry
+
+631
+00:35:53,107 --> 00:35:53,903
+You're hired
+
+632
+00:35:54,787 --> 00:35:59,067
+Colonel, you've made my day. Would it be
+possible for you to advance me £20?
+
+633
+00:35:59,189 --> 00:36:00,582
+The man has hunger
+
+634
+00:36:00,987 --> 00:36:03,262
+I have this lady barber who
+charges by the inch, sir
+
+635
+00:36:07,187 --> 00:36:09,303
+McTaggart, aged 42, sir
+
+636
+00:36:09,507 --> 00:36:11,657
+12 years in the Black Watch,
+rank of Sergeant
+
+637
+00:36:11,867 --> 00:36:15,542
+Undefeated regimental middleweight
+champion 6 years running, sir
+
+638
+00:36:15,707 --> 00:36:16,696
+What year were you born?
+
+639
+00:36:17,627 --> 00:36:19,538
+193...
+
+640
+00:36:19,747 --> 00:36:21,385
+Come on now, Jock.
+You can do better than that
+
+641
+00:36:22,266 --> 00:36:24,461
+- Yes, sir.
+- How old are you?
+
+642
+00:36:24,626 --> 00:36:26,503
+- 47, sir.
+- You look like you could do
+
+643
+00:36:26,706 --> 00:36:27,980
+with some exercise
+
+644
+00:36:28,146 --> 00:36:31,297
+It will take 4 weeks to get down
+to fighting weight
+
+645
+00:36:31,466 --> 00:36:33,900
+- You've been hit a few times?
+- Yes sir
+
+646
+00:36:34,066 --> 00:36:35,863
+A lot of the hitters are
+still hearing bells sir
+
+647
+00:36:37,346 --> 00:36:38,335
+I just like to fight,
+
+648
+00:36:38,866 --> 00:36:40,504
+with weapons or without
+
+649
+00:36:40,746 --> 00:36:43,977
+Witty, Arthur. Age: 43. Medical Orderly
+
+650
+00:36:44,146 --> 00:36:46,376
+You don't need to go over your
+qualifications. How are you?
+
+651
+00:36:46,546 --> 00:36:47,615
+Good, sir
+
+652
+00:36:47,786 --> 00:36:50,095
+- You look fit.
+- Thank you sir
+
+653
+00:36:50,266 --> 00:36:52,985
+I spend my time cranking
+up hospital beds
+
+654
+00:36:53,146 --> 00:36:55,706
+Patients lying around the wards,
+that sort of thing
+
+655
+00:36:55,866 --> 00:36:57,584
+Keeps me fit
+
+656
+00:36:57,746 --> 00:36:58,576
+Why do you want to come with us?
+
+657
+00:36:59,386 --> 00:37:00,660
+Colonel Faulkner,
+
+658
+00:37:00,826 --> 00:37:04,262
+two years of sorting gall-stones at St
+Vincent's hospital
+
+659
+00:37:04,426 --> 00:37:07,657
+have hardened my heart.
+And softened more important parts
+
+660
+00:37:07,866 --> 00:37:09,982
+I want to reverse the process
+
+661
+00:37:10,146 --> 00:37:10,942
+It could be a bloody one
+
+662
+00:37:11,346 --> 00:37:13,655
+Aren't they all. I like to keep fit
+
+663
+00:37:14,546 --> 00:37:16,059
+Alright, you've got the job
+
+664
+00:37:16,266 --> 00:37:17,255
+Thank you, sir
+
+665
+00:37:18,186 --> 00:37:20,221
+Do I have time to get a divorce?
+
+666
+00:37:20,425 --> 00:37:21,301
+36 hours
+
+667
+00:37:21,505 --> 00:37:23,018
+Thank you, sir
+
+668
+00:37:23,865 --> 00:37:25,776
+I can't wait to see his face!
+
+669
+00:37:47,065 --> 00:37:48,623
+Well-played, Emile
+
+670
+00:37:52,505 --> 00:37:56,259
+- You played a good game?
+- I didn't know you were coming!
+
+671
+00:37:56,425 --> 00:37:58,620
+It's a surprise. What's the score?
+
+672
+00:37:58,785 --> 00:38:01,345
+We're winning 4-0.
+It's just a knockabout at half-time
+
+673
+00:38:07,065 --> 00:38:08,100
+But why?
+
+674
+00:38:08,265 --> 00:38:09,334
+It just has to be
+
+675
+00:38:09,505 --> 00:38:12,975
+It's Christmas, we were going to have
+3 more weeks together
+
+676
+00:38:13,185 --> 00:38:16,335
+I know what I said, but sometimes these
+things just can't be helped
+
+677
+00:38:16,624 --> 00:38:18,455
+Anyway, you'll be with the Headmaster's
+family. It'll be nice
+
+678
+00:38:18,664 --> 00:38:20,382
+No it won't, I want to be with you
+
+679
+00:38:21,184 --> 00:38:23,334
+- I want to be with you too.
+- Then don't go
+
+680
+00:38:23,544 --> 00:38:25,216
+Please. It's only business
+
+681
+00:38:25,424 --> 00:38:26,493
+I have to go
+
+682
+00:38:26,664 --> 00:38:30,418
+I don't even know where,
+what it's about, or anything
+
+683
+00:38:30,584 --> 00:38:33,576
+One day I'll tell you. That's a promise
+
+684
+00:38:33,744 --> 00:38:36,417
+Let's sit down for a bit, have some fun
+
+685
+00:38:37,064 --> 00:38:38,053
+Look
+
+686
+00:38:39,464 --> 00:38:41,614
+I raided Hamley's
+
+687
+00:38:41,784 --> 00:38:44,173
+It's called "Xmas whenever you want"
+
+688
+00:38:44,344 --> 00:38:46,380
+Don't really want them now
+
+689
+00:38:47,904 --> 00:38:49,303
+I understand
+
+690
+00:38:49,504 --> 00:38:52,735
+I'll give them to the headmaster.
+He'll give them to you for Christmas
+
+691
+00:38:52,904 --> 00:38:55,623
+My mother was here last week with some
+Frenchman
+
+692
+00:38:55,784 --> 00:38:57,376
+One of the older boys said
+she looked like a whore
+
+693
+00:38:58,624 --> 00:39:00,774
+I didn't know what that was
+so I laughed
+
+694
+00:39:00,944 --> 00:39:02,900
+And then someone told me
+
+695
+00:39:03,424 --> 00:39:04,220
+Listen
+
+696
+00:39:05,944 --> 00:39:07,502
+You listen to me now
+
+697
+00:39:08,144 --> 00:39:12,216
+Don't pay any attention to what they
+say. 'Cos you know and I know
+
+698
+00:39:12,383 --> 00:39:14,851
+she's the kindest and finest
+woman there is
+
+699
+00:39:15,023 --> 00:39:16,695
+I want you to remember that
+
+700
+00:39:20,183 --> 00:39:22,492
+- I've got to get back to the game.
+- I love you
+
+701
+00:39:25,223 --> 00:39:26,781
+I love you too
+
+702
+00:39:53,023 --> 00:39:54,217
+Company!
+
+703
+00:39:54,583 --> 00:39:56,653
+Attention!
+
+704
+00:39:57,663 --> 00:39:58,937
+Some of you know me already
+
+705
+00:39:59,983 --> 00:40:00,779
+Those of you who don't
+
+706
+00:40:01,663 --> 00:40:03,142
+are in for a great big fucking surprise
+
+707
+00:40:03,343 --> 00:40:05,698
+Those of you who do
+
+708
+00:40:05,903 --> 00:40:09,133
+are in for an infinitely more horrible
+time than they care to remember
+
+709
+00:40:09,342 --> 00:40:12,857
+Any man here steps out of line and
+I will kill him stone-dead
+
+710
+00:40:13,022 --> 00:40:14,933
+It will not worry me in the slightest
+
+711
+00:40:15,702 --> 00:40:17,420
+There are no Queen's Regulations here
+
+712
+00:40:17,982 --> 00:40:20,894
+When I say "Jump!", you ask "How high?"
+
+713
+00:40:21,742 --> 00:40:23,095
+Do I make myself clear?
+
+714
+00:40:24,382 --> 00:40:26,100
+"I WANT TO HEAR IT
+DO I MAKE MYSELF CLEAR?!"
+
+715
+00:40:27,542 --> 00:40:28,691
+Good
+
+716
+00:40:28,862 --> 00:40:33,060
+On the command "Right and left turn",
+A and B squads turn to the right,
+
+717
+00:40:33,262 --> 00:40:35,218
+C and D squads turn to the left
+
+718
+00:40:35,742 --> 00:40:39,291
+SQUADS! Right and left TURN!
+
+719
+00:40:40,662 --> 00:40:44,257
+Right! Let's try for our first
+heart attack shall we?!
+
+720
+00:40:44,902 --> 00:40:46,893
+On the command "double march"
+
+721
+00:40:47,062 --> 00:40:49,178
+You will double in clockwise and anti-
+clockwise directions
+
+722
+00:40:49,342 --> 00:40:52,334
+within the confines of the parade ground
+
+723
+00:40:52,542 --> 00:40:54,180
+20 paces at the double,
+
+724
+00:40:54,342 --> 00:40:57,698
+20 paces at a sprint,
+fall flat on your bellies,
+
+725
+00:40:57,862 --> 00:41:00,899
+get up and do it again until
+I tell you to halt
+
+726
+00:41:01,062 --> 00:41:01,972
+At the double,
+
+727
+00:41:02,182 --> 00:41:04,138
+double march!
+
+728
+00:41:04,542 --> 00:41:07,897
+Come on, move it! Faster than that!
+
+729
+00:41:35,341 --> 00:41:36,296
+Get up,
+
+730
+00:41:36,501 --> 00:41:39,140
+you lazy bunch of bastards!
+
+731
+00:41:41,021 --> 00:41:43,933
+Get up sir, before I kick your head in
+
+732
+00:41:44,821 --> 00:41:46,618
+Move it you dozy lot!
+
+733
+00:41:56,581 --> 00:41:58,139
+Come on, get up!
+
+734
+00:41:58,341 --> 00:41:59,660
+Witty you screaming faggot
+
+735
+00:41:59,861 --> 00:42:01,976
+Move it before I sew up your asshole!
+
+736
+00:42:02,540 --> 00:42:05,657
+The Lord in his infinite wisdom
+would never ordain that
+
+737
+00:42:06,860 --> 00:42:07,770
+Captain Janders
+
+738
+00:42:09,180 --> 00:42:10,215
+Get up and run
+
+739
+00:42:10,420 --> 00:42:12,456
+or I will string you up by the balls
+
+740
+00:42:12,660 --> 00:42:14,457
+Do I make myself understood?
+
+741
+00:42:18,740 --> 00:42:19,536
+Get up!
+
+742
+00:42:20,420 --> 00:42:21,216
+I can't, Sir
+
+743
+00:42:21,980 --> 00:42:24,619
+Get on your feet, you fucking abortion!
+
+744
+00:42:25,060 --> 00:42:28,097
+I've tried, sir. I'm dead
+
+745
+00:42:33,460 --> 00:42:35,769
+Next time you move it,
+get out of my sight now
+
+746
+00:42:37,380 --> 00:42:40,929
+Come on, move it!
+Move it you fucking bastards!
+
+747
+00:42:42,220 --> 00:42:45,451
+If anyone tried to convince
+me I was still alive,
+
+748
+00:42:45,620 --> 00:42:46,769
+I would hardly believe it
+
+749
+00:42:49,580 --> 00:42:52,299
+Me too, I'm as much of a wreck as anyone
+
+750
+00:42:53,620 --> 00:42:55,656
+Alright gentlemen,
+let's get down to business
+
+751
+00:42:57,100 --> 00:42:59,215
+We have a problem to solve
+
+752
+00:42:59,379 --> 00:43:02,371
+The camp sentries Look here
+
+753
+00:43:02,539 --> 00:43:03,938
+Pieter
+
+754
+00:43:04,099 --> 00:43:05,088
+Look at this
+
+755
+00:43:07,299 --> 00:43:10,655
+There's one here, one here and one here
+
+756
+00:43:11,219 --> 00:43:13,255
+And all around, open country
+
+757
+00:43:13,739 --> 00:43:15,695
+We can't make any noise
+
+758
+00:43:16,139 --> 00:43:18,892
+They must be killed
+instantly and silently
+
+759
+00:43:19,459 --> 00:43:21,450
+And there's no cover for 100 yards?
+
+760
+00:43:23,339 --> 00:43:24,658
+I'd use a crossbow
+
+761
+00:43:25,259 --> 00:43:26,408
+Who do you think you are, William Tell?
+
+762
+00:43:27,179 --> 00:43:29,170
+The one I have in mind
+will kill at 300 yards
+
+763
+00:43:29,859 --> 00:43:33,010
+At 120m, the bolt goes
+straight through a man
+
+764
+00:43:34,059 --> 00:43:36,732
+- Where do we find such a thing?
+- Somebody I know in Durban
+
+765
+00:43:36,939 --> 00:43:40,648
+I use hardwood quarrels, with vials of
+cyanide attached
+
+766
+00:43:40,819 --> 00:43:44,494
+The quarrel will shatter inside the man,
+and if that doesn't kill him instantly,
+
+767
+00:43:44,659 --> 00:43:47,457
+the cyanide takes effect in less than
+one second. So there is no sound
+
+768
+00:43:49,819 --> 00:43:51,411
+Get the weapon,
+
+769
+00:43:51,619 --> 00:43:53,177
+I'll take care of the sentries
+
+770
+00:43:54,059 --> 00:43:55,457
+OK. You have it
+
+771
+00:43:55,898 --> 00:43:58,253
+Anything else, sir?
+
+772
+00:43:58,858 --> 00:44:00,007
+No
+
+773
+00:44:00,458 --> 00:44:01,254
+Good night then
+
+774
+00:44:07,018 --> 00:44:08,133
+Pieter, is something wrong?
+
+775
+00:44:12,898 --> 00:44:16,857
+In South Africa, we call the blacks
+"kaffir", like you call them "niggers"
+
+776
+00:44:17,018 --> 00:44:19,737
+I don't particularly like them,
+but I don't like killing them
+
+777
+00:44:20,378 --> 00:44:23,529
+I'm sure you've hunted black
+terrorists in your own country
+
+778
+00:44:24,018 --> 00:44:26,248
+Those terrorists hunted me
+
+779
+00:44:26,458 --> 00:44:31,088
+General Ndofa's army killed
+more innocent people in one day
+
+780
+00:44:31,258 --> 00:44:33,010
+Than your terrorists did in a year
+
+781
+00:44:33,178 --> 00:44:36,250
+Maybe, but that is in Ndofa's
+country, not in mine
+
+782
+00:44:37,418 --> 00:44:40,171
+Our mission is to save
+the life of Limbani
+
+783
+00:44:40,338 --> 00:44:43,296
+and get him out. He's a special man
+
+784
+00:44:44,098 --> 00:44:45,975
+I'm no good at politics
+
+785
+00:44:46,138 --> 00:44:50,290
+I don't know Limbani,
+or the people that back him
+
+786
+00:44:50,458 --> 00:44:53,415
+I only know that I don't like killing
+people I've nothing to do with
+
+787
+00:44:53,817 --> 00:44:55,967
+Then what the hell
+are you doing here, Pieter?
+
+788
+00:44:56,177 --> 00:44:57,769
+You know why
+
+789
+00:44:58,897 --> 00:45:00,694
+This is my ticket home
+
+790
+00:45:00,857 --> 00:45:02,654
+My money to buy a farm
+
+791
+00:45:02,817 --> 00:45:04,296
+Nothing more
+
+792
+00:45:04,457 --> 00:45:08,052
+So I'll be killing for me and
+I'll live with it later
+
+793
+00:45:09,017 --> 00:45:13,488
+And you'll be killing to impose your
+ideas on the future of mankind on others
+
+794
+00:45:13,697 --> 00:45:15,688
+whether they're right or wrong
+
+795
+00:45:16,737 --> 00:45:19,012
+I wonder how we stack up
+against each other morally
+
+796
+00:45:25,097 --> 00:45:26,246
+Is that all, sir?
+
+797
+00:45:35,537 --> 00:45:37,892
+Morals amongst mercenaries...
+
+798
+00:45:38,057 --> 00:45:39,968
+Who'd thought we'd ever see the day
+
+799
+00:45:40,937 --> 00:45:42,495
+We'll have to keep an eye on him
+
+800
+00:45:43,457 --> 00:45:46,309
+We'll have to watch him,
+can't afford any risks
+
+801
+00:45:46,310 --> 00:45:47,735
+If he's not with us, he's dead
+
+802
+00:45:48,536 --> 00:45:50,970
+I know from your records,
+you're all perfect
+
+803
+00:45:51,136 --> 00:45:53,889
+Don't forget to bend your knees when
+you hit, to take the shock out of it
+
+804
+00:45:54,096 --> 00:45:55,131
+and roll over
+
+805
+00:45:55,936 --> 00:45:58,450
+Esposito, what the fuck
+are you waiting for?
+
+806
+00:45:58,656 --> 00:46:00,408
+A push? Go!
+
+807
+00:46:02,456 --> 00:46:03,775
+Next man, move it
+
+808
+00:46:03,976 --> 00:46:06,331
+You have one jump to make,
+it better be perfect,
+
+809
+00:46:06,536 --> 00:46:09,096
+or you get left where you fall. Go!
+
+810
+00:46:11,496 --> 00:46:12,690
+Very good
+
+811
+00:46:16,016 --> 00:46:17,927
+That was LUDICROUS, sir
+
+812
+00:46:18,096 --> 00:46:19,734
+You're jumping from an airplane,
+
+813
+00:46:19,936 --> 00:46:23,008
+not a whorehouse window. Do it again
+
+814
+00:46:23,576 --> 00:46:24,372
+Sir
+
+815
+00:46:24,656 --> 00:46:28,365
+Keep the rhythm up, not too quick
+
+816
+00:46:48,815 --> 00:46:50,248
+Get out of the car
+
+817
+00:46:50,415 --> 00:46:52,246
+I've got an urgent message for
+Colonel Faulkner
+
+818
+00:46:52,815 --> 00:46:53,611
+Get in
+
+819
+00:46:53,775 --> 00:46:54,764
+Up!
+
+820
+00:47:07,895 --> 00:47:08,884
+Come in
+
+821
+00:47:10,855 --> 00:47:12,174
+Gentlemen, sit down
+
+822
+00:47:18,655 --> 00:47:19,644
+We're going in tomorrow night
+
+823
+00:47:23,215 --> 00:47:24,011
+You're kidding
+
+824
+00:47:24,415 --> 00:47:25,643
+Tomorrow's Christmas
+
+825
+00:47:25,855 --> 00:47:27,129
+We'll celebrate on the 26th
+
+826
+00:47:27,695 --> 00:47:30,004
+How did this happen?
+We were guaranteed a seven day notice
+
+827
+00:47:31,615 --> 00:47:35,051
+According to this message,
+a crazy old lady relative of Limbani
+
+828
+00:47:35,215 --> 00:47:37,968
+had a vision that he'd risen
+from the dead
+
+829
+00:47:38,135 --> 00:47:39,693
+and it spread through the tribe like...
+the mumps
+
+830
+00:47:40,615 --> 00:47:44,368
+Made Ndofa very nervous. He wants to get
+this thing over with fast
+
+831
+00:47:44,574 --> 00:47:47,407
+Now Limbani's being delivered tomorrow
+night. We'll be there 4 hours later
+
+832
+00:47:49,054 --> 00:47:51,727
+Splendid. The best news I've had since
+I threw up my lunch
+
+833
+00:47:53,014 --> 00:47:54,288
+Well, be prepared to throw up dinner
+
+834
+00:47:55,374 --> 00:47:57,683
+Instead of taking a small bodyguard,
+Ndofa's taking the Simbas with him
+
+835
+00:47:58,454 --> 00:47:59,250
+That's his own regiment
+
+836
+00:47:59,734 --> 00:48:01,645
+And they're good, as we know
+
+837
+00:48:02,254 --> 00:48:05,451
+We won't come across them. We'll have
+Limbani out before they get close
+
+838
+00:48:06,454 --> 00:48:08,012
+If all goes well
+
+839
+00:48:08,414 --> 00:48:10,166
+Alright gentlemen, now to business
+
+840
+00:48:10,374 --> 00:48:12,808
+Rafer, see that the men make their wills
+
+841
+00:48:13,014 --> 00:48:14,493
+Shawn, take the men into town
+
+842
+00:48:15,094 --> 00:48:17,892
+They can kiss their money goodbye
+if they're not back by 0400
+
+843
+00:48:18,094 --> 00:48:19,686
+Drunk, laid and parleyed
+
+844
+00:48:19,894 --> 00:48:22,010
+They deserve it. That's all
+
+845
+00:48:29,894 --> 00:48:30,883
+Sandy
+
+846
+00:48:32,734 --> 00:48:33,883
+Sit down
+
+847
+00:48:42,093 --> 00:48:45,085
+I just wanted to have this private
+moment with you, old friend,
+
+848
+00:48:46,533 --> 00:48:48,888
+to thank you.
+You're the best of the best
+
+849
+00:48:49,693 --> 00:48:51,888
+You've earned your money five times over
+
+850
+00:48:52,373 --> 00:48:55,410
+I appreciate that sir,
+but I'm not quite sure what it means
+
+851
+00:48:55,613 --> 00:48:58,207
+It means that I'd like you and your wife
+to spend your money in good health
+
+852
+00:48:59,653 --> 00:49:01,052
+You trying to tell me
+I'm not coming along?
+
+853
+00:49:01,773 --> 00:49:02,649
+Yes
+
+854
+00:49:03,893 --> 00:49:06,532
+Sir, with respect, you can stick your money
+
+855
+00:49:06,733 --> 00:49:08,689
+up your ass
+
+856
+00:49:08,853 --> 00:49:10,411
+- Sandy!
+- I love what I do
+
+857
+00:49:10,613 --> 00:49:14,925
+And believe it or not, I also love those
+grubby thick-headed men I trained
+
+858
+00:49:15,093 --> 00:49:16,242
+you most of all
+
+859
+00:49:16,453 --> 00:49:18,284
+I expect to be with them
+
+860
+00:49:18,493 --> 00:49:20,768
+and with you. Because I'm needed
+
+861
+00:49:20,933 --> 00:49:25,131
+And if you want to see a REAL
+revolution, try and stop me
+
+862
+00:49:32,813 --> 00:49:34,041
+You're the best!
+
+863
+00:49:34,213 --> 00:49:37,139
+Who are you leaving
+your money to, Queenie?
+
+864
+00:49:37,140 --> 00:49:38,603
+Well, if it's any of your business,
+
+865
+00:49:38,772 --> 00:49:43,323
+To the dearest, kindest proctologist
+in the whole wide world
+
+866
+00:49:43,492 --> 00:49:44,288
+What's that?
+
+867
+00:49:45,652 --> 00:49:49,042
+"Bum-doctor" to you, chubby cheeks
+
+868
+00:50:01,452 --> 00:50:02,441
+Come along auntie!
+
+869
+00:50:02,652 --> 00:50:04,802
+We'll find you a lovely bit of tail
+
+870
+00:50:05,332 --> 00:50:06,401
+No thanks dear
+
+871
+00:50:06,612 --> 00:50:08,250
+You enjoy yourselves
+
+872
+00:50:08,412 --> 00:50:11,370
+I'll be waiting up for you,
+with bandages and penicillin
+
+873
+00:50:11,572 --> 00:50:13,449
+Have your bums ready!
+
+874
+00:50:30,532 --> 00:50:33,603
+I never think about dying
+I've got my death all planned
+
+875
+00:50:33,771 --> 00:50:37,127
+Blind drunk, lying on the pavement, roll
+off, fracture my skull... out
+
+876
+00:50:37,291 --> 00:50:38,167
+I think about it
+
+877
+00:50:38,891 --> 00:50:41,280
+- That has no purpose.
+- Your children are grown-up
+
+878
+00:50:41,451 --> 00:50:42,406
+That's true
+
+879
+00:50:43,411 --> 00:50:45,288
+Allen, I want you to do something for me
+
+880
+00:50:45,491 --> 00:50:48,528
+If I buy it,
+I'd like you to see that my son's alright
+
+881
+00:50:49,011 --> 00:50:49,807
+Me?
+
+882
+00:50:49,971 --> 00:50:53,930
+- I mean you put me into this pit.
+- Don't you have any decent friends?
+
+883
+00:50:54,731 --> 00:50:56,244
+Well, I've just made you his Godfather
+
+884
+00:50:57,211 --> 00:50:59,190
+Look, if his mother doesn't
+take care of him,
+
+885
+00:50:59,191 --> 00:51:01,170
+I'd like you to take him away from her
+
+886
+00:51:02,931 --> 00:51:04,922
+That's absolutely crazy
+
+887
+00:51:05,091 --> 00:51:07,002
+You must have an IQ of 2
+
+888
+00:51:07,731 --> 00:51:10,689
+When I'm not employed killing perfect
+strangers, I'm an out-of-work drunk
+
+889
+00:51:11,691 --> 00:51:13,886
+Bit of responsibility would do you good
+
+890
+00:51:14,971 --> 00:51:16,609
+I want your hand on it
+
+891
+00:51:19,091 --> 00:51:20,240
+You're not going to die, Rafer
+
+892
+00:51:20,411 --> 00:51:21,969
+I know it, you know it,
+
+893
+00:51:22,571 --> 00:51:24,129
+but it's the guy up there who decides
+
+894
+00:51:24,971 --> 00:51:26,563
+Well, I'll ask him
+
+895
+00:51:40,410 --> 00:51:42,287
+Come on, move it
+
+896
+00:51:54,930 --> 00:51:57,728
+Come on, move it up, right down
+
+897
+00:52:03,210 --> 00:52:05,246
+What's the hold-up? Come on
+
+898
+00:52:05,890 --> 00:52:06,766
+All in, sir
+
+899
+00:53:54,968 --> 00:53:56,003
+Service is a bit slow
+
+900
+00:54:26,047 --> 00:54:28,003
+For President Limbani
+
+901
+00:54:28,167 --> 00:54:30,556
+Yes, sir. He'll need these
+
+902
+00:54:37,167 --> 00:54:40,000
+We've got 3 minutes left. We're
+de-pressurizing now Red light on
+
+903
+00:54:40,167 --> 00:54:42,158
+Alright. Get them on their feet,
+Sergeant-Major
+
+904
+00:54:42,327 --> 00:54:43,203
+On your feet!
+
+905
+00:54:46,007 --> 00:54:48,726
+I suppose a transfer to the cavalry is
+out of the question, sergeant-major?
+
+906
+00:54:49,647 --> 00:54:51,638
+- Check equipment.
+- CHECK YOUR EQUIPMENT!
+
+907
+00:55:03,527 --> 00:55:06,121
+- Stations.
+- Get in position for the jump
+
+908
+00:55:44,446 --> 00:55:45,242
+Jump!
+
+909
+00:57:29,004 --> 00:57:30,073
+Shawn, how goes it?
+
+910
+00:57:30,244 --> 00:57:33,600
+Oh fine, fine thanks. I tell you, Jock,
+that's it
+
+911
+00:57:33,764 --> 00:57:36,198
+My heels are where my balls used to be
+
+912
+00:59:06,282 --> 00:59:07,681
+I don't believe it!
+
+913
+00:59:07,842 --> 00:59:09,639
+2 out of 3 asleep Pieter?
+
+914
+00:59:10,522 --> 00:59:13,878
+Take the one who's asleep first.
+You have 3 minutes for the other 2
+
+915
+00:59:14,962 --> 00:59:16,236
+Rafer?
+
+916
+00:59:16,442 --> 00:59:18,239
+Get inside the fence there. Stay there
+
+917
+00:59:18,442 --> 00:59:20,797
+When we've passed, bring your men
+
+918
+01:01:01,880 --> 01:01:02,869
+Cut it
+
+919
+01:03:20,758 --> 01:03:21,554
+Hello
+
+920
+01:03:22,198 --> 01:03:23,995
+Stay right where you are. Don't move
+
+921
+01:03:24,198 --> 01:03:25,597
+Not a sound
+
+922
+01:03:26,158 --> 01:03:27,989
+We'd like your keys
+
+923
+01:03:29,198 --> 01:03:31,871
+Whoever has them, just hand them over
+
+924
+01:03:32,718 --> 01:03:35,232
+Esposito, start with him first
+
+925
+01:03:42,278 --> 01:03:43,074
+Try the Cuban
+
+926
+01:04:00,117 --> 01:04:01,516
+I'll go round the other side
+
+927
+01:04:36,914 --> 01:04:39,667
+Mr. Limbani, I'm Faulkner. Just lie there
+
+928
+01:04:39,834 --> 01:04:41,391
+Come on Pieter, quickly
+
+929
+01:04:48,033 --> 01:04:49,068
+Witty?
+
+930
+01:04:50,393 --> 01:04:52,190
+- Everybody OK?
+- Yes
+
+931
+01:04:53,113 --> 01:04:54,512
+Keith, find Captain Janders
+
+932
+01:04:54,673 --> 01:04:57,028
+- Tell him to send Lt Fynn to take the
+airport. - Sir!
+
+933
+01:04:59,593 --> 01:05:00,582
+Alright?
+
+934
+01:05:01,193 --> 01:05:01,989
+Yes, sir
+
+935
+01:05:03,393 --> 01:05:05,702
+I've got some lovely pills from London
+for your heart
+
+936
+01:05:06,513 --> 01:05:08,151
+You just relax now
+
+937
+01:05:08,713 --> 01:05:09,702
+Here
+
+938
+01:05:10,793 --> 01:05:12,784
+Drink a bit of this, come on
+
+939
+01:05:13,513 --> 01:05:16,266
+- That's good.
+- How is he?
+
+940
+01:05:19,593 --> 01:05:21,265
+I live, Mr. Faulkner
+
+941
+01:05:21,473 --> 01:05:23,031
+That's the plan, sir
+
+942
+01:05:24,953 --> 01:05:26,352
+Pieter, you're responsible for him
+
+943
+01:05:26,553 --> 01:05:27,747
+From now on, he never leaves your sight
+
+944
+01:05:28,953 --> 01:05:29,783
+Alright, let's go
+
+945
+01:05:30,073 --> 01:05:31,108
+Esposito!
+
+946
+01:05:31,433 --> 01:05:33,742
+<i>Well then, kaffir On your feet</i>
+
+947
+01:05:35,953 --> 01:05:37,352
+Here we go, love
+
+948
+01:05:37,912 --> 01:05:39,140
+That's fine
+
+949
+01:05:39,312 --> 01:05:40,108
+Up
+
+950
+01:05:40,872 --> 01:05:41,782
+Come on
+
+951
+01:05:46,752 --> 01:05:47,741
+The keys
+
+952
+01:05:48,312 --> 01:05:49,301
+Here you are
+
+953
+01:05:52,952 --> 01:05:54,101
+Shawn...
+
+954
+01:05:55,192 --> 01:05:56,989
+<i>- Come in, Shawn.
+- I receive you</i>
+
+955
+01:05:57,152 --> 01:05:58,983
+We have it. Go ahead
+
+956
+01:05:59,472 --> 01:06:00,666
+Good luck
+
+957
+01:06:47,071 --> 01:06:50,507
+ZEMBALA AIRPORT
+
+958
+01:08:55,669 --> 01:08:56,943
+He's all yours, Jock
+
+959
+01:08:57,149 --> 01:08:57,945
+Come on!
+
+960
+01:09:19,509 --> 01:09:21,465
+Excellent... excellent
+
+961
+01:09:29,148 --> 01:09:32,140
+This is Rushton Put Charlie 1 into
+effect immediately
+
+962
+01:09:32,748 --> 01:09:35,740
+That's right, immediately. What's so
+surprising about that?
+
+963
+01:09:36,588 --> 01:09:40,058
+Well, route it through any embassy
+you need. That's your job, do it
+
+964
+01:09:45,348 --> 01:09:46,906
+It'll be difficult, but we'll make it
+
+965
+01:09:56,948 --> 01:09:57,903
+Get Mr. Limbani out first
+
+966
+01:09:58,108 --> 01:09:59,905
+and be careful with him
+
+967
+01:10:00,108 --> 01:10:01,939
+Take him to the foot of
+the control tower
+
+968
+01:10:04,028 --> 01:10:04,938
+Well done, Sandy
+
+969
+01:10:05,108 --> 01:10:06,621
+Allen, let's go and see Shawn
+
+970
+01:10:07,388 --> 01:10:10,539
+Mister Limbani, the 'plane
+should be here any minute
+
+971
+01:10:13,788 --> 01:10:18,623
+Alright, let's move out to the runway.
+Follow me at the double, come on
+
+972
+01:10:21,467 --> 01:10:23,617
+Put him down there
+
+973
+01:10:24,987 --> 01:10:27,262
+Iron Man, Iron Man.
+Wild Goose, Wild Goose
+
+974
+01:10:27,427 --> 01:10:29,338
+Well done, Shawn.
+Are they on their way in?
+
+975
+01:10:29,507 --> 01:10:33,102
+The radio's Russian,
+the dials work backwards
+
+976
+01:10:33,267 --> 01:10:36,145
+Iron Man, Iron Man Wild Goose,
+Wild Goose. Do you read, over?
+
+977
+01:10:37,467 --> 01:10:40,220
+"Iron Man", "Wild Goose"... sounds like
+a finger up a tin man's backside,
+
+978
+01:10:40,427 --> 01:10:41,542
+doesn't it?
+
+979
+01:10:42,027 --> 01:10:44,587
+<i>Wild Goose, this is Iron Man.
+I receive you</i>
+
+980
+01:10:44,747 --> 01:10:48,899
+God bless us, each and every one. Iron
+Man, get yourself in here. We're waiting
+
+981
+01:10:49,067 --> 01:10:51,740
+- Well Allen, we're just 12 minutes behind
+schedule. - Make you feel good?
+
+982
+01:10:52,147 --> 01:10:54,536
+If Limbani's heart holds out,
+I'll feel bloody marvelous
+
+983
+01:10:58,667 --> 01:11:00,225
+We've heard the plane sir
+
+984
+01:11:01,507 --> 01:11:03,816
+Iron Man, we hear your engines
+
+985
+01:11:12,707 --> 01:11:15,062
+Sounds like you're South-East of us
+
+986
+01:11:18,626 --> 01:11:20,856
+I have you in sight.
+We're commencing descent
+
+987
+01:11:21,026 --> 01:11:21,822
+There it is!
+
+988
+01:11:31,866 --> 01:11:33,697
+No, no. Don't move
+
+989
+01:11:50,826 --> 01:11:51,895
+Right on the money
+
+990
+01:11:56,106 --> 01:11:57,744
+Let's hope we've got a couple of
+stewardesses on board
+
+991
+01:11:58,106 --> 01:11:59,175
+We need three
+
+992
+01:12:00,346 --> 01:12:01,938
+£30,000
+
+993
+01:12:08,906 --> 01:12:09,702
+Let's go and meet them
+
+994
+01:12:09,866 --> 01:12:12,585
+<i>Iron Man, this is Charlie 1</i>
+
+995
+01:12:12,786 --> 01:12:14,423
+<i>The message is: pass them by</i>
+
+996
+01:12:15,345 --> 01:12:16,619
+<i>I repeat, Iron Man</i>
+
+997
+01:12:16,825 --> 01:12:18,543
+Pass them by
+
+998
+01:12:18,745 --> 01:12:20,940
+Christ, those poor bastards
+
+999
+01:12:22,025 --> 01:12:24,095
+Charlie 1, message received, Wilco
+
+1000
+01:12:28,385 --> 01:12:31,223
+Iron Man, Iron Man,
+what's going on, over?
+
+1001
+01:12:33,785 --> 01:12:34,581
+Get him up
+
+1002
+01:12:45,425 --> 01:12:46,540
+Get yourselves back here
+
+1003
+01:12:52,945 --> 01:12:55,300
+<i>Sorry, orders. Good luck to you</i>
+
+1004
+01:12:55,465 --> 01:12:56,580
+Orders?
+
+1005
+01:12:57,345 --> 01:12:59,336
+Orders? We're stuffed...
+who's Charlie 1, Allen?
+
+1006
+01:13:10,985 --> 01:13:12,702
+I'm going to speak to the men
+
+1007
+01:13:16,824 --> 01:13:17,620
+Men,
+
+1008
+01:13:17,824 --> 01:13:19,337
+we have been double-crossed
+
+1009
+01:13:20,264 --> 01:13:22,698
+But we will plan a way out of here
+
+1010
+01:13:28,664 --> 01:13:29,983
+- Jock
+- Sir?
+
+1011
+01:13:30,144 --> 01:13:31,862
+We need more trucks, find them
+
+1012
+01:13:32,024 --> 01:13:34,584
+I want everybody loaded on
+and ready to roll, now
+
+1013
+01:13:34,744 --> 01:13:37,304
+- And find all the spare ammunition and
+weapons you can. - Sir
+
+1014
+01:13:46,424 --> 01:13:48,654
+I thought we had this in the bag
+
+1015
+01:13:50,184 --> 01:13:51,299
+There's a man called Matherson
+
+1016
+01:13:51,504 --> 01:13:53,335
+who has a lot to answer for
+
+1017
+01:13:53,864 --> 01:13:54,853
+Sir Edward Matherson?
+
+1018
+01:13:55,344 --> 01:13:57,016
+- Yes.
+- He's Charlie 1?
+
+1019
+01:13:57,184 --> 01:13:59,414
+Yes, Sir Edward Matherson.
+He's the money
+
+1020
+01:14:00,544 --> 01:14:02,023
+What's happened then?
+
+1021
+01:14:02,224 --> 01:14:04,818
+I'm guessing he's made a new deal with
+Ndofa. He doesn't need Limbani any more
+
+1022
+01:14:04,984 --> 01:14:07,861
+He could've done that yesterday
+and aborted the mission then?
+
+1023
+01:14:08,023 --> 01:14:11,413
+This way he saves $500,000,
+the rest of our money
+
+1024
+01:14:12,023 --> 01:14:14,378
+I'd like to meet him one day
+
+1025
+01:14:14,543 --> 01:14:16,579
+Rafer, my friend, one day we will
+
+1026
+01:14:17,663 --> 01:14:19,654
+Alright Rafer, how do we
+get out of here?
+
+1027
+01:14:20,463 --> 01:14:21,657
+And where do we go, Allen?
+
+1028
+01:14:22,423 --> 01:14:24,078
+Within hours, we'll have the whole of
+
+1029
+01:14:24,079 --> 01:14:25,733
+Ndofa's army down on
+us like a ton of bricks
+
+1030
+01:14:25,903 --> 01:14:27,222
+You'd prefer to surrender?
+
+1031
+01:14:27,423 --> 01:14:29,220
+I'd rather have Witty
+treat my hemorrhoids
+
+1032
+01:14:30,423 --> 01:14:33,733
+Rafer, you have 10 minutes.
+You're the planner
+
+1033
+01:14:34,463 --> 01:14:37,614
+Allen, I've got something to say to you
+
+1034
+01:14:38,103 --> 01:14:42,699
+I'll give it to you emotionally first,
+then rationally
+
+1035
+01:14:42,863 --> 01:14:45,502
+- This man, Matherson?
+- Yes
+
+1036
+01:14:45,663 --> 01:14:47,176
+He's given us the royal
+screwing of all time
+
+1037
+01:14:47,343 --> 01:14:49,538
+Now my first instinct is to give
+it back to him, and worse
+
+1038
+01:14:49,703 --> 01:14:52,854
+- Me too, but that's for another time.
+- Ah!
+
+1039
+01:14:53,023 --> 01:14:55,332
+We came to get Limbani, we've got him,
+so we use him
+
+1040
+01:14:55,503 --> 01:14:58,017
+Show him to his tribe, they'll
+think he's been re-incarnated
+
+1041
+01:14:58,183 --> 01:14:59,719
+They're about ready for a civil war
+
+1042
+01:14:59,720 --> 01:15:01,255
+Let's start it, maybe
+we could even win it
+
+1043
+01:15:01,463 --> 01:15:04,102
+Stop, right there.
+Now you listen to me, Rafer
+
+1044
+01:15:04,263 --> 01:15:06,361
+I've got 50 good men down there
+
+1045
+01:15:06,362 --> 01:15:08,460
+and their lives are my
+responsibility. I'm not going on
+
+1046
+01:15:08,662 --> 01:15:10,857
+a bloody crusade. I don't want to debate
+with you Rafer, at least not now
+
+1047
+01:15:11,022 --> 01:15:12,899
+So just get on with it and
+get us out of here!
+
+1048
+01:15:13,262 --> 01:15:16,732
+OK. Now I'll give it to you rationally
+
+1049
+01:15:17,462 --> 01:15:19,737
+- The North is out of the question.
+- Why?
+
+1050
+01:15:19,942 --> 01:15:21,933
+What if we got hold of a
+ferry to Burundi?
+
+1051
+01:15:22,102 --> 01:15:23,501
+I wouldn't cross that
+lake even on a destroyer,
+
+1052
+01:15:23,502 --> 01:15:24,900
+Ndofa's men will pick us off like ducks
+
+1053
+01:15:25,342 --> 01:15:27,333
+They wouldn't let us into Burundi
+anyway, nor Rwanda
+
+1054
+01:15:27,502 --> 01:15:29,094
+Zambia's too far
+
+1055
+01:15:29,262 --> 01:15:32,857
+East? 600 miles of jungle, totally
+impassable
+
+1056
+01:15:33,662 --> 01:15:35,095
+That still leaves the South
+
+1057
+01:15:35,902 --> 01:15:37,813
+Exactly, the South
+
+1058
+01:15:37,982 --> 01:15:40,655
+Limbani country. I know it well
+
+1059
+01:15:40,822 --> 01:15:42,938
+There's a dry river and
+an old stone bridge
+
+1060
+01:15:43,102 --> 01:15:45,093
+If we cross that bridge,
+we're on our way to Kalima
+
+1061
+01:15:45,262 --> 01:15:46,297
+What's in Kalima?
+
+1062
+01:15:46,462 --> 01:15:49,260
+Limbani was born there. We can walk it
+
+1063
+01:15:49,462 --> 01:15:51,357
+- Rafer...
+- For God's sakes it's our only
+
+1064
+01:15:51,358 --> 01:15:53,455
+way of accomplishing something
+from this whole fucking mess!
+
+1065
+01:15:54,302 --> 01:15:57,499
+50 men in the valley of the shadow, and
+he wants to take over an entire country!
+
+1066
+01:15:57,702 --> 01:15:59,818
+There's no bloody place to run to!
+
+1067
+01:15:59,982 --> 01:16:01,858
+So why not stand and fight?
+
+1068
+01:16:02,021 --> 01:16:03,852
+And for the cause. For two causes
+
+1069
+01:16:04,021 --> 01:16:06,660
+One: Limbani. He's the best there is,
+words from your own lips
+
+1070
+01:16:06,861 --> 01:16:07,816
+And two...
+
+1071
+01:16:09,621 --> 01:16:10,576
+Matherson
+
+1072
+01:16:12,781 --> 01:16:16,535
+You know Rafer, sometimes it's
+almost a pleasure knowing you
+
+1073
+01:16:18,381 --> 01:16:19,177
+Alright, let's do it
+
+1074
+01:16:21,061 --> 01:16:22,130
+Let's do it?
+
+1075
+01:16:23,501 --> 01:16:25,378
+I'm in the hands of maniacs
+
+1076
+01:16:25,861 --> 01:16:28,011
+Have a good trip. Goodbye
+
+1077
+01:16:34,101 --> 01:16:35,090
+Good
+
+1078
+01:16:36,021 --> 01:16:37,659
+Call me back when you get confirmation
+
+1079
+01:16:38,541 --> 01:16:41,578
+Well, here's to General Ndofa
+
+1080
+01:16:41,741 --> 01:16:45,256
+Difficult bastards to negotiate with,
+but it's a good deal
+
+1081
+01:16:45,421 --> 01:16:46,570
+Cheers
+
+1082
+01:16:47,421 --> 01:16:50,174
+- Let's hope Ndofa continues to
+honor it. - Oh he will
+
+1083
+01:16:50,341 --> 01:16:52,897
+He's got brand new finances,
+and we've got the mines
+
+1084
+01:16:52,898 --> 01:16:54,175
+We're back in the copper business
+
+1085
+01:17:29,300 --> 01:17:32,690
+- They don't build bridges like this now.
+- It would go off with a hell of a bang
+
+1086
+01:17:32,860 --> 01:17:34,691
+- We haven't got any stuff.
+- Pity
+
+1087
+01:17:34,860 --> 01:17:36,851
+We haven't got time anyway. Let's go
+
+1088
+01:17:44,780 --> 01:17:45,576
+Go
+
+1089
+01:18:10,379 --> 01:18:11,573
+Come on, man
+
+1090
+01:18:11,739 --> 01:18:12,888
+It won't start
+
+1091
+01:18:13,739 --> 01:18:15,138
+Well keep trying
+
+1092
+01:18:17,179 --> 01:18:18,009
+What's happened?
+
+1093
+01:18:30,739 --> 01:18:31,694
+Got a problem?
+
+1094
+01:18:40,539 --> 01:18:41,688
+- Rafer! Take cover!
+- Tosh!
+
+1095
+01:18:48,339 --> 01:18:49,738
+Back the Jeep up
+
+1096
+01:18:51,018 --> 01:18:51,848
+Take cover!
+
+1097
+01:19:03,898 --> 01:19:05,047
+Quick, get out of there
+
+1098
+01:19:06,258 --> 01:19:07,577
+Jock, get the men across the bridge
+
+1099
+01:19:11,018 --> 01:19:12,167
+Take cover!
+
+1100
+01:19:18,818 --> 01:19:19,614
+Take cover!
+
+1101
+01:19:19,818 --> 01:19:21,331
+Come on, get out!
+
+1102
+01:20:17,737 --> 01:20:18,533
+Jesus
+
+1103
+01:20:19,497 --> 01:20:21,249
+Not even Jesus could get through that
+
+1104
+01:20:27,977 --> 01:20:29,092
+You alright, sir?
+
+1105
+01:20:38,537 --> 01:20:41,335
+They'll be back with more planes
+before we can get through that fire
+
+1106
+01:20:41,537 --> 01:20:43,209
+Well get moving
+
+1107
+01:20:43,497 --> 01:20:45,134
+Decoy them away from us
+
+1108
+01:20:45,296 --> 01:20:49,335
+We'll cross with Limbani lower down.
+Meet you at Kalima village
+
+1109
+01:20:49,896 --> 01:20:51,852
+Alright. Come on men, move out
+
+1110
+01:21:04,656 --> 01:21:06,692
+- A write-off?
+- A complete write-off
+
+1111
+01:21:07,376 --> 01:21:09,606
+West, Smith and Robertson, sir
+
+1112
+01:21:11,936 --> 01:21:13,335
+Look after Mr. Limbani
+
+1113
+01:21:24,656 --> 01:21:26,089
+Can't leave them for the Simbas
+
+1114
+01:21:27,136 --> 01:21:29,809
+No, we can't. You volunteering?
+
+1115
+01:21:37,656 --> 01:21:38,884
+Suppose I'll do it
+
+1116
+01:22:17,975 --> 01:22:20,933
+We'll keep going for about another hour
+
+1117
+01:22:21,095 --> 01:22:23,245
+Then we'll hole up somewhere for a while
+
+1118
+01:22:23,655 --> 01:22:25,452
+How many men have we got left, Sandy?
+
+1119
+01:22:25,615 --> 01:22:29,403
+Counting the colonel's group,
+32 including 6 walking wounded, sir
+
+1120
+01:22:30,455 --> 01:22:32,525
+That's a hell of a formidable unit
+
+1121
+01:22:33,935 --> 01:22:35,334
+I wouldn't like to be up against us, sir
+
+1122
+01:22:52,574 --> 01:22:53,973
+Let's rest here
+
+1123
+01:22:58,934 --> 01:23:02,404
+That's what's good for him sir,
+if we want to keep him alive
+
+1124
+01:23:02,574 --> 01:23:04,132
+What happened?
+
+1125
+01:23:04,654 --> 01:23:05,530
+We're going to carry him
+
+1126
+01:23:05,734 --> 01:23:08,009
+We'll carry on until noon,
+then we'll rest
+
+1127
+01:23:08,174 --> 01:23:09,243
+I'll take him
+
+1128
+01:23:20,094 --> 01:23:21,812
+You alright? I'll take point
+
+1129
+01:23:21,974 --> 01:23:24,124
+- Let me carry him.
+- No way
+
+1130
+01:23:24,294 --> 01:23:25,727
+Just hang on, kaffir
+
+1131
+01:23:30,454 --> 01:23:34,083
+My blood is red, just like yours. Don't
+call me kaffir
+
+1132
+01:23:34,253 --> 01:23:35,971
+Take that hand off my face,
+
+1133
+01:23:36,573 --> 01:23:37,528
+kaffir
+
+1134
+01:23:38,213 --> 01:23:41,046
+- Where do you come from? Rhodesia?
+- South Africa
+
+1135
+01:23:41,213 --> 01:23:45,001
+South Africa?
+I knew Jan Smuts a long time
+
+1136
+01:23:45,173 --> 01:23:46,731
+He was a good man
+
+1137
+01:23:46,893 --> 01:23:49,726
+I don't get to meet prime ministers
+
+1138
+01:23:49,893 --> 01:23:51,212
+now shut up!
+
+1139
+01:23:51,373 --> 01:23:52,931
+Whatever you say
+
+1140
+01:24:27,773 --> 01:24:28,808
+What do you want?
+
+1141
+01:24:29,413 --> 01:24:30,607
+Just talk
+
+1142
+01:24:30,773 --> 01:24:34,287
+Talk? You're a politician for sure
+
+1143
+01:24:34,452 --> 01:24:38,161
+I've not had anyone to
+talk to for two years
+
+1144
+01:24:38,932 --> 01:24:40,923
+Just prison guards
+
+1145
+01:24:41,092 --> 01:24:44,562
+I entertained myself trying
+to provoke them to kill me
+
+1146
+01:24:44,732 --> 01:24:46,484
+No point trying with me
+
+1147
+01:24:47,492 --> 01:24:49,722
+Go to sleep man!
+
+1148
+01:24:50,572 --> 01:24:51,971
+"Man"?...
+
+1149
+01:24:52,852 --> 01:24:55,082
+That's an improvement over kaffir
+
+1150
+01:24:58,532 --> 01:25:02,650
+- What did you do in South Africa?
+- I fought black cops
+
+1151
+01:25:02,812 --> 01:25:04,928
+Who were you fighting against, cops?
+
+1152
+01:25:06,092 --> 01:25:08,526
+If you're asking me if I understand the
+
+1153
+01:25:08,527 --> 01:25:10,961
+politics of my country,
+the answer's "no"
+
+1154
+01:25:12,132 --> 01:25:16,250
+At least we have an equal opportunity to
+neglect our education
+
+1155
+01:25:17,012 --> 01:25:18,286
+What do blacks do there?
+
+1156
+01:25:20,692 --> 01:25:22,489
+They want to take over my home
+
+1157
+01:25:23,492 --> 01:25:25,369
+That's all saving your life means to me
+
+1158
+01:25:25,532 --> 01:25:28,523
+A chance to live my own life,
+a free man in the country I love
+
+1159
+01:25:29,251 --> 01:25:31,048
+That's good enough
+
+1160
+01:25:32,411 --> 01:25:34,879
+Only one thing to remember about Africa
+
+1161
+01:25:35,931 --> 01:25:40,561
+Today, freedom is only a word
+for a new oppressor
+
+1162
+01:25:41,011 --> 01:25:44,765
+Black or White, North or South,
+
+1163
+01:25:44,931 --> 01:25:48,241
+if you want to live here,
+you've got to think about tomorrow
+
+1164
+01:26:01,851 --> 01:26:03,728
+- That's Kalima
+- Picturesque
+
+1165
+01:26:04,691 --> 01:26:07,000
+- Sandy? - Sir? - Post guards,
+send a patrol into the village
+
+1166
+01:26:07,411 --> 01:26:08,480
+- Tosh, come on.
+- Sir
+
+1167
+01:26:24,330 --> 01:26:25,729
+This will do for now
+
+1168
+01:26:29,210 --> 01:26:31,121
+If your white friends in South Africa
+
+1169
+01:26:31,330 --> 01:26:32,126
+could see you now...
+
+1170
+01:26:32,290 --> 01:26:33,484
+Oh, kaffir,
+
+1171
+01:26:33,650 --> 01:26:38,246
+if you think you can ride me through the
+bush like a mule and laugh at me,
+
+1172
+01:26:38,410 --> 01:26:40,321
+you can bloody well crawl
+
+1173
+01:26:43,530 --> 01:26:47,887
+We've carried you people on our backs
+ever since we came to this country
+
+1174
+01:26:48,050 --> 01:26:50,041
+It's the other way round I believe
+
+1175
+01:26:50,210 --> 01:26:54,044
+Is it? You need me to save your
+miserable black life right now
+
+1176
+01:26:54,210 --> 01:26:57,407
+I do. And you need me to save yours
+
+1177
+01:26:57,850 --> 01:26:59,249
+We need each other, white man
+
+1178
+01:26:59,730 --> 01:27:03,200
+and that's the way it should be.
+We've got the whole world using us,
+
+1179
+01:27:03,410 --> 01:27:06,607
+setting group against group,
+destroying Africa
+
+1180
+01:27:07,490 --> 01:27:10,448
+For me, "freedom" is just a another
+label for the upgrade of slavery
+
+1181
+01:27:11,010 --> 01:27:14,480
+and the final bloodbath is coming,
+between blacks and whites,
+
+1182
+01:27:14,690 --> 01:27:16,226
+and then between black and black
+
+1183
+01:27:16,227 --> 01:27:17,762
+when you whites have left
+Africa without support
+
+1184
+01:27:18,410 --> 01:27:20,605
+Man, we have built your countries
+
+1185
+01:27:20,769 --> 01:27:23,442
+and now you are kicking us out
+of almost all of them
+
+1186
+01:27:23,609 --> 01:27:26,282
+You're living on foreign aid,
+robbing your own people blind
+
+1187
+01:27:26,449 --> 01:27:28,548
+You're crying about outside oppression
+
+1188
+01:27:28,549 --> 01:27:30,647
+while killing each other
+in great big batches
+
+1189
+01:27:31,889 --> 01:27:33,527
+Now once you have
+something better to offer
+
+1190
+01:27:33,729 --> 01:27:35,685
+You come and see us
+in the white South Africa
+
+1191
+01:27:36,369 --> 01:27:38,644
+We both have something better to offer
+
+1192
+01:27:39,289 --> 01:27:42,645
+Listen to me. Because the white
+south will be next unless they learn
+
+1193
+01:27:42,849 --> 01:27:47,081
+You're joking. The whites were born
+here, we're just as African as you are
+
+1194
+01:27:47,249 --> 01:27:49,922
+And don't make any mistake.
+We're going to stay
+
+1195
+01:27:50,129 --> 01:27:51,926
+I'm glad to hear that
+
+1196
+01:27:52,089 --> 01:27:54,284
+You need to join us for a better future
+
+1197
+01:27:54,489 --> 01:27:55,683
+Join you?
+
+1198
+01:27:56,489 --> 01:27:58,798
+We've got to learn to care
+for each other
+
+1199
+01:27:58,969 --> 01:28:02,245
+or they'll be nothing left of our Africa
+except battlefields
+
+1200
+01:28:04,809 --> 01:28:07,801
+You have a point there.
+But do you have an answer?
+
+1201
+01:28:08,769 --> 01:28:10,680
+I have the will to look for one
+
+1202
+01:28:11,569 --> 01:28:15,357
+We must forgive you for the past and you
+must forgive us for the present
+
+1203
+01:28:15,929 --> 01:28:20,001
+If we have no future together,
+then we have no future
+
+1204
+01:28:20,168 --> 01:28:23,956
+That's what I believe in,
+and that's what I'm going to die for
+
+1205
+01:28:26,488 --> 01:28:28,683
+You're beginning to sound good to me
+
+1206
+01:28:29,248 --> 01:28:33,036
+Maybe we need you,
+maybe you are just the man
+
+1207
+01:28:35,408 --> 01:28:36,204
+Alright
+
+1208
+01:28:36,408 --> 01:28:37,284
+Let's get moving
+
+1209
+01:28:37,448 --> 01:28:41,600
+Maybe I'm a bloody fool,
+but I'm going to take you there
+
+1210
+01:28:41,808 --> 01:28:43,161
+Let's see if you are lying
+
+1211
+01:28:46,688 --> 01:28:48,838
+Just hang on tight, bloke
+
+1212
+01:29:19,007 --> 01:29:20,884
+Heavenly Father, what's going on?
+
+1213
+01:29:21,047 --> 01:29:22,639
+What's going on?
+
+1214
+01:29:23,007 --> 01:29:24,486
+Get out of my village
+
+1215
+01:29:24,687 --> 01:29:25,676
+You heathens!
+
+1216
+01:29:25,887 --> 01:29:28,162
+You Godless heathens!
+Why did you come to my church?
+
+1217
+01:29:28,367 --> 01:29:31,120
+I've got women and children,
+waiting to be slaughtered
+
+1218
+01:29:32,287 --> 01:29:34,005
+Tosh, why those shots?
+
+1219
+01:29:34,687 --> 01:29:36,917
+It was nothing, sir. It was just a pig
+
+1220
+01:29:37,847 --> 01:29:40,725
+Father Geoghagen... good God...
+
+1221
+01:29:40,887 --> 01:29:43,196
+I thought you were dead... long ago
+
+1222
+01:29:43,367 --> 01:29:45,323
+Looking at you and your guns... I am
+
+1223
+01:29:45,527 --> 01:29:47,165
+We need your help
+
+1224
+01:29:47,327 --> 01:29:48,396
+To kill your brothers?
+
+1225
+01:29:48,607 --> 01:29:50,040
+I hope not
+
+1226
+01:29:53,167 --> 01:29:55,727
+Always the same,
+but I'm glad to see you
+
+1227
+01:29:55,927 --> 01:29:58,646
+I hate the sight of you.
+I want you out of my village
+
+1228
+01:30:00,967 --> 01:30:03,117
+Let's talk about it over there
+
+1229
+01:31:20,605 --> 01:31:22,596
+Come on, let's go
+
+1230
+01:31:35,685 --> 01:31:37,801
+- Witty, over here.
+- Get your lovely ass out of here
+
+1231
+01:31:38,885 --> 01:31:40,841
+Witty's holding the fort!
+
+1232
+01:31:44,245 --> 01:31:45,564
+Stay down!
+
+1233
+01:31:45,765 --> 01:31:48,757
+Come on, my pretties. Show yourselves
+
+1234
+01:32:01,878 --> 01:32:03,339
+Witty!
+
+1235
+01:32:05,299 --> 01:32:07,199
+Pieter... come here
+
+1236
+01:32:15,244 --> 01:32:17,997
+Come on my dears! Where are you?
+
+1237
+01:32:33,164 --> 01:32:35,758
+Well look at you, you big bastards
+
+1238
+01:32:37,484 --> 01:32:39,918
+What a shame we can't be friends
+
+1239
+01:33:31,563 --> 01:33:33,952
+- Leave him to me.
+- You're welcome
+
+1240
+01:34:21,842 --> 01:34:24,231
+Don't worry. We'll make it
+
+1241
+01:34:25,122 --> 01:34:25,952
+Come on, Colonel Faulkner
+
+1242
+01:35:34,161 --> 01:35:36,038
+Leave me you will go faster
+
+1243
+01:35:37,401 --> 01:35:39,153
+<i>Oh no, kaffir</i>
+
+1244
+01:35:41,081 --> 01:35:42,753
+<i>I have to bring you back</i>
+
+1245
+01:35:48,921 --> 01:35:50,070
+<i>Don't die</i>
+
+1246
+01:35:51,160 --> 01:35:53,355
+<i>Please don't die</i>
+
+1247
+01:35:59,280 --> 01:36:00,076
+Let's go
+
+1248
+01:36:25,400 --> 01:36:26,310
+Spread out
+
+1249
+01:36:29,880 --> 01:36:30,869
+Mr. Limbani
+
+1250
+01:36:33,640 --> 01:36:34,550
+Please
+
+1251
+01:36:36,360 --> 01:36:38,749
+You can leave him now Mr. President.
+He's dead
+
+1252
+01:37:50,198 --> 01:37:53,986
+- How do you feel?
+- As you would say, Mr. Faulkner,
+
+1253
+01:37:54,958 --> 01:37:56,516
+I'm just hanging on
+
+1254
+01:37:56,838 --> 01:37:58,908
+Tell me if I'm wrong
+
+1255
+01:37:59,078 --> 01:38:01,433
+You want my people to rise up and fight
+
+1256
+01:38:01,638 --> 01:38:04,710
+I'd like your country to be yours, sir
+
+1257
+01:38:04,918 --> 01:38:09,514
+- Yes, so would I. But I think spears
+against machine guns was not a plan
+
+1258
+01:38:10,398 --> 01:38:12,866
+If you started it, there'd be
+something to back us up
+
+1259
+01:38:13,038 --> 01:38:14,517
+It's happened before
+
+1260
+01:38:14,678 --> 01:38:16,236
+Copper can be powerfully persuasive
+
+1261
+01:38:24,478 --> 01:38:26,548
+I've been through all of it with him,
+
+1262
+01:38:26,718 --> 01:38:29,391
+and God knows we've got enough
+commitment but we have no chance
+
+1263
+01:38:29,558 --> 01:38:30,468
+I've heard all that before
+
+1264
+01:38:30,638 --> 01:38:32,708
+I'll tell you now, the Simbas have got
+a whole battalion out there
+
+1265
+01:38:33,398 --> 01:38:34,990
+About an hour ago,
+there's more following
+
+1266
+01:38:35,198 --> 01:38:36,472
+What the devil are we doing here then?
+
+1267
+01:38:36,638 --> 01:38:39,471
+Possibly saving a good man
+for a better day
+
+1268
+01:38:39,678 --> 01:38:41,747
+With 30 men? What are we meant
+to do, walk out of Africa?
+
+1269
+01:38:41,957 --> 01:38:42,992
+We could probably try running
+
+1270
+01:38:43,157 --> 01:38:46,706
+Allen, believe me, these people have got
+nothing to fight for
+
+1271
+01:38:48,077 --> 01:38:49,635
+There's nowhere to run
+
+1272
+01:38:57,757 --> 01:39:01,909
+God in heaven, it's true. I didn't truly
+believe the rumor
+
+1273
+01:39:02,117 --> 01:39:04,347
+We're a little pressed for time, Father
+
+1274
+01:39:04,517 --> 01:39:06,109
+- You're Faulkner.
+- That's right
+
+1275
+01:39:06,277 --> 01:39:08,233
+Don't call me "Father",
+you murdering pig
+
+1276
+01:39:08,437 --> 01:39:11,270
+I have no time to discuss my
+finer qualities with you now
+
+1277
+01:39:11,437 --> 01:39:13,428
+Get those elders to have a look at him
+
+1278
+01:39:27,637 --> 01:39:29,355
+I'd like to talk to my people
+
+1279
+01:39:29,557 --> 01:39:30,876
+alone
+
+1280
+01:39:37,956 --> 01:39:40,390
+I believe you want to start
+a civil war here, Faulkner
+
+1281
+01:39:40,796 --> 01:39:43,109
+You'd be responsible for slaughter
+and starvation the likes of which
+
+1282
+01:39:43,110 --> 01:39:44,266
+you've never seen
+
+1283
+01:39:45,076 --> 01:39:48,227
+You'll be up to your eyes in blood...
+
+1284
+01:39:48,436 --> 01:39:51,109
+and you'll die, Faulkner. And all of us
+
+1285
+01:39:51,276 --> 01:39:54,268
+I'm against you. And God's against you
+
+1286
+01:39:54,436 --> 01:39:57,633
+And if you'll excuse the blasphemy,
+we're both tough sons of bitches
+
+1287
+01:39:57,836 --> 01:40:00,111
+That sort of talk could get
+back to the Vatican, Father
+
+1288
+01:40:00,276 --> 01:40:01,152
+You shut your mouth!
+
+1289
+01:40:01,356 --> 01:40:03,153
+I will turn these people against you,
+
+1290
+01:40:03,316 --> 01:40:05,830
+in spite of Limbani,
+I curse you from every hill
+
+1291
+01:40:06,036 --> 01:40:09,073
+Alright, that's enough!
+The decision's being made in there
+
+1292
+01:40:09,236 --> 01:40:10,032
+Alright
+
+1293
+01:40:10,436 --> 01:40:12,586
+I offer you a bargain, Faulkner
+
+1294
+01:40:12,756 --> 01:40:15,316
+About 3 miles from here,
+through the bush
+
+1295
+01:40:15,476 --> 01:40:18,036
+There's a mine airstrip,
+with an old Dakota
+
+1296
+01:40:18,236 --> 01:40:19,954
+just sitting on the side
+
+1297
+01:40:21,396 --> 01:40:22,465
+You said what?
+
+1298
+01:40:22,876 --> 01:40:26,755
+A Dakota. It's alright,
+I've flown in it
+
+1299
+01:40:26,916 --> 01:40:29,714
+And there's nothing between it and us,
+but a deserted village
+
+1300
+01:40:29,916 --> 01:40:31,474
+I'll lead you there myself
+
+1301
+01:40:32,596 --> 01:40:35,155
+You've still got time to take Limbani
+and leave us in peace
+
+1302
+01:40:41,955 --> 01:40:43,627
+Well, Mr. President
+
+1303
+01:40:43,795 --> 01:40:46,787
+They say if they fight now, they'll die,
+
+1304
+01:40:46,955 --> 01:40:48,104
+and they know it
+
+1305
+01:40:48,835 --> 01:40:50,154
+They were willing,
+
+1306
+01:40:51,075 --> 01:40:53,225
+but I can't do that, Mr. Faulkner
+
+1307
+01:40:53,395 --> 01:40:55,989
+I can't, do you understand?
+
+1308
+01:40:56,875 --> 01:40:59,105
+I told them to bear their
+spears and wait
+
+1309
+01:40:59,635 --> 01:41:01,546
+and be ready for Limbani's return
+
+1310
+01:41:01,995 --> 01:41:03,826
+They agreed
+
+1311
+01:41:04,035 --> 01:41:05,673
+- Without understanding why.
+- Alright
+
+1312
+01:41:05,875 --> 01:41:08,025
+You rest here.
+We're going to get you out
+
+1313
+01:41:10,515 --> 01:41:11,834
+- We've got Limbani.
+- Praise God
+
+1314
+01:41:11,995 --> 01:41:14,384
+Praise Limbani. Now show us
+where that airplane is
+
+1315
+01:41:14,555 --> 01:41:17,149
+Shawn, take 4 men, check it out
+and let me know
+
+1316
+01:41:17,315 --> 01:41:18,668
+- We'll be following.
+- Alright Allen
+
+1317
+01:41:20,395 --> 01:41:21,669
+Sandy, get the men out and ready to move
+
+1318
+01:41:21,875 --> 01:41:22,751
+We can't take the dead
+
+1319
+01:41:22,915 --> 01:41:26,032
+Sir! Right, come on, at the double
+
+1320
+01:41:30,355 --> 01:41:31,867
+You made the right decision, Allen
+
+1321
+01:41:32,034 --> 01:41:33,228
+Limbani made it, I didn't
+
+1322
+01:41:33,394 --> 01:41:34,565
+If he can't save his country from here,
+
+1323
+01:41:34,566 --> 01:41:36,909
+the question is, what'll we do
+with him once we get him out?
+
+1324
+01:41:37,074 --> 01:41:40,225
+We knows? We may be back
+again to do another contract
+
+1325
+01:41:40,394 --> 01:41:41,429
+You never quit, do you?
+
+1326
+01:41:41,594 --> 01:41:45,030
+If I did, I wouldn't have
+a future would I? Also...
+
+1327
+01:41:45,194 --> 01:41:47,105
+don't laugh, but, err...
+
+1328
+01:41:47,274 --> 01:41:49,834
+- that man in there...
+- I know, he got to you, right?
+
+1329
+01:41:50,034 --> 01:41:50,830
+Yes
+
+1330
+01:42:00,714 --> 01:42:01,510
+There you are, boys
+
+1331
+01:42:01,714 --> 01:42:03,193
+There she is, over there
+
+1332
+01:42:12,674 --> 01:42:13,550
+Good afternoon
+
+1333
+01:42:13,714 --> 01:42:15,545
+- Are you going to fly this thing, or am I?
+- What?
+
+1334
+01:42:56,273 --> 01:42:57,626
+Keep going
+
+1335
+01:43:14,313 --> 01:43:16,031
+We were lucky, Colonel
+
+1336
+01:43:16,193 --> 01:43:19,185
+Yes, they could be anywhere.
+We'll have to go ahead
+
+1337
+01:43:19,353 --> 01:43:22,789
+Rafer, you're the rear-guard.
+Take 3 men, stick close to us
+
+1338
+01:43:22,953 --> 01:43:24,863
+Jesse, take point and go like hell
+
+1339
+01:43:25,032 --> 01:43:27,421
+- Sandy, look after Mr. Limbani.
+- Yes sir
+
+1340
+01:43:27,592 --> 01:43:30,709
+- When there's no-one else about you
+can call me Allen. - Yes sir
+
+1341
+01:43:34,752 --> 01:43:36,822
+<i>I think we've been spotted,
+don't call back and</i>
+
+1342
+01:43:37,032 --> 01:43:40,149
+don't start up until we get there.
+I want it quiet. Out
+
+1343
+01:43:40,552 --> 01:43:43,624
+Father, I think you should get on
+your ass and vacate the premises
+
+1344
+01:43:44,032 --> 01:43:45,624
+You're likely to get your
+sainthood shot off
+
+1345
+01:43:47,032 --> 01:43:48,431
+I'll do that
+
+1346
+01:43:51,192 --> 01:43:52,671
+Good luck, you Godless murderers
+
+1347
+01:43:53,712 --> 01:43:56,146
+That's one of the most moving
+benedictions I ever heard
+
+1348
+01:43:58,112 --> 01:43:59,431
+Merry Christmas to you, Father
+
+1349
+01:44:00,152 --> 01:44:01,471
+What's left of it
+
+1350
+01:44:22,791 --> 01:44:24,907
+Sandy, there's your killing ground
+
+1351
+01:44:25,071 --> 01:44:28,905
+Take Tosh and 4 other men and
+set up a field of fire
+
+1352
+01:44:29,071 --> 01:44:31,505
+Rafer & I will go deep around
+& take them in the flank
+
+1353
+01:44:32,391 --> 01:44:34,825
+We're losing light. I wouldn't want
+to take this wreck up in the dark
+
+1354
+01:44:34,991 --> 01:44:37,505
+We could try and find them, sir,
+and lead them in
+
+1355
+01:44:38,191 --> 01:44:39,863
+We don't know where they're coming from
+
+1356
+01:44:40,031 --> 01:44:43,068
+Derek, you stay with me. Jock, take the
+Vickers and set it up this end
+
+1357
+01:44:43,231 --> 01:44:45,699
+Quincy, help me move this out of here
+
+1358
+01:44:45,871 --> 01:44:46,986
+Come on, move
+
+1359
+01:44:54,631 --> 01:44:55,780
+Set it up here
+
+1360
+01:45:42,710 --> 01:45:43,586
+We're dead
+
+1361
+01:45:43,750 --> 01:45:47,459
+Esposito, you're not dead until
+I TELL you you're dead, understand?
+
+1362
+01:45:47,630 --> 01:45:48,426
+Wait
+
+1363
+01:45:49,790 --> 01:45:50,586
+Wait
+
+1364
+01:45:51,790 --> 01:45:52,825
+Wait
+
+1365
+01:45:57,590 --> 01:45:58,545
+Fire fire fire fire!
+
+1366
+01:46:33,149 --> 01:46:34,628
+Forward!
+
+1367
+01:46:36,509 --> 01:46:38,101
+Keep going!
+
+1368
+01:46:45,629 --> 01:46:46,903
+Let's go!
+
+1369
+01:47:23,548 --> 01:47:25,140
+Hold it! They're ours, too
+
+1370
+01:48:39,227 --> 01:48:42,378
+Put Mr. Limbani on the 'plane first.
+The other 4 will cover
+
+1371
+01:48:54,107 --> 01:48:56,416
+We have to wait for Sandy and the group
+
+1372
+01:49:05,426 --> 01:49:08,384
+Rafer, Jock, set up cover on the
+edge of the airstrip, move
+
+1373
+01:49:30,066 --> 01:49:31,784
+- Mr. Limbani alright, Daniel?
+- Yes, he is
+
+1374
+01:49:50,426 --> 01:49:51,415
+Move!
+
+1375
+01:50:25,505 --> 01:50:26,381
+Come on, Allen!
+
+1376
+01:50:30,025 --> 01:50:31,344
+Move your bloody ass!
+
+1377
+01:50:36,665 --> 01:50:38,018
+Hurry up and get on
+
+1378
+01:50:47,185 --> 01:50:49,983
+- It's moving!
+- Stay down! They're getting closer
+
+1379
+01:50:54,865 --> 01:50:56,662
+Hit them with the bazooka!
+
+1380
+01:51:01,224 --> 01:51:02,452
+Ready!
+
+1381
+01:51:07,304 --> 01:51:08,419
+Let's go!
+
+1382
+01:51:18,664 --> 01:51:21,861
+Get on board, fast. Come on
+
+1383
+01:51:22,024 --> 01:51:23,218
+Sandy, go!
+
+1384
+01:51:34,624 --> 01:51:37,741
+Cover us halfway. When you hear
+the guns, start running, we'll cover you
+
+1385
+01:51:37,904 --> 01:51:40,372
+We won't wait for you,
+we're running out of ammo
+
+1386
+01:51:47,588 --> 01:51:49,007
+ALLEN!
+
+1387
+01:51:49,873 --> 01:51:52,681
+Sandy!...
+Sandy!
+
+1388
+01:51:56,503 --> 01:51:58,141
+- Leave him, he's dead.
+- Yes sir
+
+1389
+01:51:58,903 --> 01:51:59,779
+Come on
+
+1390
+01:52:24,143 --> 01:52:26,737
+Rafer! Come on! Come on!
+
+1391
+01:52:32,823 --> 01:52:34,495
+Come on, Rafer!
+
+1392
+01:52:36,023 --> 01:52:37,092
+Shawn, stop the plane
+
+1393
+01:52:37,303 --> 01:52:39,817
+I can't, if we don't get off on the
+first run, we've had it
+
+1394
+01:52:44,863 --> 01:52:45,659
+Go!
+
+1395
+01:53:02,622 --> 01:53:03,816
+Rafer, come on!
+
+1396
+01:53:23,182 --> 01:53:24,297
+Hang on, Rafer
+
+1397
+01:53:24,502 --> 01:53:25,935
+- Hold on.
+- Allen!
+
+1398
+01:53:36,942 --> 01:53:39,854
+Allen, shoot me!
+For God's sakes, shoot me!
+
+1399
+01:53:40,062 --> 01:53:42,018
+No, I can't! No!
+
+1400
+01:53:42,622 --> 01:53:43,418
+Stop the plane
+
+1401
+01:53:44,942 --> 01:53:46,170
+Emile!
+
+1402
+01:54:53,780 --> 01:54:54,895
+Where are we heading?
+
+1403
+01:54:55,060 --> 01:54:57,620
+South Rhodesia
+
+1404
+01:54:58,060 --> 01:55:00,051
+That's 800 miles,
+we don't have the fuel
+
+1405
+01:55:00,220 --> 01:55:03,018
+We better have it,
+there's no other place to go
+
+1406
+01:55:04,647 --> 01:55:08,216
+Shawn... I killed Rafer
+
+1407
+01:55:10,980 --> 01:55:12,811
+The Simbas would've
+chopped him into small pieces
+
+1408
+01:55:14,860 --> 01:55:16,339
+Allen, go and see how the men are
+
+1409
+01:55:16,500 --> 01:55:18,570
+There's 13 of us left
+
+1410
+01:55:21,140 --> 01:55:23,608
+Tell them to jettison everything
+that's not nailed down
+
+1411
+01:55:23,820 --> 01:55:24,650
+Everything! Do it
+
+1412
+01:55:25,300 --> 01:55:26,619
+Mr. Limbani's getting worse, sir
+
+1413
+01:55:38,580 --> 01:55:40,376
+It was a very good try, Mr. Faulkner
+
+1414
+01:55:40,579 --> 01:55:43,616
+It's not over, just hang on.
+Don't give up now
+
+1415
+01:55:46,859 --> 01:55:47,735
+About Mr. Janders...
+
+1416
+01:55:48,539 --> 01:55:50,530
+There was nothing else you could do
+
+1417
+01:56:02,859 --> 01:56:05,737
+- How's Jock?
+- He's dead, sir
+
+1418
+01:56:06,739 --> 01:56:10,129
+Why? What was it for, sir?
+
+1419
+01:56:11,339 --> 01:56:12,488
+I don't know
+
+1420
+01:56:13,659 --> 01:56:14,569
+Alright
+
+1421
+01:56:15,019 --> 01:56:16,975
+We have to get rid of
+everything on board
+
+1422
+01:56:17,577 --> 01:56:19,693
+That includes old Jock.
+I'll leave it with you, Sergeant
+
+1423
+01:56:20,459 --> 01:56:21,494
+Yes, sir
+
+1424
+01:56:21,859 --> 01:56:24,089
+Gennaro, get his legs
+
+1425
+01:56:25,179 --> 01:56:26,532
+How much fuel do we have left?
+
+1426
+01:56:26,699 --> 01:56:28,894
+Bad... we're on the auxiliary tanks
+
+1427
+01:56:30,059 --> 01:56:34,098
+Salisbury control,
+9 Quebec November X-Ray Alpha
+
+1428
+01:56:34,659 --> 01:56:36,058
+on 6603
+
+1429
+01:56:36,739 --> 01:56:38,330
+Do you read? Over?
+
+1430
+01:56:38,498 --> 01:56:40,250
+<i>9 Quebec November X-Ray Alpha</i>
+
+1431
+01:56:40,458 --> 01:56:43,416
+<i>This is Salisbury.
+State your destination, over</i>
+
+1432
+01:56:43,898 --> 01:56:48,926
+Mercenary unit, departing Kalima.
+7 wounded on board
+
+1433
+01:56:49,138 --> 01:56:51,015
+Urgently request permission
+to land, Kariba
+
+1434
+01:56:51,218 --> 01:56:53,288
+If they refuse, keep on talking
+
+1435
+01:56:53,458 --> 01:56:55,892
+<i>X- Ray Alpha, stand-by</i>
+
+1436
+01:57:01,978 --> 01:57:04,856
+We're going to need positive proof
+that you're on board
+
+1437
+01:57:05,458 --> 01:57:06,573
+Write this down
+
+1438
+01:57:07,658 --> 01:57:09,137
+Got a pen?
+
+1439
+01:57:12,738 --> 01:57:13,568
+<i>X- ray Alpha,</i>
+
+1440
+01:57:13,778 --> 01:57:15,348
+<i>this is Salisbury Control, come in</i>
+
+1441
+01:57:15,349 --> 01:57:16,133
+Allen!
+
+1442
+01:57:18,538 --> 01:57:20,415
+Reading you at strength 4, over
+
+1443
+01:57:20,618 --> 01:57:24,850
+<i>Permission to land denied.
+Do not cross our borders</i>
+
+1444
+01:57:25,018 --> 01:57:28,135
+For Christ's sakes man, we have wounded
+on board, we can sort it out later, over
+
+1445
+01:57:28,298 --> 01:57:30,812
+<i>I repeat, do not cross our borders</i>
+
+1446
+01:57:30,978 --> 01:57:32,570
+<i>Our air force has been alerted</i>
+
+1447
+01:57:32,738 --> 01:57:33,613
+Give that to me
+
+1448
+01:57:34,697 --> 01:57:36,494
+<i>We would be forced to shoot you down</i>
+
+1449
+01:57:36,657 --> 01:57:39,296
+Salisbury... X-ray Alpha
+
+1450
+01:57:39,457 --> 01:57:43,416
+Now you listen to me. Julius Limbani
+is on board and he's alive
+
+1451
+01:57:43,617 --> 01:57:45,608
+Note this down and pass
+it to the highest authority
+
+1452
+01:57:45,817 --> 01:57:46,932
+you can find
+
+1453
+01:57:47,097 --> 01:57:48,450
+Allen, look at the starboard fuel gauge
+
+1454
+01:57:48,657 --> 01:57:52,650
+Mr. Limbani said there was a
+secret meeting in July of 1960
+
+1455
+01:57:52,817 --> 01:57:55,729
+on the now Zambian-Zaire border
+
+1456
+01:57:55,730 --> 01:57:58,536
+concerning federal intervention
+in the Congo crisis
+
+1457
+01:57:58,737 --> 01:58:00,489
+Present at the meeting
+were the following:
+
+1458
+01:58:00,697 --> 01:58:01,686
+Julius Limbani...
+
+1459
+01:58:14,897 --> 01:58:16,967
+Brace yourselves,
+we've only got one engine
+
+1460
+01:58:34,416 --> 01:58:37,055
+The man is dead, Mr. Faulkner
+
+1461
+01:58:37,216 --> 01:58:39,366
+Now only the spirit remains
+
+1462
+01:58:56,616 --> 01:59:00,814
+<i>November X-ray Alpha, this is Salisbury.
+Authorization to land at Kariba</i>
+
+1463
+01:59:00,976 --> 01:59:02,967
+<i>We will turn the lights on</i>
+
+1464
+01:59:03,136 --> 01:59:06,048
+<i>You'll see it just before the lake.
+Good luck</i>
+
+1465
+01:59:06,216 --> 01:59:07,649
+Thank you. Allen...
+
+1466
+01:59:09,056 --> 01:59:10,375
+I heard
+
+1467
+01:59:11,416 --> 01:59:12,735
+Limbani's dead
+
+1468
+02:00:18,255 --> 02:00:20,007
+OK, thanks
+
+1469
+02:00:22,935 --> 02:00:25,050
+Goodbye, bon voyage
+
+1470
+02:00:40,174 --> 02:00:42,324
+Will there be anything else
+this evening, sir?
+
+1471
+02:00:43,134 --> 02:00:44,533
+No, thanks
+
+1472
+02:00:44,694 --> 02:00:46,093
+Good night, sir
+
+1473
+02:01:13,654 --> 02:01:15,406
+Yes, what is it, Andrew?
+
+1474
+02:01:15,574 --> 02:01:17,963
+There will be something more tonight,
+Sir Edward
+
+1475
+02:01:24,213 --> 02:01:25,771
+Go ahead and make your move
+
+1476
+02:01:32,293 --> 02:01:35,285
+That would be mate in two.
+I'd like to see you get out of that
+
+1477
+02:01:35,493 --> 02:01:37,006
+That's for another time
+
+1478
+02:01:38,293 --> 02:01:39,965
+There are 6 servants in this house
+
+1479
+02:01:40,533 --> 02:01:43,411
+I saw at least ten. How did you count?
+
+1480
+02:01:44,093 --> 02:01:45,321
+What do you want, Faulkner?
+
+1481
+02:01:45,493 --> 02:01:47,165
+You're a very bad conversationalist!
+
+1482
+02:01:47,333 --> 02:01:50,131
+You'll have to excuse me,
+I've had a very tiring evening
+
+1483
+02:01:50,333 --> 02:01:51,925
+I heard, I was in the drawing room
+
+1484
+02:01:53,333 --> 02:01:56,689
+I know you're dying to tell me.
+How did you get in?
+
+1485
+02:01:57,213 --> 02:02:01,684
+I did a crash course
+in how to trip alarms
+
+1486
+02:02:02,533 --> 02:02:04,489
+You're not very well protected
+
+1487
+02:02:04,653 --> 02:02:07,770
+And I guess you're dying to know
+how I got back to England?
+
+1488
+02:02:07,933 --> 02:02:09,730
+Yes, indeed
+
+1489
+02:02:09,893 --> 02:02:12,646
+Well, if I went into details,
+we'd be here all night
+
+1490
+02:02:13,253 --> 02:02:14,572
+Let's just say it wasn't easy
+
+1491
+02:02:14,733 --> 02:02:16,564
+I'm sure it wasn't
+
+1492
+02:02:16,733 --> 02:02:19,724
+You're a remarkable man, Faulkner
+
+1493
+02:02:19,892 --> 02:02:21,962
+I have contracts to kill you world-wide
+
+1494
+02:02:22,692 --> 02:02:25,968
+When I have time I'll grow a moustache
+and buy a pair of dark glasses
+
+1495
+02:02:26,812 --> 02:02:27,961
+In the meantime,
+
+1496
+02:02:28,172 --> 02:02:30,242
+I have my own contract to carry out
+
+1497
+02:02:31,292 --> 02:02:32,850
+- On me?
+- That's why I'm here
+
+1498
+02:02:34,972 --> 02:02:37,008
+Perhaps we can make an arrangement
+
+1499
+02:02:37,212 --> 02:02:38,565
+Yes, we can
+
+1500
+02:02:38,732 --> 02:02:40,723
+You owe me a great deal of money
+
+1501
+02:02:40,892 --> 02:02:43,360
+Also there are 11 men still alive
+
+1502
+02:02:44,212 --> 02:02:46,168
+And I haven't even counted
+the women and orphans yet
+
+1503
+02:02:47,532 --> 02:02:48,885
+Let's have a look at your safe
+
+1504
+02:02:49,812 --> 02:02:52,770
+After you. Very slowly
+
+1505
+02:03:17,091 --> 02:03:19,844
+I've turned off the alarm already.
+Open it
+
+1506
+02:03:29,091 --> 02:03:30,524
+All the money in the case
+
+1507
+02:03:35,131 --> 02:03:38,487
+- I see you came prepared.
+- Yes
+
+1508
+02:03:39,571 --> 02:03:41,163
+Dollars, very good
+
+1509
+02:03:42,731 --> 02:03:45,723
+Very good, thousand dollar bills
+
+1510
+02:03:46,211 --> 02:03:49,840
+I wager the US treasury
+wonders where they went
+
+1511
+02:03:50,331 --> 02:03:52,003
+Now tell me about the arrangement
+
+1512
+02:03:52,211 --> 02:03:53,326
+Now
+
+1513
+02:03:54,251 --> 02:03:57,209
+500,000 dollars
+
+1514
+02:03:57,731 --> 02:03:59,881
+Half of what I owe you
+
+1515
+02:04:00,051 --> 02:04:02,804
+I lift all the contracts on your head
+
+1516
+02:04:02,971 --> 02:04:06,281
+and pay the other half in cash,
+wherever you choose
+
+1517
+02:04:06,491 --> 02:04:08,447
+- And I trust you?
+- Yes
+
+1518
+02:04:08,611 --> 02:04:10,328
+And naturally, I don't kill you?
+
+1519
+02:04:11,450 --> 02:04:12,439
+Correct
+
+1520
+02:04:17,930 --> 02:04:21,366
+Do you know, I had a speech prepared
+
+1521
+02:04:21,530 --> 02:04:24,522
+I'd been rehearsing it for 3 months.
+It was pretty good
+
+1522
+02:04:25,130 --> 02:04:30,079
+All about betrayal and lost friends.
+A sort of passionate requiem
+
+1523
+02:04:30,250 --> 02:04:34,368
+And naturally, what a filthy
+cold-blooded monster you are
+
+1524
+02:04:36,850 --> 02:04:39,125
+That part was very eloquent
+
+1525
+02:04:39,330 --> 02:04:42,447
+It even went into the philosophical
+implications
+
+1526
+02:04:42,610 --> 02:04:45,302
+of the relationship between
+a mercenary and his employer
+
+1527
+02:04:45,303 --> 02:04:46,649
+You'd have been impressed
+
+1528
+02:04:47,290 --> 02:04:49,850
+But right now, face to face with you
+
+1529
+02:04:50,050 --> 02:04:51,768
+I don't want to go through all that
+
+1530
+02:04:52,130 --> 02:04:54,564
+See, I don't mind taking money from you
+
+1531
+02:04:54,730 --> 02:04:56,846
+But having you offer
+me money for the lives
+
+1532
+02:04:56,847 --> 02:04:58,962
+of all those bodies littering Africa
+
+1533
+02:04:59,130 --> 02:05:02,281
+is actually degrading
+
+1534
+02:05:04,890 --> 02:05:08,768
+So I turn down your arrangement
+
+1535
+02:05:13,689 --> 02:05:14,678
+I see...
+
+1536
+02:05:15,729 --> 02:05:18,766
+Well, then I suppose
+you'd better kill me
+
+1537
+02:05:19,529 --> 02:05:22,089
+You're a remarkable man too, Sir Edward
+
+1538
+02:05:22,729 --> 02:05:24,401
+So I suppose I better had
+
+1539
+02:05:26,329 --> 02:05:27,523
+Now just wait a minute!
+
+1540
+02:05:35,889 --> 02:05:36,924
+Wait...
+
+1541
+02:06:04,768 --> 02:06:07,043
+Can I ask how it went?
+
+1542
+02:06:07,448 --> 02:06:08,437
+No
+
+1543
+02:06:09,568 --> 02:06:10,967
+I thought so
+
+1544
+02:06:24,888 --> 02:06:26,685
+Send the ball back, Emile
+
+1545
+02:06:31,728 --> 02:06:33,320
+Let's talk about your Father
+

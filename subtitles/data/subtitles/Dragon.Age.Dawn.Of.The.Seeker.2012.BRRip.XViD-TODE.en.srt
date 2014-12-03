@@ -1,0 +1,2998 @@
+1
+00:01:07,931 --> 00:01:10,709
+They call it the Dragon Age...
+
+2
+00:01:10,710 --> 00:01:15,564
+a time of political strife,
+savage beasts and powerful magic...
+
+3
+00:01:15,565 --> 00:01:20,582
+but also a time of faith...
+faith in the Chantry of Andraste,
+
+4
+00:01:21,190 --> 00:01:26,144
+a dominant religious order led
+by her holiness, the Divine...
+
+5
+00:01:26,145 --> 00:01:29,994
+Her Templar knights exert
+harsh control over the Mages,
+
+6
+00:01:29,995 --> 00:01:32,071
+restricting the
+practice of the arcane
+
+7
+00:01:32,072 --> 00:01:34,146
+magical arts they believe
+have the potential
+
+8
+00:01:34,147 --> 00:01:36,924
+to unleash a blight upon the world...
+
+9
+00:01:36,925 --> 00:01:40,439
+The most dangerous of these are
+the Blood Mages who continue
+
+10
+00:01:40,440 --> 00:01:45,457
+to perform their dark rituals in secret...
+in defiance of the Chantry.
+
+11
+00:01:45,564 --> 00:01:48,609
+Determined to neutralize
+this threat at any cost,
+
+12
+00:01:48,610 --> 00:01:52,928
+the Templar's methods become
+more brutal and their suspicions rise,
+
+13
+00:01:52,929 --> 00:01:56,812
+even extending to the
+loyal Circle of Magi...
+
+14
+00:01:56,813 --> 00:02:01,633
+Corruption infects the Templar ranks
+as the leadership sees their role shift
+
+15
+00:02:01,634 --> 00:02:04,880
+from control and protection...
+to suppression.
+
+16
+00:02:04,881 --> 00:02:09,467
+As tensions boil within the Chantry,
+the balance of power has been maintained
+
+17
+00:02:09,468 --> 00:02:13,686
+by the Seekers, the finest
+and most loyal of the Templars
+
+18
+00:02:13,687 --> 00:02:16,565
+Handpicked by the Divine herself...
+
+19
+00:02:16,566 --> 00:02:21,454
+these defenders of truth root out
+corruption, wherever it may be found,
+
+20
+00:02:21,455 --> 00:02:25,940
+be it from rogue Mages, or within
+the halls of the Chantry itself.
+
+21
+00:02:25,941 --> 00:02:29,389
+Now the Ten Year
+"Gathering of the Faithful" looms,
+
+22
+00:02:29,390 --> 00:02:31,898
+and pilgrims from all corners
+of the world journey
+
+23
+00:02:31,899 --> 00:02:34,407
+to the Orlaisian Empire
+to pray for peace...
+
+24
+00:02:35,081 --> 00:02:40,070
+A peace that those in the
+shadows are plotting to shatter.
+
+25
+00:04:04,630 --> 00:04:06,940
+Brothers!
+
+26
+00:04:06,940 --> 00:04:11,940
+A new era for Mages everywhere is about to begin!
+
+27
+00:04:20,020 --> 00:04:24,970
+Now, Avexis, the time has come to join our cause.
+
+28
+00:05:05,850 --> 00:05:08,320
+Keep your focus, Cassandra.
+
+29
+00:05:08,320 --> 00:05:11,240
+Don't let your fury run away with you again.
+
+30
+00:05:13,030 --> 00:05:14,930
+I know, Byron.
+
+31
+00:05:14,930 --> 00:05:17,040
+Trust in the Maker.
+
+32
+00:05:25,920 --> 00:05:29,180
+It's useless to resist, Avexis.
+
+33
+00:05:29,180 --> 00:05:31,950
+Drink.. Drink your destiny...
+
+34
+00:05:31,950 --> 00:05:33,590
+Brother Frenic...
+
+35
+00:05:33,590 --> 00:05:36,230
+If she drinks any more, it will kill her..
+
+36
+00:05:39,570 --> 00:05:42,980
+I will decide when she's had enough. Is that understood?!
+
+37
+00:05:48,450 --> 00:05:50,380
+For the Chantry!
+
+38
+00:05:50,380 --> 00:05:53,450
+For the Chantry!
+
+39
+00:06:09,610 --> 00:06:11,180
+Ha!
+
+40
+00:06:42,150 --> 00:06:44,660
+Now, release it!
+
+41
+00:07:03,420 --> 00:07:06,350
+Enough, Cassandra! Gather your wits. We have work to do.
+
+42
+00:07:11,830 --> 00:07:14,830
+I'll draw its eye. Don't keep me waiting!
+
+43
+00:07:16,870 --> 00:07:18,700
+Hey!
+
+44
+00:07:18,700 --> 00:07:22,610
+That's right! Come on! Come and get me!
+
+45
+00:07:51,280 --> 00:07:53,650
+There's nowhere left to run, Mage.
+
+46
+00:07:53,650 --> 00:07:56,000
+Release the girl and submit!
+
+47
+00:07:59,230 --> 00:08:00,940
+Make way!
+
+48
+00:08:05,970 --> 00:08:10,010
+You're from one of the dragon-hunting clans.
+
+49
+00:08:10,010 --> 00:08:12,180
+It seems I'm outmatched...
+
+50
+00:08:19,690 --> 00:08:22,000
+Spineless Blood Mage!
+
+51
+00:08:50,830 --> 00:08:53,410
+You may rise.
+
+52
+00:08:55,870 --> 00:08:58,740
+We applaud your recent efforts, High Seeker.
+
+53
+00:08:58,740 --> 00:09:03,080
+However, your report also raises many concerns.
+
+54
+00:09:03,080 --> 00:09:07,760
+To think this is all happening so close to the Ten Year Gathering...
+
+55
+00:09:07,760 --> 00:09:11,030
+Surely it is not a coincidence.
+
+56
+00:09:11,030 --> 00:09:15,670
+We're already taking extra precautions, Most Holy.
+
+57
+00:09:15,670 --> 00:09:18,550
+So you managed to bring back a little Blood Mage girl?
+
+58
+00:09:19,840 --> 00:09:23,210
+Avexis is not a Blood Mage, Your Grace.
+
+59
+00:09:23,210 --> 00:09:26,220
+She was taken from the Circle of Magi.
+
+60
+00:09:28,120 --> 00:09:32,760
+It's true. She went missing from the Circle a few weeks ago.
+
+61
+00:09:32,760 --> 00:09:36,970
+Presumably kidnapped. We've been searching for her since.
+
+62
+00:09:38,630 --> 00:09:41,700
+I am most grateful for her rescue, High Seeker.
+
+63
+00:09:41,700 --> 00:09:43,810
+We will come for her soon.
+
+64
+00:09:43,810 --> 00:09:48,080
+I'm afraid I cannot allow that, First Enchanter.
+
+65
+00:09:48,080 --> 00:09:50,380
+And why not?
+
+66
+00:09:50,380 --> 00:09:52,980
+She was the focus of the ritual,
+
+67
+00:09:52,837 --> 00:09:57,024
+and is obviously vital to whatever
+the Blood Mages are planning.
+
+68
+00:09:57,025 --> 00:10:02,016
+She will remain in my custody
+until we get to the bottom of this.
+
+69
+00:10:09,394 --> 00:10:12,976
+Did the Seekers really bring down a drake?
+
+70
+00:10:12,977 --> 00:10:16,664
+Yes, Your Reverence. It was Cassandra.
+
+71
+00:10:17,764 --> 00:10:21,312
+You are to be commended
+for your exceptional bravery.
+
+72
+00:10:21,313 --> 00:10:23,756
+I would expect nothing
+less from a Pentaghast.
+
+73
+00:10:23,757 --> 00:10:26,473
+Your family's dragon-hunting
+skills are legendary.
+
+74
+00:10:27,539 --> 00:10:32,556
+You honor us, Grand Cleric.
+We are proud to serve the Chantry.
+
+75
+00:10:33,900 --> 00:10:37,983
+You have my praise as well, High Seeker.
+
+76
+00:10:37,984 --> 00:10:42,608
+Another notable success
+by your loyal order.
+
+77
+00:10:44,076 --> 00:10:46,584
+However, it seems rather
+reckless to risk your
+
+78
+00:10:46,585 --> 00:10:49,093
+small numbers against
+Blood Mage ceremonies.
+
+79
+00:10:51,375 --> 00:10:56,305
+Perhaps if you shared your intelligence,
+my Templars could better assist you.
+
+80
+00:10:57,501 --> 00:11:03,129
+There are times when stealth and
+discretion are more valuable than numbers.
+
+81
+00:11:04,530 --> 00:11:08,514
+Are you implying you don't
+trust us to act with discretion?
+
+82
+00:11:08,515 --> 00:11:12,029
+Ensuring that you do is one of our duties.
+
+83
+00:11:12,030 --> 00:11:14,138
+Or have you forgotten, Knight Commander?
+
+84
+00:11:18,335 --> 00:11:21,576
+Gentlemen, remember where you are.
+
+85
+00:11:23,569 --> 00:11:26,568
+My deepest apologies, Your Holiness.
+
+86
+00:11:26,569 --> 00:11:31,447
+With your permission, we shall take our
+leave and return to our investigation.
+
+87
+00:11:58,177 --> 00:12:01,951
+Such violence before
+bed will give you nightmares.
+
+88
+00:12:11,580 --> 00:12:13,921
+Let's see what you've got!
+
+89
+00:13:04,457 --> 00:13:07,590
+There's nothing left for me
+to teach you about swordplay.
+
+90
+00:13:07,591 --> 00:13:10,524
+I know no man tougher
+than you with a blade.
+
+91
+00:13:10,525 --> 00:13:13,391
+But you just bested me.
+
+92
+00:13:13,392 --> 00:13:17,359
+Yes, but you weren't fighting
+with everything you have, were you?
+
+93
+00:13:17,360 --> 00:13:22,356
+Perhaps, but you had me completely
+at your mercy with that final move.
+
+94
+00:13:22,761 --> 00:13:27,637
+Sometimes your blade becomes your shield
+and your shield becomes your blade.
+
+95
+00:13:30,363 --> 00:13:33,729
+Your prejudice misleads
+yourjudgment, Cassandra.
+
+96
+00:13:33,730 --> 00:13:37,529
+To see the truth, you must look
+through the eyes of your heart,
+
+97
+00:13:37,530 --> 00:13:39,897
+and not just the ones in your head.
+
+98
+00:13:39,898 --> 00:13:43,307
+Not everything is what it
+appears on the surface.
+
+99
+00:13:44,898 --> 00:13:49,894
+Sorry, I must sound just
+like a father lecturing his child.
+
+100
+00:13:50,466 --> 00:13:53,071
+I'd be proud to have you as a father.
+
+101
+00:13:55,034 --> 00:13:56,910
+Good night, Byron.
+
+102
+00:14:15,372 --> 00:14:19,871
+One of the Circle of Magi dogs
+was able to sniff out our ritual.
+
+103
+00:14:19,872 --> 00:14:23,272
+However, its purpose still eludes them.
+
+104
+00:14:23,273 --> 00:14:28,582
+As long as we get Avexis back,
+we can proceed as planned.
+
+105
+00:14:29,708 --> 00:14:32,949
+It's far too dangerous to
+continue meeting like this.
+
+106
+00:14:35,476 --> 00:14:40,472
+Here. This is a rare Elven Stone
+you can use to communicate with me.
+
+107
+00:14:40,977 --> 00:14:43,442
+Keep it on your person at all times.
+
+108
+00:14:43,443 --> 00:14:45,877
+Should you discover any
+more useful information,
+
+109
+00:14:45,878 --> 00:14:49,745
+my Mages and I will be ready to act.
+
+110
+00:14:49,746 --> 00:14:53,379
+Victory will be ours.
+
+111
+00:15:56,793 --> 00:15:59,325
+Byron! What are you doing?
+
+112
+00:15:59,326 --> 00:16:01,092
+There's no time to explain.
+
+113
+00:16:01,093 --> 00:16:03,293
+Go back to your quarters
+and forget what you've seen here.
+
+114
+00:16:03,294 --> 00:16:05,893
+That's not what you trained me to do.
+
+115
+00:16:05,894 --> 00:16:09,794
+I trained you to follow orders. Now go!
+
+116
+00:16:09,795 --> 00:16:11,398
+Byron;
+
+117
+00:16:20,664 --> 00:16:22,764
+Tell me where you're taking her.
+
+118
+00:16:22,765 --> 00:16:24,598
+I can't say.
+
+119
+00:16:24,599 --> 00:16:26,731
+I'm on an important mission.
+
+120
+00:16:26,732 --> 00:16:28,399
+What is it?
+
+121
+00:16:28,400 --> 00:16:30,673
+I don't want to involve you in this.
+
+122
+00:16:33,834 --> 00:16:36,833
+Raise the alarm! Men down!
+There's been an intruder!
+
+123
+00:16:36,834 --> 00:16:39,300
+Someone has taken the girl!
+...Search the grounds!
+
+124
+00:16:39,301 --> 00:16:41,644
+Find her!
+...They can't have gotten far!
+
+125
+00:16:43,735 --> 00:16:45,679
+Come on.
+
+126
+00:17:19,443 --> 00:17:21,909
+Byron and Cassandra
+have taken the girl!
+
+127
+00:17:21,910 --> 00:17:24,143
+Inform the High Seeker.
+
+128
+00:17:24,144 --> 00:17:26,777
+The rest of you, follow me!
+
+129
+00:17:26,778 --> 00:17:29,484
+Hya!
+
+130
+00:17:50,149 --> 00:17:51,753
+We'll wait here.
+
+131
+00:17:56,351 --> 00:17:59,351
+For what?
+
+132
+00:17:59,352 --> 00:18:01,785
+Byron;
+
+133
+00:18:01,786 --> 00:18:06,585
+Yes... I suppose
+you're a part of this now...
+
+134
+00:18:06,586 --> 00:18:11,582
+I don't know all the details yet,
+but I've been investigating a conspiracy.
+
+135
+00:18:11,920 --> 00:18:15,365
+That's how I found out about
+the Blood Mage ceremony.
+
+136
+00:18:16,423 --> 00:18:19,655
+Is the High Seeker aware of this?
+
+137
+00:18:19,656 --> 00:18:24,652
+No... I fear the conspiracy goes
+all the way to the Chantry.
+
+138
+00:18:24,857 --> 00:18:27,923
+And you suspect the High Seeker?!
+
+139
+00:18:27,924 --> 00:18:31,590
+I'm a Seeker.
+I'm trained to suspect everyone.
+
+140
+00:18:31,591 --> 00:18:34,160
+Do you even know
+what you are suggesting?!
+
+141
+00:18:35,292 --> 00:18:37,658
+<i>To doubt the High Seeker is...</i>
+
+142
+00:18:40,427 --> 00:18:44,460
+This elf girl supposedly has
+the ability to control wild beasts.
+
+143
+00:18:44,461 --> 00:18:47,027
+That's why the Blood Mages wanted her.
+
+144
+00:18:47,028 --> 00:18:51,262
+That's a rare power, but what
+does it have to do with the conspiracy?
+
+145
+00:18:51,263 --> 00:18:55,462
+I don't know yet. But I'm convinced
+she's the key to all of it.
+
+146
+00:18:55,463 --> 00:18:57,328
+And because the High Seeker refused
+
+147
+00:18:57,329 --> 00:19:00,296
+to return her to the Circle,
+you think that means...?
+
+148
+00:19:00,297 --> 00:19:03,997
+I'm not sure what
+to think about any of it!
+
+149
+00:19:03,998 --> 00:19:07,532
+For now, I'm taking Avexis
+to a friend I know I can trust.
+
+150
+00:19:07,533 --> 00:19:11,376
+Who? Tell me!
+
+151
+00:19:39,505 --> 00:19:42,439
+Are these the friends you were waiting for?
+
+152
+00:19:42,440 --> 00:19:47,442
+We can't take on these numbers
+and protect the girl. We must retreat.
+
+153
+00:19:52,675 --> 00:19:53,808
+Go!
+
+154
+00:19:54,054 --> 00:19:55,722
+Cassandra, wait!
+
+155
+00:19:58,059 --> 00:19:59,060
+Hya!
+
+156
+00:20:32,143 --> 00:20:33,748
+Behind you!
+
+157
+00:20:34,913 --> 00:20:36,655
+Byron!
+
+158
+00:20:45,295 --> 00:20:48,099
+I'll be taking what is mine, Seeker.
+
+159
+00:20:48,100 --> 00:20:51,371
+No... Avexis...
+
+160
+00:20:57,046 --> 00:20:59,618
+Release her! Now!
+
+161
+00:21:01,720 --> 00:21:04,290
+Seeker reinforcements are approaching...
+
+162
+00:21:07,562 --> 00:21:11,068
+Your comrades are
+too late, Dragon Hunter...
+
+163
+00:21:12,670 --> 00:21:16,312
+This round... belongs to me...
+
+164
+00:21:20,714 --> 00:21:21,883
+Byron;
+
+165
+00:21:33,067 --> 00:21:35,001
+Go after them...
+
+166
+00:21:35,002 --> 00:21:37,406
+We must get Avexis back...
+
+167
+00:21:37,407 --> 00:21:39,409
+The Chantry is in peril...
+
+168
+00:21:39,410 --> 00:21:41,789
+I should have listened to you...
+
+169
+00:21:43,348 --> 00:21:44,953
+Cassandra...
+
+170
+00:21:46,587 --> 00:21:51,095
+Hate can only breed more hate...
+
+171
+00:21:54,065 --> 00:21:55,636
+Byron;
+
+172
+00:22:22,908 --> 00:22:25,075
+Filthy murdering Mage!
+
+173
+00:22:25,076 --> 00:22:26,778
+I-I'm not the one you want!
+
+174
+00:22:29,951 --> 00:22:32,922
+Where did your
+accomplices take Avexis?!
+
+175
+00:22:32,923 --> 00:22:35,659
+Stop! You have the wrong person!
+
+176
+00:22:35,660 --> 00:22:37,127
+Silence, Blood Mage!
+
+177
+00:22:38,765 --> 00:22:41,199
+No, I'm a Circle Mage,
+not a Blood Mage!
+
+178
+00:22:41,200 --> 00:22:43,511
+A Mage is a Mage!
+
+179
+00:22:56,023 --> 00:22:57,390
+There they are!
+
+180
+00:22:57,391 --> 00:23:01,205
+Stand down! Lower your weapon, Cassandra!
+
+181
+00:23:04,669 --> 00:23:07,305
+You have some explaining to do.
+
+182
+00:23:07,306 --> 00:23:08,808
+He's dead!
+
+183
+00:23:08,809 --> 00:23:11,178
+What?! What happened here? Talk!
+
+184
+00:23:11,178 --> 00:23:13,513
+These Blood Mages killed Byron.
+
+185
+00:23:13,514 --> 00:23:16,184
+I'm telling you, I had no
+part in this, I swear it!
+
+186
+00:23:16,185 --> 00:23:17,686
+Where's the girl?
+
+187
+00:23:17,687 --> 00:23:18,723
+They took her.
+
+188
+00:23:18,724 --> 00:23:20,657
+Or perhaps you gave her to them!
+
+189
+00:23:20,658 --> 00:23:24,163
+Why did you and Byron
+remove her from her guard?
+
+190
+00:23:24,164 --> 00:23:25,906
+Talk, Cassandra!
+
+191
+00:23:27,102 --> 00:23:30,873
+So be it. Take her into
+custody! And the Mage as well!
+
+192
+00:23:30,874 --> 00:23:33,177
+What?!
+
+193
+00:23:33,178 --> 00:23:35,681
+Listen, we have to get Avexis
+back as soon as possible.
+
+194
+00:23:35,682 --> 00:23:37,250
+In danger!
+
+195
+00:23:37,251 --> 00:23:40,562
+You had your chance.
+Save it for the High Seeker.
+
+196
+00:23:54,476 --> 00:23:56,644
+Byron came here to meet me.
+
+197
+00:23:56,645 --> 00:23:59,388
+I promised him that I'd
+take Avexis to a safe place.
+
+198
+00:24:05,626 --> 00:24:09,063
+There's no way those Blood Mages
+could've known to follow you here tonight.
+
+199
+00:24:09,064 --> 00:24:11,102
+Not without spies on the inside.
+
+200
+00:24:14,906 --> 00:24:19,077
+Byron suspected that someone within
+the Chantry is behind a conspiracy.
+
+201
+00:24:19,078 --> 00:24:21,314
+If he was right, and we let
+these Seekers take us back,
+
+202
+00:24:21,315 --> 00:24:24,252
+there's a good chance
+we will be "silenced."
+
+203
+00:24:24,253 --> 00:24:26,022
+Shut up, Mage!
+
+204
+00:24:26,023 --> 00:24:27,764
+There a problem?
+
+205
+00:24:29,627 --> 00:24:31,768
+Keep it down back there.
+
+206
+00:24:35,036 --> 00:24:38,273
+Circle Mages have pledged
+their allegiance to the Chantry.
+
+207
+00:24:38,274 --> 00:24:40,776
+It's Blood Mages who are the opposition.
+
+208
+00:24:40,777 --> 00:24:45,024
+Please don't assume I'm one of them,
+but I can find out where they are.
+
+209
+00:24:48,857 --> 00:24:51,358
+You said yourself
+that if we don't get
+
+210
+00:24:51,359 --> 00:24:53,859
+Avexis back, something
+terrible will happen.
+
+211
+00:24:54,297 --> 00:24:57,178
+And Byron will have then
+lost his life for nothing.
+
+212
+00:25:00,241 --> 00:25:03,313
+Are you sure you know a way to find Avexis?
+
+213
+00:25:11,423 --> 00:25:14,527
+Byron risked defying our
+Order to protect her.
+
+214
+00:25:14,528 --> 00:25:18,843
+It seems that if I am to discover
+the truth, I will have to do the same.
+
+215
+00:25:23,373 --> 00:25:25,276
+This man has a knife!
+
+216
+00:25:25,277 --> 00:25:27,179
+What?!
+
+217
+00:25:27,180 --> 00:25:30,583
+Hm?
+...What's going on over there?
+
+218
+00:25:30,584 --> 00:25:35,191
+We told you to surrender
+your weapons, Mage. Where is it?!
+
+219
+00:25:35,192 --> 00:25:37,360
+No sudden moves! Search him!
+
+220
+00:25:47,410 --> 00:25:48,947
+Impressive...
+
+221
+00:26:09,108 --> 00:26:11,613
+Wait! They aren't pursuing us.
+
+222
+00:26:13,082 --> 00:26:15,250
+You're pathetic!
+
+223
+00:26:16,953 --> 00:26:17,953
+Whoa!
+
+224
+00:26:23,097 --> 00:26:24,599
+Get off of me!
+
+225
+00:26:26,935 --> 00:26:28,637
+Prefer the top, do you?
+
+226
+00:26:28,638 --> 00:26:30,338
+Ah! Ah...
+
+227
+00:26:30,339 --> 00:26:32,183
+Shut up!
+
+228
+00:26:37,183 --> 00:26:38,351
+No! Wait!
+
+229
+00:26:40,454 --> 00:26:45,133
+If you were of no use to me,
+I'd cut you down here and now, Mage.
+
+230
+00:26:55,176 --> 00:26:56,911
+But I forget my manners.
+
+231
+00:26:56,912 --> 00:26:59,414
+Here I've rolled in the
+bushes with a pretty
+
+232
+00:26:59,415 --> 00:27:01,914
+young lady and I haven't
+introduced myself.
+
+233
+00:27:02,154 --> 00:27:04,424
+I am Regalyan d'Marcall.
+
+234
+00:27:04,425 --> 00:27:06,496
+My friends call me Galyan.
+
+235
+00:27:14,004 --> 00:27:15,848
+Well, "friend"...
+
+236
+00:27:17,776 --> 00:27:22,779
+If you value your life, you will take me
+to the Blood Mage that murdered Byron.
+
+237
+00:27:28,092 --> 00:27:31,871
+That is all we
+know at this time, Most Holy.
+
+238
+00:27:33,139 --> 00:27:35,147
+This is unbelievable...
+
+239
+00:27:37,156 --> 00:27:39,575
+A traitor amongst the Seekers?
+
+240
+00:27:40,702 --> 00:27:44,183
+We are currently reviewing
+all the facts, Your Reverence.
+
+241
+00:27:44,184 --> 00:27:45,789
+It's unthinkable!
+
+242
+00:27:45,790 --> 00:27:50,805
+The Seekers are the most pure among us, yet
+two of your own have betrayed the Chantry.
+
+243
+00:27:51,313 --> 00:27:54,558
+A Seeker would never go
+against the Chantry.
+
+244
+00:27:54,559 --> 00:27:58,280
+I assure you that their
+actions can be explained.
+
+245
+00:27:59,947 --> 00:28:03,829
+I have a company
+of knights standing at the ready.
+
+246
+00:28:03,830 --> 00:28:07,288
+Permission to pursue the
+traitors at once, Your Eminence.
+
+247
+00:28:08,515 --> 00:28:13,502
+Perhaps the Seekers would be hesitant
+to hunt down one of their own.
+
+248
+00:28:18,356 --> 00:28:21,702
+Dispatch yourTemplars immediately.
+
+249
+00:28:21,703 --> 00:28:25,450
+These renegades must be brought tojustice.
+
+250
+00:28:38,671 --> 00:28:41,113
+There.
+
+251
+00:28:41,114 --> 00:28:43,423
+Is this the Blood Mage hideout?
+
+252
+00:28:43,424 --> 00:28:45,935
+A Circle safe house.
+
+253
+00:28:49,448 --> 00:28:51,389
+A trap?!
+
+254
+00:28:51,390 --> 00:28:54,506
+Will you quit waving that thing around?
+
+255
+00:28:56,678 --> 00:28:59,522
+My intelligence-gathering
+associates meet here.
+
+256
+00:28:59,523 --> 00:29:02,233
+If anyone can find where
+the Blood Mages are, they can.
+
+257
+00:29:02,234 --> 00:29:04,341
+More Mages just mean more trouble!
+
+258
+00:29:04,342 --> 00:29:06,350
+You expect me to trust you?!
+
+259
+00:29:06,351 --> 00:29:08,965
+Well, Byron trusted me!
+
+260
+00:29:11,940 --> 00:29:13,879
+Byron and I were friends.
+
+261
+00:29:13,880 --> 00:29:17,304
+I was the one who told him where the
+Blood Mage ceremony would be held.
+
+262
+00:29:19,136 --> 00:29:23,452
+The First Enchanter sent me to investigate
+suspicious Blood Mage activities.
+
+263
+00:29:23,453 --> 00:29:27,703
+It's thanks to the intelligence we gathered
+that Byron was able to rescue Avexis.
+
+264
+00:29:27,704 --> 00:29:32,292
+However, the plan fell apart when the High
+Seeker did not return her to the Circle.
+
+265
+00:29:35,803 --> 00:29:37,643
+I'm not sure the reason behind it,
+
+266
+00:29:37,644 --> 00:29:42,429
+but that was when Byron started to
+question the High Seeker's true intentions.
+
+267
+00:29:42,430 --> 00:29:46,512
+So Byron brought Avexis into the
+forest tonight to give her to you...
+
+268
+00:29:46,513 --> 00:29:49,021
+Yes.
+She is a uniquely gifted girl.
+
+269
+00:29:49,022 --> 00:29:51,529
+That's why I think the
+Blood Mages abducted her.
+
+270
+00:29:51,903 --> 00:29:54,278
+Byron and I planned on
+hiding her here to keep her safe
+
+271
+00:29:54,279 --> 00:29:57,423
+until we could get to the
+bottom of the conspiracy.
+
+272
+00:29:57,424 --> 00:30:00,302
+What?
+
+273
+00:30:00,303 --> 00:30:02,586
+The horses are uneasy.
+
+274
+00:30:34,374 --> 00:30:36,291
+By the Maker...
+
+275
+00:30:43,009 --> 00:30:46,757
+You knew these men?
+
+276
+00:30:46,758 --> 00:30:48,607
+Loki...
+
+277
+00:31:06,671 --> 00:31:08,179
+Haydn
+
+278
+00:31:09,717 --> 00:31:12,628
+What happened? Who did this?!
+
+279
+00:31:12,629 --> 00:31:15,072
+Blood Mages...
+
+280
+00:31:15,073 --> 00:31:20,088
+They caught us just as we
+returned from Lazarro's...
+
+281
+00:31:22,234 --> 00:31:23,776
+Haydn
+
+282
+00:31:28,092 --> 00:31:30,101
+Be at peace, my friend...
+
+283
+00:31:31,673 --> 00:31:33,352
+Who's Lazarro?
+
+284
+00:31:36,626 --> 00:31:40,307
+An information trader from a
+village just outside of Montfort.
+
+285
+00:31:40,308 --> 00:31:42,985
+He's the one who told me
+about the dragon ceremony.
+
+286
+00:31:42,986 --> 00:31:44,527
+Take me to him.
+
+287
+00:31:49,178 --> 00:31:51,461
+We'll find out everything he knows!
+
+288
+00:31:52,927 --> 00:31:55,779
+The Blood Mages may already
+be waiting for us, you know.
+
+289
+00:31:57,913 --> 00:32:00,663
+They've been one step ahead of us this far.
+
+290
+00:32:02,766 --> 00:32:04,306
+Hyah!
+
+291
+00:32:06,248 --> 00:32:07,856
+Be ready.
+
+292
+00:32:12,338 --> 00:32:14,781
+You work close
+to the edge of Chantry law,
+
+293
+00:32:14,782 --> 00:32:17,291
+but still claim you are
+loyal to the Circle?
+
+294
+00:32:17,292 --> 00:32:21,140
+Contrary to common belief, not all
+Mages wish to see the Chantry deposed.
+
+295
+00:32:21,141 --> 00:32:25,524
+Those of us within the Circle seek only to
+be treated with equal dignity and respect.
+
+296
+00:32:25,525 --> 00:32:29,842
+I do my part to help ensure our efforts
+are not undermined by the actions of a few.
+
+297
+00:32:29,843 --> 00:32:33,925
+So you formed a network
+to keep tabs on rogue Mages?
+
+298
+00:32:33,926 --> 00:32:36,469
+Apostates like those in
+this blood cult we're dealing with
+
+299
+00:32:36,470 --> 00:32:38,477
+might claim to act in the cause of freedom,
+
+300
+00:32:38,478 --> 00:32:41,891
+but more often their only aim
+is seizing power for themselves.
+
+301
+00:32:41,892 --> 00:32:45,438
+I'd think it would benefit
+the Circle to have Mages in power.
+
+302
+00:32:45,439 --> 00:32:48,954
+Not like these.
+That wouldn't be good for anyone.
+
+303
+00:32:56,618 --> 00:32:58,725
+Search teams one and two have reported in.
+
+304
+00:32:58,726 --> 00:33:02,881
+There's been no sign of Cassandra
+or the Mage in the lgrecia Forest, sir.
+
+305
+00:33:09,077 --> 00:33:11,218
+Has there been any word from Galyan?
+
+306
+00:33:11,219 --> 00:33:13,427
+I'm afraid not, First Enchanter.
+
+307
+00:33:13,428 --> 00:33:17,275
+We must find him
+before the Seekers orTemplars do...
+
+308
+00:33:17,276 --> 00:33:19,686
+Understood. I will take
+charge of the search myself.
+
+309
+00:33:19,687 --> 00:33:21,962
+I leave it to you, then.
+
+310
+00:33:21,963 --> 00:33:24,781
+I only pray we are not too late.
+
+311
+00:33:39,173 --> 00:33:43,421
+You can't see it from here, but Lazarro's
+house is halfway up this cliff.
+
+312
+00:33:43,422 --> 00:33:47,371
+He's an elf recluse.
+Half-mad, but he hears things.
+
+313
+00:33:47,372 --> 00:33:50,282
+No one knows how.
+
+314
+00:33:50,283 --> 00:33:52,491
+He's also quite paranoid.
+
+315
+00:33:52,492 --> 00:33:55,001
+How can we get in?
+
+316
+00:33:55,002 --> 00:33:58,186
+Well, you could always try
+asking to send down a ladder.
+
+317
+00:34:23,117 --> 00:34:25,124
+Lazarro!
+
+318
+00:34:25,125 --> 00:34:26,734
+It's me, Ga lya n!
+
+319
+00:34:28,372 --> 00:34:30,585
+Lazarro! Are you there?
+
+320
+00:34:51,666 --> 00:34:53,339
+Laza rro, ca I m down!
+
+321
+00:34:53,340 --> 00:34:55,017
+Wejust need some information!
+
+322
+00:35:01,204 --> 00:35:06,123
+If you cooperate and tell us what you know,
+I'll let you keep your filthy head!
+
+323
+00:35:06,124 --> 00:35:09,135
+I know nothing! I'm not involved!
+
+324
+00:35:09,136 --> 00:35:11,580
+Cassandra! Please...
+
+325
+00:35:15,000 --> 00:35:16,733
+Where is the girl?
+
+326
+00:35:16,734 --> 00:35:18,900
+What? What girl?
+
+327
+00:35:18,901 --> 00:35:23,336
+Perhaps you can't hear well.
+Let me clear your ears for you.
+
+328
+00:35:24,938 --> 00:35:26,971
+Frenic! Frenic has her!
+
+329
+00:35:26,972 --> 00:35:28,104
+Who's Frenic?
+
+330
+00:35:28,105 --> 00:35:32,007
+The leader of the Blood Mages.
+He needs her... Needs her power!
+
+331
+00:35:32,008 --> 00:35:34,111
+For what? What is he planning to do?!
+
+332
+00:35:35,576 --> 00:35:39,977
+Attack... T-Ten Year...
+
+333
+00:35:39,978 --> 00:35:42,778
+Frenic is going to attack
+the Ten Year Gathering?
+
+334
+00:35:42,779 --> 00:35:45,179
+Who is his accomplice in the Chantry?
+
+335
+00:35:45,180 --> 00:35:46,446
+Someone high up...!
+
+336
+00:35:46,447 --> 00:35:47,980
+What's their name?
+
+337
+00:35:47,981 --> 00:35:50,815
+I don't know!
+...Who is it?! Talk!
+
+338
+00:35:52,184 --> 00:35:54,649
+I am only going
+to ask you one more time.
+
+339
+00:35:54,650 --> 00:35:58,451
+Give me the name. Now!
+
+340
+00:35:58,452 --> 00:36:00,021
+No, you don't!
+
+341
+00:36:01,820 --> 00:36:04,086
+This is a vial of Nesium Suspension.
+
+342
+00:36:04,087 --> 00:36:06,123
+It emits a bright flash when shattered.
+
+343
+00:36:08,122 --> 00:36:11,257
+So you think you can escape
+using mere parlor tricks?!
+
+344
+00:36:11,258 --> 00:36:13,091
+They'll kill me!
+
+345
+00:36:13,092 --> 00:36:14,959
+"They"? You mean the Blood Mages?
+
+346
+00:36:14,960 --> 00:36:17,492
+I was to alert them if you showed up!
+
+347
+00:36:17,493 --> 00:36:20,361
+Sorry, we can't let you do that.
+
+348
+00:36:20,362 --> 00:36:22,128
+It's too late.
+
+349
+00:36:28,699 --> 00:36:31,432
+What is that?
+
+350
+00:36:31,433 --> 00:36:33,640
+I'm not sure I want to know...
+
+351
+00:37:01,813 --> 00:37:02,812
+Hya!
+
+352
+00:37:39,329 --> 00:37:40,328
+You all right?
+
+353
+00:37:40,329 --> 00:37:41,896
+Of course I am.
+
+354
+00:38:00,572 --> 00:38:02,414
+Oh, sod!
+
+355
+00:38:04,072 --> 00:38:06,711
+The eyes...
+Their minds are being controlled.
+
+356
+00:38:37,054 --> 00:38:38,691
+There's too many!
+
+357
+00:39:13,237 --> 00:39:14,839
+Yah!
+
+358
+00:39:20,006 --> 00:39:21,847
+Not good...
+
+359
+00:39:24,908 --> 00:39:26,708
+Thanks, Lazarro.
+
+360
+00:39:26,709 --> 00:39:31,122
+Now... let's just hope this is
+actually more than a parlor trick!
+
+361
+00:39:54,688 --> 00:39:57,854
+I should be able to handle this pain!
+
+362
+00:39:57,855 --> 00:40:00,623
+We need to get to a safe place
+where I can treat your wound.
+
+363
+00:40:00,624 --> 00:40:02,728
+I don't need your magic...!
+
+364
+00:40:04,091 --> 00:40:05,627
+Are you all right?
+
+365
+00:40:09,293 --> 00:40:11,033
+Sorry...
+
+366
+00:40:15,797 --> 00:40:19,963
+It's hard for me to admit
+I'm in your debt, Mage.
+
+367
+00:40:19,964 --> 00:40:23,240
+My name isn't "Mage." It's Galyan.
+
+368
+00:40:26,301 --> 00:40:27,300
+There they are!
+
+369
+00:40:35,772 --> 00:40:37,751
+Why are You here?!
+
+370
+00:40:38,873 --> 00:40:39,872
+<i>Hm.</i>
+
+371
+00:40:39,873 --> 00:40:42,443
+After them! Arrest those traitors!
+
+372
+00:40:47,944 --> 00:40:49,651
+Whoa!
+
+373
+00:40:52,778 --> 00:40:54,917
+Get up! Don't let them escape!
+
+374
+00:41:11,821 --> 00:41:13,787
+Oh, my.
+
+375
+00:41:15,055 --> 00:41:17,159
+There's nowhere to run!
+
+376
+00:41:23,326 --> 00:41:26,960
+Now surrender. Nice and easy.
+
+377
+00:41:26,961 --> 00:41:30,295
+It seems we're out of options here...
+
+378
+00:41:30,296 --> 00:41:32,328
+Not entirely...
+
+379
+00:41:32,329 --> 00:41:34,396
+We can make it.
+
+380
+00:41:35,998 --> 00:41:40,066
+Don't be a fool.
+You'll never survive the jump.
+
+381
+00:41:40,067 --> 00:41:42,800
+That's for the Maker to decide.
+
+382
+00:41:42,801 --> 00:41:44,676
+Not a Templar!
+
+383
+00:41:49,070 --> 00:41:50,837
+Get ready.
+
+384
+00:41:50,838 --> 00:41:53,839
+Don't I get a say in this?
+
+385
+00:42:24,360 --> 00:42:28,320
+If I hadn't been here,
+you would have been fish food.
+
+386
+00:42:52,228 --> 00:42:56,204
+Preparations for the Ten Year Gathering
+are proceeding without delay.
+
+387
+00:42:58,909 --> 00:43:02,316
+You have done
+a superb job, as always.
+
+388
+00:43:02,317 --> 00:43:07,323
+I shudder to think what I would do
+without your selfless service.
+
+389
+00:43:07,328 --> 00:43:09,567
+You need never worry about that.
+
+390
+00:43:09,568 --> 00:43:11,906
+Since the day I entered
+the Chantry as a girl,
+
+391
+00:43:11,907 --> 00:43:15,084
+I have wished only to be
+the Right Hand of the Divine.
+
+392
+00:43:17,318 --> 00:43:22,325
+And that you are.
+More than I could ever ask.
+
+393
+00:43:22,664 --> 00:43:26,880
+It will be a great day
+for the Chantry, the Maker willing.
+
+394
+00:43:31,017 --> 00:43:36,023
+No matter what happens,
+we must continue with the ceremony.
+
+395
+00:43:36,997 --> 00:43:41,246
+The Knight Commander has assured me
+the Templars can handle Chantry security.
+
+396
+00:43:48,146 --> 00:43:50,881
+Come on. Just a little farther.
+
+397
+00:43:50,882 --> 00:43:52,953
+We can rest here for a while.
+
+398
+00:43:55,787 --> 00:44:00,457
+Now then... Let there be light.
+
+399
+00:44:13,338 --> 00:44:17,308
+Cassandra, please...
+let me treat your wound.
+
+400
+00:44:23,681 --> 00:44:26,115
+Ah, that is a nasty scrape.
+
+401
+00:44:26,116 --> 00:44:27,618
+Fortunately...
+
+402
+00:44:29,586 --> 00:44:31,964
+I happen to have just the thing for it.
+
+403
+00:44:32,957 --> 00:44:34,994
+Now this will hurt a bit.
+
+404
+00:44:36,360 --> 00:44:38,203
+Sorry.
+
+405
+00:44:41,965 --> 00:44:46,710
+My battle magic is mediocre,
+but I am excellent at healing spells.
+
+406
+00:45:04,122 --> 00:45:07,035
+You should be able to
+move it normally in a day or so.
+
+407
+00:45:09,627 --> 00:45:12,896
+My elder brother knew all
+about healing herbs.
+
+408
+00:45:12,897 --> 00:45:15,631
+Ah. Was he a Mage?
+
+409
+00:45:17,701 --> 00:45:20,409
+It's merely a jest.
+
+410
+00:45:23,840 --> 00:45:26,218
+He was murdered by Mages.
+
+411
+00:45:27,844 --> 00:45:32,844
+Blood Mages... When I was a child,
+
+412
+00:45:33,216 --> 00:45:36,552
+my brother was cut down
+right in front of me...
+
+413
+00:45:36,553 --> 00:45:41,023
+They needed fresh dragon
+blood for their rituals...
+
+414
+00:45:41,024 --> 00:45:46,024
+So they came looking for the legendary
+dragon-hunting families of Nevarra,
+
+415
+00:45:46,163 --> 00:45:49,167
+to capture a dragon for them.
+
+416
+00:45:54,503 --> 00:45:57,273
+My brother was the best in our family.
+
+417
+00:45:57,274 --> 00:46:00,242
+His skills and honor were unmatched.
+
+418
+00:46:00,243 --> 00:46:04,680
+He wouldn't sacrifice a
+dragon for their corrupted magic.
+
+419
+00:46:04,681 --> 00:46:08,751
+The Blood Mages killed
+all those who refused them.
+
+420
+00:46:15,792 --> 00:46:17,738
+Uncle!!
+
+421
+00:46:29,773 --> 00:46:32,073
+Anthony...!
+
+422
+00:46:50,426 --> 00:46:55,426
+My brother was strong... kind...
+and I loved him dearly...
+
+423
+00:46:56,466 --> 00:46:59,334
+I've hated Mages ever since...
+
+424
+00:46:59,335 --> 00:47:03,338
+Blood or Circle Mages...
+They all seemed the same to me.
+
+425
+00:47:03,339 --> 00:47:07,345
+No different from the Mage
+who murdered my brother...
+
+426
+00:47:10,413 --> 00:47:12,984
+I'm so sorry, Cassandra.
+
+427
+00:47:17,287 --> 00:47:22,287
+It is true that both Circle
+and Blood Mages are Mages...
+
+428
+00:47:22,458 --> 00:47:24,025
+Our methods may differ,
+
+429
+00:47:24,026 --> 00:47:27,030
+but there is no denying
+we practice a common art...
+
+430
+00:47:28,697 --> 00:47:32,467
+And as a Mage, I would
+like to express my sorrow.
+
+431
+00:47:32,468 --> 00:47:36,644
+What happened to your brother
+was truly something horrendous.
+
+432
+00:48:33,662 --> 00:48:35,164
+Move in.
+
+433
+00:48:45,341 --> 00:48:46,241
+They're gone!
+
+434
+00:48:46,242 --> 00:48:48,778
+They couldn't have gotten far.
+
+435
+00:48:50,613 --> 00:48:51,880
+Find them!
+
+436
+00:48:51,881 --> 00:48:53,622
+Sir!
+
+437
+00:49:07,696 --> 00:49:10,197
+Cassandra and the Mage
+have disappeared, Frenic...
+
+438
+00:49:10,198 --> 00:49:14,044
+They must be eliminated
+before the Ten Year Gathering" Oh!
+
+439
+00:49:17,373 --> 00:49:19,648
+You were saying, Commander?
+
+440
+00:49:29,050 --> 00:49:30,620
+What have we here?
+
+441
+00:49:31,619 --> 00:49:35,328
+This is an Elven Stone. He was
+sending a message to someone.
+
+442
+00:49:36,558 --> 00:49:39,259
+"Understood, Knight Commander.
+I will commence the search
+
+443
+00:49:39,260 --> 00:49:43,402
+for Cassandra and Galyan's
+whereabouts immediately. Frenic."
+
+444
+00:49:48,570 --> 00:49:53,273
+So, then... you are in league with Frenic.
+
+445
+00:49:53,274 --> 00:49:56,109
+That's how you
+found us so quickly!
+
+446
+00:49:56,110 --> 00:49:59,580
+You'll pay for your
+betrayal of the Chantry!
+
+447
+00:50:09,691 --> 00:50:13,365
+The wound still hurts,
+doesn't it, Cassandra?
+
+448
+00:50:16,863 --> 00:50:20,434
+You both know too much...
+
+449
+00:50:35,315 --> 00:50:38,051
+Filthy traitor...
+
+450
+00:50:38,052 --> 00:50:41,721
+Byron is dead because of you...
+
+451
+00:51:07,081 --> 00:51:09,048
+No! This is not finished!
+
+452
+00:51:09,049 --> 00:51:12,818
+Cassandra, protecting the Circle
+and Chantry is more important than revenge.
+
+453
+00:51:12,819 --> 00:51:14,755
+I owe it to Byron!
+
+454
+00:51:14,756 --> 00:51:17,759
+We must show this
+stone to the Chantry at once!
+
+455
+00:51:18,759 --> 00:51:20,761
+Cassandra!
+
+456
+00:51:47,954 --> 00:51:50,628
+The conversion is complete...
+
+457
+00:51:54,561 --> 00:51:59,561
+Behold! The terror we
+shall soon unleash upon the Chantry!
+
+458
+00:52:00,934 --> 00:52:04,136
+Now Avexis... Make them fly!
+
+459
+00:52:15,749 --> 00:52:20,749
+Let our cries for vengeance
+be carried forth on wings of fire...
+
+460
+00:52:23,724 --> 00:52:25,491
+Good...
+
+461
+00:52:29,730 --> 00:52:32,904
+Good...
+
+462
+00:52:38,138 --> 00:52:43,138
+[Iswishing, thwacking noises]
+
+463
+00:52:46,145 --> 00:52:49,648
+Go now. Safe journey, my friend.
+
+464
+00:52:55,188 --> 00:52:56,791
+This is it!
+
+465
+00:52:58,425 --> 00:53:02,627
+[Icreaking, groaning noise]
+
+466
+00:53:02,628 --> 00:53:04,196
+Give me a hand.
+
+467
+00:53:04,197 --> 00:53:05,664
+[Icreaking, groaning noise]
+
+468
+00:53:08,869 --> 00:53:12,213
+The High Seeker's Office is through here.
+
+469
+00:53:18,944 --> 00:53:22,447
+And you're sure that the
+front door is out of the question?
+
+470
+00:53:22,448 --> 00:53:24,325
+Just come on.
+
+471
+00:53:32,825 --> 00:53:35,126
+Suddenly I get the
+sense that sneaking in like this
+
+472
+00:53:35,127 --> 00:53:37,369
+isn't going to help our case...
+
+473
+00:53:56,148 --> 00:53:58,924
+I rather liked that cabinet.
+
+474
+00:54:00,820 --> 00:54:02,887
+High Seeker?
+
+475
+00:54:02,888 --> 00:54:06,089
+I've been waiting for
+your report, Cassandra...
+
+476
+00:54:06,090 --> 00:54:08,893
+I feared you were captured.
+
+477
+00:54:08,894 --> 00:54:12,096
+Feared? lthought
+you were hunting me.
+
+478
+00:54:12,097 --> 00:54:16,934
+I assumed you had your reasons
+and that you would report in eventually.
+
+479
+00:54:16,935 --> 00:54:18,236
+So...?
+
+480
+00:54:18,237 --> 00:54:20,114
+<i>Where do I start...?</i>
+
+481
+00:54:28,013 --> 00:54:29,924
+Hm...
+
+482
+00:54:31,883 --> 00:54:35,352
+While the Knight Commander
+and I have had our differences,
+
+483
+00:54:35,353 --> 00:54:39,456
+I can't believe that he would go
+so far as to subvert the Chantry.
+
+484
+00:54:39,457 --> 00:54:42,026
+Then perhaps you should look at this.
+
+485
+00:54:42,027 --> 00:54:44,405
+It's evidence of our claims.
+
+486
+00:54:47,533 --> 00:54:49,634
+Interesting...
+
+487
+00:54:49,635 --> 00:54:52,203
+I must show this to the Divine at once.
+
+488
+00:54:52,204 --> 00:54:53,972
+So you believe me?
+
+489
+00:54:53,973 --> 00:54:57,908
+You've risked your life and
+honor in pursuit of the truth.
+
+490
+00:54:57,909 --> 00:55:00,445
+How could I doubt?
+
+491
+00:55:00,446 --> 00:55:05,292
+You have the heart of a true Seeker,
+Cassandra... As did Byron.
+
+492
+00:55:06,985 --> 00:55:08,659
+Thank you, Sir...
+
+493
+00:55:10,155 --> 00:55:13,223
+Wait here until my return.
+
+494
+00:55:13,224 --> 00:55:15,994
+But there is still so much to be done...
+
+495
+00:55:15,995 --> 00:55:20,131
+Leave this to me...
+and get some rest, Cassandra.
+
+496
+00:55:20,132 --> 00:55:22,236
+Yes, High Seeker.
+
+497
+00:55:49,460 --> 00:55:51,133
+High Seeker!
+
+498
+00:55:52,697 --> 00:55:54,031
+You...!
+
+499
+00:55:54,032 --> 00:55:57,868
+Isn't this yours? You left it in the cave.
+
+500
+00:55:57,869 --> 00:56:00,145
+Allow me to return it.
+
+501
+00:56:04,342 --> 00:56:06,009
+Seekers!
+
+502
+00:56:08,513 --> 00:56:09,513
+High Seeker...!
+
+503
+00:56:09,514 --> 00:56:11,050
+My liege!
+
+504
+00:56:12,717 --> 00:56:16,153
+The fugitives murdered
+the High Seeker. Arrest them!
+
+505
+00:56:16,154 --> 00:56:17,487
+No!
+...Hold her!
+
+506
+00:56:17,488 --> 00:56:19,798
+Silence, traitor!
+...He's lying!
+
+507
+00:56:20,892 --> 00:56:22,626
+It was him!
+
+508
+00:56:22,627 --> 00:56:24,971
+He's the murderer!
+
+509
+00:56:25,964 --> 00:56:28,638
+He's the murderer!
+
+510
+00:57:01,832 --> 00:57:06,703
+Confess before the Maker
+and be absolved of your sins.
+
+511
+00:57:06,704 --> 00:57:09,606
+I just murdered the High Seeker
+
+512
+00:57:09,607 --> 00:57:13,209
+and framed Cassandra
+and the fugitive Mage.
+
+513
+00:57:13,210 --> 00:57:15,845
+They have been branded as traitors.
+
+514
+00:57:15,846 --> 00:57:20,522
+And soon, they will be
+executed for their crimes.
+
+515
+00:57:52,315 --> 00:57:55,418
+Frenic and the girl are ready.
+
+516
+00:57:55,419 --> 00:57:57,987
+A new era is upon us.
+
+517
+00:57:57,988 --> 00:58:02,334
+The day where you may be
+called "Divine" is imminent.
+
+518
+00:58:06,296 --> 00:58:08,397
+And once the plan comes to fruition,
+
+519
+00:58:08,398 --> 00:58:12,501
+I will personally ensure
+that Frenic's mouth is sealed.
+
+520
+00:58:12,502 --> 00:58:15,604
+Pitiful Blood Mage...
+
+521
+00:58:15,605 --> 00:58:19,246
+I am looking forward
+to the Ten Year Gathering.
+
+522
+00:58:31,021 --> 00:58:35,958
+I don't understand it.
+He was such a great man.
+
+523
+00:58:35,959 --> 00:58:38,769
+Why would Cassandra do this?
+
+524
+00:58:40,831 --> 00:58:43,998
+One can never fathom the
+purpose of evil, Your Grace...
+
+525
+00:58:43,999 --> 00:58:47,811
+But rest assured, they will
+get theirjust reward.
+
+526
+00:58:52,508 --> 00:58:55,511
+All of Orlais shares your pain, Most Holy,
+
+527
+00:58:55,512 --> 00:58:59,550
+but in your own words, we must
+proceed with the Ten Year Gathering.
+
+528
+00:59:00,950 --> 00:59:02,885
+The Grand Clerics have assembled,
+
+529
+00:59:02,886 --> 00:59:06,155
+and the congregation has
+gathered in the courtyard.
+
+530
+00:59:06,156 --> 00:59:08,693
+They eagerly await your blessing.
+
+531
+00:59:12,796 --> 00:59:17,796
+I fear that great evil has
+gathered amongst the good today...
+
+532
+00:59:17,801 --> 00:59:21,044
+Pray that the Maker can
+bring us all together.
+
+533
+00:59:40,923 --> 00:59:45,923
+Byron and the High Seeker believed
+in me... and now they're dead.
+
+534
+00:59:46,729 --> 00:59:50,233
+I should've let you finish the Knight
+Commander when we had the chance.
+
+535
+00:59:59,175 --> 01:00:01,576
+Well, well, well...
+
+536
+01:00:08,017 --> 01:00:13,523
+After all your efforts,
+in the end, it came to this...
+
+537
+01:00:16,959 --> 01:00:21,529
+You've landed your heads on the
+chopping block, and we still have Avexis.
+
+538
+01:00:21,530 --> 01:00:23,364
+What are you doing with her?
+
+539
+01:00:24,533 --> 01:00:26,568
+You mean you don't know?
+
+540
+01:00:26,569 --> 01:00:29,304
+The whole point of Frenic's
+blood ritual was to give him
+
+541
+01:00:29,305 --> 01:00:32,606
+complete control of
+the girl and her abilities.
+
+542
+01:00:32,608 --> 01:00:34,986
+Control her for what purpose?
+
+543
+01:00:36,445 --> 01:00:40,381
+Frenic will use her powers to
+summon dragons to the Chantry...
+
+544
+01:00:40,382 --> 01:00:43,251
+They should be en route any moment.
+
+545
+01:00:43,252 --> 01:00:46,053
+Is that even possible...?
+
+546
+01:00:46,054 --> 01:00:48,489
+You're going after the Divine?!
+
+547
+01:00:48,490 --> 01:00:53,490
+Yes, then a new era will unfold!
+A new era where we rule...
+
+548
+01:00:55,396 --> 01:00:57,999
+Even if you succeed in
+murdering the Divine,
+
+549
+01:00:58,000 --> 01:01:00,741
+the Seekers will never let you seize power!
+
+550
+01:01:02,304 --> 01:01:04,283
+Oh, really?
+
+551
+01:01:06,408 --> 01:01:09,355
+You're right, they wouldn't...
+Not him, at least.
+
+552
+01:01:10,411 --> 01:01:11,912
+But a Cleric...?
+
+553
+01:01:11,913 --> 01:01:16,259
+There's a reason they've chosen dragons
+to carry out their assassination plot.
+
+554
+01:01:18,853 --> 01:01:21,521
+The Divine and all the candidates
+next in line to succeed her
+
+555
+01:01:21,522 --> 01:01:25,629
+are attending the Ten Year Gathering,
+and they will all be wiped out.
+
+556
+01:01:29,031 --> 01:01:32,666
+This will be done publicly as
+if it were a natural disaster,
+
+557
+01:01:32,667 --> 01:01:36,604
+and whoever is left standing
+will be the next Divine.
+
+558
+01:01:36,605 --> 01:01:40,677
+But who is it? Who's the
+traitor amongst the clerics?!
+
+559
+01:01:42,543 --> 01:01:47,014
+I have no time to participate in
+wild speculations with the likes of you.
+
+560
+01:01:47,015 --> 01:01:49,894
+Who is the traitor...?! Who?!
+
+561
+01:01:50,551 --> 01:01:54,222
+My orders are to execute you
+before the start of the Gathering.
+
+562
+01:01:54,223 --> 01:01:59,399
+You'll have to continue this conversation
+with Byron and the High Seeker.
+
+563
+01:02:02,497 --> 01:02:05,569
+Who?! Who is the traitor?!
+
+564
+01:02:07,068 --> 01:02:09,903
+Templars! Prepare for the execution!
+
+565
+01:02:09,904 --> 01:02:13,840
+Tell me! Come back here!
+
+566
+01:02:28,856 --> 01:02:32,059
+Yes, take it all in, Avexis...
+
+567
+01:02:32,060 --> 01:02:36,696
+We are witness to the final
+moments of a dying age...
+
+568
+01:02:36,697 --> 01:02:39,399
+And you shall bring about its demise.
+
+569
+01:03:28,783 --> 01:03:30,149
+Oh, Maker above!
+
+570
+01:03:30,150 --> 01:03:32,151
+Shine down your light and save me!
+
+571
+01:03:32,152 --> 01:03:33,723
+Silence, prisoner.
+
+572
+01:03:39,293 --> 01:03:40,795
+Wait!
+
+573
+01:03:47,802 --> 01:03:52,079
+I'll dispatch this fallen Seeker myself.
+
+574
+01:03:59,413 --> 01:04:02,690
+Hmph. Your bravery is commendable...
+
+575
+01:04:09,423 --> 01:04:10,960
+Ahhhh!
+
+576
+01:04:26,106 --> 01:04:27,606
+Galyan!
+
+577
+01:04:27,607 --> 01:04:29,109
+Are you all right?
+
+578
+01:04:30,377 --> 01:04:32,678
+Galyan.. We got your message...
+
+579
+01:04:32,679 --> 01:04:34,680
+Sorry we had to cut things so close!
+
+580
+01:04:36,817 --> 01:04:39,318
+I sent a message with a
+bird to the Circle of Magi...
+
+581
+01:04:39,319 --> 01:04:41,453
+Thank the Maker it arrived...
+
+582
+01:04:54,568 --> 01:04:56,302
+After you were captured, we trailed
+
+583
+01:04:56,303 --> 01:05:00,873
+the Knight Commander and learned
+some very interesting information...
+
+584
+01:05:00,874 --> 01:05:04,876
+He has been conspiring
+with the Grand Cleric of Orlais.
+
+585
+01:05:04,877 --> 01:05:06,745
+The Grand Cleric?!
+
+586
+01:05:06,746 --> 01:05:10,922
+Yes.They have been
+meeting secretly for months.
+
+587
+01:05:37,710 --> 01:05:39,280
+Hyaargh!
+
+588
+01:05:42,615 --> 01:05:44,390
+Cassandra!
+
+589
+01:05:47,254 --> 01:05:49,454
+I know about the Grand Cleric.
+
+590
+01:05:49,455 --> 01:05:52,390
+You have both turned
+your backs on the Chantry!
+
+591
+01:05:52,391 --> 01:05:57,229
+Ha! On the contrary, we are
+ushering in a new era for the Chantry...
+
+592
+01:05:57,230 --> 01:06:00,733
+One where events like
+Kirkwall will not be tolerated!
+
+593
+01:06:00,734 --> 01:06:03,969
+We won't allow your plan to succeed!
+
+594
+01:06:40,105 --> 01:06:42,339
+"Hate can only breed more hate."
+
+595
+01:06:42,340 --> 01:06:45,686
+Those were Byron's last words to me.
+
+596
+01:06:46,812 --> 01:06:49,647
+Cassandra...
+
+597
+01:06:49,648 --> 01:06:53,185
+Tie him up. He will answer for his crimes.
+
+598
+01:06:54,986 --> 01:06:56,796
+You heard her. Up!
+
+599
+01:07:16,442 --> 01:07:20,143
+In the end, it came to this...
+
+600
+01:07:24,048 --> 01:07:25,892
+It's the start of the Gathering.
+
+601
+01:07:34,126 --> 01:07:39,126
+Citizens of Orlais,
+honored faithful from lands beyond,
+
+602
+01:07:39,497 --> 01:07:44,497
+today we gather to honor the
+Maker and his greatest gift to us...
+
+603
+01:07:45,069 --> 01:07:50,069
+his wife of the spirit,
+Andraste, our beloved prophet
+
+604
+01:07:50,809 --> 01:07:54,811
+<i>who gave her life so that
+the Chantry might live...</i>
+
+605
+01:07:54,812 --> 01:07:59,812
+This day, each decade,
+marks the beginning of a new life.
+
+606
+01:08:01,252 --> 01:08:04,688
+A day when the Maker's
+benediction brings greatjoy and...
+
+607
+01:08:38,690 --> 01:08:43,366
+Go on! Good! Crush them all!
+
+608
+01:08:53,905 --> 01:08:58,911
+[Iscreaming, frantic cries of the clerics]
+
+609
+01:09:00,911 --> 01:09:05,418
+Maker's wrath! He sends
+dragons to punish our sins!
+
+610
+01:09:17,795 --> 01:09:19,730
+Protect the Divine!
+
+611
+01:09:19,731 --> 01:09:21,301
+Come on!
+
+612
+01:09:30,074 --> 01:09:31,073
+Most Holy...
+
+613
+01:09:31,074 --> 01:09:33,076
+<i>No... She's cut off...</i>
+
+614
+01:09:45,088 --> 01:09:47,156
+<i>We're too late...</i>
+
+615
+01:09:47,157 --> 01:09:49,492
+Frenic and Avexis should be close by!
+
+616
+01:09:49,493 --> 01:09:52,133
+I'll find them!
+
+617
+01:10:36,706 --> 01:10:41,712
+[Ipained, gradually weakening roars]
+
+618
+01:11:26,790 --> 01:11:29,794
+Dragon Hunter...
+
+619
+01:11:33,296 --> 01:11:35,468
+Call the High Dragon!
+
+620
+01:12:13,569 --> 01:12:18,273
+Finish her! Yes! Yes!! Hahahaha!
+
+621
+01:12:18,274 --> 01:12:21,255
+She's done enough of your bidding, Frenic.
+
+622
+01:12:22,278 --> 01:12:24,815
+You'll never harm this girl again!
+
+623
+01:12:27,316 --> 01:12:30,126
+It's over. All of it.
+
+624
+01:13:26,507 --> 01:13:28,647
+<i>No... No!!</i>
+
+625
+01:13:43,825 --> 01:13:45,669
+Are you all right, your grace?
+
+626
+01:13:50,999 --> 01:13:52,332
+Your Holiness!
+
+627
+01:13:54,169 --> 01:13:55,402
+Most Holy!
+
+628
+01:13:55,403 --> 01:13:56,837
+Quickly. Help her down.
+
+629
+01:13:56,838 --> 01:13:59,206
+Your Holiness!
+...Right, we've got her.
+
+630
+01:13:59,207 --> 01:14:02,076
+Thank you, Cassandra...
+Come, Your Holiness.
+
+631
+01:14:02,077 --> 01:14:03,919
+The Maker be with you!
+
+632
+01:14:05,547 --> 01:14:08,415
+Heh, heh, heh...
+
+633
+01:14:08,416 --> 01:14:13,416
+Fool... Do you really
+think I will surrender so easily?
+
+634
+01:14:30,538 --> 01:14:31,642
+Hyargh!
+
+635
+01:14:38,046 --> 01:14:39,581
+Together, men!
+
+636
+01:14:46,954 --> 01:14:48,456
+<i>Frenic...</i>
+
+637
+01:14:53,895 --> 01:14:55,728
+There is no one coming to help you.
+
+638
+01:14:55,729 --> 01:14:57,903
+The Knight Commander is dead.
+
+639
+01:15:05,573 --> 01:15:08,816
+Do you hear? Your plan failed, Mage.
+
+640
+01:15:31,765 --> 01:15:36,303
+You are no longer of any use to me!
+
+641
+01:15:36,304 --> 01:15:38,105
+This was never about her.
+
+642
+01:15:38,106 --> 01:15:41,173
+I merely exploited her ambition
+as a means to free us
+
+643
+01:15:41,174 --> 01:15:48,320
+from the oppressive binds of the Chantry,
+and create a new world controlled by Mages!
+
+644
+01:15:50,618 --> 01:15:55,154
+As a fellow Mage, you should understand.
+
+645
+01:15:55,155 --> 01:15:57,499
+You and I are not the same.
+
+646
+01:15:58,492 --> 01:16:02,964
+Then I will destroy you all,
+along with the Chantry!
+
+647
+01:16:06,032 --> 01:16:07,705
+Hwa!
+
+648
+01:16:17,577 --> 01:16:20,547
+<i>Eh... heh heh heh...</i>
+
+649
+01:16:20,548 --> 01:16:23,048
+Yaaa!
+
+650
+01:16:23,049 --> 01:16:27,419
+[Iripping, crunching sounds]
+
+651
+01:16:48,875 --> 01:16:51,616
+Now, men! Everything you've got!
+
+652
+01:17:21,741 --> 01:17:26,741
+Avexis! Wake up! Avexis! Please!
+
+653
+01:17:26,779 --> 01:17:28,747
+We need you, Avexis! Wake up!
+
+654
+01:17:40,961 --> 01:17:42,667
+Aaaaaghg
+
+655
+01:18:04,184 --> 01:18:06,518
+Thank you, Avexis...
+
+656
+01:18:30,142 --> 01:18:31,815
+Come on!
+
+657
+01:19:23,228 --> 01:19:28,439
+The righteous stand before the darkness
+and the Maker shall guide their hands.
+
+658
+01:19:34,439 --> 01:19:36,248
+Cassandra...!
+
+659
+01:20:16,948 --> 01:20:19,224
+For the Chantry!
+
+660
+01:20:20,551 --> 01:20:22,387
+For the Chantry!
+
+661
+01:20:22,388 --> 01:20:25,288
+For the Chantry!
+
+662
+01:20:25,289 --> 01:20:27,557
+Yeeeahyg
+
+663
+01:20:57,255 --> 01:21:01,625
+What do you think...?
+Not bad, huh?
+
+664
+01:21:05,762 --> 01:21:07,597
+Cassandra...
+
+665
+01:21:07,598 --> 01:21:12,169
+You are the bravest person I have
+ever met, and the most beautiful...
+
+666
+01:21:12,170 --> 01:21:15,014
+This isn't the time or the place!
+
+667
+01:21:17,442 --> 01:21:19,046
+You fool.
+
+668
+01:21:28,051 --> 01:21:33,051
+Galyan, you've helped me win
+back more than just my honor.
+
+669
+01:21:33,858 --> 01:21:37,395
+Suddenly, the world is
+different for me now.
+
+670
+01:21:41,332 --> 01:21:44,336
+Thank you, for everything.
+
+671
+01:22:18,035 --> 01:22:23,035
+For risking her life to protect the
+Chantry against the darkest of evil,
+
+672
+01:22:25,076 --> 01:22:30,075
+I hereby proclaim Cassandra
+Pentaghast the Hero of Orlais.
+
+673
+01:22:33,216 --> 01:22:37,387
+And the Chantry also
+wishes to express its appreciation...
+
+674
+01:22:37,388 --> 01:22:42,387
+of the heroic Mage that fought
+beside her, Regalyan d'Marcall.
+
+675
+01:22:57,807 --> 01:23:02,610
+And for upholding the highest
+standards of the Order of Seekers
+
+676
+01:23:02,612 --> 01:23:07,612
+and demonstrating
+unwavering faith to the Chantry,
+
+677
+01:23:07,751 --> 01:23:12,751
+Cassandra Pentaghast shall from this day
+forward be the Right Hand of the Divine.
+
+678
+01:23:30,073 --> 01:23:31,949
+Come forth, child.
+
+679
+01:24:27,029 --> 01:24:28,804
+Your Holiness...
+
+680
+01:24:30,367 --> 01:24:32,073
+Cassandra...
+
+681
+01:24:33,903 --> 01:24:36,137
+You seem troubled.
+
+682
+01:24:36,138 --> 01:24:40,208
+This attack... It is only the beginning.
+
+683
+01:24:40,209 --> 01:24:45,522
+There is a storm coming, child.
+We must be prepared.
+
+684
+01:24:49,585 --> 01:24:51,690
+How may I serve?
+
