@@ -12,6 +12,10 @@ class ImdbMiner:
         self.system = System()
 
     def fetchAllNewImdbReleases(self):
+        """
+
+        :rtype : object
+        """
         response = urllib2.urlopen('http://www.imdb.com/list/ls056315119/')
         html = response.read()
         soup = BeautifulSoup(html)
@@ -25,15 +29,22 @@ class ImdbMiner:
 
         print info
 
-    def fetchImdbReleases(self):
+    def fetch_imdb_releases(self):
 
+        """
+        Run over all movies. List contains 10000 films,
+        displaying 100 at a time, so we will make use of i*100
+        range to collect all.
+
+        :rtype : object
+        """
         info = []
-        # Run over all movies. List contains 10000 films,
-        # displaying 100 at a time, so we will make use of i*100
-        # range to collect all.
+
+        """
+        Static sites from IMDB to mine from, due to anti-mining methods
+        this list contains all movies from 1974-2014
+        """
         for i in xrange(0, 100):
-            # Static sites from IMDB to mine from, due to anti-mining methods
-            # this list contains all movies from 1974-2014
             url = 'http://www.imdb.com/list/ls057823854/?start=\
                    %i&view=detail&sort=listorian:asc' % (i * 100)
             response = urllib2.urlopen(url)
@@ -50,8 +61,12 @@ class ImdbMiner:
 
         return self.system.generateUniqueSetFromList(info)
 
-    def fetchImdbInfo(self, id="", title=""):
+    def fetch_imdb_info(self, id="", title=""):
 
+        """
+
+        :rtype : object
+        """
         URL = 'http://www.omdbapi.com/?'
 
         if id != "":
@@ -72,7 +87,11 @@ class ImdbMiner:
         else:
             return new_dictionary
 
-    def insertImdbInfoIntoDB(self, info=[]):
+    def insert_imdb_info_into_db(self, info=[]):
+        """
+
+        :rtype : object
+        """
         sql = """
         INSERT INTO movies (
             imdb_movie_id,
@@ -103,8 +122,11 @@ class ImdbMiner:
                 info['Metascore'], info['Poster'])
         self.db.insert(sql=sql)
 
-    def selectImdbInfoFromDB(self, onlySubtitle=False,
-                             onlyWithoutSubtitle=False, offset=0):
+    def select_imdb_info_from_db(self, onlySubtitle=False, onlyWithoutSubtitle=False, offset=0):
+        """
+
+        :rtype : object
+        """
         if (onlySubtitle):
             sql = 'SELECT * FROM movies\
                    WHERE subtitle_name is not null\
@@ -119,6 +141,10 @@ class ImdbMiner:
         return self.db.select(sql=sql)
 
     def assign_subtitle_name_to_movie(self, subtitle_name, imdb_id):
+        """
+
+        :rtype : object
+        """
         sql = """
         UPDATE movies SET subtitle_name = '%s'
         WHERE imdb_movie_id = '%s'

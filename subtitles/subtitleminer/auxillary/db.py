@@ -1,13 +1,15 @@
 import sqlite3
 import os
-
 from subtitleminer.auxillary import Log
-
 
 class DB:
     #
     # Create and connect to Database
     def __init__(self, db_file="data/imdb.db"):
+        """
+
+        :rtype : object
+        """
         database_already_exists = os.path.exists(db_file)
         self.db = sqlite3.connect(db_file)
         self.log = Log()
@@ -86,6 +88,10 @@ class DB:
     def setupDefaultData(self):
 
         # CREATE database tables on startup
+        """
+
+        :rtype : object
+        """
         sql = '''
             CREATE TABLE IF NOT EXISTS movies(
                 imdb_movie_id TEXT PRIMARY KEY,

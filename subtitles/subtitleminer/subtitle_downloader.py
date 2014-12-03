@@ -39,6 +39,10 @@ class SubtitleDownloader(object):
     @classmethod
     def download_subtitle_in_srt_from_movie_name(cls, name):
 
+        """
+
+        :rtype : object
+        """
         url = cls.system.generate_subtitle_url_from_movie_name(name=name)
         print url
         hdr = {
