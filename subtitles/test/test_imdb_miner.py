@@ -7,7 +7,7 @@ pathname = "data/Pulp_Fiction.en.srt"
 
 def test_imdb_fetching_fromUrl():
     info = ImdbMiner.fetch_imdb_releases(range=1)
-    assert len(info.keys()) > 0
+    assert len(info) > 0
 
 #
 # def test_that_subtitle_result_is_dictionary_object():
