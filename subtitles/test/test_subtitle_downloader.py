@@ -10,5 +10,5 @@ def test_subtitle_download_from_url_success():
 
 def test_subtitle_download_from_url_failure():
     srt_name = SubtitleDownloader()\
-        .download_subtitle_in_srt_from_movie_name('the godfather 1972')
+        .download_subtitle_in_srt_from_movie_name('the amazing spidermonster 1972')
     assert type(srt_name) is int
