@@ -74,7 +74,8 @@ class SubtitleDownloader(object):
 
             links = [l for l in re.findall(regex, xml) if len(l) > 25]
 
-            download_link = cls.fetch_download_url_from_html(hdr=hdr, links=links)
+            download_link = cls.fetch_download_url_from_html(hdr=hdr,
+                                                             links=links)
 
             zip_name = cls.__download_zipped_subtitle(url=download_link)
 
