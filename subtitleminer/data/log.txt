@@ -2615,3 +2615,6 @@
 04/12/2014  -  14:57:02    ::    fetch_download_url_from_html() takes exactly 4 arguments (3 given) Download error from :8 mile 2002
 04/12/2014  -  15:00:04    ::    fetch_download_url_from_html() takes exactly 4 arguments (3 given) Download error from :8 mile 2002
 04/12/2014  -  15:02:24    ::    fetch_download_url_from_html() takes exactly 4 arguments (3 given) Download error from :8 mile 2002
+04/12/2014  -  15:34:26    ::    list index out of range Download error from :the amazing                                                   spidermonster 1972
+04/12/2014  -  16:53:08    ::    list index out of range Download error from :the amazing                                                   spidermonster 1972
+04/12/2014  -  16:56:47    ::    list index out of range Download error from :the amazing                                                   spidermonster 1972
