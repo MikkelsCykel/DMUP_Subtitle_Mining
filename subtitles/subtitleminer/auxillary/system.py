@@ -5,7 +5,7 @@ import re
 
 
 class System:
-    
+
     def generate_unique_set_from_list(self, list=[]):
         """
         fast method for creating a unique set.

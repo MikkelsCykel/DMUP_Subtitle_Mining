@@ -16,7 +16,7 @@ class SubtitleDownloader(object):
     log = Log()
 
     @classmethod
-    def fetch_download_url_from_html(cls, hdr, links, returnName):
+    def fetch_download_url_from_html(cls, hdr, links):
         """
         Method for fetching the specific download URL of the resource
         from the search results.
@@ -74,9 +74,7 @@ class SubtitleDownloader(object):
 
             links = [l for l in re.findall(regex, xml) if len(l) > 25]
 
-            download_link = cls.fetch_download_url_from_html(hdr, links)
-
-            download_link = cls.fetch_download_url_from_html(hdr, links)
+            download_link = cls.fetch_download_url_from_html(hdr=hdr, links=links)
 
             zip_name = cls.__download_zipped_subtitle(url=download_link)
 
