@@ -9,7 +9,10 @@ class DB:
     # Create and connect to Database
     def __init__(self, db_file="data/imdb.db"):
         """
+        Initiation function of the database object.
+        Takes a path to a db file, and if it does not exist, create it and initialize database default data.
 
+        :param db_file: path to the database file.
         :rtype : object
         """
         database_already_exists = os.path.exists(db_file)
@@ -20,9 +23,10 @@ class DB:
 
     def select(self, sql):
         """
+        Method for selecting from the database.
 
-        :param sql:
-        :return:
+        :param sql: SQL query as string
+        :return: data from db as list
         """
         try:
             cursor = self.db.cursor()
@@ -31,14 +35,15 @@ class DB:
             cursor.close()
             return records
         except Exception as e:
-            self.log.writeToLog(message=e, where="DB -> SELECT  " + sql)
+            self.log.write_to_log(message=e, where="DB -> SELECT  " + sql)
             return e
 
     def insert(self, sql):
         """
+        Method for inserting into the sqlite db
 
-        :param sql:
-        :return:
+        :param sql: SQL query as string
+        :return: nothing
         """
         try:
             last_insert_id = 0
@@ -49,14 +54,15 @@ class DB:
             cursor.close()
             return last_insert_id
         except Exception as e:
-            self.log.writeToLog(message=e, where=("DB -> INSERT : " + sql))
+            self.log.write_to_log(message=e, where=("DB -> INSERT : " + sql))
             return e
 
     def execute(self, sql):
         """
+        Method for executing custom scripts in the sqlite db
 
-        :param sql:
-        :return:
+        :param sql: SQL query as string
+        :return: nothing
         """
         try:
             cursor = self.db.cursor()
@@ -64,14 +70,15 @@ class DB:
             self.db.commit()
             cursor.close()
         except Exception as e:
-            self.log.writeToLog(message=e, where="DB -> EXECUTE : " + sql)
+            self.log.write_to_log(message=e, where="DB -> EXECUTE : " + sql)
             return e
 
     def executescript(self, sql):
         """
+        Method for executing script in the sqlite db. Supports multiple scripts in one.
 
-        :param sql:
-        :return:
+        :param sql: SQL query as string
+        :return: nothing
         """
         try:
             cursor = self.db.cursor()
@@ -79,18 +86,16 @@ class DB:
             self.db.commit()
             cursor.close()
         except Exception as e:
-            self.log.writeToLog(message=e,
+            self.log.write_to_log(message=e,
                                 where="DB -> EXECUTESCRIPT : " + sql)
             return e
 
-    #
-    # Initial setup of the database.
-    # Only to be performed at start or after database wipe.
-    #
+
     def setupDefaultData(self):
 
-        # CREATE database tables on startup
         """
+        Method for initializing the database upon creation
+        Creates movie table
 
         :rtype : object
         """
