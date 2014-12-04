@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import re
 from nltk.corpus import stopwords
 
@@ -11,6 +12,10 @@ Exampels:
 >>> print s[8950]
 And I will strike down upon thee with great vengeance and furious anger...
 
+>>> x = SubtitleInIntervals(stamped_srt = s,
+                            interval_sec = 180,
+                            remove_stop_words=True)
+>>> s
 """
 
 

@@ -2603,3 +2603,4 @@
 25/11/2014  -  22:18:19    ::    File is not a zip file      extract zipped error from :../data/subtitles/54DC88FD08F85FB.zip
 25/11/2014  -  22:20:29    ::    File is not a zip file      extract zipped error from :../data/subtitles/427656E9CB4E0F7.zip
 25/11/2014  -  22:22:40    ::    File is not a zip file      extract zipped error from :../data/subtitles/7CC61F01BEAD645.zip
+03/12/2014  -  20:09:54    ::    fetch_download_url_from_html() takes exactly 4 arguments (3 given) Download error from :godfather 1972

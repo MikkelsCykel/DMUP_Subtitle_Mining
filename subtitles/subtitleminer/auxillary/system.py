@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from subtitleminer.auxillary import Log
 import string
 import random

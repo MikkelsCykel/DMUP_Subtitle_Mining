@@ -1,0 +1,32 @@
+#!/Users/Mik/Desktop/pproject/subtitles/venv/bin/python
+"""
+Subtitle analysis tool
+
+Usage: srtsentiment <path>
+       srtsentiment --version
+       srtsentiment (-h | --help)
+
+"""
+
+import sys
+
+from docopt import docopt
+
+from subtitleminer import StampedSrt, SubtitleInIntervals,\
+    ValenceArouselDominance
+
+
+
+if __name__ == '__main__':
+    args = docopt(__doc__)
+    try:
+        x = StampedSrt(path=args['<path>'], remove_symbols=True)
+        y = SubtitleInIntervals(stamped_srt=x, interval_sec=180,
+                                remove_stop_words=True)
+        v = ValenceArouselDominance()
+        z = v.compute_vad_intervals(text_intervals=y)
+        q = v.mean_data(z)
+        print q
+    except ValueError as e:
+        sys.exit(e)
+

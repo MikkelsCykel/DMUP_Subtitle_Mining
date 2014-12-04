@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from subtitleminer import WarrinerRatings
 from nltk.stem.wordnet import WordNetLemmatizer
 

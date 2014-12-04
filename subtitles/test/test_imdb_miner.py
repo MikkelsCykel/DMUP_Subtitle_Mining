@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from subtitleminer import ImdbMiner
 
 """test data Pulp Fiction comes with the package"""

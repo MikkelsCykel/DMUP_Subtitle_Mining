@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from subtitleminer.auxillary import DB, Log, System
 import urllib2
 from time import sleep
@@ -84,7 +85,7 @@ class SubtitleDownloader(object):
 
         try:
             # generate a random name for each to avoid race conditions
-            name = '../data/subtitles/%s.zip'\
+            name = 'data/subtitles/%s.zip'\
                    % (cls.system.generateRandomAlphanumericString(length=15))
             # fetch zip and save to file
             r = requests.get(url)
@@ -108,7 +109,7 @@ class SubtitleDownloader(object):
             # escape filename in order to insert into DB later
             # srt_name_escaped =
             # cls.system.remove_illegal_search_chars(srt_name)
-            zip_file.extract(srt_name, path="../data/subtitles/")
+            zip_file.extract(srt_name, path="data/subtitles/")
             binaries.close()
             # rename file to fit DB insert name
             # os.rename(srt_name, srt_name_escaped)

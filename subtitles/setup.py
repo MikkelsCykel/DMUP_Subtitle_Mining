@@ -21,7 +21,7 @@ class ToxTestCommand(TestCommand):
 
 
 setup(
-    name='Subtitle Miner',
+    name='subtitleminer',
     version='0.1.0',
     author='Andreas Piculell, Mikkel Rømer',
     author_email='andreaspiculell@gmail.com, mikkeloleromer@gmail.com',
@@ -29,13 +29,13 @@ setup(
     license='MIT',
     keywords='subtitle mining sentiment analyser',
     url='git@github.com:MikkelsCykel/DMUP_Subtitle_Mining.git',
-    py_modules=['sentiment'],
+    py_modules=['subtitleminer'],
     long_description=open('README.rst').read(),
     install_requires=['docopt>=0.6.0,<0.7.0', 'requests', 'BeautifulSoup',
                       'nltk'],
     cmdclass={'test': ToxTestCommand},
     tests_require=['tox'],
-    scripts=['bin/sent'],
+    scripts=['bin/srtsentiment'],
     classifiers=[
         'Programming Language :: Python :: 2.7',
         'License :: OSI Approved :: MIT License'

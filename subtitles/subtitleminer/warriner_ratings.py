@@ -1,9 +1,14 @@
+# -*- coding: utf-8 -*-
 import csv
 
 """
 This class is providing the Warriner Rankings of almost 14.000 english words.
-for further information please check, the authors documentation available at:
+for further information on the datafile,
+please check the authors documentation available at:
 http://crr.ugent.be/papers/Warriner_et_al_affective_ratings.pdf
+
+Questions regarding this code must be directed at Mikkel Ole Rømer or
+Andreas Piculell
 
 Exampels:
 ---------
@@ -18,10 +23,13 @@ Exampels:
 
 
 class WarrinerRatings(dict):
-    """Warriner Ratings"""
+    """Warriner Ratings Dictionary"""
 
     def __new__(cls):
-        """Constructs a new dictionary containing words and their ratings"""
+        """
+        Constructs a new dictionary containing words as keys,
+        and their ratings as values.
+        """
 
         x = {}
         with open('data/Ratings_Warriner_et_al.csv') as file:
