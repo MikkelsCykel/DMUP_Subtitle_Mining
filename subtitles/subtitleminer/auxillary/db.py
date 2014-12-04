@@ -10,7 +10,8 @@ class DB:
     def __init__(self, db_file="data/imdb.db"):
         """
         Initiation function of the database object.
-        Takes a path to a db file, and if it does not exist, create it and initialize database default data.
+        Takes a path to a db file, and if it does not exist,
+        create it and initialize database default data.
 
         :param db_file: path to the database file.
         :rtype : object
@@ -75,7 +76,8 @@ class DB:
 
     def executescript(self, sql):
         """
-        Method for executing script in the sqlite db. Supports multiple scripts in one.
+        Method for executing script in the sqlite db.
+        Supports multiple scripts in one.
 
         :param sql: SQL query as string
         :return: nothing
@@ -87,9 +89,8 @@ class DB:
             cursor.close()
         except Exception as e:
             self.log.write_to_log(message=e,
-                                where="DB -> EXECUTESCRIPT : " + sql)
+                                  where="DB -> EXECUTESCRIPT : " + sql)
             return e
-
 
     def setupDefaultData(self):
 

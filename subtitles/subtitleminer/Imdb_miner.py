@@ -67,7 +67,9 @@ class ImdbMiner:
     def fetch_imdb_info(self, id="", title=""):
 
         """
-        Method for fetching movie info either IMDB UID or movie title. Favours UID if set.
+        Method for fetching movie info either IMDB UID or movie title.
+
+        Favours UID if set.
         returns 0 if API error if thrown
 
         :param id: IMDB UID of movie as string
@@ -131,12 +133,16 @@ class ImdbMiner:
                 info['Metascore'], info['Poster'])
         self.db.insert(sql=sql)
 
-    def select_imdb_info_from_db(self, onlySubtitle=False, onlyWithoutSubtitle=False, offset=0):
+    def select_imdb_info_from_db(self, onlySubtitle=False,
+                                 onlyWithoutSubtitle=False, offset=0):
         """
-        Method for fetching data from imdb using predefined queries. Used for mining over multiple runs
+        Method for fetching data from imdb using predefined queries.
+        Used for mining over multiple runs
 
-        :param onlySubtitle: Boolean value specifying whether to fetch only rows that has subtitle downloaded
-        :param onlyWithoutSubtitle: Boolean value specifying whether to fetch only rows has no subtitle downloaded
+        :param onlySubtitle: Boolean value specifying whether to fetch
+        only rows that has subtitle downloaded
+        :param onlyWithoutSubtitle: Boolean value specifying whether to fetch
+        only rows has no subtitle downloaded
         :param offset: offset in database rows
         :rtype : object passes on the database function select.
         """
@@ -156,7 +162,8 @@ class ImdbMiner:
 
     def assign_subtitle_name_to_movie(self, subtitle_name, imdb_id):
         """
-        Method for assigning the subtitle file name to a UID in the db after download
+        Method for assigning the subtitle file name to a UID in the db after
+        download
 
         :param subtitle_name: name of the downloaded subtitle file
         :param imdb_id: UID of movie from IMDB

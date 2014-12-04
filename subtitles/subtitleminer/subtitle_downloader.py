@@ -18,7 +18,8 @@ class SubtitleDownloader(object):
     @classmethod
     def fetch_download_url_from_html(cls, hdr, links, returnName):
         """
-        Method for fetching the specific download URL of the resource from the search results.
+        Method for fetching the specific download URL of the resource
+        from the search results.
 
         :param hdr: headers must be set to access API
         :param links: list of links in html
@@ -28,6 +29,7 @@ class SubtitleDownloader(object):
         req2 = urllib2.Request(links[0], headers=hdr)
         html = urllib2.urlopen(req2).read()
         soup = BeautifulSoup(html)
+
         # Find download link in html using the soup
         download_link = soup.find(
             'table',
@@ -41,7 +43,8 @@ class SubtitleDownloader(object):
     def download_subtitle_in_srt_from_movie_name(cls, name):
 
         """
-        Method to download a subtitle for a movies, and return the name of the downloaded subtitle.
+        Method to download a subtitle for a movies, and return the name
+        of the downloaded subtitle.
         Rasies an exception and returns 0 if failed.
         Generates complete search string internally.
 
@@ -82,7 +85,9 @@ class SubtitleDownloader(object):
             return srt_name
 
         except Exception as e:
-            cls.log.write_to_log(message=e, where="Download error from :" + name)
+            print e
+            cls.log.write_to_log(message=e,
+                                 where="Download error from :" + name)
             return 0
 
     @classmethod
@@ -93,20 +98,22 @@ class SubtitleDownloader(object):
         Downloads by writing to zip.
 
         :param url: direct url to the specific resource.
-        :rtype : object returns string with the UID the zip is given to prevent race conditions
+        :rtype : object returns string with the UID the zip is given
+        to prevent race conditions
         """
         try:
             # generate a random name for each to avoid race conditions
             name = 'data/subtitles/%s.zip'\
-                   % (cls.system.generate_random_alphanumeric_string(length=15))
+                   % (cls.system
+                       .generate_random_alphanumeric_string(length=15))
             # fetch zip and save to file
             r = requests.get(url)
             with open(name, "wb") as code:
                 code.write(r.content)
             return name
         except Exception as e:
-            cls.log.write_to_log(message=e, where="Download zipped error from :"
-                                                + url)
+            cls.log.write_to_log(message=e,
+                                 where="Download zipped error from :" + url)
             return 0
 
     @classmethod
@@ -134,7 +141,8 @@ class SubtitleDownloader(object):
             os.remove(file_name)
             return srt_name
         except Exception as e:
-            cls.log.write_to_log(message=e, where="extract zipped error from :"
-                                                + file_name)
+            cls.log.write_to_log(message=e,
+                                 where="extract zipped error from :"
+                                 + file_name)
             sleep(120)
             return 0
