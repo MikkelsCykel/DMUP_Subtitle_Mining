@@ -15,7 +15,8 @@ And I will strike down upon thee with great vengeance and furious anger...
 >>> x = SubtitleInIntervals(stamped_srt = s,
                             interval_sec = 180,
                             remove_stop_words=True)
->>> s
+>>> print x[0][:5]
+['forget', 'it.', "it's", 'risky.', "i'm"]
 """
 
 
@@ -26,6 +27,11 @@ class StampedSrt(dict):
         """
         Constructs a new dictionary containing lines spoken,
         keyed by timestamp in seconds
+
+        Params
+        ------
+        path           : path to subtitle
+        remove_symbols : should symbols be removed, default False
         """
         subtitle_result = cls.__load_subtitle(path=path)
         formatted_dict = cls.__format_subtitle_result(subtitle_result,
@@ -34,6 +40,7 @@ class StampedSrt(dict):
 
     @classmethod
     def __load_subtitle(cls, path):
+        """Loads the subtitle from specified path"""
         subtitle = ''
         with open(path) as subtitlefile:
             for r in subtitlefile:
@@ -42,6 +49,7 @@ class StampedSrt(dict):
 
     @classmethod
     def __format_subtitle_result(cls, srt, remove_symbols):
+        """This method formats the subtitle into a nice looking dictionary"""
         srt = srt.replace('\r', '').split('\n')
         result = {}
         d = 0
@@ -67,7 +75,13 @@ class StampedSrt(dict):
     @classmethod
     def __gen_stamp_from_srt_notation(cls, stamp, minutes_count,
                                       seconds_count, difference):
+        """
+        A subtitle has a timestamp of the following form:
+        00:01:17,911 --> 00:01:19,980
+        We want to convert this into a integer timestamp in seconds for this
+        example it would become 77
 
+        """
         regex = re.findall('([0-9]+):([0-9]+):([0-9]+)', stamp)
         out_stamp = int(regex[0][0] + regex[0][1] + regex[0][2])
 
@@ -88,8 +102,19 @@ class StampedSrt(dict):
 
 
 class SubtitleInIntervals(list):
-    """Provides a list of text from provided timeinterval in seconds"""
+    """Subtitle divided into time intervals"""
     def __new__(cls, stamped_srt, interval_sec, remove_stop_words=False):
+        """
+        Constructs a new list of lists.
+        A list i generated for each interval in the subtitle, consisting of the
+        words spoken whitin the given time interval.
+
+        Params
+        ------
+        stamped_srt      : a StampedSrt dictionary
+        interval_sec     : a timeinterval in seconds
+        remove_stop_words: should stopwords be removed? default False
+        """
         result = []
         swords = []
         if remove_stop_words:
