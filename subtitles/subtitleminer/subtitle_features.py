@@ -33,6 +33,11 @@ class StampedSrt(dict):
         path           : path to subtitle
         remove_symbols : should symbols be removed, default False
         """
+        if type(remove_symbols) != bool:
+            print ("remove_symbols is %s, expected bool. defaulting to False"
+                   % type(remove_symbols))
+            remove_symbols = False
+
         subtitle_result = cls.__load_subtitle(path=path)
         formatted_dict = cls.__format_subtitle_result(subtitle_result,
                                                       remove_symbols)
@@ -42,10 +47,13 @@ class StampedSrt(dict):
     def __load_subtitle(cls, path):
         """Loads the subtitle from specified path"""
         subtitle = ''
-        with open(path) as subtitlefile:
-            for r in subtitlefile:
-                subtitle += r
-        return subtitle
+        try:
+            with open(path) as subtitlefile:
+                for r in subtitlefile:
+                    subtitle += r
+            return subtitle
+        except IOError:
+            raise IOError('The subtitle file was not found in %s' % path)
 
     @classmethod
     def __format_subtitle_result(cls, srt, remove_symbols):
@@ -115,6 +123,24 @@ class SubtitleInIntervals(list):
         interval_sec     : a timeinterval in seconds
         remove_stop_words: should stopwords be removed? default False
         """
+
+        try:
+            assert type(stamped_srt) == dict
+        except AssertionError:
+            raise TypeError('stamped_srt is of %s, expected dict. \
+                values should be strings' % type(StampedSrt))
+
+        try:
+            assert type(interval_sec) == int
+        except AssertionError:
+            raise TypeError('interval_sec is of %s, expected int. \
+                value is a timeinterval in int' % type(StampedSrt))
+
+        if type(remove_stop_words) != bool:
+            print 'invalid %s for remove_stop_words defaulting to False'\
+                  % type(remove_stop_words)
+            remove_stop_words = False
+
         result = []
         swords = []
         if remove_stop_words:

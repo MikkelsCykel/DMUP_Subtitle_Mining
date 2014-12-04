@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from subtitleminer import StampedSrt, SubtitleInIntervals,\
     ValenceArouselDominance
+from pytest import raises
 
 """test data Pulp Fiction comes with the package"""
 
@@ -29,8 +30,14 @@ def test_ability_to_mean_data_in_each_interval():
     x = StampedSrt(path=pathname, remove_symbols=True)
     y = SubtitleInIntervals(stamped_srt=x, interval_sec=interval,
                             remove_stop_words=True)
-    vac = ValenceArouselDominance().compute_vad_intervals(text_intervals=y)
-    m_data = ValenceArouselDominance().mean_data(vac)
-    assert m_data[0:3] == [5.604148936170213,
-                           4.46659574468085,
-                           5.213723404255316]
+    vad = ValenceArouselDominance()
+    VAD = vad.compute_vad_intervals(text_intervals=y)
+    m_data = vad.mean_data(VAD)
+    t_mean = (sum(VAD[0][0]) / len(VAD[0][0]))
+    assert m_data[0][0] == t_mean
+
+
+def test_invalid_input_argument_text_intervals():
+    vad = ValenceArouselDominance()
+    with raises(TypeError):
+        vad.compute_vad_intervals(text_intervals=True)

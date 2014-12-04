@@ -1,6 +1,25 @@
 # -*- coding: utf-8 -*-
 from subtitleminer import WarrinerRatings
 from nltk.stem.wordnet import WordNetLemmatizer
+"""
+This collection provides features for extracting sentiment related features
+from the provided text.
+
+Example
+-------
+
+>>> from subtitleminer import StampedSrt, SubtitleInIntervals
+>>> s = StampedSrt('data/Pulp_Fiction.en.srt')
+>>> t = SubtitleInIntervals(s,180)
+>>> vad = ValenceArouselDominance()
+>>> VAD = vad.compute_vad_intervals(t)
+>>> print VAD[0][0][:5]
+(3.73, 5.91, 5.55, 6.82, 7.32)
+
+>>> m_data = vad.mean_data(VAD)
+print mean_data[0]
+[5.537391304347825, 4.271739130434786, 5.247934782608694]
+"""
 
 
 class ValenceArouselDominance(object):
@@ -31,6 +50,13 @@ class ValenceArouselDominance(object):
                          from if it were not found in it given form,
                          default False
         """
+
+        try:
+            assert type(text_intervals) == list
+        except AssertionError:
+            raise TypeError('text_intervals is of %s, expected list. \
+                A list of intervals containing text' % type(text_intervals))
+
         x = self.warriner_ratings
         self.lmtzr_fall_back = lmtzr_fall_back
         result = [zip(*[(float(x[self.word_in_warriner_rankings(w)][0]),
@@ -46,11 +72,11 @@ class ValenceArouselDominance(object):
         its found form. Ie. if lmtzr_fall_back is True it will return the words
         stemmed version. Returns False otherwise.
         """
-        if word in self.known_words():
+        if word in self.known_words:
             return word
         if self.lmtzr_fall_back:
             word = self.lmtzr.lemmatize(word)
-            if self.lmtzr.lemmatize(word) in self.known_words():
+            if self.lmtzr.lemmatize(word) in self.known_words:
                 return word
         return False
 
