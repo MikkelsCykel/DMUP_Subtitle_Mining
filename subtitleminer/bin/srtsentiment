@@ -14,13 +14,15 @@ from pylab import *
 from docopt import docopt
 
 from subtitleminer import StampedSrt, SubtitleInIntervals,\
-    ValenceArouselDominance
+    ValenceArouselDominance, ImdbMiner
 
 
 
 if __name__ == '__main__':
     args = docopt(__doc__)
     try:
+        path = ImdbMiner().get_subtitle_name_from_title(title=args['<title>']);
+
         x = StampedSrt(path=args['<path>'], remove_symbols=True)
         y = SubtitleInIntervals(stamped_srt=x,
                                 interval_sec=int(args['<interval>']),

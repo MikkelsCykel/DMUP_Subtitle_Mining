@@ -37,7 +37,7 @@ class DB:
             return records
         except Exception as e:
             self.log.write_to_log(message=e, where="DB -> SELECT  " + sql)
-            return e
+            return 0
 
     def insert(self, sql):
         """
