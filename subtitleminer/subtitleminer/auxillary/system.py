@@ -21,15 +21,17 @@ class System:
 
     def generate_subtitle_url_from_movie_name(self, name):
         """
-        Method for generating the specific string used for search for subtitles to a movie at submax.com
-        Filters out non-ascii chars and joins name and year with "-en" before concatenating with base_url
+        Method for generating the specific string used for search
+        for subtitles to a movie at submax.com
+        Filters out non-ascii chars and joins name and year with "-en"
+        before concatenating with base_url
 
         :param name : name (and year) of movie in one string
         :rtype : object
         :return: concatenated string
         """
         base_url = 'http://subsmax.com/api/10/%s'
-        filteredName = self.remove_non_ascii_chars(string=name)
+        filteredName = self.remove_non_ascii_chars(st=name)
         try:
             url = ('-'.join([str(x) for x in string.split(filteredName.lower(),
                                                           " ")]) + '-en')
@@ -49,19 +51,21 @@ class System:
         return ''.join(random.choice('0123456789ABCDEF')
                        for i in range(length))
 
-    def remove_non_ascii_chars(self, string):
+    def remove_non_ascii_chars(self, st):
         """
-        Method for removing non-ascii char that mess up certain functions using lambda expression.
+        Method for removing non-ascii char that mess up certain
+        functions using lambda expression.
 
         :param string : the string to be cleared
         :rtype : object
         :return : ascii string
         """
-        return filter(lambda y: y in string.printable, string)
+        return filter(lambda y: y in string.printable, st)
 
     def remove_illegal_search_chars(self, txt):
         """
-        Method for removing illegal chars for searcing like single and double quotes
+        Method for removing illegal chars for searcing
+        like single and double quotes
 
         :param txt: String to be escaped
         :rtype : object

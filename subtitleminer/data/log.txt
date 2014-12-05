@@ -2619,3 +2619,9 @@
 04/12/2014  -  16:53:08    ::    list index out of range Download error from :the amazing                                                   spidermonster 1972
 04/12/2014  -  16:56:47    ::    list index out of range Download error from :the amazing                                                   spidermonster 1972
 04/12/2014  -  17:44:36    ::    list index out of range Download error from :the amazing                                                   spidermonster 1972
+05/12/2014  -  18:09:58    ::    list index out of range Download error from :pulb fiction
+05/12/2014  -  18:12:33    ::    list index out of range extract zipped error from :data/subtitles/CCCE296BC1D4B1C.zip
+05/12/2014  -  18:13:27    ::    list index out of range extract zipped error from :data/subtitles/E7671F2DE41AC65.zip
+05/12/2014  -  18:15:56    ::    list index out of range Download error from :the amazing                                                   spidermonster 1972
+05/12/2014  -  18:15:56    ::    list index out of range Download error from :the amazing         spidermonster 1972
+05/12/2014  -  18:18:02    ::    list index out of range Download error from :the amazing                                                   spidermonster 1972

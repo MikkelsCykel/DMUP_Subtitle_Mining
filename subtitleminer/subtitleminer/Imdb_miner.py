@@ -4,7 +4,8 @@ import re
 import json
 from BeautifulSoup import BeautifulSoup
 from subtitleminer.auxillary import DB, Log, System
-from subtitleminer import subtitle_downloader.SubtitleDownloader
+from subtitleminer import SubtitleDownloader
+
 
 class ImdbMiner:
     def __init__(self):
@@ -175,25 +176,24 @@ class ImdbMiner:
         """ % (subtitle_name, imdb_id)
         self.db.execute(sql=sql)
 
-   def get_subtitle_name_from_title(self, id=""):
+    def get_subtitle_name_from_title(self, title):
         subtitleDownloader = SubtitleDownloader()
+        subtitle_name = ""
 
-        sql = "SELECT subtitle_name FROM movies WHERE imdb_movie_id = '{0:s}' LIMIT 1 ".format(id)
+        sql = "SELECT subtitle_name \
+               FROM movies \
+               WHERE imdb_movie_id = '{0:s}' \
+               LIMIT 1 ".format(title)
 
         result = self.db.select(sql=sql)
 
-        if (result == 0):
-            info = self.fetchImdbInfo(id=id)
-            name = self.system.remove_non_ascii_chars(name="Jurassic Park 1993")
-            subtitle_name = subtitleDownloader.download_subtitle_in_srt_from_movie_name(name=name)
-
+        if not result:
+            name = self.system.remove_non_ascii_chars(st=title)
+            subtitle_name = subtitleDownloader\
+                .download_subtitle_in_srt_from_movie_name(name=name)
             if (subtitle_name == 0):
                 return 0
 
-
         for movie in result:
             subtitle_name = movie[0]
-
-        print subtitle_name
-
-
+        return 'data/subtitles/' + subtitle_name

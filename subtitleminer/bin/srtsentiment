@@ -2,7 +2,7 @@
 """
 Subtitle analysis tool
 
-Usage: srtsentiment <path> <interval>
+Usage: srtsentiment <title> <interval>
        srtsentiment --version
        srtsentiment (-h | --help)
 
@@ -23,7 +23,7 @@ if __name__ == '__main__':
     try:
         path = ImdbMiner().get_subtitle_name_from_title(title=args['<title>']);
 
-        x = StampedSrt(path=args['<path>'], remove_symbols=True)
+        x = StampedSrt(path=path, remove_symbols=True)
         y = SubtitleInIntervals(stamped_srt=x,
                                 interval_sec=int(args['<interval>']),
                                 remove_stop_words=True)
