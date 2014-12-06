@@ -32,12 +32,15 @@ Module usage
 	>>> from subtitleminer import SubtitleDownloader
 	>>> from subtitleminer.auxillary import DB, Log, System
 
-	>>> a_formattet_srt = StampedSrt(path='data/Pulp_Fiction.en.srt', remove_symbols=True)
+	>>> search_movie = 'Pulp Fiction'
+
+	>>> path = ImdbMiner().get_subtitle_name_from_title(title=search_movie)
+
+	>>> a_formattet_srt = StampedSrt(path=path, remove_symbols=True)
 
 	>>> devided_srt = SubtitleInIntervals(stamped_srt=a_formattet_srt, interval_sec=240, remove_stop_words=True)
 
-	>>> computed_vad = vad().compute_vad_intervals(text_intervals=devided_srt,
-												   lmtzr_fall_back=True)
+	>>> computed_vad = vad().compute_vad_intervals(text_intervals=devided_srt, lmtzr_fall_back=True)
 
 	>>> mean_vad_data = vad().mean_data(vad=computed_vad)
 	>>> figure(1)
