@@ -53,3 +53,20 @@ Module usage
 	>>> ylim([0,10])
 	>>> legend(['Valence,','V.Mean', 'Arousal','A.Mean', 'Dominance','D.mean'])
 	>>> show()
+
+
+
+
+Creating an IMDB local database
+==============================
+
+.. code:: Python
+
+	>>> from subtitleminer import ImdbMiner
+	# fetch 10000 film from IMDB. Best films from 1974-2014
+	>>> movies = ImdbMiner().fetch_imdb_releases(range=100) # fetches 100*range up to 10000.
+	
+	>>> for i in xrange(0, movies):
+    		>>> imdbInfo = miner.fetch_imdb_info(id=info[i])
+    		>>> miner.insert_imdb_info_into_db(info=imdbInfo)
+	
