@@ -29,7 +29,7 @@ class ImdbMiner:
             except Exception:
                 continue
 
-        print info
+        return info
 
     def fetch_imdb_releases(self, range=100):
 

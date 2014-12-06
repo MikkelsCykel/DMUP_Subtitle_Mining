@@ -7,14 +7,24 @@ Installation
 
 .. code::
 
-    pip install subtitles
+    python setup.py install
 
 
 Usage
 -----
 
 
-.. code:: python
+.. code:: Terminal
 
-    >>> 2+2
-    4
+    $ srtsentiment 'Pulp Fiction' '200'
+
+    Provides a sentiment plot in three dimentions.
+
+.. code:: Python
+
+	>>> from subtitleminer import StampedSrt
+	>>> from subtitleminer import SubtitleInIntervals
+	>>> from subtitleminer import ValenceArouselDominance
+	>>> from subtitleminer import ImdbMiner
+	>>> from subtitleminer import SubtitleDownloader
+	>>> from subtitleminer.auxillary import DB, Log, System

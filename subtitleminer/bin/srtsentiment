@@ -21,14 +21,24 @@ from subtitleminer import StampedSrt, SubtitleInIntervals,\
 if __name__ == '__main__':
     args = docopt(__doc__)
     try:
+        print 'loading subtitle'
         path = ImdbMiner().get_subtitle_name_from_title(title=args['<title>']);
 
+        try:
+            assert type(path) == str
+        except AssertionError:
+            print "No subtitle found for /%"%args['<title>']
+
+        print 'formatting data file'
         x = StampedSrt(path=path, remove_symbols=True)
         y = SubtitleInIntervals(stamped_srt=x,
                                 interval_sec=int(args['<interval>']),
                                 remove_stop_words=True)
+        print 'calculating valence arousel and dominance'
         v = ValenceArouselDominance()
         z = v.compute_vad_intervals(text_intervals=y)
+
+        print 'preparring result'
         q = v.mean_data(z)
         a = [i[0] if len(i) > 0 else 0 for i in q]
         b = [i[1] if len(i) > 0 else 0 for i in q]
@@ -43,9 +53,8 @@ if __name__ == '__main__':
 
         plot(range(0,len(c)), c, 'g')
         plot([0,len(c)],[5.18,5.18], 'g--')
-
+        ylim([0,10])
         legend(['Valence,','V.Mean', 'Arousal','A.Mean', 'Dominance','D.mean'])
-        tight_layout()
         show()
     except ValueError as e:
         sys.exit(e)

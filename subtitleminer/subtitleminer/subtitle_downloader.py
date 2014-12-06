@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 from subtitleminer.auxillary import DB, Log, System
 import urllib2
-from time import sleep
 import re
 import requests
 import zipfile
@@ -53,7 +52,6 @@ class SubtitleDownloader(object):
         :rtype : object
         """
         url = cls.system.generate_subtitle_url_from_movie_name(name=name)
-        print url
         hdr = {
             'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64)'
                           'AppleWebKit/537.11 (KHTML, like Gecko)'
@@ -143,5 +141,4 @@ class SubtitleDownloader(object):
             cls.log.write_to_log(message=e,
                                  where="extract zipped error from :"
                                  + file_name)
-            sleep(120)
             return 0
