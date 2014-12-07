@@ -66,7 +66,18 @@ Creating an IMDB local database
 	# fetch 10000 film from IMDB. Best films from 1974-2014
 	>>> movies = ImdbMiner().fetch_imdb_releases(range=100) # fetches 100*range up to 10000.
 	
-	>>> for i in xrange(0, movies):
-    		>>> imdbInfo = miner.fetch_imdb_info(id=info[i])
+	>>> for movie_id in movies:
+    		>>> imdbInfo = miner.fetch_imdb_info(id=movie_id)
     		>>> miner.insert_imdb_info_into_db(info=imdbInfo)
 	
+Fetching subtitles
+==============================
+
+.. code:: Python
+
+	>>> from subtitleminer import SubtitleDownloader
+	# Download movie based on name and possibly year
+	>>> movie_name = 'Pulp Fiction' # could be "the godfather 1972"
+	# file is downloaded and the name of the file is returned. If fail returns 0
+	>>> srt_prefix_file_name = SubtitleDownloader.download_subtitle_in_srt_from_movie_name(name=name)
+
